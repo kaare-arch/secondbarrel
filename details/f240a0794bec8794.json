@@ -1,0 +1,39 @@
+{
+ "id": "huntershouse.dk/kat120-detaljer/side697-remington-m.700-sendero.html",
+ "detail_id": "f240a0794bec8794",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat120-Detaljer/side697-Remington-M.700-Sendero.html",
+ "title": "Remington 700 Sendero .223 Rem.",
+ "price_dkk": 12900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side697-remington-m.700-sendero.html/0.webp",
+ "image_count": 2,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Kal. .223 Rem. Incl.udstyr Remington riffel til fin- eller benchrestskytten. Rustfri, fluted pibe …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side697-remington-m.700-sendero.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side697-remington-m.700-sendero.html/0.webp",
+   "width": 280,
+   "height": 1338
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side697-remington-m.700-sendero.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side697-remington-m.700-sendero.html/1.webp",
+   "width": 600,
+   "height": 115
+  }
+ ]
+}

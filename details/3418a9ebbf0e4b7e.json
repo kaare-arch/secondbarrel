@@ -1,0 +1,51 @@
+{
+ "id": "96193838-249a-4907-9bd4-942b2ee2edac",
+ "detail_id": "3418a9ebbf0e4b7e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/96193838-249a-4907-9bd4-942b2ee2edac/armas-ego-12-70",
+ "title": "Armas EGO 12/70",
+ "price_dkk": 6500,
+ "weapon_type": "Haglgevær",
+ "brand": "Armas EGO",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-11-15",
+ "age_days": 309,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/96193838-249a-4907-9bd4-942b2ee2edac/0.webp",
+ "image_count": 4,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Spansk kvalitets bøsse med aftagelige siddeplader.  Kortløbet skovbøsse med sidelås og ejektor. Kuffert medfølger \n\n8660 Skanderborg",
+ "images": [
+  {
+   "full": "/images/96193838-249a-4907-9bd4-942b2ee2edac/0.webp",
+   "thumb": "/thumbs/96193838-249a-4907-9bd4-942b2ee2edac/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96193838-249a-4907-9bd4-942b2ee2edac/1.webp",
+   "thumb": "/thumbs/96193838-249a-4907-9bd4-942b2ee2edac/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96193838-249a-4907-9bd4-942b2ee2edac/2.webp",
+   "thumb": "/thumbs/96193838-249a-4907-9bd4-942b2ee2edac/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96193838-249a-4907-9bd4-942b2ee2edac/3.webp",
+   "thumb": "/thumbs/96193838-249a-4907-9bd4-942b2ee2edac/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

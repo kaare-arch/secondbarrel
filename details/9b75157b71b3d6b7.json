@@ -1,0 +1,43 @@
+{
+ "id": "jjsu.dk/shop/sig-sauer-516-sport-cqb",
+ "detail_id": "9b75157b71b3d6b7",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/sig-sauer-516-sport-cqb/",
+ "title": "Sig Sauer 516 Sport CQB",
+ "price_dkk": 12499,
+ "weapon_type": "Jagtriffel",
+ "brand": "SIG Sauer",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-516-sport-cqb/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Sig Sauer 516 Sport CQB Tilstand: Brugt (Skudt Ca. 200 skud) Kaliber: 223Rem (5,56mm) Totallængde: 67,50 / 76,00cm Løbslængde: 28,00cm Vægt: Ca. 3500g System: ½ auto (Kan ændres til repeter, således den kan registreres på riffeltilladelse ved politiet) Obs! Sælges som ½ auto kun til eksport eller anden forhandlertilladelse.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-516-sport-cqb/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-516-sport-cqb/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-516-sport-cqb/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-516-sport-cqb/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-516-sport-cqb/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-516-sport-cqb/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

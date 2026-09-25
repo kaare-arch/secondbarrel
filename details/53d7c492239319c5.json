@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/browning-b725-protrap-12-70",
+ "detail_id": "53d7c492239319c5",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/browning-b725-protrap-12-70/",
+ "title": "Browning B725 ProTrap, 12-70",
+ "price_dkk": 24995,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-protrap-12-70/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Browning B725 ProTrapBrugt Browning B725 ProTrap i kaliber 12-70. Dette over/under haglgevær har 81 cm løb, 8 mobile chokes og trap-forskæfte. Geværet er forsynet med ejektor. Derudover har denne B725 ProTrap justerbar kolbe, så den kan tilpasses til dig. Original kuffert medfølger.",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-protrap-12-70/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-protrap-12-70/0.webp",
+   "width": 1024,
+   "height": 183
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-protrap-12-70/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-protrap-12-70/1.webp",
+   "width": 1024,
+   "height": 519
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-protrap-12-70/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-protrap-12-70/2.webp",
+   "width": 1024,
+   "height": 531
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-protrap-12-70/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-protrap-12-70/3.webp",
+   "width": 1024,
+   "height": 269
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-protrap-12-70/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-protrap-12-70/4.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-protrap-12-70/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-protrap-12-70/5.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

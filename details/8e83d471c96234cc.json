@@ -1,0 +1,39 @@
+{
+ "id": "huntershouse.dk/kat120-detaljer/side11094-alpine-firearms-england-.243-win.html",
+ "detail_id": "8e83d471c96234cc",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat120-Detaljer/side11094-Alpine-Firearms-England-.243-Win.html",
+ "title": "Alpine Firearms England .243 Win.",
+ "price_dkk": 4980,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11094-alpine-firearms-england-.243-win.html/0.webp",
+ "image_count": 2,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Alpine Firearms England .243Win. Totallængde: 112,5 cm. Pibelængde: 58 cm. Skæfte i lakeret valnød …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side11094-alpine-firearms-england-.243-win.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11094-alpine-firearms-england-.243-win.html/0.webp",
+   "width": 190,
+   "height": 188
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side11094-alpine-firearms-england-.243-win.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11094-alpine-firearms-england-.243-win.html/1.webp",
+   "width": 280,
+   "height": 1252
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "jjsu.dk/shop/savage-110e--cal-3006",
+ "detail_id": "934554f28f7d6016",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/savage-110e--cal-3006/",
+ "title": "Savage 110E m.sigtekikkert - Cal. 30-06",
+ "price_dkk": 4999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/savage-110e--cal-3006/0.webp",
+ "image_count": 5,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Savage 110-E Tilstand: Brugt Kaliber: 30.06 System: Repeter Totallængde: Pibelængde: Indvendigt magasin",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/savage-110e--cal-3006/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/savage-110e--cal-3006/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/savage-110e--cal-3006/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/savage-110e--cal-3006/1.webp",
+   "width": 540,
+   "height": 245
+  },
+  {
+   "full": "/images/jjsu.dk/shop/savage-110e--cal-3006/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/savage-110e--cal-3006/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/savage-110e--cal-3006/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/savage-110e--cal-3006/3.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/savage-110e--cal-3006/4.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/savage-110e--cal-3006/4.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

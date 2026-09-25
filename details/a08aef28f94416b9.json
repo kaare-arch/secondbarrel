@@ -1,0 +1,57 @@
+{
+ "id": "0568db69-3095-433f-8a87-5708d3900fbe",
+ "detail_id": "a08aef28f94416b9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0568db69-3095-433f-8a87-5708d3900fbe/winchester-wildcat-strata",
+ "title": "Winchester Wildcat Strata",
+ "price_dkk": 3799,
+ "weapon_type": "Salonriffel",
+ "brand": "Winchester",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-09-04",
+ "age_days": 16,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/0568db69-3095-433f-8a87-5708d3900fbe/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Winchester Wildcat Strata\nHalvautomatisk. \n\nKaliber 22LR.\n\nMed aftageligt magasin og gevind til lyddæmper. \n\nStrata skæfte. \n\nSkudt ganske få skud. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/0568db69-3095-433f-8a87-5708d3900fbe/0.webp",
+   "thumb": "/thumbs/0568db69-3095-433f-8a87-5708d3900fbe/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0568db69-3095-433f-8a87-5708d3900fbe/1.webp",
+   "thumb": "/thumbs/0568db69-3095-433f-8a87-5708d3900fbe/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0568db69-3095-433f-8a87-5708d3900fbe/2.webp",
+   "thumb": "/thumbs/0568db69-3095-433f-8a87-5708d3900fbe/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0568db69-3095-433f-8a87-5708d3900fbe/3.webp",
+   "thumb": "/thumbs/0568db69-3095-433f-8a87-5708d3900fbe/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0568db69-3095-433f-8a87-5708d3900fbe/4.webp",
+   "thumb": "/thumbs/0568db69-3095-433f-8a87-5708d3900fbe/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

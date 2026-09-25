@@ -1,0 +1,73 @@
+{
+ "id": "mbjagt.dk/shop/rossler-titan-6-270w",
+ "detail_id": "6ebc6398b428adfd",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/rossler-titan-6-270w/",
+ "title": "Rössler Titan 6, 270W",
+ "price_dkk": 9998,
+ "weapon_type": "Jagtriffel",
+ "brand": "Rössler",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/0.webp",
+ "image_count": 8,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Rössler Titan 6, kaliber 270W",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/0.webp",
+   "width": 1024,
+   "height": 234
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/1.webp",
+   "width": 1024,
+   "height": 621
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/2.webp",
+   "width": 1024,
+   "height": 647
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/3.webp",
+   "width": 1024,
+   "height": 342
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/4.webp",
+   "width": 1024,
+   "height": 573
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/5.webp",
+   "width": 1024,
+   "height": 588
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/6.webp",
+   "width": 1024,
+   "height": 441
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/rossler-titan-6-270w/7.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/rossler-titan-6-270w/7.webp",
+   "width": 1024,
+   "height": 587
+  }
+ ]
+}

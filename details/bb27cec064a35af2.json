@@ -1,0 +1,55 @@
+{
+ "id": "1cf58a71-4448-4f14-b00d-6de214a68ed0",
+ "detail_id": "bb27cec064a35af2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1cf58a71-4448-4f14-b00d-6de214a68ed0/jagtgevaer-halvautomatisk",
+ "title": "Jagtgevær halvautomatisk",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-08",
+ "age_days": 12,
+ "postnummer": "2620",
+ "by": "Albertslund",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/1cf58a71-4448-4f14-b00d-6de214a68ed0/0.webp",
+ "image_count": 5,
+ "lat": 55.6869516,
+ "lon": 12.34477556,
+ "description": "Typhoon k12 halvautomatisk jagtgevær sælges da jeg må indse at jeg ikke for det brugt, er som nyt. \nSælges kun ved fremvisning af jagttegn og omregistrering ved afhentning",
+ "images": [
+  {
+   "full": "/images/1cf58a71-4448-4f14-b00d-6de214a68ed0/0.webp",
+   "thumb": "/thumbs/1cf58a71-4448-4f14-b00d-6de214a68ed0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1cf58a71-4448-4f14-b00d-6de214a68ed0/1.webp",
+   "thumb": "/thumbs/1cf58a71-4448-4f14-b00d-6de214a68ed0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1cf58a71-4448-4f14-b00d-6de214a68ed0/2.webp",
+   "thumb": "/thumbs/1cf58a71-4448-4f14-b00d-6de214a68ed0/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1cf58a71-4448-4f14-b00d-6de214a68ed0/3.webp",
+   "thumb": "/thumbs/1cf58a71-4448-4f14-b00d-6de214a68ed0/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1cf58a71-4448-4f14-b00d-6de214a68ed0/4.webp",
+   "thumb": "/thumbs/1cf58a71-4448-4f14-b00d-6de214a68ed0/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

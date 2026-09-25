@@ -1,0 +1,67 @@
+{
+ "id": "f5fd686c-4df4-4288-81e8-db554b8df446",
+ "detail_id": "20018ff360863de9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f5fd686c-4df4-4288-81e8-db554b8df446/beretta-682-trap-solgt",
+ "title": "Beretta 682 Trap - Solgt.",
+ "price_dkk": 12800,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-04-14",
+ "age_days": 159,
+ "postnummer": "7171",
+ "by": "Uldum",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/0.webp",
+ "image_count": 7,
+ "lat": 55.8358153,
+ "lon": 9.59518771,
+ "description": "Beretta 682 m. fast boring 3/4 og fuld, 76 cm. løb, enkelt aftræk, ejektor, geværet er helt stram i låsen. fremstår som ny.",
+ "images": [
+  {
+   "full": "/images/f5fd686c-4df4-4288-81e8-db554b8df446/0.webp",
+   "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f5fd686c-4df4-4288-81e8-db554b8df446/1.webp",
+   "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f5fd686c-4df4-4288-81e8-db554b8df446/2.webp",
+   "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f5fd686c-4df4-4288-81e8-db554b8df446/3.webp",
+   "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f5fd686c-4df4-4288-81e8-db554b8df446/4.webp",
+   "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f5fd686c-4df4-4288-81e8-db554b8df446/5.webp",
+   "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f5fd686c-4df4-4288-81e8-db554b8df446/6.webp",
+   "thumb": "/thumbs/f5fd686c-4df4-4288-81e8-db554b8df446/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

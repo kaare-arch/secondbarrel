@@ -1,0 +1,45 @@
+{
+ "id": "huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html",
+ "detail_id": "eb7d56d015ea6778",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat1754-Dobbeltrifler/side22899-Merkel-DB-140EP-9,3x74R.html",
+ "title": "Merkel DB 140EP 9,3x74R 74.999,-",
+ "price_dkk": 49800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Merkel",
+ "calibers": [
+  "9,3x74R"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html/0.webp",
+ "image_count": 3,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html/0.webp",
+   "width": 600,
+   "height": 114
+  },
+  {
+   "full": "/images/huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html/1.webp",
+   "width": 600,
+   "height": 109
+  },
+  {
+   "full": "/images/huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html/2.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat1754-dobbeltrifler/side22899-merkel-db-140ep-9,3x74r.html/2.webp",
+   "width": 600,
+   "height": 306
+  }
+ ]
+}

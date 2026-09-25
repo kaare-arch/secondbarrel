@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/steyr-30-06",
+ "detail_id": "46ec4096ac9e2b72",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/steyr-30-06/",
+ "title": "Steyr, .30-06",
+ "price_dkk": 12000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

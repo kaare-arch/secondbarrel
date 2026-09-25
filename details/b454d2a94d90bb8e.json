@@ -1,0 +1,33 @@
+{
+ "id": "6910da57-ece5-4ea7-be2c-dc5eb71ed031",
+ "detail_id": "b454d2a94d90bb8e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6910da57-ece5-4ea7-be2c-dc5eb71ed031/jagtriffel-savege-111",
+ "title": "jagtriffel savege 111",
+ "price_dkk": 4000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-05-22",
+ "age_days": 121,
+ "postnummer": "6771",
+ "by": "Gredstedbro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6910da57-ece5-4ea7-be2c-dc5eb71ed031/0.webp",
+ "image_count": 1,
+ "lat": 55.37115323,
+ "lon": 8.60307494,
+ "description": "308 w linkz",
+ "images": [
+  {
+   "full": "/images/6910da57-ece5-4ea7-be2c-dc5eb71ed031/0.webp",
+   "thumb": "/thumbs/6910da57-ece5-4ea7-be2c-dc5eb71ed031/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

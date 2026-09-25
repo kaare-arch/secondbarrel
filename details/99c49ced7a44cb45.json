@@ -1,0 +1,43 @@
+{
+ "id": "79fa8403-52df-4dc6-aa03-051c45ddde53",
+ "detail_id": "99c49ced7a44cb45",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/79fa8403-52df-4dc6-aa03-051c45ddde53/valmet-6-5-52r",
+ "title": "Valmet 6,5*52R",
+ "price_dkk": 1500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Valmet",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-02-15",
+ "age_days": 217,
+ "postnummer": "9440",
+ "by": "Aabybro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/0.webp",
+ "image_count": 3,
+ "lat": 57.16282327,
+ "lon": 9.76743314,
+ "description": "Fint kombivåben, der kan medfølge 40 patroner for kun 1500,-",
+ "images": [
+  {
+   "full": "/images/79fa8403-52df-4dc6-aa03-051c45ddde53/0.webp",
+   "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79fa8403-52df-4dc6-aa03-051c45ddde53/1.webp",
+   "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79fa8403-52df-4dc6-aa03-051c45ddde53/2.webp",
+   "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

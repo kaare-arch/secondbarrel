@@ -1,0 +1,49 @@
+{
+ "id": "jjsu.dk/shop/smith--wesson-model-652-cal-38357",
+ "detail_id": "8d16938aa7fe7e83",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/smith--wesson-model-652-cal-38357/",
+ "title": "S&W Model 65-2 Cal. 38/357",
+ "price_dkk": 3249,
+ "weapon_type": "Revolver",
+ "brand": "Smith & Wesson",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-652-cal-38357/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Smith & Wesson 65-2 Tilstand: Brugt Caliber. 38Special / 357Magnum Double action Faste sigtemidler 4\" Bullbarrel Totallængde: 24,00m Løbslængde: 10,40cm Vægt: Ca. 0,95kg",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-652-cal-38357/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-652-cal-38357/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-652-cal-38357/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-652-cal-38357/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-652-cal-38357/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-652-cal-38357/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-652-cal-38357/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-652-cal-38357/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

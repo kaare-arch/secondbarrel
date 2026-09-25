@@ -1,0 +1,45 @@
+{
+ "id": "huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html",
+ "detail_id": "5669ae84bb60f002",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat398-Detaljer/side23011-Sako-A3-6,5x55-m-Leupold-VX2-3-9x40.html",
+ "title": "Sako A3 6,5x55 m/Leupold VX2 3-9x40 6,5 x 55",
+ "price_dkk": 12800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html/0.webp",
+ "image_count": 3,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Sako A3, i kaliber 6,5x55 m/Leupold VX2 3-9x40 Skæfte af Monte-carlo typen med kindpude i smukt v …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html/0.webp",
+   "width": 600,
+   "height": 138
+  },
+  {
+   "full": "/images/huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html/1.webp",
+   "width": 232,
+   "height": 232
+  },
+  {
+   "full": "/images/huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html/2.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side23011-sako-a3-6,5x55-m-leupold-vx2-3-9x40.html/2.webp",
+   "width": 600,
+   "height": 125
+  }
+ ]
+}

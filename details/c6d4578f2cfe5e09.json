@@ -1,0 +1,69 @@
+{
+ "id": "8a1e542c-1c71-4d97-9add-dbe584c2e4ef",
+ "detail_id": "c6d4578f2cfe5e09",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/blaser-f3-12-76",
+ "title": "Blaser F3 12/76",
+ "price_dkk": 49000,
+ "weapon_type": "Haglgevær",
+ "brand": "Blaser",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-17",
+ "age_days": 65,
+ "postnummer": "3230",
+ "by": "Græsted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/0.webp",
+ "image_count": 7,
+ "lat": 56.22745639,
+ "lon": 12.06980339,
+ "description": "For den kræsne skytte. Kræver ikke nærmere præsentation. Ikke skudt meget. Med chokes. Bud modtages - skambud frabedes/besvares ikke. Udleveres kun mod forevisning af gyldigt jagttegn.",
+ "images": [
+  {
+   "full": "/images/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/0.webp",
+   "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/1.webp",
+   "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/2.webp",
+   "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/3.webp",
+   "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/4.webp",
+   "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/5.webp",
+   "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/6.webp",
+   "thumb": "/thumbs/8a1e542c-1c71-4d97-9add-dbe584c2e4ef/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

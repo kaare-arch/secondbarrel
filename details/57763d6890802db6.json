@@ -1,0 +1,45 @@
+{
+ "id": "97870789-34b7-40d9-9fac-415fbb48dd83",
+ "detail_id": "57763d6890802db6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/97870789-34b7-40d9-9fac-415fbb48dd83/beretta-dt11-sportning",
+ "title": "Beretta dt11 sportning",
+ "price_dkk": 53500,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-05",
+ "age_days": 258,
+ "postnummer": "2635",
+ "by": "Ishøj",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/97870789-34b7-40d9-9fac-415fbb48dd83/0.webp",
+ "image_count": 3,
+ "lat": 55.58776321,
+ "lon": 12.39483896,
+ "description": "Flot Beretta  dt 11 sportning 12/70 løb 71cm",
+ "images": [
+  {
+   "full": "/images/97870789-34b7-40d9-9fac-415fbb48dd83/0.webp",
+   "thumb": "/thumbs/97870789-34b7-40d9-9fac-415fbb48dd83/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97870789-34b7-40d9-9fac-415fbb48dd83/1.webp",
+   "thumb": "/thumbs/97870789-34b7-40d9-9fac-415fbb48dd83/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97870789-34b7-40d9-9fac-415fbb48dd83/2.webp",
+   "thumb": "/thumbs/97870789-34b7-40d9-9fac-415fbb48dd83/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

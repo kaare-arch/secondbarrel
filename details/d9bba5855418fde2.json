@@ -1,0 +1,55 @@
+{
+ "id": "jjsu.dk/shop/glock-17-dk-gen4--cal-9mm",
+ "detail_id": "d9bba5855418fde2",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/",
+ "title": "Glock 17 DK Gen4 - Cal. 9mm",
+ "price_dkk": 5999,
+ "weapon_type": "Pistol",
+ "brand": "Glock",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/0.webp",
+ "image_count": 5,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Glock 17DK Gen4 Tilstand: Brugt, men rigtig flot stand. (Som ny) Caliber. 9mm Leveres med ialt 2 magasiner, speedloader,udskiftelige backstraps, manual, samt transportkuffert.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/3.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/4.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-17-dk-gen4--cal-9mm/4.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

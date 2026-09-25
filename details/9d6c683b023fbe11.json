@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/khan-200-12-76",
+ "detail_id": "9d6c683b023fbe11",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/khan-200-12-76/",
+ "title": "Khan 200, 12-76",
+ "price_dkk": 3295,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/khan-200-12-76/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Khan 200",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/khan-200-12-76/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/khan-200-12-76/0.webp",
+   "width": 1024,
+   "height": 194
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/khan-200-12-76/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/khan-200-12-76/1.webp",
+   "width": 1024,
+   "height": 570
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/khan-200-12-76/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/khan-200-12-76/2.webp",
+   "width": 1024,
+   "height": 518
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/khan-200-12-76/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/khan-200-12-76/3.webp",
+   "width": 1024,
+   "height": 523
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/khan-200-12-76/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/khan-200-12-76/4.webp",
+   "width": 1024,
+   "height": 723
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/khan-200-12-76/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/khan-200-12-76/5.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

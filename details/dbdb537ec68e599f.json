@@ -1,0 +1,55 @@
+{
+ "id": "1ed3cbeb-26d9-43ca-999d-379f23c5fc8a",
+ "detail_id": "dbdb537ec68e599f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/browning-525",
+ "title": "Browning 525",
+ "price_dkk": 9000,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-06-12",
+ "age_days": 100,
+ "postnummer": "6270",
+ "by": "Tønder",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/0.webp",
+ "image_count": 5,
+ "lat": 54.95248429,
+ "lon": 8.89453488,
+ "description": "81 løb\n5 udvendig chokes \nKuffert",
+ "images": [
+  {
+   "full": "/images/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/0.webp",
+   "thumb": "/thumbs/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/1.webp",
+   "thumb": "/thumbs/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/2.webp",
+   "thumb": "/thumbs/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/4.webp",
+   "thumb": "/thumbs/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/3.webp",
+   "thumb": "/thumbs/1ed3cbeb-26d9-43ca-999d-379f23c5fc8a/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

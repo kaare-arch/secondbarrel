@@ -1,0 +1,43 @@
+{
+ "id": "ee16c38c-9d54-4f49-b5e1-463a7837e728",
+ "detail_id": "81d561ad830c5165",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ee16c38c-9d54-4f49-b5e1-463a7837e728/magnumloeb-til-blaser-r93",
+ "title": "Magnumløb til Blaser R93",
+ "price_dkk": 14500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-07-08",
+ "age_days": 74,
+ "postnummer": "6000",
+ "by": "Kolding",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ee16c38c-9d54-4f49-b5e1-463a7837e728/0.webp",
+ "image_count": 3,
+ "lat": 55.50221297,
+ "lon": 9.46847631,
+ "description": "375HH løb, 17mm/60cm standard, æske,hylstre og patroner+ boresnake.\n\n7mm RemMag, 17mm/57,5 cm, flutted, æske, hylstre og patroner + boresnake.\n\n1 stk. MA bundstykke.",
+ "images": [
+  {
+   "full": "/images/ee16c38c-9d54-4f49-b5e1-463a7837e728/0.webp",
+   "thumb": "/thumbs/ee16c38c-9d54-4f49-b5e1-463a7837e728/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ee16c38c-9d54-4f49-b5e1-463a7837e728/1.webp",
+   "thumb": "/thumbs/ee16c38c-9d54-4f49-b5e1-463a7837e728/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ee16c38c-9d54-4f49-b5e1-463a7837e728/2.webp",
+   "thumb": "/thumbs/ee16c38c-9d54-4f49-b5e1-463a7837e728/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

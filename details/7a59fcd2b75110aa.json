@@ -1,0 +1,73 @@
+{
+ "id": "brasholt.nu/product/marlin-22-wmr-model-25-mn",
+ "detail_id": "7a59fcd2b75110aa",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/marlin-22-wmr-model-25-mn/",
+ "title": "Marlin .22 WMR Model 25 MN",
+ "price_dkk": 2500,
+ "weapon_type": "Salonriffel",
+ "brand": "Marlin",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/1.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/5.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/6.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/marlin-22-wmr-model-25-mn/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/marlin-22-wmr-model-25-mn/7.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

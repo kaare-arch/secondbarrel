@@ -1,0 +1,39 @@
+{
+ "id": "huntershouse.dk/kat120-detaljer/side21672-savage-m.-99,-.308-win..html",
+ "detail_id": "2dac338df6363c28",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat120-Detaljer/side21672-Savage-M.-99,-.308-Win..html",
+ "title": "Savage M. 99 .308 Win.",
+ "price_dkk": 9800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side21672-savage-m.-99,-.308-win..html/0.webp",
+ "image_count": 2,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Savage Model 99 Lever Action, i kaliber .308 Win. Denne riffel er ikke kun et stykke Amerikansk hi …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side21672-savage-m.-99,-.308-win..html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side21672-savage-m.-99,-.308-win..html/0.webp",
+   "width": 600,
+   "height": 110
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side21672-savage-m.-99,-.308-win..html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side21672-savage-m.-99,-.308-win..html/1.webp",
+   "width": 600,
+   "height": 121
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "f101e574-2753-4fb8-a0b1-ba3c8aeca98f",
+ "detail_id": "246726c13d7fac7a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/go-og-stabil-jagtriffel",
+ "title": "Go og stabil jagtriffel",
+ "price_dkk": 2500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mossberg",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-18",
+ "age_days": 186,
+ "postnummer": "7860",
+ "by": "Spøttrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/0.webp",
+ "image_count": 8,
+ "lat": 56.62419195,
+ "lon": 8.82098992,
+ "description": "Mosberg 30-06 sælges. Kikkerten er en Hawke 3-12*50. Aftagelige linsebeskytter medfølger + skulderstrop. \nGevind til lyddæmper er lavet",
+ "images": [
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/0.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/1.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/2.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/3.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/4.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/5.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/6.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/7.webp",
+   "thumb": "/thumbs/f101e574-2753-4fb8-a0b1-ba3c8aeca98f/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

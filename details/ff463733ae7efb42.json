@@ -1,0 +1,45 @@
+{
+ "id": "37410962-f22a-4d24-a574-024401434897",
+ "detail_id": "ff463733ae7efb42",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/37410962-f22a-4d24-a574-024401434897/sako-a7-m-30-06",
+ "title": "Sako A7 M 30-06.",
+ "price_dkk": 14000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-30",
+ "age_days": 21,
+ "postnummer": "8500",
+ "by": "Grenaa",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/37410962-f22a-4d24-a574-024401434897/0.webp",
+ "image_count": 3,
+ "lat": 56.43069147,
+ "lon": 11.08217337,
+ "description": "Grundet jagtophør sælges hysterisk velholdt Sako A7 jagtriffel. Købt i 2017 og har under 100 på samvittigheden.\nRiflen er monteret med Trijcon 4-16 x 50 hvilket passer perfekt til riflen samt Nielsen Sonic 45 lyddæmper. Riflen har for nyelig fået skæftet skiftet grundet et Sako problem med klistret overflade, det klistrede følger selv følgelig med samt en del ammo...",
+ "images": [
+  {
+   "full": "/images/37410962-f22a-4d24-a574-024401434897/0.webp",
+   "thumb": "/thumbs/37410962-f22a-4d24-a574-024401434897/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/37410962-f22a-4d24-a574-024401434897/1.webp",
+   "thumb": "/thumbs/37410962-f22a-4d24-a574-024401434897/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/37410962-f22a-4d24-a574-024401434897/3.webp",
+   "thumb": "/thumbs/37410962-f22a-4d24-a574-024401434897/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "jjsu.dk/shop/arminius-hw-38-t-weirauch",
+ "detail_id": "a5765270f1428ec2",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/arminius-hw-38-t-weirauch/",
+ "title": "Arminius HW 38 T (Weirauch) - Cal. 38 Special",
+ "price_dkk": 2000,
+ "weapon_type": "Revolver",
+ "brand": "Weihrauch",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/arminius-hw-38-t-weirauch/0.webp",
+ "image_count": 1,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Arminius HW 38 T Tilstand: Brugt Kaliber: 38 Special Totallængde: 28,40cm Pibelængde: 15,20cm Vægt: 984g Justerbart bagsigte System: Single action / Double action",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/arminius-hw-38-t-weirauch/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/arminius-hw-38-t-weirauch/0.webp",
+   "width": 1000,
+   "height": 1000
+  }
+ ]
+}

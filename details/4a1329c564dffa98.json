@@ -1,0 +1,51 @@
+{
+ "id": "189751d2-8613-4100-bdc8-9d25e6bf8168",
+ "detail_id": "4a1329c564dffa98",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/189751d2-8613-4100-bdc8-9d25e6bf8168/bsa-fiffel-caliber-308-win",
+ "title": "BSA fiffel caliber 308 WIN",
+ "price_dkk": 1700,
+ "weapon_type": "Jagtriffel",
+ "brand": "BSA",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-04",
+ "age_days": 47,
+ "postnummer": "8981",
+ "by": "Spentrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/189751d2-8613-4100-bdc8-9d25e6bf8168/0.webp",
+ "image_count": 4,
+ "lat": 56.54082727,
+ "lon": 10.0192493,
+ "description": "BSA kortløbet riffel m/kikkert sælges inkl 14 patroner & vedligeholdelsessæt.",
+ "images": [
+  {
+   "full": "/images/189751d2-8613-4100-bdc8-9d25e6bf8168/0.webp",
+   "thumb": "/thumbs/189751d2-8613-4100-bdc8-9d25e6bf8168/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/189751d2-8613-4100-bdc8-9d25e6bf8168/1.webp",
+   "thumb": "/thumbs/189751d2-8613-4100-bdc8-9d25e6bf8168/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/189751d2-8613-4100-bdc8-9d25e6bf8168/2.webp",
+   "thumb": "/thumbs/189751d2-8613-4100-bdc8-9d25e6bf8168/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/189751d2-8613-4100-bdc8-9d25e6bf8168/3.webp",
+   "thumb": "/thumbs/189751d2-8613-4100-bdc8-9d25e6bf8168/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

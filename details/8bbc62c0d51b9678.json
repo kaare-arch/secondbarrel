@@ -1,0 +1,51 @@
+{
+ "id": "dc128fd7-e35e-45cd-9067-5bc21d733d63",
+ "detail_id": "8bbc62c0d51b9678",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/dc128fd7-e35e-45cd-9067-5bc21d733d63/sauer-80-kal-30-06",
+ "title": "Sauer 80 kal. 30-06",
+ "price_dkk": 11900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-10",
+ "age_days": 163,
+ "postnummer": "4700",
+ "by": "Næstved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/dc128fd7-e35e-45cd-9067-5bc21d733d63/0.webp",
+ "image_count": 4,
+ "lat": 55.19504272,
+ "lon": 11.77357353,
+ "description": "Utrolig flot og velholdt Sauer 80 fuldskæftet jagt riffel med ZEISS optik.\n\nKal. 30-06\nMedfølger 2 magasiner \nZEISS 3-12X56",
+ "images": [
+  {
+   "full": "/images/dc128fd7-e35e-45cd-9067-5bc21d733d63/0.webp",
+   "thumb": "/thumbs/dc128fd7-e35e-45cd-9067-5bc21d733d63/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc128fd7-e35e-45cd-9067-5bc21d733d63/1.webp",
+   "thumb": "/thumbs/dc128fd7-e35e-45cd-9067-5bc21d733d63/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc128fd7-e35e-45cd-9067-5bc21d733d63/2.webp",
+   "thumb": "/thumbs/dc128fd7-e35e-45cd-9067-5bc21d733d63/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc128fd7-e35e-45cd-9067-5bc21d733d63/3.webp",
+   "thumb": "/thumbs/dc128fd7-e35e-45cd-9067-5bc21d733d63/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

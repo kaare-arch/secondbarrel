@@ -1,0 +1,33 @@
+{
+ "id": "westgun.dk/parker-hale-30-06.html",
+ "detail_id": "84d02a150e0cc3cd",
+ "source": "westgun.dk",
+ "source_label": "Westgun",
+ "url": "https://www.westgun.dk/parker-hale-30-06.html",
+ "title": "Parker Hale 30.06",
+ "price_dkk": 2300,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7660",
+ "by": "Bækmarksbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/westgun.dk/parker-hale-30-06.html/0.webp",
+ "image_count": 1,
+ "lat": 56.41551889,
+ "lon": 8.33184097,
+ "description": "Brugt men i god stand. Kaliber 30.06.",
+ "images": [
+  {
+   "full": "/images/westgun.dk/parker-hale-30-06.html/0.jpg",
+   "thumb": "/thumbs/westgun.dk/parker-hale-30-06.html/0.webp",
+   "width": 265,
+   "height": 265
+  }
+ ]
+}

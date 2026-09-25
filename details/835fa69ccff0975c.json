@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-sarasqueta-16-70-s-s",
+ "detail_id": "835fa69ccff0975c",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-sarasqueta-16-70-s-s",
+ "title": "Brugt - Sarasqueta 16/70 S/S",
+ "price_dkk": 2499,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-sarasqueta-16-70-s-s/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt - Sarasqueta 16/70 S/S i flot stand med dråbeskæfte",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-sarasqueta-16-70-s-s/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-sarasqueta-16-70-s-s/0.webp",
+   "width": 1600,
+   "height": 1203
+  }
+ ]
+}

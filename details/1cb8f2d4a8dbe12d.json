@@ -1,0 +1,45 @@
+{
+ "id": "4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9",
+ "detail_id": "1cb8f2d4a8dbe12d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/yildiz-kal-12",
+ "title": "Yildiz kal 12.",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Yildiz",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-16",
+ "age_days": 35,
+ "postnummer": "4440",
+ "by": "Mørkøv",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/0.webp",
+ "image_count": 3,
+ "lat": 55.62211279,
+ "lon": 11.49619782,
+ "description": "Flot og velholdt Yildiz, sælges da den ikke passer mig. Den er med chokes men har desværre ikke nøglen.",
+ "images": [
+  {
+   "full": "/images/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/0.webp",
+   "thumb": "/thumbs/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/1.webp",
+   "thumb": "/thumbs/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/2.webp",
+   "thumb": "/thumbs/4ff9e19a-b011-4eb8-bd1f-f560e9b02bf9/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

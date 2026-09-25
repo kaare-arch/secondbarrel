@@ -1,0 +1,45 @@
+{
+ "id": "jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416",
+ "detail_id": "6f24dea13a6f0681",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/",
+ "title": "Walther Colt 1911 Rail Gun - Cal. 22 LR",
+ "price_dkk": 2749,
+ "weapon_type": "Pistol",
+ "brand": "Walther",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Walther Colt 1911 Rail gun Tilstand: Brugt Caliber: 22lr Ladesystem: ½ auto De medfølger ialt 1 magasin.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/walther-colt-1911-rail-gun--cal-22-lr-254416/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "brasholt.nu/product/krico-kal-22lr-halvautomat",
+ "detail_id": "a03b3f761b1fbe62",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/krico-kal-22lr-halvautomat/",
+ "title": "Krico kal 22LR halvautomat",
+ "price_dkk": 2995,
+ "weapon_type": "Salonriffel",
+ "brand": "Krico",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/krico-kal-22lr-halvautomat/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Krico Halvautomat .22 Lr. Skæfte med svineryg og kindpude, afsluttet med tynd bakelitkappe. Piben er med korn og klapvisir. Magasinet er aftageligt. Riflen står med en del mindre mærker og brugsslitage men er ellers i fin stand.",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/krico-kal-22lr-halvautomat/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/krico-kal-22lr-halvautomat/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "a567342e-8e2b-4d50-b241-8415f6074dcb",
+ "detail_id": "ae894a8c8f60cd0e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a567342e-8e2b-4d50-b241-8415f6074dcb/krieghoff-trumpf-drilling-12-70-30-06",
+ "title": "Krieghoff Trumpf drilling 12/70 30-06",
+ "price_dkk": 19500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Krieghoff",
+ "calibers": [
+  "12/70",
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-04",
+ "age_days": 16,
+ "postnummer": "6000",
+ "by": "Kolding",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a567342e-8e2b-4d50-b241-8415f6074dcb/0.webp",
+ "image_count": 3,
+ "lat": 55.50221297,
+ "lon": 9.46847631,
+ "description": "Rigtig fin og velholdt Krieghoff Trumpf drilling\nKaliber12:70 30-06. Zeiss,10x52 sigte 1 i einhack montage.",
+ "images": [
+  {
+   "full": "/images/a567342e-8e2b-4d50-b241-8415f6074dcb/0.webp",
+   "thumb": "/thumbs/a567342e-8e2b-4d50-b241-8415f6074dcb/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a567342e-8e2b-4d50-b241-8415f6074dcb/4.webp",
+   "thumb": "/thumbs/a567342e-8e2b-4d50-b241-8415f6074dcb/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a567342e-8e2b-4d50-b241-8415f6074dcb/5.webp",
+   "thumb": "/thumbs/a567342e-8e2b-4d50-b241-8415f6074dcb/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

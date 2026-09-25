@@ -1,0 +1,73 @@
+{
+ "id": "d2f4324e-016c-489b-b58d-3d71cb6fc3f8",
+ "detail_id": "53c14c180c6fbbed",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/haglgevaer-laurona-eibar-call-12",
+ "title": "Haglgevær LAURONA Eibar call 12",
+ "price_dkk": 3500,
+ "weapon_type": "Haglgevær",
+ "brand": "Laurona",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2025-11-08",
+ "age_days": 316,
+ "postnummer": "4600",
+ "by": "Køge",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/0.webp",
+ "image_count": 8,
+ "lat": 55.45527126,
+ "lon": 12.22015308,
+ "description": "Stort set nyt skudt få skud.\nSælges mod forevisning af gyldigt jagttegn.\nForevises med bevis for at jagttegn haves.",
+ "images": [
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/0.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/1.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/2.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/3.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/4.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/5.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/6.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/7.webp",
+   "thumb": "/thumbs/d2f4324e-016c-489b-b58d-3d71cb6fc3f8/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

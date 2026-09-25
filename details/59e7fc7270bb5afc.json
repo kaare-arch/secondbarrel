@@ -1,0 +1,43 @@
+{
+ "id": "jjsu.dk/shop/ruger-gp100--cal38357",
+ "detail_id": "59e7fc7270bb5afc",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/ruger-gp100--cal38357/",
+ "title": "Ruger GP100 4\" - Cal. 38/357",
+ "price_dkk": 4250,
+ "weapon_type": "Revolver",
+ "brand": "Ruger",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal38357/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Ruger GP100 - 4\" Tilstand: Brugt. Cal. 38SPecial / 357Magnum Farve: Sort/Blåneret",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100--cal38357/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal38357/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100--cal38357/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal38357/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100--cal38357/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal38357/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

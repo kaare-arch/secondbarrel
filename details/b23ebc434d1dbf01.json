@@ -1,0 +1,61 @@
+{
+ "id": "jjsu.dk/shop/glock-34--cal9mm",
+ "detail_id": "b23ebc434d1dbf01",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/glock-34--cal9mm/",
+ "title": "Glock Ges.m.b.h. Model 34 - Cal.9mm",
+ "price_dkk": 5999,
+ "weapon_type": "Pistol",
+ "brand": "Glock",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/glock-34--cal9mm/0.webp",
+ "image_count": 6,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "(URT805(638-G2) Glock 34 Tilstand: Brugt, men som ny Caliber. 9mm Totallængde: 22,80cm Løbslængde: 13,50cm Magasin kapasitet: 17 Justerbart bagsigte, ialt 2 magasiner, speedloader, samt transportkuffert.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/glock-34--cal9mm/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-34--cal9mm/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-34--cal9mm/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-34--cal9mm/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-34--cal9mm/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-34--cal9mm/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-34--cal9mm/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-34--cal9mm/3.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-34--cal9mm/4.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-34--cal9mm/4.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-34--cal9mm/5.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-34--cal9mm/5.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

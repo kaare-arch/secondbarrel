@@ -1,0 +1,33 @@
+{
+ "id": "nkjagt.dk/vare/2022-parker-hale-brugt-parker-hale-2100-kal-65x55",
+ "detail_id": "2efd18e9776cf37a",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/2022-parker-hale-brugt-parker-hale-2100-kal-65x55",
+ "title": "PARKER HALE Brugt Parker Hale 2100 kal. 6,5x55",
+ "price_dkk": 4995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/2022-parker-hale-brugt-parker-hale-2100-kal-65x55/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Brugt Parker Hale Model 2100 MidlandKal. 6,5x55 60 cm. pibeinkl. kikkert",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/2022-parker-hale-brugt-parker-hale-2100-kal-65x55/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/2022-parker-hale-brugt-parker-hale-2100-kal-65x55/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

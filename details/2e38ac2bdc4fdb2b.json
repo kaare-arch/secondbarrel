@@ -1,0 +1,51 @@
+{
+ "id": "c21c7b3a-ebd0-445b-8b57-49cbec250541",
+ "detail_id": "2e38ac2bdc4fdb2b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c21c7b3a-ebd0-445b-8b57-49cbec250541/brugt-riffel-remington-700-30-06",
+ "title": "Brugt riffel: Remington/700, 30-06",
+ "price_dkk": 4000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-24",
+ "age_days": 208,
+ "postnummer": "4200",
+ "by": "Slagelse",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c21c7b3a-ebd0-445b-8b57-49cbec250541/0.webp",
+ "image_count": 4,
+ "lat": 55.40887345,
+ "lon": 11.37134678,
+ "description": "God brugt riffel, model Remington/700, kal. 30-06 SPRG, med god kikkert Artemis 2000: 1,5 - 6 x 42mm. Fungerer upåklageligt.\nVåbentilladelse indhentes af køber inden aflevering af våben til køber.",
+ "images": [
+  {
+   "full": "/images/c21c7b3a-ebd0-445b-8b57-49cbec250541/0.webp",
+   "thumb": "/thumbs/c21c7b3a-ebd0-445b-8b57-49cbec250541/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c21c7b3a-ebd0-445b-8b57-49cbec250541/1.webp",
+   "thumb": "/thumbs/c21c7b3a-ebd0-445b-8b57-49cbec250541/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c21c7b3a-ebd0-445b-8b57-49cbec250541/2.webp",
+   "thumb": "/thumbs/c21c7b3a-ebd0-445b-8b57-49cbec250541/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c21c7b3a-ebd0-445b-8b57-49cbec250541/3.webp",
+   "thumb": "/thumbs/c21c7b3a-ebd0-445b-8b57-49cbec250541/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

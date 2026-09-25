@@ -1,0 +1,45 @@
+{
+ "id": "79d5d207-d046-411e-9cd5-c99230c8665e",
+ "detail_id": "64aee967337488d2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/79d5d207-d046-411e-9cd5-c99230c8665e/blaser-r93-fluted-30-06-springfield",
+ "title": "Blaser R93 fluted 30.06 Springfield",
+ "price_dkk": 8000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-09",
+ "age_days": 42,
+ "postnummer": "3060",
+ "by": "Espergærde",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/79d5d207-d046-411e-9cd5-c99230c8665e/0.webp",
+ "image_count": 3,
+ "lat": 55.99425687,
+ "lon": 12.54283631,
+ "description": "Fluted Blaser R93 i 30.06 Springfield med faste sigter.\n\nPiben fremstår flot uden ridser og har skudt ca. 500 skud, så der er mange jagtliv i den endnu.\n\nGiver et eksklusivt udtryk til din R93, om det er træskæfte, syntetisk eller Attaché.",
+ "images": [
+  {
+   "full": "/images/79d5d207-d046-411e-9cd5-c99230c8665e/0.webp",
+   "thumb": "/thumbs/79d5d207-d046-411e-9cd5-c99230c8665e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79d5d207-d046-411e-9cd5-c99230c8665e/1.webp",
+   "thumb": "/thumbs/79d5d207-d046-411e-9cd5-c99230c8665e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79d5d207-d046-411e-9cd5-c99230c8665e/2.webp",
+   "thumb": "/thumbs/79d5d207-d046-411e-9cd5-c99230c8665e/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

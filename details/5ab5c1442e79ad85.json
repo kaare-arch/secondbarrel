@@ -1,0 +1,57 @@
+{
+ "id": "0d901a5b-7030-4654-9c79-d1ed05e994ec",
+ "detail_id": "5ab5c1442e79ad85",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0d901a5b-7030-4654-9c79-d1ed05e994ec/franchi-150-anniversary-cal-30-06",
+ "title": "Franchi 150 Anniversary cal. 30-06.",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Franchi",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-06-05",
+ "age_days": 107,
+ "postnummer": "4760",
+ "by": "Vordingborg",
+ "stand_gg": "Ny",
+ "thumb": "/thumbs/0d901a5b-7030-4654-9c79-d1ed05e994ec/0.webp",
+ "image_count": 5,
+ "lat": 55.02464842,
+ "lon": 11.8960716,
+ "description": "Riflen er ny. Den har aldrig skudt.",
+ "images": [
+  {
+   "full": "/images/0d901a5b-7030-4654-9c79-d1ed05e994ec/0.webp",
+   "thumb": "/thumbs/0d901a5b-7030-4654-9c79-d1ed05e994ec/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0d901a5b-7030-4654-9c79-d1ed05e994ec/1.webp",
+   "thumb": "/thumbs/0d901a5b-7030-4654-9c79-d1ed05e994ec/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0d901a5b-7030-4654-9c79-d1ed05e994ec/2.webp",
+   "thumb": "/thumbs/0d901a5b-7030-4654-9c79-d1ed05e994ec/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0d901a5b-7030-4654-9c79-d1ed05e994ec/3.webp",
+   "thumb": "/thumbs/0d901a5b-7030-4654-9c79-d1ed05e994ec/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0d901a5b-7030-4654-9c79-d1ed05e994ec/4.webp",
+   "thumb": "/thumbs/0d901a5b-7030-4654-9c79-d1ed05e994ec/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

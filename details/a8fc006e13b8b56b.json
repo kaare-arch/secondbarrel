@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/baikal-mu5-20-70",
+ "detail_id": "a8fc006e13b8b56b",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/baikal-mu5-20-70/",
+ "title": "Baikal MU5, 20-70",
+ "price_dkk": 16995,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [
+  "20/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/baikal-mu5-20-70/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Baikal MU5",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-mu5-20-70/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-mu5-20-70/0.webp",
+   "width": 1024,
+   "height": 238
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-mu5-20-70/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-mu5-20-70/1.webp",
+   "width": 1024,
+   "height": 647
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-mu5-20-70/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-mu5-20-70/2.webp",
+   "width": 1024,
+   "height": 536
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-mu5-20-70/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-mu5-20-70/3.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-mu5-20-70/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-mu5-20-70/4.webp",
+   "width": 1024,
+   "height": 519
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-mu5-20-70/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-mu5-20-70/5.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

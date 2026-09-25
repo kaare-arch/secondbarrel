@@ -1,0 +1,33 @@
+{
+ "id": "nkjagt.dk/vare/2007-tikka-brugt-tikka-lsa-55-kal-243-win",
+ "detail_id": "a23ef57cdaa4569e",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/2007-tikka-brugt-tikka-lsa-55-kal-243-win",
+ "title": "Tikka Brugt Tikka LSA-55 kal. 243 win",
+ "price_dkk": 4995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/2007-tikka-brugt-tikka-lsa-55-kal-243-win/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Brugt Tikka Model: LSA-55 Kal. 243 Win58 cm. pibe",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/2007-tikka-brugt-tikka-lsa-55-kal-243-win/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/2007-tikka-brugt-tikka-lsa-55-kal-243-win/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

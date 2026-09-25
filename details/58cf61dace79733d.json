@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-mauser-6-5x55-paen-stand",
+ "detail_id": "58cf61dace79733d",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-mauser-6-5x55-paen-stand",
+ "title": "Brugt Mauser 6,5X55 Pæn Stand",
+ "price_dkk": 1000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-mauser-6-5x55-paen-stand/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt Mauser 6,5X55 Pæn Stand Flot og velholdt Mauser riffel i kaliber 6,5X55 God låsegang og pæne riffelgange",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-mauser-6-5x55-paen-stand/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-mauser-6-5x55-paen-stand/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

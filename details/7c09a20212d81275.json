@@ -1,0 +1,67 @@
+{
+ "id": "mbjagt.dk/shop/sauer-202-300-win-mag",
+ "detail_id": "7c09a20212d81275",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/sauer-202-300-win-mag/",
+ "title": "Sauer 202, 300 Win.Mag.",
+ "price_dkk": 18990,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/0.webp",
+ "image_count": 7,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Sauer 202, kaliber 300 Win.Mag.",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/sauer-202-300-win-mag/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/0.webp",
+   "width": 1024,
+   "height": 195
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sauer-202-300-win-mag/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/1.webp",
+   "width": 1002,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sauer-202-300-win-mag/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/2.webp",
+   "width": 1024,
+   "height": 536
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sauer-202-300-win-mag/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/3.webp",
+   "width": 1024,
+   "height": 277
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sauer-202-300-win-mag/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/4.webp",
+   "width": 1024,
+   "height": 520
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sauer-202-300-win-mag/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/5.webp",
+   "width": 1024,
+   "height": 631
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sauer-202-300-win-mag/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sauer-202-300-win-mag/6.webp",
+   "width": 1024,
+   "height": 625
+  }
+ ]
+}

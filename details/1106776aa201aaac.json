@@ -1,0 +1,63 @@
+{
+ "id": "dc012d75-2b36-4165-a5c2-3706f1710015",
+ "detail_id": "1106776aa201aaac",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/dc012d75-2b36-4165-a5c2-3706f1710015/jagtriffel-med-kikkert-og-ammunition",
+ "title": "Jagtriffel med kikkert og ammunition",
+ "price_dkk": 2700,
+ "weapon_type": "Haglgevær",
+ "brand": "Howa",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-02",
+ "age_days": 261,
+ "postnummer": "6740",
+ "by": "Bramming",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/dc012d75-2b36-4165-a5c2-3706f1710015/0.webp",
+ "image_count": 6,
+ "lat": 55.46065157,
+ "lon": 8.70168486,
+ "description": "Howa 1500 jagtriffel med kikkert og ammunition sælges. Rifflen er i rigtig fin stand. Kaliber 6,5x55",
+ "images": [
+  {
+   "full": "/images/dc012d75-2b36-4165-a5c2-3706f1710015/0.webp",
+   "thumb": "/thumbs/dc012d75-2b36-4165-a5c2-3706f1710015/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc012d75-2b36-4165-a5c2-3706f1710015/1.webp",
+   "thumb": "/thumbs/dc012d75-2b36-4165-a5c2-3706f1710015/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc012d75-2b36-4165-a5c2-3706f1710015/2.webp",
+   "thumb": "/thumbs/dc012d75-2b36-4165-a5c2-3706f1710015/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc012d75-2b36-4165-a5c2-3706f1710015/3.webp",
+   "thumb": "/thumbs/dc012d75-2b36-4165-a5c2-3706f1710015/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc012d75-2b36-4165-a5c2-3706f1710015/4.webp",
+   "thumb": "/thumbs/dc012d75-2b36-4165-a5c2-3706f1710015/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc012d75-2b36-4165-a5c2-3706f1710015/1.webp",
+   "thumb": "/thumbs/dc012d75-2b36-4165-a5c2-3706f1710015/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

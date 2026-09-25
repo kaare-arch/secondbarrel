@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/savage-mod-110-kal-308win",
+ "detail_id": "2d456fa5a9af4fb0",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/savage-mod-110-kal-308win/",
+ "title": "Savage mod.110  kal. 308win",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

@@ -1,0 +1,45 @@
+{
+ "id": "d88f573a-b594-4f9c-bc12-c21034d976bc",
+ "detail_id": "8413ff414e64ec7e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d88f573a-b594-4f9c-bc12-c21034d976bc/super-flot-og-velholdt-sauer-90-fuldskaeftet",
+ "title": "Super flot og velholdt Sauer 90 fuldskæftet",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-24",
+ "age_days": 58,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/d88f573a-b594-4f9c-bc12-c21034d976bc/0.webp",
+ "image_count": 3,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": "Utrolig velholdt fuldskæftet Sauer 90\nKaliber: 6,5x55\n\nUtrolig præcis riffel perfekt balance og ergonomi. Tysk kvalitet riffel som bare fungerer, har aldrig haft problemer med den. Exceptionel præcision og pålidelighed og en utrolig smuk riffel.\n\nRiflen sælges uden kikkert.\n\nBlyfri jagtammunition kan evt. indgå i handlen.\n\n* Jagttegn og billed ID påkrævet ved køb*\n\nBud modtages",
+ "images": [
+  {
+   "full": "/images/d88f573a-b594-4f9c-bc12-c21034d976bc/0.webp",
+   "thumb": "/thumbs/d88f573a-b594-4f9c-bc12-c21034d976bc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d88f573a-b594-4f9c-bc12-c21034d976bc/1.webp",
+   "thumb": "/thumbs/d88f573a-b594-4f9c-bc12-c21034d976bc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d88f573a-b594-4f9c-bc12-c21034d976bc/2.webp",
+   "thumb": "/thumbs/d88f573a-b594-4f9c-bc12-c21034d976bc/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78",
+ "detail_id": "4a5fce996b572d18",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/baikal-o-u",
+ "title": "Baikal O/U",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-09-04",
+ "age_days": 16,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/0.webp",
+ "image_count": 6,
+ "lat": null,
+ "lon": null,
+ "description": "Baikal O/U \n\nModel 27EM \n\nKaliber 12/76.\n\nMed ejektor, singletrigger og automatsikring. \n\nBrunering og bagkappe er ikke pæn. \nMekanisk helt ok. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/0.webp",
+   "thumb": "/thumbs/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/1.webp",
+   "thumb": "/thumbs/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/2.webp",
+   "thumb": "/thumbs/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/3.webp",
+   "thumb": "/thumbs/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/4.webp",
+   "thumb": "/thumbs/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/5.webp",
+   "thumb": "/thumbs/1000a2ba-9d0d-48fc-9ac3-091c3c1a5f78/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

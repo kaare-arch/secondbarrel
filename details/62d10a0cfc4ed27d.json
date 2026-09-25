@@ -1,0 +1,51 @@
+{
+ "id": "bc77a386-fe99-4d39-ad47-aab3a278e133",
+ "detail_id": "62d10a0cfc4ed27d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/bc77a386-fe99-4d39-ad47-aab3a278e133/wichester-halv-automat",
+ "title": "Wichester halv automat",
+ "price_dkk": 5500,
+ "weapon_type": "Haglgevær",
+ "brand": "Winchester",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-10",
+ "age_days": 222,
+ "postnummer": "4780",
+ "by": "Stege",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/bc77a386-fe99-4d39-ad47-aab3a278e133/0.webp",
+ "image_count": 4,
+ "lat": 54.9362949,
+ "lon": 12.31627561,
+ "description": "Winchester halvautomat SX3 serien model Raniero Testa\n12/76 ned 71 cm løb \nchokes medfølger\ndejligt let gevær at skyde med",
+ "images": [
+  {
+   "full": "/images/bc77a386-fe99-4d39-ad47-aab3a278e133/0.webp",
+   "thumb": "/thumbs/bc77a386-fe99-4d39-ad47-aab3a278e133/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bc77a386-fe99-4d39-ad47-aab3a278e133/1.webp",
+   "thumb": "/thumbs/bc77a386-fe99-4d39-ad47-aab3a278e133/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bc77a386-fe99-4d39-ad47-aab3a278e133/2.webp",
+   "thumb": "/thumbs/bc77a386-fe99-4d39-ad47-aab3a278e133/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bc77a386-fe99-4d39-ad47-aab3a278e133/3.webp",
+   "thumb": "/thumbs/bc77a386-fe99-4d39-ad47-aab3a278e133/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

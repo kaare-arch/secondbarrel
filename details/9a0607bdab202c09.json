@@ -1,0 +1,76 @@
+{
+ "id": "brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold",
+ "detail_id": "9a0607bdab202c09",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/",
+ "title": "Simson Suhl BBF 16/70-7x57R M/Leupold",
+ "price_dkk": 9500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Simson",
+ "calibers": [
+  "16/70",
+  "7x57R"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/0.webp",
+   "width": 1600,
+   "height": 591
+  },
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/5.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/6.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/simson-suhl-bbf-16-70-7x57r-m-leupold/7.webp",
+   "width": 1200,
+   "height": 1600
+  }
+ ]
+}

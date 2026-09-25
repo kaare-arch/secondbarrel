@@ -1,0 +1,31 @@
+{
+ "id": "nkjagt.dk/vare/19574-laurona-laurona",
+ "detail_id": "7c30e22d5a3f6ba1",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/19574-laurona-laurona",
+ "title": "LAURONA Laurona",
+ "price_dkk": 3495,
+ "weapon_type": "Haglgevær",
+ "brand": "Laurona",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/19574-laurona-laurona/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/19574-laurona-laurona/0.png",
+   "thumb": "/thumbs/nkjagt.dk/vare/19574-laurona-laurona/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

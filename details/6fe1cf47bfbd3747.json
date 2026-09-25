@@ -1,0 +1,67 @@
+{
+ "id": "415ecee6-7f32-4733-bae1-081481329bd2",
+ "detail_id": "6fe1cf47bfbd3747",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/415ecee6-7f32-4733-bae1-081481329bd2/beretta-682-gold",
+ "title": "Beretta 682 Gold",
+ "price_dkk": 16700,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-04",
+ "age_days": 16,
+ "postnummer": "5881",
+ "by": "Skårup Fyn",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/0.webp",
+ "image_count": 7,
+ "lat": 55.06735111,
+ "lon": 10.76263715,
+ "description": "Beretta 682 m. chokes boring 3/4 og fuld, 71 cm. løb, enkelt aftræk, ejektor, stadig stram i låsen. fremstår som ny.",
+ "images": [
+  {
+   "full": "/images/415ecee6-7f32-4733-bae1-081481329bd2/0.webp",
+   "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/415ecee6-7f32-4733-bae1-081481329bd2/1.webp",
+   "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/415ecee6-7f32-4733-bae1-081481329bd2/2.webp",
+   "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/415ecee6-7f32-4733-bae1-081481329bd2/3.webp",
+   "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/415ecee6-7f32-4733-bae1-081481329bd2/4.webp",
+   "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/415ecee6-7f32-4733-bae1-081481329bd2/5.webp",
+   "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/415ecee6-7f32-4733-bae1-081481329bd2/6.webp",
+   "thumb": "/thumbs/415ecee6-7f32-4733-bae1-081481329bd2/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

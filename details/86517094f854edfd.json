@@ -1,0 +1,51 @@
+{
+ "id": "jjsu.dk/shop/ruger-gp100--cal-22-lr",
+ "detail_id": "86517094f854edfd",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/ruger-gp100--cal-22-lr/",
+ "title": "Ruger GP100 - Cal. 22 LR (10 Skuds)",
+ "price_dkk": 8249,
+ "weapon_type": "Revolver",
+ "brand": "Ruger",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal-22-lr/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Ruger GP100 Ruger Gp100 hører til blandt de mest robuste og driftssikre revolvere på markedet. Tilstand: Brugt (Skudt meget lidt) Cal. 22lr 10 Skuds tromle Pibelængde 13,80cm Totallængde 29,20cm. Vægt 1.190 gram. Der medfølger original transportkasse, våbenlås, samt manual.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100--cal-22-lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal-22-lr/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100--cal-22-lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal-22-lr/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100--cal-22-lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal-22-lr/2.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100--cal-22-lr/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100--cal-22-lr/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

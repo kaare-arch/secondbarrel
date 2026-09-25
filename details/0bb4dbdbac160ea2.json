@@ -1,0 +1,49 @@
+{
+ "id": "jjsu.dk/shop/bul-cherokee-fs--cal-9mm",
+ "detail_id": "0bb4dbdbac160ea2",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/bul-cherokee-fs--cal-9mm/",
+ "title": "Bul Cherokee FS - Cal. 9mm",
+ "price_dkk": 3999,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Bul Cherokee FS Tilstand: Brugt Kaliber: 9mm Totallængde: 21,40cm Pibelængde: 11,80cm Vægt: 895g System: ½ auto Justerbart sigte: Nej (Skyder generelt for højt) Obs! Piben er pga. de danske regler til totallængde på håndvåben, blevet forlænget. Der medfølger i alt 2 magasiner, samt transportkasse og manual.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/bul-cherokee-fs--cal-9mm/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

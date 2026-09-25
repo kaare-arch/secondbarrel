@@ -1,0 +1,43 @@
+{
+ "id": "michaelsjagt.dk/vare/28120-eibar-5247-eibar",
+ "detail_id": "5e5a692ee62320f0",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/28120-eibar-5247-eibar",
+ "title": "5247-Eibar",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/28120-eibar-5247-eibar/0.webp",
+ "image_count": 3,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/28120-eibar-5247-eibar/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/28120-eibar-5247-eibar/0.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/28120-eibar-5247-eibar/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/28120-eibar-5247-eibar/1.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/28120-eibar-5247-eibar/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/28120-eibar-5247-eibar/2.webp",
+   "width": 460,
+   "height": 307
+  }
+ ]
+}

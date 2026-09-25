@@ -1,0 +1,57 @@
+{
+ "id": "19e6f824-85cd-44a6-ae18-2ec256d68a8f",
+ "detail_id": "e28673bc18eef050",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/19e6f824-85cd-44a6-ae18-2ec256d68a8f/jagtriffel-komplet-saet-til-maarhund",
+ "title": "Jagtriffel komplet sæt til Mårhund.",
+ "price_dkk": 7999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-06-30",
+ "age_days": 82,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/19e6f824-85cd-44a6-ae18-2ec256d68a8f/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Savage 110 Riffel.\n\nKaliber 308win. \n\nInkl. Pard 008 natoptik med aftagelig montage. \nPard taske med batteri + lader medfølger. \n\nInkl. Stalon XE lyddæmper. \n\nInkl. HIK Vision Lynx termisk håndspotter ( 15mm) \nOriginal kasse med tilbehør medfølger. \n\nRem med aftagelige rembøjler medfølger.\n\nAlt natudstyr er minimalt brugt! \n\nMeget udstyr til få penge. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/19e6f824-85cd-44a6-ae18-2ec256d68a8f/0.webp",
+   "thumb": "/thumbs/19e6f824-85cd-44a6-ae18-2ec256d68a8f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/19e6f824-85cd-44a6-ae18-2ec256d68a8f/1.webp",
+   "thumb": "/thumbs/19e6f824-85cd-44a6-ae18-2ec256d68a8f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/19e6f824-85cd-44a6-ae18-2ec256d68a8f/2.webp",
+   "thumb": "/thumbs/19e6f824-85cd-44a6-ae18-2ec256d68a8f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/19e6f824-85cd-44a6-ae18-2ec256d68a8f/3.webp",
+   "thumb": "/thumbs/19e6f824-85cd-44a6-ae18-2ec256d68a8f/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/19e6f824-85cd-44a6-ae18-2ec256d68a8f/4.webp",
+   "thumb": "/thumbs/19e6f824-85cd-44a6-ae18-2ec256d68a8f/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

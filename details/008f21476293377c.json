@@ -1,0 +1,69 @@
+{
+ "id": "5fc84255-5673-44cd-98f2-a959a05237b4",
+ "detail_id": "008f21476293377c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5fc84255-5673-44cd-98f2-a959a05237b4/maverrick-88-pumpgun-saelges",
+ "title": "Maverrick 88 Pumpgun sælges",
+ "price_dkk": 2800,
+ "weapon_type": "Haglgevær",
+ "brand": "Mossberg",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-26",
+ "age_days": 25,
+ "postnummer": "6940",
+ "by": "Lem St",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/0.webp",
+ "image_count": 7,
+ "lat": 56.05110041,
+ "lon": 8.42316735,
+ "description": "Velholdt pumpgun cal. 12..Kan tage Magnum og super Magnum patroner ( se billeder for specifikationer) har 1 stk. choke..God og solid pumpgun som er sortset magen til Mossberg 500",
+ "images": [
+  {
+   "full": "/images/5fc84255-5673-44cd-98f2-a959a05237b4/0.webp",
+   "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fc84255-5673-44cd-98f2-a959a05237b4/1.webp",
+   "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fc84255-5673-44cd-98f2-a959a05237b4/2.webp",
+   "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fc84255-5673-44cd-98f2-a959a05237b4/3.webp",
+   "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fc84255-5673-44cd-98f2-a959a05237b4/5.webp",
+   "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fc84255-5673-44cd-98f2-a959a05237b4/6.webp",
+   "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fc84255-5673-44cd-98f2-a959a05237b4/7.webp",
+   "thumb": "/thumbs/5fc84255-5673-44cd-98f2-a959a05237b4/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

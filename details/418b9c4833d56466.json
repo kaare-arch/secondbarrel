@@ -1,0 +1,45 @@
+{
+ "id": "jjsu.dk/shop/histandard-sentinel--cal-22lr",
+ "detail_id": "418b9c4833d56466",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/histandard-sentinel--cal-22lr/",
+ "title": "Hi-Standard Sentinel - Cal. 22lr",
+ "price_dkk": 1800,
+ "weapon_type": "Revolver",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/histandard-sentinel--cal-22lr/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Hi-Standard Sentinel Tilstand: Brugt (Ældre model, som sjældent ses i Danmark)) Cal. 22lr Faste sigtemidler 9 skudstrommel",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/histandard-sentinel--cal-22lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/histandard-sentinel--cal-22lr/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/histandard-sentinel--cal-22lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/histandard-sentinel--cal-22lr/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/histandard-sentinel--cal-22lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/histandard-sentinel--cal-22lr/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

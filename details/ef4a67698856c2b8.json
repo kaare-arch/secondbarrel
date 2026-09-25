@@ -1,0 +1,75 @@
+{
+ "id": "brasholt.nu/product/merkel-helix-30-06",
+ "detail_id": "ef4a67698856c2b8",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/merkel-helix-30-06/",
+ "title": "Merkel Helix 30-06",
+ "price_dkk": 16999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Merkel",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Brugt rettrækker riffel med syntetisk skæfte. Både skæfte, system og pibe står uden nævneværdig slitage i en stand næsten så god som ny.Merkels korte låsegang og rettrækkersystem giver let og hurtig repetering.Desuden er det muligt på meget simpel vis at skifte pibe i systemet.",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/5.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/6.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/merkel-helix-30-06/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/merkel-helix-30-06/7.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

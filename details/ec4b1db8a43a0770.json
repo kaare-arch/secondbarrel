@@ -1,0 +1,45 @@
+{
+ "id": "michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270",
+ "detail_id": "ec4b1db8a43a0770",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270",
+ "title": "5474-AYA Prince 12/70",
+ "price_dkk": 3900,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270/0.webp",
+ "image_count": 3,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Kaliber : 12/70 Total længe :111Cm. Løbs længe : 69Cm. Skæfte længe : 36Cm. Ejector : Nej",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270/0.webp",
+   "width": 460,
+   "height": 308
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270/1.webp",
+   "width": 460,
+   "height": 308
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25837-brugte-vaaben-5474-aya-prince-1270/2.webp",
+   "width": 460,
+   "height": 308
+  }
+ ]
+}

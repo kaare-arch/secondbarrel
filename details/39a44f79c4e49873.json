@@ -1,0 +1,57 @@
+{
+ "id": "fe53900c-4d2f-4ec2-8bf0-f33741acfa7b",
+ "detail_id": "39a44f79c4e49873",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/rossi-8117-salonriffel-saet",
+ "title": "Rossi 8117 Salonriffel sæt.",
+ "price_dkk": 4499,
+ "weapon_type": "Salonriffel",
+ "brand": "Rossi",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-09-03",
+ "age_days": 17,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Rossi 8117 Salonriffel \n\nKaliber 17HMR. \n\nMed aftageligt magasin og gevind til lyddæmper. \n\nInkl. Nikko Sterling Mountmaster 3-9x40 med parallaxejustering. \n\nNyt ! \n\nSæt med optik : 4499,-\n\nKun riffel : 3199,-",
+ "images": [
+  {
+   "full": "/images/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/0.webp",
+   "thumb": "/thumbs/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/1.webp",
+   "thumb": "/thumbs/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/2.webp",
+   "thumb": "/thumbs/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/3.webp",
+   "thumb": "/thumbs/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/4.webp",
+   "thumb": "/thumbs/fe53900c-4d2f-4ec2-8bf0-f33741acfa7b/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

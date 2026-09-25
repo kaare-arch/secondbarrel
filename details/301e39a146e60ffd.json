@@ -1,0 +1,75 @@
+{
+ "id": "edd1e6a2-9690-4af3-838f-263df933748c",
+ "detail_id": "301e39a146e60ffd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/edd1e6a2-9690-4af3-838f-263df933748c/shr-970-cal-6-5-x-55",
+ "title": "SHR 970 cal 6,5 x 55",
+ "price_dkk": 5500,
+ "weapon_type": "Jagtriffel",
+ "brand": "SIG Sauer",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-10",
+ "age_days": 194,
+ "postnummer": "8000",
+ "by": "Aarhus C",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/0.webp",
+ "image_count": 8,
+ "lat": 56.15051496,
+ "lon": 10.27802097,
+ "description": "Super god kvalitet, lavet i Schweiz af SIG Sauer. Flot skæftetræ. Med Nielsen Sonic lyddæmper og Leupold QR montage med aftagelige 30 mm ringe.",
+ "images": [
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/0.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/1.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/2.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/3.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/4.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/5.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/6.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/edd1e6a2-9690-4af3-838f-263df933748c/7.webp",
+   "thumb": "/thumbs/edd1e6a2-9690-4af3-838f-263df933748c/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

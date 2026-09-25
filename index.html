@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SecondBarrel — brugte jagtvåben</title>
+<meta name="description" content="Brugte jagtvåben fra Gul og Gratis og danske forhandlere, samlet ét sted. Vi sælger intet — vi linker videre til den oprindelige annonce.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="styles.css?v=20260920c">
+</head>
+<body>
+
+<header class="top">
+  <div class="top-inner">
+    <div class="brand-mark" aria-label="SecondBarrel"><span aria-hidden="true">Sec<span class="o-barrel"></span>ndBarrel</span></div>
+    <p class="tagline">Brugte jagtvåben fra Gul og Gratis og danske forhandlere, samlet i én liste<span id="totalTag"></span>. Siden sælger intet selv — vi linker videre til den oprindelige annonce.</p>
+  </div>
+  <div class="auth-control" id="authControl"></div>
+  <button type="button" class="btn theme-toggle" id="themeToggle" aria-label="Skift tema">Tema: Auto</button>
+</header>
+
+<main class="wrap">
+
+  <div class="bar" id="filterBar">
+    <div class="group" data-key="type" role="group" aria-label="Våbentype (alle valgt som udgangspunkt - klik for at fjerne)">
+      <button type="button" class="chip" aria-pressed="true" data-key="type" data-v="Jagtriffel">Jagtriffel <span class="n">–</span></button>
+      <button type="button" class="chip" aria-pressed="true" data-key="type" data-v="Haglgevær">Haglgevær <span class="n">–</span></button>
+      <button type="button" class="chip" aria-pressed="true" data-key="type" data-v="Kombinationsvåben">Kombi <span class="n">–</span></button>
+      <button type="button" class="chip" aria-pressed="true" data-key="type" data-v="Salonriffel">Salonriffel <span class="n">–</span></button>
+      <button type="button" class="chip" aria-pressed="true" data-key="type" data-v="Pistol">Pistol <span class="n">–</span></button>
+      <button type="button" class="chip" aria-pressed="true" data-key="type" data-v="Revolver">Revolver <span class="n">–</span></button>
+    </div>
+    <div class="group" data-key="seller" role="group" aria-label="Sælgertype (alle valgt som udgangspunkt - klik for at fjerne)">
+      <button type="button" class="chip" aria-pressed="true" data-key="seller" data-v="Privat">Privat <span class="n">–</span></button>
+      <button type="button" class="chip" aria-pressed="true" data-key="seller" data-v="Forhandler">Forhandler <span class="n">–</span></button>
+    </div>
+    <div class="group selects">
+      <div class="field">
+        <label for="brandSelect">Mærke</label>
+        <select id="brandSelect"><option value="">Alle mærker</option></select>
+      </div>
+      <div class="field">
+        <label for="caliberSelect">Kaliber</label>
+        <select id="caliberSelect"><option value="">Alle kalibre</option></select>
+      </div>
+    </div>
+    <div class="group selects">
+      <div class="field">
+        <label for="postnrInput">Nær postnummer</label>
+        <input type="text" id="postnrInput" inputmode="numeric" autocomplete="off" placeholder="fx 8000" maxlength="4">
+      </div>
+      <div class="field">
+        <label for="radiusSelect">Radius</label>
+        <select id="radiusSelect" disabled>
+          <option value="">Alle afstande</option>
+          <option value="10">10 km</option>
+          <option value="25">25 km</option>
+          <option value="50">50 km</option>
+          <option value="100">100 km</option>
+          <option value="200">200 km</option>
+        </select>
+      </div>
+      <p class="postnr-note" id="postnrNote" hidden></p>
+    </div>
+    <button type="button" class="chip reset" id="resetBtn">Nulstil</button>
+  </div>
+
+  <div class="bar searchbar">
+    <div class="field search-field">
+      <label for="searchInput">Søg i titel og mærke</label>
+      <input type="search" id="searchInput" autocomplete="off" placeholder='fx “Sako” eller “6,5x55”'>
+    </div>
+  </div>
+
+  <section class="pricegraph" aria-label="Prisfilter">
+    <div class="hist" id="hist" aria-hidden="true"></div>
+    <div class="hist-axis" id="histAxis" aria-hidden="true"></div>
+    <div class="slider">
+      <label for="maxPrice">Maks. pris</label>
+      <input type="range" id="maxPrice" min="0" max="100000" step="500" value="100000">
+      <output for="maxPrice" id="maxPriceOut">100.000 kr. og derover</output>
+    </div>
+    <p class="median-note muted" id="medianNote"></p>
+  </section>
+
+  <div class="result">
+    <div class="count"><b id="resultCount">–</b> <span id="resultLabel">våben</span></div>
+    <span class="sr-only" id="resultCountLive" aria-live="polite"></span>
+    <div class="sort-field">
+      <label for="sortSelect">Sortér efter</label>
+      <select id="sortSelect">
+        <option value="newest">Nyeste først</option>
+        <option value="price_asc">Pris: lav til høj</option>
+        <option value="price_desc">Pris: høj til lav</option>
+        <option value="distance" id="distanceOption" disabled>Afstand: nærmest først</option>
+      </select>
+    </div>
+  </div>
+  <p class="auto-clear-note" id="autoClearNote" hidden aria-live="polite"></p>
+
+  <div id="cardsWrap">
+    <div class="cards" id="skeletonCards" aria-hidden="true"></div>
+    <div class="cards" id="cards" hidden></div>
+    <p class="empty-state" id="emptyState" hidden></p>
+    <p class="load-error" id="loadError" hidden>Kunne ikke hente data.json. Kør siden via en lokal webserver (se README.md) og genindlæs.</p>
+    <div class="loadmore-wrap">
+      <button type="button" class="btn" id="loadMoreBtn" hidden>Vis flere</button>
+    </div>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <p class="muted small">SecondBarrel er en oversigt, ikke en forhandler. Priser og stand er sælgers egne oplysninger, og hver annonce åbner hos kilden i et nyt vindue.<span id="dataDate"></span></p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+<script src="supabase-config.js?v=20260920c"></script>
+<script src="auth.js?v=20260920c"></script>
+<script src="cards.js?v=20260920c"></script>
+<script src="app.js?v=20260920c"></script>
+</body>
+</html>

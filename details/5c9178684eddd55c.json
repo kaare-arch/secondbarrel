@@ -1,0 +1,75 @@
+{
+ "id": "de7c6111-c7b5-4713-8a80-e66477a3dcd2",
+ "detail_id": "5c9178684eddd55c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/de7c6111-c7b5-4713-8a80-e66477a3dcd2/gebr-merkel-suhl-12-70-ss",
+ "title": "Gebr Merkel Suhl 12/70 ss",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": "Merkel",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-02",
+ "age_days": 18,
+ "postnummer": "7840",
+ "by": "Højslev",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/0.webp",
+ "image_count": 8,
+ "lat": 56.59677993,
+ "lon": 9.16509632,
+ "description": "utrolig flot og velholdt gevær ikke skudt mange skud\ntotal længde 108cm,løb 66 boring 1/4 1/2",
+ "images": [
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/0.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/1.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/2.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/3.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/4.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/5.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/6.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de7c6111-c7b5-4713-8a80-e66477a3dcd2/7.webp",
+   "thumb": "/thumbs/de7c6111-c7b5-4713-8a80-e66477a3dcd2/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66",
+ "detail_id": "67b7c1564131a7fb",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/lu-mar-scirocco",
+ "title": "LU MAR Scirocco",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": "Lu-Mar",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-02",
+ "age_days": 18,
+ "postnummer": "9000",
+ "by": "Aalborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/0.webp",
+ "image_count": 6,
+ "lat": 57.05171431,
+ "lon": 9.8350492,
+ "description": "Sælger denne over under haglgevær. Geværet har overflade rust plamager efter at stå efter en regnvejrsdag. Genbetale i god stand \n\nLængde 113,5 cm\nPibe 71\nKaliber 12/70",
+ "images": [
+  {
+   "full": "/images/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/0.webp",
+   "thumb": "/thumbs/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/1.webp",
+   "thumb": "/thumbs/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/2.webp",
+   "thumb": "/thumbs/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/3.webp",
+   "thumb": "/thumbs/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/4.webp",
+   "thumb": "/thumbs/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/5.webp",
+   "thumb": "/thumbs/3f4e8cd0-0537-4c63-9295-b1d9a0ac4f66/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

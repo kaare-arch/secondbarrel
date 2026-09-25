@@ -1,0 +1,51 @@
+{
+ "id": "9a3d393c-65c6-49e8-92e6-9c11e633c94a",
+ "detail_id": "4eb09b864d8e234d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9a3d393c-65c6-49e8-92e6-9c11e633c94a/lanber-baron-flot-stand",
+ "title": "Lanber Baron - flot stand",
+ "price_dkk": 2750,
+ "weapon_type": "Haglgevær",
+ "brand": "Lanber",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-06",
+ "age_days": 14,
+ "postnummer": "2700",
+ "by": "Brønshøj",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9a3d393c-65c6-49e8-92e6-9c11e633c94a/0.webp",
+ "image_count": 4,
+ "lat": 55.70964347,
+ "lon": 12.48463422,
+ "description": "Flot O/U jagtgevær fra spanske Lanber. Kal 12/70. Ingen ejektor, så du har styr på patronerne, når du er på jagt. Virkelig flot stand med flotte løb. Haglgeværet anmeldes i dit navn, før det forlader min adresse. Jagttegn skal naturligvis forevises.",
+ "images": [
+  {
+   "full": "/images/9a3d393c-65c6-49e8-92e6-9c11e633c94a/0.webp",
+   "thumb": "/thumbs/9a3d393c-65c6-49e8-92e6-9c11e633c94a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a3d393c-65c6-49e8-92e6-9c11e633c94a/1.webp",
+   "thumb": "/thumbs/9a3d393c-65c6-49e8-92e6-9c11e633c94a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a3d393c-65c6-49e8-92e6-9c11e633c94a/2.webp",
+   "thumb": "/thumbs/9a3d393c-65c6-49e8-92e6-9c11e633c94a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a3d393c-65c6-49e8-92e6-9c11e633c94a/3.webp",
+   "thumb": "/thumbs/9a3d393c-65c6-49e8-92e6-9c11e633c94a/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

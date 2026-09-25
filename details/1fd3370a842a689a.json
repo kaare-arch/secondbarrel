@@ -1,0 +1,43 @@
+{
+ "id": "a7407d82-07e8-4738-9945-e0d621575abe",
+ "detail_id": "1fd3370a842a689a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a7407d82-07e8-4738-9945-e0d621575abe/tikka-tac-a1-ctr-skaefte-links",
+ "title": "Tikka Tac A1 CTR skæfte LINKS",
+ "price_dkk": 6000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-03-19",
+ "age_days": 185,
+ "postnummer": "4250",
+ "by": "Fuglebjerg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a7407d82-07e8-4738-9945-e0d621575abe/0.webp",
+ "image_count": 3,
+ "lat": 55.31864081,
+ "lon": 11.55229442,
+ "description": "Sælger mit skæfte til min Tikka T3 da jeg har skiftet og det nu er til overs.\nLINKS",
+ "images": [
+  {
+   "full": "/images/a7407d82-07e8-4738-9945-e0d621575abe/0.webp",
+   "thumb": "/thumbs/a7407d82-07e8-4738-9945-e0d621575abe/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a7407d82-07e8-4738-9945-e0d621575abe/1.webp",
+   "thumb": "/thumbs/a7407d82-07e8-4738-9945-e0d621575abe/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a7407d82-07e8-4738-9945-e0d621575abe/2.webp",
+   "thumb": "/thumbs/a7407d82-07e8-4738-9945-e0d621575abe/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

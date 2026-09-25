@@ -1,0 +1,75 @@
+{
+ "id": "brasholt.nu/product/midland-kal-308w",
+ "detail_id": "e756791fff555005",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/midland-kal-308w/",
+ "title": "Midland kal 308W",
+ "price_dkk": 500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/5.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/6.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/midland-kal-308w/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/midland-kal-308w/7.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

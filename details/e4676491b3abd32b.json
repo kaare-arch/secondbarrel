@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/aya-goldpoint-kal-12",
+ "detail_id": "e4676491b3abd32b",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/aya-goldpoint-kal-12/",
+ "title": "AYA Goldpoint, kal. 12/70",
+ "price_dkk": 7000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

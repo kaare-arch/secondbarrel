@@ -1,0 +1,51 @@
+{
+ "id": "jjsu.dk/shop/baikal-ij-35--cal-22-lr",
+ "detail_id": "019f3677d3a20395",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/baikal-ij-35--cal-22-lr/",
+ "title": "Baikal IJ 35 - Cal. 22 LR",
+ "price_dkk": 2849,
+ "weapon_type": "Pistol",
+ "brand": "Baikal",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/baikal-ij-35--cal-22-lr/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Baikal IJ 35 Tilstand: Brugt Kaliber: 22 LR Totallængde: 27,00cm Løbslængde: 15,20cm Vægt: Ca. 1216g System: ½ auto Monteret med skæfte i valnøddetræ fra Tyske RINK Der medfølger i alt 2 magasiner",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/baikal-ij-35--cal-22-lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/baikal-ij-35--cal-22-lr/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/baikal-ij-35--cal-22-lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/baikal-ij-35--cal-22-lr/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/baikal-ij-35--cal-22-lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/baikal-ij-35--cal-22-lr/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/baikal-ij-35--cal-22-lr/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/baikal-ij-35--cal-22-lr/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

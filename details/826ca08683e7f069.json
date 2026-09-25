@@ -1,0 +1,45 @@
+{
+ "id": "4dd6b0dc-2bfd-4f51-9c76-596a27c046ed",
+ "detail_id": "826ca08683e7f069",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/fn-browning-b27-serioes-bud-modtages",
+ "title": "FN Browning B27. Seriøs bud modtages.",
+ "price_dkk": 6000,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-07",
+ "age_days": 44,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/0.webp",
+ "image_count": 3,
+ "lat": 55.02899493,
+ "lon": 9.49975045,
+ "description": "FN Browning B27. Made in Belgium.  i super flot stand. 12/70 og 71 cm løb. Skæftelængde 36.5 \nHar 2 stk, så køb eventuelt begge til 12000,-",
+ "images": [
+  {
+   "full": "/images/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/0.webp",
+   "thumb": "/thumbs/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/2.webp",
+   "thumb": "/thumbs/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/3.webp",
+   "thumb": "/thumbs/4dd6b0dc-2bfd-4f51-9c76-596a27c046ed/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

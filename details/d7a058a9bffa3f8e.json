@@ -1,0 +1,31 @@
+{
+ "id": "1773c3a2-9524-4780-9748-5e710b488642",
+ "detail_id": "d7a058a9bffa3f8e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1773c3a2-9524-4780-9748-5e710b488642/haglgevaer-giv-et-bud",
+ "title": "Haglgevær  giv et bud",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-01-24",
+ "age_days": 239,
+ "postnummer": "2765",
+ "by": "Smørum",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1773c3a2-9524-4780-9748-5e710b488642/0.webp",
+ "image_count": 1,
+ "lat": 55.72556424,
+ "lon": 12.28121197,
+ "description": "Fin og velholdt miroku 600 sport",
+ "images": [
+  {
+   "full": "/images/1773c3a2-9524-4780-9748-5e710b488642/0.webp",
+   "thumb": "/thumbs/1773c3a2-9524-4780-9748-5e710b488642/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

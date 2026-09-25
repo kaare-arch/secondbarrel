@@ -1,0 +1,39 @@
+{
+ "id": "jjsu.dk/shop/beretta-ar70-sporter-222rem",
+ "detail_id": "e2084caa34a3571e",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/beretta-ar70-sporter-222rem/",
+ "title": "Beretta AR70 Sporter 222Rem",
+ "price_dkk": 9500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Beretta",
+ "calibers": [
+  ".222 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/beretta-ar70-sporter-222rem/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Beretta AR70 Sporter Tilstand: Brugt. Caliber: 222Rem Ladesystem: ½ Auto Sælges som ½ auto kun til export, men ved eventuelt salg herhjemme kan vi ændre den til repeter. Der medfølger ialt 4 magasiner, rem, samt lyddæmper (tilladelsespligtig) Se omtalen i forgotten Weaponds HER",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/beretta-ar70-sporter-222rem/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/beretta-ar70-sporter-222rem/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/beretta-ar70-sporter-222rem/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/beretta-ar70-sporter-222rem/1.webp",
+   "width": 540,
+   "height": 324
+  }
+ ]
+}

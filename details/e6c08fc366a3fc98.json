@@ -1,0 +1,67 @@
+{
+ "id": "jjsu.dk/shop/smith--wesson-model-25--cal-45lc",
+ "detail_id": "e6c08fc366a3fc98",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/smith--wesson-model-25--cal-45lc/",
+ "title": "Smith & Wesson Model 25 - Cal. 45LC (125års jubilæumsmodel)",
+ "price_dkk": 12499,
+ "weapon_type": "Revolver",
+ "brand": "Smith & Wesson",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/0.webp",
+ "image_count": 7,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Smith & Wesson Model 25 (125års jubilæums model) Tilstand: Brugt, men rigtig flot stand. (Skudt maks 200skud) Caliber: 45 Long Colt Smith & Wesson Model 25 er en Caliber 45 Long Colt dobbeltaction revolver, med 6 skudstrommel og bygget på Smith & Wesson's N-ramme.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/3.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/4.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/4.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/5.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/5.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/6.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-25--cal-45lc/6.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

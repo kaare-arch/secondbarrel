@@ -1,0 +1,69 @@
+{
+ "id": "394958e5-66ee-4809-911b-b2ce0f931da0",
+ "detail_id": "b4ce21ffc77ef2fc",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/394958e5-66ee-4809-911b-b2ce0f931da0/sauer202-6-5x55",
+ "title": "Sauer202 6,5x55",
+ "price_dkk": 13500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-05",
+ "age_days": 168,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/0.webp",
+ "image_count": 7,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Sauer 202 i cal. 6.5x55. + et 5 skuds magasin. Med syntetisk skæfte og lyddæmper samt en del jagt og trænings ammo. Der sidder en welter 3-12x56. På den. Samt tripod.",
+ "images": [
+  {
+   "full": "/images/394958e5-66ee-4809-911b-b2ce0f931da0/0.webp",
+   "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/394958e5-66ee-4809-911b-b2ce0f931da0/1.webp",
+   "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/394958e5-66ee-4809-911b-b2ce0f931da0/2.webp",
+   "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/394958e5-66ee-4809-911b-b2ce0f931da0/3.webp",
+   "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/394958e5-66ee-4809-911b-b2ce0f931da0/4.webp",
+   "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/394958e5-66ee-4809-911b-b2ce0f931da0/5.webp",
+   "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/394958e5-66ee-4809-911b-b2ce0f931da0/6.webp",
+   "thumb": "/thumbs/394958e5-66ee-4809-911b-b2ce0f931da0/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

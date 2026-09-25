@@ -1,0 +1,43 @@
+{
+ "id": "eb102ea8-cb3a-4774-8f81-831ebf44bfbb",
+ "detail_id": "4c2e5a901912d950",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/brno-special-poldi-elektro-jagtgevaer-saelges",
+ "title": "Brno (Special Poldi Elektro) jagtgevær sælges",
+ "price_dkk": 500,
+ "weapon_type": "Haglgevær",
+ "brand": "CZ",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-05",
+ "age_days": 15,
+ "postnummer": "8355",
+ "by": "Solbjerg",
+ "stand_gg": null,
+ "thumb": "/thumbs/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/0.webp",
+ "image_count": 3,
+ "lat": 56.03661436,
+ "lon": 10.0866212,
+ "description": "Ældre Brno jagt gevær sælges.  Den går ikke stramt i løsen mere, men det er ikke noget der er kritisk, der er mange skud i den endnu.  Der er monteret ekstra kappe, så den er velegnet til en med lange arme.   Uden ejektor, med automatisk sikring.",
+ "images": [
+  {
+   "full": "/images/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/0.webp",
+   "thumb": "/thumbs/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/1.webp",
+   "thumb": "/thumbs/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/2.webp",
+   "thumb": "/thumbs/eb102ea8-cb3a-4774-8f81-831ebf44bfbb/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

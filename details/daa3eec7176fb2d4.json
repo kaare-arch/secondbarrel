@@ -1,0 +1,57 @@
+{
+ "id": "hunterspoint.dk/products/brugt-gyttorp-12-70",
+ "detail_id": "daa3eec7176fb2d4",
+ "source": "hunterspoint.dk",
+ "source_label": "Hunters Point",
+ "url": "https://hunterspoint.dk/products/brugt-gyttorp-12-70",
+ "title": "Brugt - Gyttorp over/under haglgevær - Kal. 12/70",
+ "price_dkk": 3999,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-06-23",
+ "age_days": null,
+ "postnummer": "8850",
+ "by": "Bjerringbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/hunterspoint.dk/products/brugt-gyttorp-12-70/0.webp",
+ "image_count": 5,
+ "lat": 56.36051392,
+ "lon": 9.64257403,
+ "description": "Brugt - Gyttorp - 12/70 Klassisk over/under haglgevær med flotte graveringer og traditionelt udtryk. Kaliber 12/70 med Gyttorp-logo graveret på baskylen, fasan på den ene side, sneppe på den anden samt to ænder graveret på undersiden.",
+ "images": [
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-gyttorp-12-70/0.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-gyttorp-12-70/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-gyttorp-12-70/1.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-gyttorp-12-70/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-gyttorp-12-70/2.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-gyttorp-12-70/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-gyttorp-12-70/3.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-gyttorp-12-70/3.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-gyttorp-12-70/4.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-gyttorp-12-70/4.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

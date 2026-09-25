@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/k-hagl-6",
+ "detail_id": "1a2abaf2403382aa",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/k-hagl-6/",
+ "title": "AYA Goldpoint s/s Kaliber 12/70",
+ "price_dkk": 11995,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

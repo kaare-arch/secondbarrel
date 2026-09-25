@@ -1,0 +1,43 @@
+{
+ "id": "jfskive.dk/products/skb-605-brugt",
+ "detail_id": "0bd851485dd472d8",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/skb-605-brugt",
+ "title": "SKB 605 (Brugt)",
+ "price_dkk": 9999,
+ "weapon_type": "Haglgevær",
+ "brand": "SKB",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-03-13",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/skb-605-brugt/0.webp",
+ "image_count": 3,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. 12-76 76 cm. løb Single trigger 5 indvendige chokes og 4 udvendige chokes Meget velholdt",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/skb-605-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/skb-605-brugt/0.webp",
+   "width": 1600,
+   "height": 902
+  },
+  {
+   "full": "/images/jfskive.dk/products/skb-605-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/skb-605-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/skb-605-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/skb-605-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

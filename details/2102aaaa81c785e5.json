@@ -1,0 +1,45 @@
+{
+ "id": "53164e92-9419-4841-889e-22a8ebb0a47f",
+ "detail_id": "2102aaaa81c785e5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/53164e92-9419-4841-889e-22a8ebb0a47f/suhl-standard-12-70",
+ "title": "Suhl Standard 12/70",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-03",
+ "age_days": 48,
+ "postnummer": "8830",
+ "by": "Tjele",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/53164e92-9419-4841-889e-22a8ebb0a47f/0.webp",
+ "image_count": 3,
+ "lat": 56.49762699,
+ "lon": 9.60208409,
+ "description": "Suhl Standard 12/70 næsten som ny og 100% original - 71 cm løb\nGyldigt jagttegn skal forevises",
+ "images": [
+  {
+   "full": "/images/53164e92-9419-4841-889e-22a8ebb0a47f/0.webp",
+   "thumb": "/thumbs/53164e92-9419-4841-889e-22a8ebb0a47f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/53164e92-9419-4841-889e-22a8ebb0a47f/1.webp",
+   "thumb": "/thumbs/53164e92-9419-4841-889e-22a8ebb0a47f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/53164e92-9419-4841-889e-22a8ebb0a47f/2.webp",
+   "thumb": "/thumbs/53164e92-9419-4841-889e-22a8ebb0a47f/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

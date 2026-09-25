@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-mauser-8-x-57-med-jaguar-4x32-sigtekikkert",
+ "detail_id": "da88cd34d646ca4a",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-mauser-8-x-57-med-jaguar-4x32-sigtekikkert",
+ "title": "Brugt - Mauser 8 x 57 med Jaguar 4x32 sigtekikkert",
+ "price_dkk": 1999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "8x57"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-mauser-8-x-57-med-jaguar-4x32-sigtekikkert/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt - Mauser 8 x 57 med Jaguar 4x32 sigtekikkert",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-mauser-8-x-57-med-jaguar-4x32-sigtekikkert/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-mauser-8-x-57-med-jaguar-4x32-sigtekikkert/0.webp",
+   "width": 1203,
+   "height": 1600
+  }
+ ]
+}

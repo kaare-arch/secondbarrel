@@ -1,0 +1,45 @@
+{
+ "id": "fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d",
+ "detail_id": "fbc1665146bbcbea",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/fuldskaeftet-jagtriffel",
+ "title": "Fuldskæftet jagtriffel",
+ "price_dkk": 8500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-05-10",
+ "age_days": 133,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/0.webp",
+ "image_count": 3,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Fin ældre fuldskæftet Steyr Mannlicher cal 6.5x55 med Swarovski kikkert. Einhak-montage. Med læderrem.\nFlot våben med patina.",
+ "images": [
+  {
+   "full": "/images/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/0.webp",
+   "thumb": "/thumbs/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/1.webp",
+   "thumb": "/thumbs/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/2.webp",
+   "thumb": "/thumbs/fa7c2ea9-dbac-42d7-bfc0-c2f07ab13a7d/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

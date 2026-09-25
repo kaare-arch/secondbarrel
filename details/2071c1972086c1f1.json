@@ -1,0 +1,39 @@
+{
+ "id": "70f821dd-02cd-4c01-820f-2669d174931c",
+ "detail_id": "2071c1972086c1f1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/70f821dd-02cd-4c01-820f-2669d174931c/tikka-t1x-22-lr-links",
+ "title": "Tikka T1X 22 lr links",
+ "price_dkk": 7900,
+ "weapon_type": "Salonriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-30",
+ "age_days": 21,
+ "postnummer": "7470",
+ "by": "Karup J",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/70f821dd-02cd-4c01-820f-2669d174931c/0.webp",
+ "image_count": 2,
+ "lat": 56.32799021,
+ "lon": 9.17419358,
+ "description": "Skudt omkring 6-700 skud\nGrs sporter skæfte\nS&l dæmper",
+ "images": [
+  {
+   "full": "/images/70f821dd-02cd-4c01-820f-2669d174931c/0.webp",
+   "thumb": "/thumbs/70f821dd-02cd-4c01-820f-2669d174931c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/70f821dd-02cd-4c01-820f-2669d174931c/1.webp",
+   "thumb": "/thumbs/70f821dd-02cd-4c01-820f-2669d174931c/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "511fb20c-a906-4e16-94b7-d02a5349135c",
+ "detail_id": "6e8066a8ce80006e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/511fb20c-a906-4e16-94b7-d02a5349135c/aya-president",
+ "title": "AYA President",
+ "price_dkk": 21000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-05-25",
+ "age_days": 118,
+ "postnummer": "5620",
+ "by": "Glamsbjerg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/0.webp",
+ "image_count": 8,
+ "lat": 55.27213799,
+ "lon": 10.10343663,
+ "description": "Meget flot og velholdt AYA President. \nDen er gennemgået fuldstændig af våbensmed.\nDer er monteret gummibagkappe, som ikke fremgår af billederne. Dette er også udført af professionel.",
+ "images": [
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/0.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/1.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/2.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/3.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/4.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/5.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/6.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/511fb20c-a906-4e16-94b7-d02a5349135c/7.webp",
+   "thumb": "/thumbs/511fb20c-a906-4e16-94b7-d02a5349135c/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "89eaae10-1263-476c-9a67-88b983838d45",
+ "detail_id": "85a42016f0e68e38",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/89eaae10-1263-476c-9a67-88b983838d45/tysk-s-s-12-70",
+ "title": "Tysk  S/S 12/70",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": "Sauer",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-10",
+ "age_days": 222,
+ "postnummer": "9460",
+ "by": "Brovst",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/89eaae10-1263-476c-9a67-88b983838d45/0.webp",
+ "image_count": 4,
+ "lat": 57.10716869,
+ "lon": 9.5353613,
+ "description": "Velholdt  S/S cal 12/70 Tysk Sauer AYA . Sælges kun pga. Jagtophør.\nPerfekt brunering og uden slør. Blanke løb. 2000,-",
+ "images": [
+  {
+   "full": "/images/89eaae10-1263-476c-9a67-88b983838d45/0.webp",
+   "thumb": "/thumbs/89eaae10-1263-476c-9a67-88b983838d45/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/89eaae10-1263-476c-9a67-88b983838d45/1.webp",
+   "thumb": "/thumbs/89eaae10-1263-476c-9a67-88b983838d45/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/89eaae10-1263-476c-9a67-88b983838d45/2.webp",
+   "thumb": "/thumbs/89eaae10-1263-476c-9a67-88b983838d45/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/89eaae10-1263-476c-9a67-88b983838d45/3.webp",
+   "thumb": "/thumbs/89eaae10-1263-476c-9a67-88b983838d45/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

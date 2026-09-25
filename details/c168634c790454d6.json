@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/otterup-m70-salonriffel",
+ "detail_id": "c168634c790454d6",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/otterup-m70-salonriffel/",
+ "title": "Otterup M70, 22LR",
+ "price_dkk": 800,
+ "weapon_type": "Salonriffel",
+ "brand": "Otterup",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

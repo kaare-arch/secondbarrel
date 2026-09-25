@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-rws-30-06-2-5-10x65-kikkert",
+ "detail_id": "38c26815f0969b9d",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-rws-30-06-2-5-10x65-kikkert",
+ "title": "Brugt - RWS 30-06 + 2,5-10x65 kikkert",
+ "price_dkk": 2999,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-rws-30-06-2-5-10x65-kikkert/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt - RWS 30-06 + 2,5-10x65 kikkert",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-rws-30-06-2-5-10x65-kikkert/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-rws-30-06-2-5-10x65-kikkert/0.webp",
+   "width": 1203,
+   "height": 1600
+  }
+ ]
+}

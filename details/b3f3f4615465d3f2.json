@@ -1,0 +1,63 @@
+{
+ "id": "95e7960c-ba43-4d8f-b898-7432f43339d1",
+ "detail_id": "b3f3f4615465d3f2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/95e7960c-ba43-4d8f-b898-7432f43339d1/beretta-xplorer-action",
+ "title": "Beretta Xplorer Action",
+ "price_dkk": 11000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-13",
+ "age_days": 250,
+ "postnummer": "8722",
+ "by": "Hedensted",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/95e7960c-ba43-4d8f-b898-7432f43339d1/0.webp",
+ "image_count": 6,
+ "lat": 55.76508387,
+ "lon": 9.71130088,
+ "description": "Beretta A 400 Action med skudtæller cal. 12/76 mag. og en løbslængde 75 cm. Den er med kick off rekyldæmpning på op til 70 % af normal rekyle. En af markedets bedste halvautomater.",
+ "images": [
+  {
+   "full": "/images/95e7960c-ba43-4d8f-b898-7432f43339d1/0.webp",
+   "thumb": "/thumbs/95e7960c-ba43-4d8f-b898-7432f43339d1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/95e7960c-ba43-4d8f-b898-7432f43339d1/1.webp",
+   "thumb": "/thumbs/95e7960c-ba43-4d8f-b898-7432f43339d1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/95e7960c-ba43-4d8f-b898-7432f43339d1/2.webp",
+   "thumb": "/thumbs/95e7960c-ba43-4d8f-b898-7432f43339d1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/95e7960c-ba43-4d8f-b898-7432f43339d1/3.webp",
+   "thumb": "/thumbs/95e7960c-ba43-4d8f-b898-7432f43339d1/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/95e7960c-ba43-4d8f-b898-7432f43339d1/4.webp",
+   "thumb": "/thumbs/95e7960c-ba43-4d8f-b898-7432f43339d1/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/95e7960c-ba43-4d8f-b898-7432f43339d1/5.webp",
+   "thumb": "/thumbs/95e7960c-ba43-4d8f-b898-7432f43339d1/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

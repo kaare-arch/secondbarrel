@@ -1,0 +1,39 @@
+{
+ "id": "ed6df0b9-f052-4c13-b4a6-b2db356048df",
+ "detail_id": "dcf087c79fc92212",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ed6df0b9-f052-4c13-b4a6-b2db356048df/savage-arms-17hmr",
+ "title": "Savage Arms 17hmr",
+ "price_dkk": 4800,
+ "weapon_type": "Salonriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-04",
+ "age_days": 228,
+ "postnummer": "5220",
+ "by": "Odense SØ",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ed6df0b9-f052-4c13-b4a6-b2db356048df/0.webp",
+ "image_count": 2,
+ "lat": 55.34929575,
+ "lon": 10.49825565,
+ "description": "Sælges pga jagt ophør. \nHar Max skudt 30 skud. \nDer medfølger en kikkert som sætter er købt med 3-9x44 og en s&l dæmper. \n\nDen står ikke på adressen, men kan fremvises efter aftale.",
+ "images": [
+  {
+   "full": "/images/ed6df0b9-f052-4c13-b4a6-b2db356048df/0.webp",
+   "thumb": "/thumbs/ed6df0b9-f052-4c13-b4a6-b2db356048df/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ed6df0b9-f052-4c13-b4a6-b2db356048df/1.webp",
+   "thumb": "/thumbs/ed6df0b9-f052-4c13-b4a6-b2db356048df/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

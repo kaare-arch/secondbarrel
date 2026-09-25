@@ -1,0 +1,31 @@
+{
+ "id": "nkjagt.dk/vare/19405-brno-cz",
+ "detail_id": "6cbd8f09d2e80644",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/19405-brno-cz",
+ "title": "BRNO CZ",
+ "price_dkk": 3995,
+ "weapon_type": "Haglgevær",
+ "brand": "CZ",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/19405-brno-cz/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/19405-brno-cz/0.png",
+   "thumb": "/thumbs/nkjagt.dk/vare/19405-brno-cz/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "nkjagt.dk/vare/1805-webley-scott-brugt-webley-scott-kal-1270",
+ "detail_id": "0787e7e4edda5b32",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/1805-webley-scott-brugt-webley-scott-kal-1270",
+ "title": "Webley & Scott Brugt Webley & Scott kal. 12/70",
+ "price_dkk": 8995,
+ "weapon_type": "Haglgevær",
+ "brand": "Webley & Scott",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/1805-webley-scott-brugt-webley-scott-kal-1270/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Brugt Webley & Scott Kal. 12/70",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/1805-webley-scott-brugt-webley-scott-kal-1270/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/1805-webley-scott-brugt-webley-scott-kal-1270/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

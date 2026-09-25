@@ -1,0 +1,57 @@
+{
+ "id": "dea7d23d-cade-41e0-8416-1ec1f57a1794",
+ "detail_id": "47567d2de56cc2be",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/dea7d23d-cade-41e0-8416-1ec1f57a1794/jilas-sport-o-u",
+ "title": "Jilas Sport O/U",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": "Jilas",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-03-19",
+ "age_days": 185,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/dea7d23d-cade-41e0-8416-1ec1f57a1794/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Jilas Sport O/U \n\nModel : 1200\n\nKaliber 12/76.\n\n66cm løb.\n\n1/4-1/2 Boring. \n\nFornuftig stand.",
+ "images": [
+  {
+   "full": "/images/dea7d23d-cade-41e0-8416-1ec1f57a1794/0.webp",
+   "thumb": "/thumbs/dea7d23d-cade-41e0-8416-1ec1f57a1794/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dea7d23d-cade-41e0-8416-1ec1f57a1794/1.webp",
+   "thumb": "/thumbs/dea7d23d-cade-41e0-8416-1ec1f57a1794/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dea7d23d-cade-41e0-8416-1ec1f57a1794/2.webp",
+   "thumb": "/thumbs/dea7d23d-cade-41e0-8416-1ec1f57a1794/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dea7d23d-cade-41e0-8416-1ec1f57a1794/3.webp",
+   "thumb": "/thumbs/dea7d23d-cade-41e0-8416-1ec1f57a1794/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dea7d23d-cade-41e0-8416-1ec1f57a1794/4.webp",
+   "thumb": "/thumbs/dea7d23d-cade-41e0-8416-1ec1f57a1794/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

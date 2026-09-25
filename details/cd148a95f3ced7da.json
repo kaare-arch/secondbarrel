@@ -1,0 +1,33 @@
+{
+ "id": "aa0e9478-c104-4cc8-9638-b84ed52ad319",
+ "detail_id": "cd148a95f3ced7da",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/aa0e9478-c104-4cc8-9638-b84ed52ad319/jagtgevaer-fortuna-suhl-12-70",
+ "title": "Jagtgevær - Fortuna Suhl 12/70",
+ "price_dkk": 800,
+ "weapon_type": "Haglgevær",
+ "brand": "Fortuna",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-06-10",
+ "age_days": 102,
+ "postnummer": "8930",
+ "by": "Randers NØ",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/aa0e9478-c104-4cc8-9638-b84ed52ad319/0.webp",
+ "image_count": 1,
+ "lat": 56.50265825,
+ "lon": 10.1724293,
+ "description": "4-Ringet Fortuna Suhl jagtgevær. Ældre, men fint klassisk s/s jagtgevær. Kaliber 12/70.\nEvt. bud.",
+ "images": [
+  {
+   "full": "/images/aa0e9478-c104-4cc8-9638-b84ed52ad319/0.webp",
+   "thumb": "/thumbs/aa0e9478-c104-4cc8-9638-b84ed52ad319/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

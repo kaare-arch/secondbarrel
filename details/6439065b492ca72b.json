@@ -1,0 +1,49 @@
+{
+ "id": "2a165d53-a767-49f2-8016-4a2edc8ceefd",
+ "detail_id": "6439065b492ca72b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2a165d53-a767-49f2-8016-4a2edc8ceefd/2-stk-haglboesser",
+ "title": "2 stk. haglbøsser",
+ "price_dkk": 1200,
+ "weapon_type": "Haglgevær",
+ "brand": "Sauer",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-03-29",
+ "age_days": 175,
+ "postnummer": "4700",
+ "by": "Næstved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/2a165d53-a767-49f2-8016-4a2edc8ceefd/0.webp",
+ "image_count": 4,
+ "lat": 55.19504272,
+ "lon": 11.77357353,
+ "description": "2 stk kal. 16 haglbøsser. Det ene er et hanegevær, det andet er et traditionelt. \nBegge har været anvendt for ca. 10 år siden af min svigerfar. \n\n\nDen almindelige bøsse er en JP Sauer, og hanegeværet kan jeg ikke rigtig tyde.\n\n \n\nsælge samlet til 1200kr",
+ "images": [
+  {
+   "full": "/images/2a165d53-a767-49f2-8016-4a2edc8ceefd/0.webp",
+   "thumb": "/thumbs/2a165d53-a767-49f2-8016-4a2edc8ceefd/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2a165d53-a767-49f2-8016-4a2edc8ceefd/1.webp",
+   "thumb": "/thumbs/2a165d53-a767-49f2-8016-4a2edc8ceefd/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2a165d53-a767-49f2-8016-4a2edc8ceefd/2.webp",
+   "thumb": "/thumbs/2a165d53-a767-49f2-8016-4a2edc8ceefd/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2a165d53-a767-49f2-8016-4a2edc8ceefd/3.webp",
+   "thumb": "/thumbs/2a165d53-a767-49f2-8016-4a2edc8ceefd/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

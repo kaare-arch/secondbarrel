@@ -1,0 +1,49 @@
+{
+ "id": "jjsu.dk/shop/colt-king-cobra--cal-357magnum-",
+ "detail_id": "32fa1a45f1f8a36a",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/colt-king-cobra--cal-357magnum-/",
+ "title": "Colt King Cobra - Cal. 38Spl / 357Magnum",
+ "price_dkk": 6499,
+ "weapon_type": "Revolver",
+ "brand": "Colt",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Colt King Cobra - 4\" Tilstand: Brugt Cal. 38SPecial / 357Magnum",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/colt-king-cobra--cal-357magnum-/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

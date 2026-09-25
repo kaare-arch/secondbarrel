@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-suhl-16-70-super-velholdt",
+ "detail_id": "74f0cdee9b1c1f02",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-suhl-16-70-super-velholdt",
+ "title": "Brugt suhl 16/70 Super velholdt",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-suhl-16-70-super-velholdt/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt suhl 16/70 Super velholdt",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-suhl-16-70-super-velholdt/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-suhl-16-70-super-velholdt/0.webp",
+   "width": 662,
+   "height": 902
+  }
+ ]
+}

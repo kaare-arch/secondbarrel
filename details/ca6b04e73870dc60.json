@@ -1,0 +1,45 @@
+{
+ "id": "70695235-4e15-4d1a-b71f-22d7995b1d60",
+ "detail_id": "ca6b04e73870dc60",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/70695235-4e15-4d1a-b71f-22d7995b1d60/tikka-512-bbf",
+ "title": "Tikka 512 bbf",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Tikka",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-04",
+ "age_days": 200,
+ "postnummer": "6541",
+ "by": "Bevtoft",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/0.webp",
+ "image_count": 3,
+ "lat": 55.19588025,
+ "lon": 9.19750089,
+ "description": "Pæn bbf tikka 512 i 7*57r/12-70 med originale montage og tasco kikker",
+ "images": [
+  {
+   "full": "/images/70695235-4e15-4d1a-b71f-22d7995b1d60/0.webp",
+   "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/70695235-4e15-4d1a-b71f-22d7995b1d60/1.webp",
+   "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/70695235-4e15-4d1a-b71f-22d7995b1d60/2.webp",
+   "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

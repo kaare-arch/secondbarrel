@@ -1,0 +1,51 @@
+{
+ "id": "6cc8181a-bc37-40dc-8a5e-c6c51d9052fe",
+ "detail_id": "f4a3fca5ff23fe1d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/f-marocchi-o-u",
+ "title": "F. marocchi O/U",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-03",
+ "age_days": 260,
+ "postnummer": "9240",
+ "by": "Nibe",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/0.webp",
+ "image_count": 4,
+ "lat": 56.94881207,
+ "lon": 9.57985536,
+ "description": "Fint brugt O/U 12/70. \nGeværet fremstår med brugsspor men er iorden mekanisk. \n\nTotallængde 114 cm længde forreste aftrækker 37 cm\n\nJagttegn er et krav.",
+ "images": [
+  {
+   "full": "/images/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/0.webp",
+   "thumb": "/thumbs/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/1.webp",
+   "thumb": "/thumbs/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/2.webp",
+   "thumb": "/thumbs/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/3.webp",
+   "thumb": "/thumbs/6cc8181a-bc37-40dc-8a5e-c6c51d9052fe/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

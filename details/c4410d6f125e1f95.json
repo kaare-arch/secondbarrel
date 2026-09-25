@@ -1,0 +1,49 @@
+{
+ "id": "jjsu.dk/shop/smith--wesson-model-14--cal-38special",
+ "detail_id": "c4410d6f125e1f95",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/smith--wesson-model-14--cal-38special/",
+ "title": "Smith & Wesson Model 14 - Cal. 38Special",
+ "price_dkk": 3499,
+ "weapon_type": "Revolver",
+ "brand": "Smith & Wesson",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-14--cal-38special/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Smith & Wesson - Model 14-3 ( K38 Target Masterpiece) Tilstand: Brugt Cal. 38 Special 6 Skuds tromle Modellen er med bred Target aftrækker og hane. Smith & Wesson Model K-38 Target Masterpiece Revolver Model 14, er en 6-skuds dobbelt-action revolver med justerbare åbne sigtemidler. Model 14 er bygget på den mellemstore \"K\" ramme,og kamret i .38 special. Revolveren blev introduceret i 1947 og oprindeligt kendt som K-38 Target Masterpiece, men blev i 1957 omdøbt til Model 14, da alle Smith & Wesson revolvere fik numeriske modelnumre. Den er bygget på den samme mellemstore ramme (K-frame) som den kendte Smith & Wesson Model 10 (\"Militær og politi\") revolver, også kendt her i danmark som ”Model Victory” da de blev nedkastet til modstandsbevægelsen under besættelsen. K-38-modellen blev godkendt til tjeneste hos Los Angeles Police Department i 1960'erne og ​1970'erne.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-14--cal-38special/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-14--cal-38special/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-14--cal-38special/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-14--cal-38special/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-14--cal-38special/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-14--cal-38special/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-14--cal-38special/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-14--cal-38special/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

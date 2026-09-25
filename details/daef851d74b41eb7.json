@@ -1,0 +1,45 @@
+{
+ "id": "28f2b0e0-6866-4582-b6b4-79165c8063ed",
+ "detail_id": "daef851d74b41eb7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/28f2b0e0-6866-4582-b6b4-79165c8063ed/vekselpibe-dobbeltriffel-7x65r-inkl-ammunition",
+ "title": "Vekselpibe - dobbeltriffel 7x65r inkl. ammunition",
+ "price_dkk": 3500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Valmet",
+ "calibers": [
+  "7x65R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-16",
+ "age_days": 66,
+ "postnummer": "4654",
+ "by": "Faxe Ladeplads",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/28f2b0e0-6866-4582-b6b4-79165c8063ed/0.webp",
+ "image_count": 3,
+ "lat": 55.19490482,
+ "lon": 12.19373813,
+ "description": "Vekselløb sæt til Tikka / Valmet 412s og 512s modeller - flatskydende kaliber inkl. \n- 27 stk RWS hit 9,1 grams kugle \n-  16 stk Sellior og Belliot spidsskarp. \n- tilhørende sadelmontage så du kan få sat optik på.",
+ "images": [
+  {
+   "full": "/images/28f2b0e0-6866-4582-b6b4-79165c8063ed/0.webp",
+   "thumb": "/thumbs/28f2b0e0-6866-4582-b6b4-79165c8063ed/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/28f2b0e0-6866-4582-b6b4-79165c8063ed/1.webp",
+   "thumb": "/thumbs/28f2b0e0-6866-4582-b6b4-79165c8063ed/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/28f2b0e0-6866-4582-b6b4-79165c8063ed/2.webp",
+   "thumb": "/thumbs/28f2b0e0-6866-4582-b6b4-79165c8063ed/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

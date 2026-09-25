@@ -1,0 +1,43 @@
+{
+ "id": "d05b3426-415f-4548-8181-41c7edc76647",
+ "detail_id": "a16148474eafee9f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d05b3426-415f-4548-8181-41c7edc76647/side-by-side",
+ "title": "side by side",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-02-12",
+ "age_days": 220,
+ "postnummer": "6630",
+ "by": "Rødding",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/d05b3426-415f-4548-8181-41c7edc76647/0.webp",
+ "image_count": 3,
+ "lat": 55.38472069,
+ "lon": 9.14057169,
+ "description": "Hej sælger hermed min side by side det er den lyse af dem med langt løb 1500kr",
+ "images": [
+  {
+   "full": "/images/d05b3426-415f-4548-8181-41c7edc76647/0.webp",
+   "thumb": "/thumbs/d05b3426-415f-4548-8181-41c7edc76647/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d05b3426-415f-4548-8181-41c7edc76647/1.webp",
+   "thumb": "/thumbs/d05b3426-415f-4548-8181-41c7edc76647/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d05b3426-415f-4548-8181-41c7edc76647/2.webp",
+   "thumb": "/thumbs/d05b3426-415f-4548-8181-41c7edc76647/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

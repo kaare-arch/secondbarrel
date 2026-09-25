@@ -1,0 +1,43 @@
+{
+ "id": "jfskive.dk/products/sako-75-brugt",
+ "detail_id": "f7c932486198b16b",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/sako-75-brugt",
+ "title": "Sako 75 (Brugt)",
+ "price_dkk": 13999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2024-09-24",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/sako-75-brugt/0.webp",
+ "image_count": 3,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. 9,3x62 Steiner Ranger 1-4x24 kikkert med lys Originale Steiner Linsedæksler A-Tec Hertz 119 Lyddæmper",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/sako-75-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/sako-75-brugt/0.webp",
+   "width": 1600,
+   "height": 966
+  },
+  {
+   "full": "/images/jfskive.dk/products/sako-75-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/sako-75-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/sako-75-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/sako-75-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

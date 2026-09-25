@@ -1,0 +1,57 @@
+{
+ "id": "deb2a358-00b3-4aa2-9159-810fd11bf242",
+ "detail_id": "2f7df138d9de1c5e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/deb2a358-00b3-4aa2-9159-810fd11bf242/mauser-98-riffel",
+ "title": "Mauser 98 Riffel",
+ "price_dkk": 800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "8x57"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-02-18",
+ "age_days": 214,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/deb2a358-00b3-4aa2-9159-810fd11bf242/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Mauser 98 Riffel.\n\nKaliber 8x57.\n\nInkl. Baser. \n\nPæn brugt stand.",
+ "images": [
+  {
+   "full": "/images/deb2a358-00b3-4aa2-9159-810fd11bf242/0.webp",
+   "thumb": "/thumbs/deb2a358-00b3-4aa2-9159-810fd11bf242/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/deb2a358-00b3-4aa2-9159-810fd11bf242/1.webp",
+   "thumb": "/thumbs/deb2a358-00b3-4aa2-9159-810fd11bf242/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/deb2a358-00b3-4aa2-9159-810fd11bf242/2.webp",
+   "thumb": "/thumbs/deb2a358-00b3-4aa2-9159-810fd11bf242/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/deb2a358-00b3-4aa2-9159-810fd11bf242/3.webp",
+   "thumb": "/thumbs/deb2a358-00b3-4aa2-9159-810fd11bf242/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/deb2a358-00b3-4aa2-9159-810fd11bf242/4.webp",
+   "thumb": "/thumbs/deb2a358-00b3-4aa2-9159-810fd11bf242/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "a60c6ba1-8623-4e29-b6c4-619a56126693",
+ "detail_id": "c0ec5464a192b302",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a60c6ba1-8623-4e29-b6c4-619a56126693/sako-kal-338-win-mag-reserveret",
+ "title": "Sako kal .338 Win mag (RESERVERET)",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".338"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-06-14",
+ "age_days": 98,
+ "postnummer": "3000",
+ "by": "Helsingør",
+ "stand_gg": null,
+ "thumb": "/thumbs/a60c6ba1-8623-4e29-b6c4-619a56126693/0.webp",
+ "image_count": 3,
+ "lat": 56.03943161,
+ "lon": 12.61245096,
+ "description": "En sjældent brugt riffel fra Finske Sako i kal .338 Win Mag.\nStanden er rigtig god med knivskarp riffelgang.\n\nFast pris.\nIngen bytte.\nIngen bud.",
+ "images": [
+  {
+   "full": "/images/a60c6ba1-8623-4e29-b6c4-619a56126693/0.webp",
+   "thumb": "/thumbs/a60c6ba1-8623-4e29-b6c4-619a56126693/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a60c6ba1-8623-4e29-b6c4-619a56126693/1.webp",
+   "thumb": "/thumbs/a60c6ba1-8623-4e29-b6c4-619a56126693/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a60c6ba1-8623-4e29-b6c4-619a56126693/2.webp",
+   "thumb": "/thumbs/a60c6ba1-8623-4e29-b6c4-619a56126693/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

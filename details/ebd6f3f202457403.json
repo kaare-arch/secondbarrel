@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/browning-b725-sporter",
+ "detail_id": "ebd6f3f202457403",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/browning-b725-sporter/",
+ "title": "Browning B725 Sporter, 12-76",
+ "price_dkk": 18995,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-sporter/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Browning B725 SporterBrugt Browning B725 Sporter i kaliber 12-76. Dette over/under haglgevær har 81 cm løb, mobile chokes og trap-forskæfte. Geværet er forsynet med ejektor. Derudover har denne B725 Sporter justerbar kolbe, så den kan tilpasses til dig. Leveres med original kuffert.",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-sporter/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-sporter/0.webp",
+   "width": 1024,
+   "height": 201
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-sporter/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-sporter/1.webp",
+   "width": 1024,
+   "height": 543
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-sporter/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-sporter/2.webp",
+   "width": 1024,
+   "height": 547
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-sporter/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-sporter/3.webp",
+   "width": 1024,
+   "height": 315
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-sporter/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-sporter/4.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-b725-sporter/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-b725-sporter/5.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

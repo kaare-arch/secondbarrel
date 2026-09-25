@@ -1,0 +1,51 @@
+{
+ "id": "1ef8deee-4b66-48d0-a61e-92b0ecc2c0df",
+ "detail_id": "2f645226d934d047",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/beretta-silver-pigeon",
+ "title": "Beretta Silver Pigeon",
+ "price_dkk": 11500,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-29",
+ "age_days": 22,
+ "postnummer": "6470",
+ "by": "Sydals",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/0.webp",
+ "image_count": 4,
+ "lat": 54.87308589,
+ "lon": 10.03587811,
+ "description": "Beretta Silver Pigeon Links (left hand) 12/76, 71cm løb jagt model købt fra ny i dec 2020. Den har fået monteret rembøjler. Org. kuffert, chokes optima hp, olie og papirer medfølger. Derudover er der 2 stk udv. Teague chokes en IC og en LM købt direkte fra UK til ca. 1000 kr. Står tæt på ny stand skudt meget lidt.",
+ "images": [
+  {
+   "full": "/images/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/0.webp",
+   "thumb": "/thumbs/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/1.webp",
+   "thumb": "/thumbs/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/2.webp",
+   "thumb": "/thumbs/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/3.webp",
+   "thumb": "/thumbs/1ef8deee-4b66-48d0-a61e-92b0ecc2c0df/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

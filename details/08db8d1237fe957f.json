@@ -1,0 +1,63 @@
+{
+ "id": "hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06",
+ "detail_id": "08db8d1237fe957f",
+ "source": "hunterspoint.dk",
+ "source_label": "Hunters Point",
+ "url": "https://hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06",
+ "title": "Brugt - Tikka M690 riffel - Kaliber 30-06",
+ "price_dkk": 6999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-06-25",
+ "age_days": null,
+ "postnummer": "8850",
+ "by": "Bjerringbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/0.webp",
+ "image_count": 6,
+ "lat": 56.36051392,
+ "lon": 9.64257403,
+ "description": "Brugt Tikka M690 riffel i kaliber .30-06 – en klassisk finsk kvalitetsriffel kendt for høj præcision og driftssikkerhed. Den robuste lås, justerbare aftrækker og aftagelige magasin gør den til et populært valg blandt jægere. Fremstår i pæn brugt stand med almindelige brugsspor og masser af jagtår tilbage.",
+ "images": [
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/0.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/1.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/2.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/3.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/3.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/4.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/4.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/5.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-tikka-m690-riffel-kaliber-30-06/5.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

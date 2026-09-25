@@ -1,0 +1,55 @@
+{
+ "id": "45daef1d-9d20-452e-a889-89c14d9515e1",
+ "detail_id": "1ce1904500f425a1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/45daef1d-9d20-452e-a889-89c14d9515e1/henry-big-boy-45-colt",
+ "title": "Henry Big Boy .45 Colt",
+ "price_dkk": 6499,
+ "weapon_type": "Jagtriffel",
+ "brand": "Henry",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-08-05",
+ "age_days": 46,
+ "postnummer": "4640",
+ "by": "Faxe",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/45daef1d-9d20-452e-a889-89c14d9515e1/0.webp",
+ "image_count": 5,
+ "lat": 55.2685839,
+ "lon": 12.12411652,
+ "description": "Flot riffel der kan bruges til western eller den lille jagt. Fra ny står den til 12.500. 8-kantet løb. \n\nÆgte bøjlespænder - eller lever action.",
+ "images": [
+  {
+   "full": "/images/45daef1d-9d20-452e-a889-89c14d9515e1/0.webp",
+   "thumb": "/thumbs/45daef1d-9d20-452e-a889-89c14d9515e1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/45daef1d-9d20-452e-a889-89c14d9515e1/1.webp",
+   "thumb": "/thumbs/45daef1d-9d20-452e-a889-89c14d9515e1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/45daef1d-9d20-452e-a889-89c14d9515e1/2.webp",
+   "thumb": "/thumbs/45daef1d-9d20-452e-a889-89c14d9515e1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/45daef1d-9d20-452e-a889-89c14d9515e1/3.webp",
+   "thumb": "/thumbs/45daef1d-9d20-452e-a889-89c14d9515e1/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/45daef1d-9d20-452e-a889-89c14d9515e1/4.webp",
+   "thumb": "/thumbs/45daef1d-9d20-452e-a889-89c14d9515e1/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

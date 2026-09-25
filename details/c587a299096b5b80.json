@@ -1,0 +1,45 @@
+{
+ "id": "747f207d-d2cf-4e72-96bc-edba5ab4e655",
+ "detail_id": "c587a299096b5b80",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/747f207d-d2cf-4e72-96bc-edba5ab4e655/bsa-riffel-kaliber-22-hornet",
+ "title": "BSA-riffel – Kaliber .22 Hornet",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "BSA",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-05",
+ "age_days": 227,
+ "postnummer": "8930",
+ "by": "Randers NØ",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/0.webp",
+ "image_count": 3,
+ "lat": 56.50265825,
+ "lon": 10.1724293,
+ "description": "Med special fremstillet skæfte – originalt skæfte medfølger.\nBR Reflex Lyddæmper\nWeaver CV16  - 4-16 x 42, med modlysblænde.\nPris: 3500 kr.",
+ "images": [
+  {
+   "full": "/images/747f207d-d2cf-4e72-96bc-edba5ab4e655/0.webp",
+   "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/747f207d-d2cf-4e72-96bc-edba5ab4e655/1.webp",
+   "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/747f207d-d2cf-4e72-96bc-edba5ab4e655/2.webp",
+   "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

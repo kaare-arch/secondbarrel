@@ -1,0 +1,51 @@
+{
+ "id": "85e4f267-01cb-487a-9048-3c1a3fec4b1a",
+ "detail_id": "1e009cc3eeb7d644",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/85e4f267-01cb-487a-9048-3c1a3fec4b1a/winchester-churchill",
+ "title": "Winchester Churchill",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-11",
+ "age_days": 221,
+ "postnummer": "9460",
+ "by": "Brovst",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/85e4f267-01cb-487a-9048-3c1a3fec4b1a/0.webp",
+ "image_count": 4,
+ "lat": 57.10716869,
+ "lon": 9.5353613,
+ "description": "Kaliber 308\nFlot og velskydende riffel. \nSælges grundet køb af ny.",
+ "images": [
+  {
+   "full": "/images/85e4f267-01cb-487a-9048-3c1a3fec4b1a/0.webp",
+   "thumb": "/thumbs/85e4f267-01cb-487a-9048-3c1a3fec4b1a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/85e4f267-01cb-487a-9048-3c1a3fec4b1a/1.webp",
+   "thumb": "/thumbs/85e4f267-01cb-487a-9048-3c1a3fec4b1a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/85e4f267-01cb-487a-9048-3c1a3fec4b1a/2.webp",
+   "thumb": "/thumbs/85e4f267-01cb-487a-9048-3c1a3fec4b1a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/85e4f267-01cb-487a-9048-3c1a3fec4b1a/3.webp",
+   "thumb": "/thumbs/85e4f267-01cb-487a-9048-3c1a3fec4b1a/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

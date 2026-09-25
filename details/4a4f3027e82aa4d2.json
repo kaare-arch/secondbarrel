@@ -1,0 +1,33 @@
+{
+ "id": "macnab.eu/vare/11272-sauer-sauer-80-kal7x64",
+ "detail_id": "4a4f3027e82aa4d2",
+ "source": "macnab.eu",
+ "source_label": "Macnab",
+ "url": "https://www.macnab.eu/vare/11272-sauer-sauer-80-kal7x64",
+ "title": "Sauer Sauer 80 kal.7x64",
+ "price_dkk": 7999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "7x64"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6400",
+ "by": "Sønderborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/macnab.eu/vare/11272-sauer-sauer-80-kal7x64/0.webp",
+ "image_count": 1,
+ "lat": 54.9528525,
+ "lon": 9.71079556,
+ "description": "Sauer JagtriffelModel 80Kaliber 7X64Zeiss sigtekikkertFlot velholdt jagtriffel",
+ "images": [
+  {
+   "full": "/images/macnab.eu/vare/11272-sauer-sauer-80-kal7x64/0.webp",
+   "thumb": "/thumbs/macnab.eu/vare/11272-sauer-sauer-80-kal7x64/0.webp",
+   "width": 580,
+   "height": 580
+  }
+ ]
+}

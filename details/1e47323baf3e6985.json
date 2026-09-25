@@ -1,0 +1,45 @@
+{
+ "id": "jjsu.dk/shop/erma-ep882s-p38--cal-22-lr",
+ "detail_id": "1e47323baf3e6985",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/",
+ "title": "Erma EP882S (P38) - Cal. 22 LR",
+ "price_dkk": 3499,
+ "weapon_type": "Pistol",
+ "brand": "Erma",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Erma EP882S (P38) Tilstand: Brugt Cal. 22lr Totallængde: 22,60cm Løbslængde: 12,10cm Ladesystem: ½ auto Denne type pistol vil normalvis gerne have kraftigere ladet amminition end den typiske banepistol, eksenpelvis cci minimag eller tilsvarende.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/erma-ep882s-p38--cal-22-lr/2.webp",
+   "width": 540,
+   "height": 359
+  }
+ ]
+}

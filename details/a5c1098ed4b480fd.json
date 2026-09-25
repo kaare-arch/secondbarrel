@@ -1,0 +1,39 @@
+{
+ "id": "jjsu.dk/shop/unique-dec-69--cal-22-lr",
+ "detail_id": "a5c1098ed4b480fd",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/unique-dec-69--cal-22-lr/",
+ "title": "Unique Dec 69 - Cal. 22 LR",
+ "price_dkk": 2499,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/unique-dec-69--cal-22-lr/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Des Unique 69 Tilstand: Brugt Caliber. 22lr Der medfølger ialt 1 magasin",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/unique-dec-69--cal-22-lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/unique-dec-69--cal-22-lr/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/unique-dec-69--cal-22-lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/unique-dec-69--cal-22-lr/1.webp",
+   "width": 540,
+   "height": 359
+  }
+ ]
+}

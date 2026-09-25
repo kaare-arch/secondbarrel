@@ -1,0 +1,33 @@
+{
+ "id": "brasholt.nu/product/remington-783-30-06",
+ "detail_id": "e76c3c2b1d7dbfee",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/remington-783-30-06/",
+ "title": "Remington 783 30.06 m/ 2,5-10×50 IR",
+ "price_dkk": 6995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/remington-783-30-06/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Remington 783 .30-06 spr. Syntetisk skæfte afsluttet med blød gummikappe. Riflen er monteret med en ny Wildgame 2,5-10X50IR. Riflen er så god som ny. Piben står med en anelse slitage ved mundingen.",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/remington-783-30-06/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/remington-783-30-06/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

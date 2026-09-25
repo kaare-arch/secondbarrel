@@ -1,0 +1,57 @@
+{
+ "id": "9133971c-aaea-418b-aafa-a4e72714ae87",
+ "detail_id": "498af686cf81eb60",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9133971c-aaea-418b-aafa-a4e72714ae87/beretta-ultra-light-gold",
+ "title": "Beretta ultra light gold",
+ "price_dkk": 11000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-09",
+ "age_days": 11,
+ "postnummer": "4230",
+ "by": "Skælskør",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9133971c-aaea-418b-aafa-a4e72714ae87/0.webp",
+ "image_count": 5,
+ "lat": 55.17717085,
+ "lon": 11.34912168,
+ "description": "Fin beretta ultra light gold 12/70 67 cm løb, brugt men i god stand, enkelte mindre mærker på skæftet, gyldigt jagttegn skal vises og omregistrering foregår ved salg",
+ "images": [
+  {
+   "full": "/images/9133971c-aaea-418b-aafa-a4e72714ae87/0.webp",
+   "thumb": "/thumbs/9133971c-aaea-418b-aafa-a4e72714ae87/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9133971c-aaea-418b-aafa-a4e72714ae87/1.webp",
+   "thumb": "/thumbs/9133971c-aaea-418b-aafa-a4e72714ae87/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9133971c-aaea-418b-aafa-a4e72714ae87/2.webp",
+   "thumb": "/thumbs/9133971c-aaea-418b-aafa-a4e72714ae87/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9133971c-aaea-418b-aafa-a4e72714ae87/3.webp",
+   "thumb": "/thumbs/9133971c-aaea-418b-aafa-a4e72714ae87/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9133971c-aaea-418b-aafa-a4e72714ae87/4.webp",
+   "thumb": "/thumbs/9133971c-aaea-418b-aafa-a4e72714ae87/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "523b57a9-9f1f-41c2-99cf-5f5acc3631c1",
+ "detail_id": "84464e37462fb460",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/ruger-vaquero-45-long-colt",
+ "title": "Ruger Vaquero 45 Long Colt",
+ "price_dkk": 4800,
+ "weapon_type": "Pistol",
+ "brand": "Ruger",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-08-21",
+ "age_days": 30,
+ "postnummer": "8464",
+ "by": "Galten",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/0.webp",
+ "image_count": 3,
+ "lat": 56.17800104,
+ "lon": 9.91179535,
+ "description": "Colt Vaquero 45 long Colt\nNæsten ubrugt og en af de få der kan skyde med de helt hårdt ladede ruger patroner.\nVirkelig en kvalitets revolver.",
+ "images": [
+  {
+   "full": "/images/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/0.webp",
+   "thumb": "/thumbs/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/1.webp",
+   "thumb": "/thumbs/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/2.webp",
+   "thumb": "/thumbs/523b57a9-9f1f-41c2-99cf-5f5acc3631c1/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "mbjagt.dk/shop/aya-guldmann-ambassador-12-70",
+ "detail_id": "916c2dfde98585af",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/aya-guldmann-ambassador-12-70/",
+ "title": "AYA Guldmann Ambassador, 12-70",
+ "price_dkk": 17995,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/0.webp",
+ "image_count": 8,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "AYA Guldmann Ambassador",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/0.webp",
+   "width": 1024,
+   "height": 231
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/1.webp",
+   "width": 1024,
+   "height": 549
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/2.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/3.webp",
+   "width": 1024,
+   "height": 354
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/4.webp",
+   "width": 1024,
+   "height": 615
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/5.webp",
+   "width": 899,
+   "height": 768
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/6.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/7.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/aya-guldmann-ambassador-12-70/7.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

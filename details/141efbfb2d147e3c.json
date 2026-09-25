@@ -1,0 +1,57 @@
+{
+ "id": "vaabensalg.dk/products/voere-6-5x55",
+ "detail_id": "141efbfb2d147e3c",
+ "source": "vaabensalg.dk",
+ "source_label": "Våbensalg",
+ "url": "https://vaabensalg.dk/products/voere-6-5x55",
+ "title": "Voere Kal 6,5x55 jagtriffel - brugt",
+ "price_dkk": 1500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Voere",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-02-05",
+ "age_days": null,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": null,
+ "thumb": "/thumbs/vaabensalg.dk/products/voere-6-5x55/0.webp",
+ "image_count": 5,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Voere 6,5x55 Voere kal. 6,5x55 Pibelængde: 59 cm, Totallængde: 114 cm.",
+ "images": [
+  {
+   "full": "/images/vaabensalg.dk/products/voere-6-5x55/0.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/voere-6-5x55/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/voere-6-5x55/1.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/voere-6-5x55/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/voere-6-5x55/2.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/voere-6-5x55/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/voere-6-5x55/3.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/voere-6-5x55/3.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/voere-6-5x55/4.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/voere-6-5x55/4.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

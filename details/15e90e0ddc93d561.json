@@ -1,0 +1,37 @@
+{
+ "id": "27933da6-2313-416f-9ae1-e776a9141a17",
+ "detail_id": "15e90e0ddc93d561",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/27933da6-2313-416f-9ae1-e776a9141a17/laurona-eibar",
+ "title": "Laurona- eibar",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Laurona",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-01-20",
+ "age_days": 243,
+ "postnummer": "5540",
+ "by": "Ullerslev",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/27933da6-2313-416f-9ae1-e776a9141a17/0.webp",
+ "image_count": 2,
+ "lat": 55.38540272,
+ "lon": 10.67264084,
+ "description": "Flot og velholdt gevær kontakt på [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/27933da6-2313-416f-9ae1-e776a9141a17/0.webp",
+   "thumb": "/thumbs/27933da6-2313-416f-9ae1-e776a9141a17/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/27933da6-2313-416f-9ae1-e776a9141a17/1.webp",
+   "thumb": "/thumbs/27933da6-2313-416f-9ae1-e776a9141a17/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

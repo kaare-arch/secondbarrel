@@ -1,0 +1,61 @@
+{
+ "id": "brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50",
+ "detail_id": "b36e14993ec71efd",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/",
+ "title": "TIKKA M690 Jaguar 6,5×55 M/Jaeger 2,5-10×50",
+ "price_dkk": 7900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/0.webp",
+ "image_count": 6,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/0.webp",
+   "thumb": "/thumbs/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/0.webp",
+   "width": 1448,
+   "height": 1448
+  },
+  {
+   "full": "/images/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/1.webp",
+   "thumb": "/thumbs/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/1.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/2.webp",
+   "thumb": "/thumbs/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/2.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/3.webp",
+   "thumb": "/thumbs/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/3.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/4.webp",
+   "thumb": "/thumbs/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/4.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/5.webp",
+   "thumb": "/thumbs/brasholt.nu/product/tikka-m690-jaguar-65x55-m-jaeger-25-10x50/5.webp",
+   "width": 1254,
+   "height": 1254
+  }
+ ]
+}

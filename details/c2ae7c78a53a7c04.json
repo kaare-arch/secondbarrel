@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/carl-gustav-30-06",
+ "detail_id": "c2ae7c78a53a7c04",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/carl-gustav-30-06/",
+ "title": "Carl Gustav, .30-06",
+ "price_dkk": 8000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "70ad0109-891b-4b2c-aee7-59f235fc63d2",
+ "detail_id": "dbcf061aff8a57d5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/70ad0109-891b-4b2c-aee7-59f235fc63d2/browning-high-wall",
+ "title": "BROWNING HIGH WALL",
+ "price_dkk": 8000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2025-10-04",
+ "age_days": 351,
+ "postnummer": "3480",
+ "by": "Fredensborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/70ad0109-891b-4b2c-aee7-59f235fc63d2/0.webp",
+ "image_count": 1,
+ "lat": 55.97086354,
+ "lon": 12.40200836,
+ "description": "BROWNING 1885 HIGH WALL SINGLE SHOT RIFFEL I KAL. .454 CASULL MED 30'' PIBE",
+ "images": [
+  {
+   "full": "/images/70ad0109-891b-4b2c-aee7-59f235fc63d2/0.webp",
+   "thumb": "/thumbs/70ad0109-891b-4b2c-aee7-59f235fc63d2/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

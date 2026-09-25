@@ -1,0 +1,39 @@
+{
+ "id": "49fd33ec-4679-454d-975b-ad55b890425c",
+ "detail_id": "760978aab8afa431",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/49fd33ec-4679-454d-975b-ad55b890425c/browning-22lr-pumpgun",
+ "title": "BROWNING 22LR PUMPGUN",
+ "price_dkk": 3500,
+ "weapon_type": "Salonriffel",
+ "brand": "Browning",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-14",
+ "age_days": 68,
+ "postnummer": "5672",
+ "by": "Broby",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/49fd33ec-4679-454d-975b-ad55b890425c/0.webp",
+ "image_count": 2,
+ "lat": 55.24506199,
+ "lon": 10.25211529,
+ "description": "Sjov lille salonriffel. \n11 skud i rørmagasinet.\nRødpukt kan medfølge.\nDesignet af John Moses selv i 1919 og produceret på FN siden 1922. Jeg mener at den her er fra 1952. Det er en takeDown model så den skilles nemt ad med en fingerskrue lige bag aftrækker. \nBefinder sig på fyn.\nFast pris.\nSvare kun sms [tlf fjernet].",
+ "images": [
+  {
+   "full": "/images/49fd33ec-4679-454d-975b-ad55b890425c/0.webp",
+   "thumb": "/thumbs/49fd33ec-4679-454d-975b-ad55b890425c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/49fd33ec-4679-454d-975b-ad55b890425c/1.webp",
+   "thumb": "/thumbs/49fd33ec-4679-454d-975b-ad55b890425c/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

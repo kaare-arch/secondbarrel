@@ -1,0 +1,51 @@
+{
+ "id": "f3c19bda-18c9-4dfe-8c7a-4acec96d445c",
+ "detail_id": "7aff938e2ecc2bc3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/sako-xs-kal-223-rem-stainless",
+ "title": "SAKO XS KAL .223 REM STAINLESS",
+ "price_dkk": 13000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-09",
+ "age_days": 164,
+ "postnummer": "3480",
+ "by": "Fredensborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/0.webp",
+ "image_count": 4,
+ "lat": 55.97086354,
+ "lon": 12.40200836,
+ "description": "SAKO VARMINTER MED FLUTED HEAVY PIBE, VÆRET BRUGT TIL DEMONSTRATION , HAR IKKE SKUDT OVER\n50 SKUD!! SÅ GOD SOM NY, SÆLGES FORDELAGTIGT!\n\nKAL .223 REM - LOA 110 CM, LOP 36 CM, PIBE 60CM",
+ "images": [
+  {
+   "full": "/images/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/0.webp",
+   "thumb": "/thumbs/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/1.webp",
+   "thumb": "/thumbs/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/2.webp",
+   "thumb": "/thumbs/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/3.webp",
+   "thumb": "/thumbs/f3c19bda-18c9-4dfe-8c7a-4acec96d445c/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

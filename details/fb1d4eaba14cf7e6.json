@@ -1,0 +1,75 @@
+{
+ "id": "ef801541-5424-4d4e-af0b-4195e1a390fc",
+ "detail_id": "fb1d4eaba14cf7e6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ef801541-5424-4d4e-af0b-4195e1a390fc/oestrigsk-voere-jagtriffel",
+ "title": "Østrigsk Voere jagtriffel",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Voere",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-10-29",
+ "age_days": 326,
+ "postnummer": "6091",
+ "by": "Bjert",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/0.webp",
+ "image_count": 8,
+ "lat": 55.44548525,
+ "lon": 9.55990342,
+ "description": "Østrigsk jagtriffel repeter kal. 308 Wincherster \nKikkertsigte Tasco\nLyddæmper Victore\nSkulderrem\nMindre skade på skæftet",
+ "images": [
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/0.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/1.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/2.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/3.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/4.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/5.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/6.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef801541-5424-4d4e-af0b-4195e1a390fc/7.webp",
+   "thumb": "/thumbs/ef801541-5424-4d4e-af0b-4195e1a390fc/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

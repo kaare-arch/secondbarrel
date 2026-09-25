@@ -1,0 +1,55 @@
+{
+ "id": "6fa80e59-753a-4991-ab32-067302a60e66",
+ "detail_id": "02d5e9a61a2776a1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6fa80e59-753a-4991-ab32-067302a60e66/riffel-velholdt",
+ "title": "Riffel - velholdt",
+ "price_dkk": 7500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-04-08",
+ "age_days": 165,
+ "postnummer": "5500",
+ "by": "Middelfart",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/6fa80e59-753a-4991-ab32-067302a60e66/0.webp",
+ "image_count": 5,
+ "lat": 55.48934885,
+ "lon": 9.78489314,
+ "description": "Riffel, meget velholdt. \nSAKO\nModel Hunter \n\nSako 6.5*55.\n\nPåmonteret Zeiss kikkert, Zeiss Z 1.5-6*42MC S4. (Diatal Diavari).\n\nStort set ingen brugsspor! Fremstår som ny.\n\nSælges grundet Sygdom.",
+ "images": [
+  {
+   "full": "/images/6fa80e59-753a-4991-ab32-067302a60e66/0.webp",
+   "thumb": "/thumbs/6fa80e59-753a-4991-ab32-067302a60e66/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6fa80e59-753a-4991-ab32-067302a60e66/1.webp",
+   "thumb": "/thumbs/6fa80e59-753a-4991-ab32-067302a60e66/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6fa80e59-753a-4991-ab32-067302a60e66/2.webp",
+   "thumb": "/thumbs/6fa80e59-753a-4991-ab32-067302a60e66/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6fa80e59-753a-4991-ab32-067302a60e66/3.webp",
+   "thumb": "/thumbs/6fa80e59-753a-4991-ab32-067302a60e66/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6fa80e59-753a-4991-ab32-067302a60e66/4.webp",
+   "thumb": "/thumbs/6fa80e59-753a-4991-ab32-067302a60e66/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

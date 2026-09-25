@@ -1,0 +1,51 @@
+{
+ "id": "9ed249b6-9817-4bf7-8cd9-4adaf75483bc",
+ "detail_id": "bd8edd347f2fcaab",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/aya-shooting-star-12-70",
+ "title": "AyA Shooting Star 12/70",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-08",
+ "age_days": 43,
+ "postnummer": "4760",
+ "by": "Vordingborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/0.webp",
+ "image_count": 4,
+ "lat": 55.02464842,
+ "lon": 11.8960716,
+ "description": "Flot S/S",
+ "images": [
+  {
+   "full": "/images/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/0.webp",
+   "thumb": "/thumbs/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/1.webp",
+   "thumb": "/thumbs/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/2.webp",
+   "thumb": "/thumbs/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/3.webp",
+   "thumb": "/thumbs/9ed249b6-9817-4bf7-8cd9-4adaf75483bc/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

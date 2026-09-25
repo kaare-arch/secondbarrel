@@ -1,0 +1,45 @@
+{
+ "id": "680001a5-1e39-4408-9024-b5be091ea178",
+ "detail_id": "8be641bfa13bc2be",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/680001a5-1e39-4408-9024-b5be091ea178/carl-gustav-halvskaeftet",
+ "title": "CARL GUSTAV halvskæftet",
+ "price_dkk": 900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-05-01",
+ "age_days": 142,
+ "postnummer": "8382",
+ "by": "Hinnerup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/680001a5-1e39-4408-9024-b5be091ea178/0.webp",
+ "image_count": 3,
+ "lat": 56.25949156,
+ "lon": 10.06719333,
+ "description": "Carl Gustav halvskæftet jagtriffel i cal. 6,5x55  der kan bruges til alt vildt riflen skyder hul i hul så en riffel man kan stole på  FLOT ITUI OG EN NY BÆREREM en fin  riffel til små penge så et godt køb EVT,BYTTE MED KONTANTER og et næsten nyt Zeiss viltkamera til 550 kr, ny pris er 1100 [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/680001a5-1e39-4408-9024-b5be091ea178/0.webp",
+   "thumb": "/thumbs/680001a5-1e39-4408-9024-b5be091ea178/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/680001a5-1e39-4408-9024-b5be091ea178/1.webp",
+   "thumb": "/thumbs/680001a5-1e39-4408-9024-b5be091ea178/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/680001a5-1e39-4408-9024-b5be091ea178/2.webp",
+   "thumb": "/thumbs/680001a5-1e39-4408-9024-b5be091ea178/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

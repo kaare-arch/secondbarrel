@@ -1,0 +1,45 @@
+{
+ "id": "jjsu.dk/shop/margolin-standard--cal-22lr",
+ "detail_id": "6ba0a383e6ce7fc7",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/margolin-standard--cal-22lr/",
+ "title": "Margolin Standard (USSR) - Cal. 22lr",
+ "price_dkk": 1699,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/margolin-standard--cal-22lr/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Margolin Standard Tilstand: Brugt (Brugspræget) Caliber: 22lr Totallængde: 24.20cm Løbslængde: 15.00cm Ældre sportspistol fra sovjettiden Læs mere om margolin HER Obs! Den højre grebskalle har en skade øvers til venstre.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/margolin-standard--cal-22lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/margolin-standard--cal-22lr/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/margolin-standard--cal-22lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/margolin-standard--cal-22lr/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/margolin-standard--cal-22lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/margolin-standard--cal-22lr/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

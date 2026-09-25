@@ -1,0 +1,49 @@
+{
+ "id": "30a6e8c9-e780-4a24-aad7-def180102f81",
+ "detail_id": "b8a094d90411699a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/30a6e8c9-e780-4a24-aad7-def180102f81/browning-b525",
+ "title": "Browning B525",
+ "price_dkk": 12000,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-05-07",
+ "age_days": 136,
+ "postnummer": "2000",
+ "by": "Frederiksberg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/30a6e8c9-e780-4a24-aad7-def180102f81/0.webp",
+ "image_count": 4,
+ "lat": 55.67945641,
+ "lon": 12.51562935,
+ "description": "Jeg sælger mit Browning 525 haglgevær, som har været en rigtig god følgesvend gennem flere år. Geværet ligger fantastisk i hånden, skyder super godt og er blevet passet og plejet løbende. Det sælges kun, fordi jeg ikke får det brugt nok længere. Kontakt mig gerne for spørgsmål eller flere billeder.",
+ "images": [
+  {
+   "full": "/images/30a6e8c9-e780-4a24-aad7-def180102f81/0.webp",
+   "thumb": "/thumbs/30a6e8c9-e780-4a24-aad7-def180102f81/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/30a6e8c9-e780-4a24-aad7-def180102f81/1.webp",
+   "thumb": "/thumbs/30a6e8c9-e780-4a24-aad7-def180102f81/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/30a6e8c9-e780-4a24-aad7-def180102f81/2.webp",
+   "thumb": "/thumbs/30a6e8c9-e780-4a24-aad7-def180102f81/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/30a6e8c9-e780-4a24-aad7-def180102f81/3.webp",
+   "thumb": "/thumbs/30a6e8c9-e780-4a24-aad7-def180102f81/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

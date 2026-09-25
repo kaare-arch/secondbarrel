@@ -1,0 +1,37 @@
+{
+ "id": "jfskive.dk/products/winchester-70-xtr-brugt",
+ "detail_id": "ae70c1b04819f9ad",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/winchester-70-xtr-brugt",
+ "title": "Winchester 70 XTR (Brugt)",
+ "price_dkk": 5999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-03-23",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/winchester-70-xtr-brugt/0.webp",
+ "image_count": 2,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. .222 Rem Monteret med Vortex Crossfire II 3-12x56 kikkert med oplyst sigte og paralaksejustering",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/winchester-70-xtr-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/winchester-70-xtr-brugt/0.webp",
+   "width": 1600,
+   "height": 1037
+  },
+  {
+   "full": "/images/jfskive.dk/products/winchester-70-xtr-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/winchester-70-xtr-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

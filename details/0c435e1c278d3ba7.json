@@ -1,0 +1,43 @@
+{
+ "id": "jfskive.dk/products/simson-suhl-74e-brugt",
+ "detail_id": "0c435e1c278d3ba7",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/simson-suhl-74e-brugt",
+ "title": "Simson Suhl 74E (Brugt)",
+ "price_dkk": 8999,
+ "weapon_type": "Haglgevær",
+ "brand": "Simson",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2025-03-28",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/simson-suhl-74e-brugt/0.webp",
+ "image_count": 3,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal 12-70 71 cm løb Længde til forreste aftrækker: 37 cm Ejektor Rigtig flot stand",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/simson-suhl-74e-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/simson-suhl-74e-brugt/0.webp",
+   "width": 1600,
+   "height": 985
+  },
+  {
+   "full": "/images/jfskive.dk/products/simson-suhl-74e-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/simson-suhl-74e-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/simson-suhl-74e-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/simson-suhl-74e-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

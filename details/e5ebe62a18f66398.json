@@ -1,0 +1,63 @@
+{
+ "id": "0f515df1-1046-4156-af3f-1854cad33c11",
+ "detail_id": "e5ebe62a18f66398",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0f515df1-1046-4156-af3f-1854cad33c11/flot-beretta-688",
+ "title": "Flot beretta 688",
+ "price_dkk": 21500,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-03",
+ "age_days": 17,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/0f515df1-1046-4156-af3f-1854cad33c11/0.webp",
+ "image_count": 6,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Flot beretta 688   12/76 med 76 cm løb \nSkudt 600 skud med kuffert og choks \nLige så fint som ny pris 21.500 kr",
+ "images": [
+  {
+   "full": "/images/0f515df1-1046-4156-af3f-1854cad33c11/0.webp",
+   "thumb": "/thumbs/0f515df1-1046-4156-af3f-1854cad33c11/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f515df1-1046-4156-af3f-1854cad33c11/1.webp",
+   "thumb": "/thumbs/0f515df1-1046-4156-af3f-1854cad33c11/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f515df1-1046-4156-af3f-1854cad33c11/2.webp",
+   "thumb": "/thumbs/0f515df1-1046-4156-af3f-1854cad33c11/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f515df1-1046-4156-af3f-1854cad33c11/3.webp",
+   "thumb": "/thumbs/0f515df1-1046-4156-af3f-1854cad33c11/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f515df1-1046-4156-af3f-1854cad33c11/4.webp",
+   "thumb": "/thumbs/0f515df1-1046-4156-af3f-1854cad33c11/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f515df1-1046-4156-af3f-1854cad33c11/5.webp",
+   "thumb": "/thumbs/0f515df1-1046-4156-af3f-1854cad33c11/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

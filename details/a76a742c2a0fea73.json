@@ -1,0 +1,43 @@
+{
+ "id": "15f81ec1-89b6-4c4c-a17a-61f7c43a8c67",
+ "detail_id": "a76a742c2a0fea73",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/gamo-wildcat-whisper",
+ "title": "Gamo Wildcat Whisper",
+ "price_dkk": 900,
+ "weapon_type": "Haglgevær",
+ "brand": "Gamo",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-03-26",
+ "age_days": 178,
+ "postnummer": "6261",
+ "by": "Bredebro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/0.webp",
+ "image_count": 3,
+ "lat": 55.07311357,
+ "lon": 8.68091354,
+ "description": "Luftgevær er lidt slidt men virker fint\nKikkert medfølger",
+ "images": [
+  {
+   "full": "/images/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/0.webp",
+   "thumb": "/thumbs/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/1.webp",
+   "thumb": "/thumbs/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/2.webp",
+   "thumb": "/thumbs/15f81ec1-89b6-4c4c-a17a-61f7c43a8c67/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

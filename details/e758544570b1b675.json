@@ -1,0 +1,37 @@
+{
+ "id": "jjsu.dk/shop/smith--wesson-686-international--cal-38357-magnum-",
+ "detail_id": "e758544570b1b675",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/smith--wesson-686-international--cal-38357-magnum-/",
+ "title": "Smith & Wesson 686 International - Cal. 38Special/357Magnum",
+ "price_dkk": 8999,
+ "weapon_type": "Revolver",
+ "brand": "Smith & Wesson",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-686-international--cal-38357-magnum-/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Smith & Wesson 686-6 International Tilstand: Brugt Caliber: 38Spl/357Mag Smith & Wesson L-Frame revolvere er bygget til at passe til kravene fra de mest seriøse skytter og entusiaster. Denne revolver har en 6-skuds tromle og en stærk holdbar ramme bygget til kontinuerlig Magnum-brug.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-686-international--cal-38357-magnum-/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-686-international--cal-38357-magnum-/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-686-international--cal-38357-magnum-/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-686-international--cal-38357-magnum-/1.webp",
+   "width": 540,
+   "height": 359
+  }
+ ]
+}

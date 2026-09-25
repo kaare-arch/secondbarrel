@@ -1,0 +1,57 @@
+{
+ "id": "b61084c3-6324-4b36-9c7a-9972f85763d2",
+ "detail_id": "93ca8aa1631a8302",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b61084c3-6324-4b36-9c7a-9972f85763d2/aya-eibar-s-s",
+ "title": "AYA Eibar S/S",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-04-01",
+ "age_days": 172,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/b61084c3-6324-4b36-9c7a-9972f85763d2/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "AYA Eibar S/S \n\nKaliber 12/70.\n\nBoring 1/2-1/1.\n\nMed automatsikring og rembøjler. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/b61084c3-6324-4b36-9c7a-9972f85763d2/0.webp",
+   "thumb": "/thumbs/b61084c3-6324-4b36-9c7a-9972f85763d2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61084c3-6324-4b36-9c7a-9972f85763d2/1.webp",
+   "thumb": "/thumbs/b61084c3-6324-4b36-9c7a-9972f85763d2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61084c3-6324-4b36-9c7a-9972f85763d2/2.webp",
+   "thumb": "/thumbs/b61084c3-6324-4b36-9c7a-9972f85763d2/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61084c3-6324-4b36-9c7a-9972f85763d2/3.webp",
+   "thumb": "/thumbs/b61084c3-6324-4b36-9c7a-9972f85763d2/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61084c3-6324-4b36-9c7a-9972f85763d2/4.webp",
+   "thumb": "/thumbs/b61084c3-6324-4b36-9c7a-9972f85763d2/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

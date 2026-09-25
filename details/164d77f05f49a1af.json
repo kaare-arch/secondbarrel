@@ -1,0 +1,67 @@
+{
+ "id": "brasholt.nu/product/sako-kal-222-m-kikkert",
+ "detail_id": "164d77f05f49a1af",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/sako-kal-222-m-kikkert/",
+ "title": "Sako kal 222 m/ kikkert",
+ "price_dkk": 1999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/0.webp",
+ "image_count": 7,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222-m-kikkert/0.webp",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/0.webp",
+   "width": 1600,
+   "height": 518
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222-m-kikkert/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222-m-kikkert/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222-m-kikkert/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222-m-kikkert/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222-m-kikkert/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/5.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222-m-kikkert/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222-m-kikkert/6.webp",
+   "width": 1200,
+   "height": 1600
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "jfskive.dk/products/merkel-rx-helix-brugt",
+ "detail_id": "6bd8147f8e8b23bb",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/merkel-rx-helix-brugt",
+ "title": "Merkel RX Helix (Brugt)",
+ "price_dkk": 25999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Merkel",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2024-11-19",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/merkel-rx-helix-brugt/0.webp",
+ "image_count": 4,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. .300 Win. Mag. Grade 4 skæfte Semi weight Pibe Mundingsbremse MAKuick RX.HELIX Aftagelig montage 30mm 5 skuds og ekstra 2 skuds magasin medfølger",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/merkel-rx-helix-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/merkel-rx-helix-brugt/0.webp",
+   "width": 1600,
+   "height": 924
+  },
+  {
+   "full": "/images/jfskive.dk/products/merkel-rx-helix-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/merkel-rx-helix-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/merkel-rx-helix-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/merkel-rx-helix-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/merkel-rx-helix-brugt/3.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/merkel-rx-helix-brugt/3.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

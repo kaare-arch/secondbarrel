@@ -1,0 +1,51 @@
+{
+ "id": "hubertushuset.com/products/0426-bsa-cf2-30-06-brugt",
+ "detail_id": "2335c06a52039f05",
+ "source": "hubertushuset.com",
+ "source_label": "Hubertushuset",
+ "url": "https://hubertushuset.com/products/0426-bsa-cf2-30-06-brugt",
+ "title": "BSA CF2 Kaliber .30-06 BRUGT (0426)",
+ "price_dkk": 2500,
+ "weapon_type": "Jagtriffel",
+ "brand": "BSA",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-03-07",
+ "age_days": null,
+ "postnummer": "4100",
+ "by": "Ringsted",
+ "stand_gg": null,
+ "thumb": "/thumbs/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/0.webp",
+ "image_count": 4,
+ "lat": 55.43053197,
+ "lon": 11.82805925,
+ "description": "BSA CF2 i kaliber .30-06. BSA står for Birmingham Small Arms Company og stammer fra USA. Der er rembøjler, ventileret bagkappe, sigtemidler og baser til montering af sigtekikkert. Riflen er en top loader. Der er brugsspor. - Kaliber: .30-06 - Pibelængde: 57 cm - Totallængde: 111 cm",
+ "images": [
+  {
+   "full": "/images/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/0.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/0.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/1.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/1.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/2.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/2.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/3.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/0426-bsa-cf2-30-06-brugt/3.webp",
+   "width": 800,
+   "height": 800
+  }
+ ]
+}

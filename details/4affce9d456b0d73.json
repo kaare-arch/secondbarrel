@@ -1,0 +1,67 @@
+{
+ "id": "86d594d3-218d-4d8d-a3e9-8b4669a3e8d3",
+ "detail_id": "4affce9d456b0d73",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/jagtriffel-antonio-zuil",
+ "title": "Jagtriffel Antonio Zuil",
+ "price_dkk": 4000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-01-25",
+ "age_days": 238,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/0.webp",
+ "image_count": 7,
+ "lat": 55.02899493,
+ "lon": 9.49975045,
+ "description": "Jagtriffel Antonio Zuil 7 mm Rem. Mag.\nRiffelen har skudt 9 skud, så den er som ny. Super flot. Sælges da jeg ikke får skudt nok med den. Man får først riffelen når våben tilladelse er i orden.",
+ "images": [
+  {
+   "full": "/images/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/0.webp",
+   "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/1.webp",
+   "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/2.webp",
+   "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/3.webp",
+   "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/4.webp",
+   "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/5.webp",
+   "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/6.webp",
+   "thumb": "/thumbs/86d594d3-218d-4d8d-a3e9-8b4669a3e8d3/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

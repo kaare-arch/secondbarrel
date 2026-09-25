@@ -1,0 +1,43 @@
+{
+ "id": "jfskive.dk/products/krico-600-brugt",
+ "detail_id": "72ab750c1b074c8f",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/krico-600-brugt",
+ "title": "Krico 600 (Brugt)",
+ "price_dkk": 2999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Krico",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-05-29",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/krico-600-brugt/0.webp",
+ "image_count": 3,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. .222 Rem Aftageligt magasin 1/2” 20 UNF Gevind",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/krico-600-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/krico-600-brugt/0.webp",
+   "width": 1600,
+   "height": 1080
+  },
+  {
+   "full": "/images/jfskive.dk/products/krico-600-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/krico-600-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/krico-600-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/krico-600-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "6fea831a-553a-493e-8b9b-b4ebf5a2ff35",
+ "detail_id": "57f52323090fc167",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/lamber-o-u",
+ "title": "Lamber o/u",
+ "price_dkk": 2800,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-09",
+ "age_days": 42,
+ "postnummer": "7100",
+ "by": "Vejle",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/0.webp",
+ "image_count": 3,
+ "lat": 55.69052913,
+ "lon": 9.5066267,
+ "description": "Lamber haglgevær kal 12/70 uden ejektor  og slør men med automatisk sikring. 35 cm fra aftrækkeren til bagkant af skæftet.",
+ "images": [
+  {
+   "full": "/images/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/0.webp",
+   "thumb": "/thumbs/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/1.webp",
+   "thumb": "/thumbs/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/2.webp",
+   "thumb": "/thumbs/6fea831a-553a-493e-8b9b-b4ebf5a2ff35/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

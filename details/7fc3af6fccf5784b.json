@@ -1,0 +1,39 @@
+{
+ "id": "927555f0-7198-4f7f-8371-ad2eee63dcec",
+ "detail_id": "7fc3af6fccf5784b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/927555f0-7198-4f7f-8371-ad2eee63dcec/jagtriffel-carl-gustav-cal-6-5-55",
+ "title": "Jagtriffel  Carl Gustav cal. 6.5 - 55",
+ "price_dkk": 2500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-10",
+ "age_days": 72,
+ "postnummer": "5750",
+ "by": "Ringe",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/927555f0-7198-4f7f-8371-ad2eee63dcec/0.webp",
+ "image_count": 2,
+ "lat": 55.2209888,
+ "lon": 10.42313811,
+ "description": "Virkelig pæn velholdt riffel sælges på grund af jagtophør..\nHenvendelse til Svend \n[tlf fjernet].",
+ "images": [
+  {
+   "full": "/images/927555f0-7198-4f7f-8371-ad2eee63dcec/0.webp",
+   "thumb": "/thumbs/927555f0-7198-4f7f-8371-ad2eee63dcec/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/927555f0-7198-4f7f-8371-ad2eee63dcec/1.webp",
+   "thumb": "/thumbs/927555f0-7198-4f7f-8371-ad2eee63dcec/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

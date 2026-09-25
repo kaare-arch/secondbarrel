@@ -1,0 +1,67 @@
+{
+ "id": "michaelsjagt.dk/vare/41974-heym-6827-heym-65x57",
+ "detail_id": "8152e87eefa371d8",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/41974-heym-6827-heym-65x57",
+ "title": "6827-Heym 6,5x57",
+ "price_dkk": 6995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Heym",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/0.webp",
+ "image_count": 7,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Brugt Heym riffel, brugt med enkelte skræmmer.Kaliber 6,5x57Bushnell 2,5-10x50 kikkert medfølger påmonteret",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/0.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/1.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/2.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/3.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/3.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/4.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/4.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/5.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/5.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/6.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41974-heym-6827-heym-65x57/6.webp",
+   "width": 460,
+   "height": 307
+  }
+ ]
+}

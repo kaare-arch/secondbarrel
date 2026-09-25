@@ -1,0 +1,45 @@
+{
+ "id": "3615c0aa-6c9e-46aa-8149-fbaffeb40be0",
+ "detail_id": "09c54b6e9ddab5e7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/krico-22lr-halvautomatisk",
+ "title": "Krico 22lr. halvautomatisk",
+ "price_dkk": 1999,
+ "weapon_type": "Salonriffel",
+ "brand": "Krico",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-08-07",
+ "age_days": 44,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/0.webp",
+ "image_count": 3,
+ "lat": null,
+ "lon": null,
+ "description": "Krico salonriffel i kaliber 22lr. Modellen er en halvautomatisk salonriffel med rørmagasin.\nKUN 1.999,- inkl. montage",
+ "images": [
+  {
+   "full": "/images/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/0.webp",
+   "thumb": "/thumbs/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/1.webp",
+   "thumb": "/thumbs/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/2.webp",
+   "thumb": "/thumbs/3615c0aa-6c9e-46aa-8149-fbaffeb40be0/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

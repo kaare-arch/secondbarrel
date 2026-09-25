@@ -1,0 +1,43 @@
+{
+ "id": "jjsu.dk/shop/ruger-gp100-stainless--cal-44special",
+ "detail_id": "e37ce35d0fc197d6",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/ruger-gp100-stainless--cal-44special/",
+ "title": "Ruger GP100  - Cal. 44Special",
+ "price_dkk": 10995,
+ "weapon_type": "Revolver",
+ "brand": "Ruger",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100-stainless--cal-44special/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Ruger GP100 - 3\" Stainless Tilstand: Ny Caliber: 44Special 5 Skuds unfluted tromle Mono gummigreb fra Houge Fiberoptisk frontsigte (Fiberoptisk bagsigte kan tilkøbes) Justerbart bagsigte",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100-stainless--cal-44special/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100-stainless--cal-44special/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100-stainless--cal-44special/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100-stainless--cal-44special/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ruger-gp100-stainless--cal-44special/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-gp100-stainless--cal-44special/2.webp",
+   "width": 540,
+   "height": 359
+  }
+ ]
+}

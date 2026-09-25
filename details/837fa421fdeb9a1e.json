@@ -1,0 +1,51 @@
+{
+ "id": "36410426-a074-4488-bdef-8c3e8cd7f1fb",
+ "detail_id": "837fa421fdeb9a1e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/36410426-a074-4488-bdef-8c3e8cd7f1fb/beretta-a300-outlander-halvautomat",
+ "title": "Beretta A300 Outlander (halvautomat)",
+ "price_dkk": 9300,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-23",
+ "age_days": 28,
+ "postnummer": "8400",
+ "by": "Ebeltoft",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/36410426-a074-4488-bdef-8c3e8cd7f1fb/0.webp",
+ "image_count": 4,
+ "lat": 56.14931257,
+ "lon": 10.82632626,
+ "description": "Kal. 12/76 med 71 cm løb.\n\nVelholdt og velskydende. 100 % rustfri (aldrig brugt til havjagt) og meget få brugsspor. \n\nKolbelængde fra aftræk kan justeres fra 33,7 cm og op til 37 cm med hhv. 25 mm og 12 mm afstandsstykker.\n\nABS-kuffert og alt originaltilbehør medfølger.\n\nEkstra medfølgende: Ladegreb udskiftet for bedre betjening (se billede). Müller H2O decoy-choke. TruGlo GloDot Universal - Fiberoptisk sigte.\n\nHandles kun mod forevisning af gyldigt jagttegn eller SKV. Omregistreres inden udlevering.",
+ "images": [
+  {
+   "full": "/images/36410426-a074-4488-bdef-8c3e8cd7f1fb/0.webp",
+   "thumb": "/thumbs/36410426-a074-4488-bdef-8c3e8cd7f1fb/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/36410426-a074-4488-bdef-8c3e8cd7f1fb/1.webp",
+   "thumb": "/thumbs/36410426-a074-4488-bdef-8c3e8cd7f1fb/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/36410426-a074-4488-bdef-8c3e8cd7f1fb/2.webp",
+   "thumb": "/thumbs/36410426-a074-4488-bdef-8c3e8cd7f1fb/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/36410426-a074-4488-bdef-8c3e8cd7f1fb/3.webp",
+   "thumb": "/thumbs/36410426-a074-4488-bdef-8c3e8cd7f1fb/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

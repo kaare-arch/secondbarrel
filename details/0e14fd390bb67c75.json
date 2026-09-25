@@ -1,0 +1,43 @@
+{
+ "id": "jjsu.dk/shop/sig-sauer-p226-da--cal-9mm",
+ "detail_id": "0e14fd390bb67c75",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/",
+ "title": "Sig Sauer P226 (DA) - Cal. 9mm",
+ "price_dkk": 8499,
+ "weapon_type": "Pistol",
+ "brand": "SIG Sauer",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Sig Sauer P226 (West Germany) Tilstand. Brugt Kaliber. 9mm Totallængde: 21,20cm Pibelængde: 12,70cm System: ½ auto Dobbeltaction Justerbart sigte: Ja (LPA) Obs! Piben er pga. de danske regler til totallængde, blevet forlænget.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-p226-da--cal-9mm/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

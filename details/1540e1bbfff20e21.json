@@ -1,0 +1,63 @@
+{
+ "id": "6a75be83-ee8b-4686-9b95-9ad9336624dd",
+ "detail_id": "1540e1bbfff20e21",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6a75be83-ee8b-4686-9b95-9ad9336624dd/browning-9-3x62-halvautomatisk",
+ "title": "Browning, 9,3x62, halvautomatisk",
+ "price_dkk": 10900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Browning",
+ "calibers": [
+  "9,3x62"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-12-21",
+ "age_days": 273,
+ "postnummer": "4200",
+ "by": "Slagelse",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6a75be83-ee8b-4686-9b95-9ad9336624dd/0.webp",
+ "image_count": 6,
+ "lat": 55.40887345,
+ "lon": 11.37134678,
+ "description": "Browning - Lux, BAR, 9,3x62, Halvautomatisk.\nLyddæmper: Sonic 55, gevind: M14x1.\nKikkertsigte: Zeiss, Diavari, 3-12 x 56, MC.\nHar mest været brugt til vildsvin i Sverige, men kan bruges til alt vilt i norden.",
+ "images": [
+  {
+   "full": "/images/6a75be83-ee8b-4686-9b95-9ad9336624dd/0.webp",
+   "thumb": "/thumbs/6a75be83-ee8b-4686-9b95-9ad9336624dd/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6a75be83-ee8b-4686-9b95-9ad9336624dd/1.webp",
+   "thumb": "/thumbs/6a75be83-ee8b-4686-9b95-9ad9336624dd/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6a75be83-ee8b-4686-9b95-9ad9336624dd/2.webp",
+   "thumb": "/thumbs/6a75be83-ee8b-4686-9b95-9ad9336624dd/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6a75be83-ee8b-4686-9b95-9ad9336624dd/3.webp",
+   "thumb": "/thumbs/6a75be83-ee8b-4686-9b95-9ad9336624dd/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6a75be83-ee8b-4686-9b95-9ad9336624dd/4.webp",
+   "thumb": "/thumbs/6a75be83-ee8b-4686-9b95-9ad9336624dd/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6a75be83-ee8b-4686-9b95-9ad9336624dd/5.webp",
+   "thumb": "/thumbs/6a75be83-ee8b-4686-9b95-9ad9336624dd/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "2dded3c5-895a-40bf-afe9-15e93e892a36",
+ "detail_id": "25b3051d16ab1569",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2dded3c5-895a-40bf-afe9-15e93e892a36/sauer-90-308-win-riffel",
+ "title": "Sauer 90 308 Win riffel",
+ "price_dkk": 10500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-19",
+ "age_days": 154,
+ "postnummer": "2970",
+ "by": "Hørsholm",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/2dded3c5-895a-40bf-afe9-15e93e892a36/0.webp",
+ "image_count": 5,
+ "lat": 55.88126308,
+ "lon": 12.43890506,
+ "description": "Sauer 90 cal. .308 Win med Zeiss Diavari-Z 3-12x56 T*\n\nKlassisk og driftssikker kvalitetsriffel fra Sauer i rigtig flot stand. Riflen fremstår velholdt med flot træskæfte.\n\nMonteret med Zeiss Diavari-Z 3-12x56 T* kikkert i original EAW svingmontage, som sikrer præcis gentagelse og fleksibilitet.\n\nEn stærk allround riffel til både anstand og pürsch med fremragende lysgennemgang.\n\nSælges som komplet sæt.\n\nKun til køber med gyldig tilladelse.",
+ "images": [
+  {
+   "full": "/images/2dded3c5-895a-40bf-afe9-15e93e892a36/0.webp",
+   "thumb": "/thumbs/2dded3c5-895a-40bf-afe9-15e93e892a36/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2dded3c5-895a-40bf-afe9-15e93e892a36/1.webp",
+   "thumb": "/thumbs/2dded3c5-895a-40bf-afe9-15e93e892a36/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2dded3c5-895a-40bf-afe9-15e93e892a36/2.webp",
+   "thumb": "/thumbs/2dded3c5-895a-40bf-afe9-15e93e892a36/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2dded3c5-895a-40bf-afe9-15e93e892a36/3.webp",
+   "thumb": "/thumbs/2dded3c5-895a-40bf-afe9-15e93e892a36/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2dded3c5-895a-40bf-afe9-15e93e892a36/4.webp",
+   "thumb": "/thumbs/2dded3c5-895a-40bf-afe9-15e93e892a36/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

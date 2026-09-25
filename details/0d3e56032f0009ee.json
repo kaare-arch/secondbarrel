@@ -1,0 +1,64 @@
+{
+ "id": "0fc97b46-f44f-4fca-bb29-bd31e07409e1",
+ "detail_id": "0d3e56032f0009ee",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0fc97b46-f44f-4fca-bb29-bd31e07409e1/antonio-zoli-bock-riffel",
+ "title": "Antonio Zoli Bock riffel",
+ "price_dkk": 5000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Zoli",
+ "calibers": [
+  "12/76",
+  "7x65R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-13",
+ "age_days": 160,
+ "postnummer": "7100",
+ "by": "Vejle",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/0fc97b46-f44f-4fca-bb29-bd31e07409e1/0.webp",
+ "image_count": 6,
+ "lat": 55.69052913,
+ "lon": 9.5066267,
+ "description": "Cal. 7x65R -12/76\nPæn og velholdt",
+ "images": [
+  {
+   "full": "/images/0fc97b46-f44f-4fca-bb29-bd31e07409e1/0.webp",
+   "thumb": "/thumbs/0fc97b46-f44f-4fca-bb29-bd31e07409e1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0fc97b46-f44f-4fca-bb29-bd31e07409e1/1.webp",
+   "thumb": "/thumbs/0fc97b46-f44f-4fca-bb29-bd31e07409e1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0fc97b46-f44f-4fca-bb29-bd31e07409e1/2.webp",
+   "thumb": "/thumbs/0fc97b46-f44f-4fca-bb29-bd31e07409e1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0fc97b46-f44f-4fca-bb29-bd31e07409e1/3.webp",
+   "thumb": "/thumbs/0fc97b46-f44f-4fca-bb29-bd31e07409e1/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0fc97b46-f44f-4fca-bb29-bd31e07409e1/4.webp",
+   "thumb": "/thumbs/0fc97b46-f44f-4fca-bb29-bd31e07409e1/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0fc97b46-f44f-4fca-bb29-bd31e07409e1/5.webp",
+   "thumb": "/thumbs/0fc97b46-f44f-4fca-bb29-bd31e07409e1/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

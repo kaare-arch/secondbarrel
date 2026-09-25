@@ -1,0 +1,33 @@
+{
+ "id": "ae58d868-cfda-4e99-8afc-8cd7ddd61595",
+ "detail_id": "25f52813d2fa7f8a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ae58d868-cfda-4e99-8afc-8cd7ddd61595/riffel-sauer-90-saelges",
+ "title": "Riffel Sauer 90 sælges",
+ "price_dkk": 20000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-02",
+ "age_days": 230,
+ "postnummer": "6240",
+ "by": "Løgumkloster",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ae58d868-cfda-4e99-8afc-8cd7ddd61595/0.webp",
+ "image_count": 1,
+ "lat": 55.06237954,
+ "lon": 8.96415413,
+ "description": "Flot riffel Sauer 90 fuldskæftet 6,5x55 sælges, riflen er monteret med en Zeiss sigtekikkert 3-12x56 med rødpunkt. Sælges helst samlet.",
+ "images": [
+  {
+   "full": "/images/ae58d868-cfda-4e99-8afc-8cd7ddd61595/0.webp",
+   "thumb": "/thumbs/ae58d868-cfda-4e99-8afc-8cd7ddd61595/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

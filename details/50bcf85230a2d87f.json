@@ -1,0 +1,46 @@
+{
+ "id": "c9d85b71-70cf-491f-ae78-38529c8e4396",
+ "detail_id": "50bcf85230a2d87f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c9d85b71-70cf-491f-ae78-38529c8e4396/cz-kombivaaben-12-70-7x57r",
+ "title": "CZ Kombivåben 12-70/7x57R",
+ "price_dkk": 1000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "CZ",
+ "calibers": [
+  "12/70",
+  "7x57R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-05-26",
+ "age_days": 117,
+ "postnummer": "3400",
+ "by": "Hillerød",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c9d85b71-70cf-491f-ae78-38529c8e4396/0.webp",
+ "image_count": 3,
+ "lat": 55.92123871,
+ "lon": 12.28696917,
+ "description": "God klassisk kombinationsvåben sælges pga opgradering. Dette er i den klassiske kaliber 12-70/7x57R. Kikkert 1,5-4x20 uden lys. Blyfri ammunition kan medfølge samt tomme hylstre.",
+ "images": [
+  {
+   "full": "/images/c9d85b71-70cf-491f-ae78-38529c8e4396/0.webp",
+   "thumb": "/thumbs/c9d85b71-70cf-491f-ae78-38529c8e4396/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c9d85b71-70cf-491f-ae78-38529c8e4396/1.webp",
+   "thumb": "/thumbs/c9d85b71-70cf-491f-ae78-38529c8e4396/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c9d85b71-70cf-491f-ae78-38529c8e4396/2.webp",
+   "thumb": "/thumbs/c9d85b71-70cf-491f-ae78-38529c8e4396/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "c9dedb26-92cd-4394-903f-d69e353e408f",
+ "detail_id": "4cf82c1fba4ef38a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c9dedb26-92cd-4394-903f-d69e353e408f/beretta-690-black",
+ "title": "Beretta 690 black",
+ "price_dkk": 13900,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-07-02",
+ "age_days": 80,
+ "postnummer": "4300",
+ "by": "Holbæk",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/c9dedb26-92cd-4394-903f-d69e353e408f/0.webp",
+ "image_count": 1,
+ "lat": 55.73825064,
+ "lon": 11.69985606,
+ "description": "Skudt ganske få skud, som ny med kuffert",
+ "images": [
+  {
+   "full": "/images/c9dedb26-92cd-4394-903f-d69e353e408f/0.webp",
+   "thumb": "/thumbs/c9dedb26-92cd-4394-903f-d69e353e408f/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

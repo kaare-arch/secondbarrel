@@ -1,0 +1,33 @@
+{
+ "id": "macnab.eu/vare/11292-weatherby-vanguard-kaliber-308-win",
+ "detail_id": "0b8aaf4f01d0ab72",
+ "source": "macnab.eu",
+ "source_label": "Macnab",
+ "url": "https://www.macnab.eu/vare/11292-weatherby-vanguard-kaliber-308-win",
+ "title": "Weatherby Vanguard   Kaliber .308 win",
+ "price_dkk": 3595,
+ "weapon_type": "Jagtriffel",
+ "brand": "Weatherby",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6400",
+ "by": "Sønderborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/macnab.eu/vare/11292-weatherby-vanguard-kaliber-308-win/0.webp",
+ "image_count": 1,
+ "lat": 54.9528525,
+ "lon": 9.71079556,
+ "description": "Brugt jagtriffel.Model Vanguard Kaliber .308 winKompositskæfteSigtekikkert Bushnell 3-9x40Rust pletter på piben",
+ "images": [
+  {
+   "full": "/images/macnab.eu/vare/11292-weatherby-vanguard-kaliber-308-win/0.webp",
+   "thumb": "/thumbs/macnab.eu/vare/11292-weatherby-vanguard-kaliber-308-win/0.webp",
+   "width": 580,
+   "height": 580
+  }
+ ]
+}

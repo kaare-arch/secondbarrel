@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/browning-fn-12-70",
+ "detail_id": "59f087c0456354d8",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/browning-fn-12-70/",
+ "title": "Browning FN, 12-70",
+ "price_dkk": 12995,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/browning-fn-12-70/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Browning FN",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/browning-fn-12-70/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-fn-12-70/0.webp",
+   "width": 1024,
+   "height": 213
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-fn-12-70/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-fn-12-70/1.webp",
+   "width": 1024,
+   "height": 570
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-fn-12-70/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-fn-12-70/2.webp",
+   "width": 1024,
+   "height": 343
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-fn-12-70/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-fn-12-70/3.webp",
+   "width": 1024,
+   "height": 576
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-fn-12-70/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-fn-12-70/4.webp",
+   "width": 1024,
+   "height": 639
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/browning-fn-12-70/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/browning-fn-12-70/5.webp",
+   "width": 1024,
+   "height": 634
+  }
+ ]
+}

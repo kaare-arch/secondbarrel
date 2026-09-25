@@ -1,0 +1,43 @@
+{
+ "id": "a76a566c-2a50-4cf6-87ca-514b0048148f",
+ "detail_id": "4a23e474bb42da07",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a76a566c-2a50-4cf6-87ca-514b0048148f/jagt-gevaer-winchester",
+ "title": "Jagt gevær winchester",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-05-10",
+ "age_days": 133,
+ "postnummer": "5464",
+ "by": "Brenderup Fyn",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a76a566c-2a50-4cf6-87ca-514b0048148f/0.webp",
+ "image_count": 3,
+ "lat": 55.49127877,
+ "lon": 9.98162512,
+ "description": "Pænt gevær ,ikke slidt ,i middel stand pæn og regulær hagl bøsse\n\n[tlf fjernet] tlf",
+ "images": [
+  {
+   "full": "/images/a76a566c-2a50-4cf6-87ca-514b0048148f/0.webp",
+   "thumb": "/thumbs/a76a566c-2a50-4cf6-87ca-514b0048148f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a76a566c-2a50-4cf6-87ca-514b0048148f/1.webp",
+   "thumb": "/thumbs/a76a566c-2a50-4cf6-87ca-514b0048148f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a76a566c-2a50-4cf6-87ca-514b0048148f/2.webp",
+   "thumb": "/thumbs/a76a566c-2a50-4cf6-87ca-514b0048148f/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

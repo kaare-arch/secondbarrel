@@ -1,0 +1,69 @@
+{
+ "id": "50a50679-2f08-41f4-ad6f-10c6c68efad6",
+ "detail_id": "0ef7b1a7400e7682",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/50a50679-2f08-41f4-ad6f-10c6c68efad6/tikka-mh-690-kaliber-30-06",
+ "title": "Tikka MH 690 kaliber 30.06",
+ "price_dkk": 8500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-27",
+ "age_days": 236,
+ "postnummer": "9280",
+ "by": "Storvorde",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/0.webp",
+ "image_count": 7,
+ "lat": 56.91678716,
+ "lon": 10.27569023,
+ "description": "Rigtig flot riffel\n30.06\nHar ikke skudt meget\nKan evt. byttes med Sauer 202 giver gerne penge oveni hvis det er den rigtige riffel",
+ "images": [
+  {
+   "full": "/images/50a50679-2f08-41f4-ad6f-10c6c68efad6/0.webp",
+   "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50a50679-2f08-41f4-ad6f-10c6c68efad6/1.webp",
+   "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50a50679-2f08-41f4-ad6f-10c6c68efad6/2.webp",
+   "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50a50679-2f08-41f4-ad6f-10c6c68efad6/3.webp",
+   "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50a50679-2f08-41f4-ad6f-10c6c68efad6/4.webp",
+   "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50a50679-2f08-41f4-ad6f-10c6c68efad6/5.webp",
+   "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50a50679-2f08-41f4-ad6f-10c6c68efad6/6.webp",
+   "thumb": "/thumbs/50a50679-2f08-41f4-ad6f-10c6c68efad6/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

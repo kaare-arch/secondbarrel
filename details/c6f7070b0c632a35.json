@@ -1,0 +1,51 @@
+{
+ "id": "7d409dcf-d993-4059-809a-fe9955090eff",
+ "detail_id": "c6f7070b0c632a35",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7d409dcf-d993-4059-809a-fe9955090eff/midland-gun-co-safari-kaliber-308-w",
+ "title": "Midland Gun Co./Safari  Kaliber 308 W",
+ "price_dkk": 1500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-14",
+ "age_days": 249,
+ "postnummer": "4230",
+ "by": "Skælskør",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/0.webp",
+ "image_count": 4,
+ "lat": 55.17717085,
+ "lon": 11.34912168,
+ "description": "Velholdt men med brugs spor. Er monteret med baser til S&L kikkert montage.",
+ "images": [
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/0.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/1.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/2.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/3.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

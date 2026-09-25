@@ -1,0 +1,57 @@
+{
+ "id": "brasholt.nu/product/miroku-ml22-m-boejle-22-lr",
+ "detail_id": "0077162c57b5dea0",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/miroku-ml22-m-boejle-22-lr/",
+ "title": "Miroku ML22 m/bøjle 22 LR",
+ "price_dkk": 3000,
+ "weapon_type": "Salonriffel",
+ "brand": "Miroku",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/0.webp",
+ "image_count": 5,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "En sjov lille leaver-action/bøjlespænder salonriffel.Skæftet er af lakeret valnøddetræ. Det står med let brugsslitage men ingen uoprettelige mærker.Modellen her er med rørmagasin, som er let at lade og aflade.Piben står med originale korn og kærv sigtemidler.",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/1.webp",
+   "width": 1536,
+   "height": 1584
+  },
+  {
+   "full": "/images/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/2.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/3.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/miroku-ml22-m-boejle-22-lr/4.webp",
+   "width": 1200,
+   "height": 1600
+  }
+ ]
+}

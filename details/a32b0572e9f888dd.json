@@ -1,0 +1,58 @@
+{
+ "id": "jafi.dk/products/12372-drilling",
+ "detail_id": "a32b0572e9f888dd",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/12372-drilling",
+ "title": "Karl Heidelberg Suhl Drilling - Kal. 16/70 & 8x57 JRS",
+ "price_dkk": 24999,
+ "weapon_type": "Kombinationsvåben",
+ "brand": null,
+ "calibers": [
+  "16/70",
+  "8x57"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/12372-drilling/0.webp",
+ "image_count": 5,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Ældre, tysk drilling fra Karl Heidelberg i Suhl. Flere fine detaljer som kuglemagasin i skæftet, aftrækkerbøjle i ben samt Einhack-montage til sigtekikkert. Dertil er der monteret en enkelt Weaver-base til montering af rødpunktssigte. Kaliber: 16/70 & 8x57 JRS Løbslængde: 60 cm Skæftelængde: 38,5 cm Skæfte: Træ - Pistolgreb - Kindpude Sikring: Klassisk manuel tommelsikring på siden. Omskifter til kugle umiddelbart under toplukkernøgle. Ejector: Nej Chokes: Fast boring - 1/1 & 1/1 Aftræk: Dobbelt - stiksnelle på riffelskuddet Vægt: 3,2 kg Tilhørende kuffert: Nej ID: 12372 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/12372-drilling/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12372-drilling/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12372-drilling/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12372-drilling/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12372-drilling/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12372-drilling/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12372-drilling/3.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12372-drilling/3.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12372-drilling/4.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12372-drilling/4.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

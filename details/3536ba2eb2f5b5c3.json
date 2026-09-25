@@ -1,0 +1,46 @@
+{
+ "id": "jafi.dk/products/zoli-buch",
+ "detail_id": "3536ba2eb2f5b5c3",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/zoli-buch",
+ "title": "Zoli Bochbüchsflinte  m. Meopta R1 – Kal. 12/70 & 7x65R",
+ "price_dkk": 9999,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Zoli",
+ "calibers": [
+  "12/70",
+  "7x65R"
+ ],
+ "is_dealer": true,
+ "listed_date": "2024-08-02",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/zoli-buch/0.webp",
+ "image_count": 3,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Fint Zoli kombinationsvåben i klassisk, alsidig kaliberkombination – udstyret med kvalitetsoptik fra Meopta. Våbnet er i pæn stand og har sideplader med fine graveringer for et eksklusivt look. Kaliber: 12/70 & 7x65R Pibelængde: 62 cm Skæftelængde: 37,5 cm Skæfte: Træ - Pistolgreb med kontinental kindpude Sikring: Manuel Ejector: Nej Chokes: Ja Aftræk: Dobbelt - stiksnelle på riffelskud Opik: Meopta R1r 3-12x56 RD/MR med skinne og MAK Svingmontage Tilhørende kuffert: Nej ID: 13215 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/zoli-buch/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/zoli-buch/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/zoli-buch/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/zoli-buch/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/zoli-buch/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/zoli-buch/2.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

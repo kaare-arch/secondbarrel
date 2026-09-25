@@ -1,0 +1,75 @@
+{
+ "id": "1646690b-cd89-43d4-96d0-cba270ac1888",
+ "detail_id": "e8cbedcac2fd8981",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1646690b-cd89-43d4-96d0-cba270ac1888/3-stk-jagtgevaer",
+ "title": "3 stk. jagtgevær.",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-08",
+ "age_days": 196,
+ "postnummer": "4970",
+ "by": "Rødby",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/0.webp",
+ "image_count": 8,
+ "lat": 54.53635729,
+ "lon": 11.57693074,
+ "description": "Beretta S55 O/U cal 12, AYA The Hunters Gun S/S cal 16 og FEG Hungaria 500ES S/S cal 12. Ingen slør i nogle af dem. De to sidstnævnte er renoveret hos våbenmekaniker. Ring for besigtigelse, da de ikke findes på adressen. Samlet pris",
+ "images": [
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/0.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/1.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/2.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/3.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/4.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/5.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/6.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1646690b-cd89-43d4-96d0-cba270ac1888/7.webp",
+   "thumb": "/thumbs/1646690b-cd89-43d4-96d0-cba270ac1888/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

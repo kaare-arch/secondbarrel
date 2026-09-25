@@ -1,0 +1,39 @@
+{
+ "id": "jafi.dk/products/sabatti-rover-lh-riffel-kal-30-06-sprg",
+ "detail_id": "1b9f9ba71cae13ec",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/sabatti-rover-lh-riffel-kal-30-06-sprg",
+ "title": "Sabatti Rover LH Riffel - Kal. 30-06 Sprg.",
+ "price_dkk": 4495,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sabatti",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-02-04",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/sabatti-rover-lh-riffel-kal-30-06-sprg/0.webp",
+ "image_count": 2,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Klassisk Sabatti til den venstrehåndede skytte. Riflen fremstår i pæn stand og er forberedt til lyddæmper med gevind samt til let kikkertmontage med picatinny-skinne. Kaliber: 30.06 Springfield Løb: 51 cm Skæftelængde: 36,5 cm Skæfte: Træ - Pistolgreb - Kindpude Sikring: Topunkts Aftræk: Single Stage Magasin: Brønd Optik: Nej Tilhørende kuffert: Nej ID: 14146 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/sabatti-rover-lh-riffel-kal-30-06-sprg/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/sabatti-rover-lh-riffel-kal-30-06-sprg/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/sabatti-rover-lh-riffel-kal-30-06-sprg/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/sabatti-rover-lh-riffel-kal-30-06-sprg/1.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

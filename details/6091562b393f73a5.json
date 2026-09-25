@@ -1,0 +1,61 @@
+{
+ "id": "6c208945-7b66-42f3-bc07-0711e96408cf",
+ "detail_id": "6091562b393f73a5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6c208945-7b66-42f3-bc07-0711e96408cf/anschutz-model-1415-16-cal-22long-rifle",
+ "title": "Anschutz model 1415/16 cal.22long rifle",
+ "price_dkk": 2000,
+ "weapon_type": "Salonriffel",
+ "brand": "Anschütz",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-06-24",
+ "age_days": 88,
+ "postnummer": "7840",
+ "by": "Højslev",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6c208945-7b66-42f3-bc07-0711e96408cf/0.webp",
+ "image_count": 6,
+ "lat": 56.59677993,
+ "lon": 9.16509632,
+ "description": "Monteret med seelan 4x32 kikkert der med følger 3 magasiner +ca 1000 skud",
+ "images": [
+  {
+   "full": "/images/6c208945-7b66-42f3-bc07-0711e96408cf/0.webp",
+   "thumb": "/thumbs/6c208945-7b66-42f3-bc07-0711e96408cf/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6c208945-7b66-42f3-bc07-0711e96408cf/1.webp",
+   "thumb": "/thumbs/6c208945-7b66-42f3-bc07-0711e96408cf/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6c208945-7b66-42f3-bc07-0711e96408cf/2.webp",
+   "thumb": "/thumbs/6c208945-7b66-42f3-bc07-0711e96408cf/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6c208945-7b66-42f3-bc07-0711e96408cf/3.webp",
+   "thumb": "/thumbs/6c208945-7b66-42f3-bc07-0711e96408cf/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6c208945-7b66-42f3-bc07-0711e96408cf/4.webp",
+   "thumb": "/thumbs/6c208945-7b66-42f3-bc07-0711e96408cf/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6c208945-7b66-42f3-bc07-0711e96408cf/5.webp",
+   "thumb": "/thumbs/6c208945-7b66-42f3-bc07-0711e96408cf/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

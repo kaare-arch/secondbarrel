@@ -1,0 +1,75 @@
+{
+ "id": "brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42",
+ "detail_id": "a8c2db1c7d67cea7",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/",
+ "title": "Sako kal 222Rem m/S&B 1.5-6×42",
+ "price_dkk": 8995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".222 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/0.webp",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/0.webp",
+   "width": 1600,
+   "height": 516
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/5.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/6.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-kal-222rem-m-sb-1-5-6x42/7.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

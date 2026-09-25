@@ -1,0 +1,39 @@
+{
+ "id": "2893b702-5788-4812-8986-0893b3153ccd",
+ "detail_id": "de98c9c43e8e5ec5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2893b702-5788-4812-8986-0893b3153ccd/winchester-halv-automat-3-stk-saelges-samlet",
+ "title": "winchester halv. automat 3 stk sælges samlet",
+ "price_dkk": 6000,
+ "weapon_type": "Haglgevær",
+ "brand": "Winchester",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-12-03",
+ "age_days": 291,
+ "postnummer": "5300",
+ "by": "Kerteminde",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/2893b702-5788-4812-8986-0893b3153ccd/0.webp",
+ "image_count": 2,
+ "lat": 55.49807432,
+ "lon": 10.8508032,
+ "description": "3 stk. winchester super x model 1  -  kal. 12 - samt 1 ekstra løb sælges.\nboret: 1 stk. improved  -  2 stk. 1/1 full xhoke - ekstra løb 1/2 modified.\nden ene har revne i forskæftet, det er repr. af våbenmek. Gun Holgersen.",
+ "images": [
+  {
+   "full": "/images/2893b702-5788-4812-8986-0893b3153ccd/0.webp",
+   "thumb": "/thumbs/2893b702-5788-4812-8986-0893b3153ccd/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2893b702-5788-4812-8986-0893b3153ccd/1.webp",
+   "thumb": "/thumbs/2893b702-5788-4812-8986-0893b3153ccd/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

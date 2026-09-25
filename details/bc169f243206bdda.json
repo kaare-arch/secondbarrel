@@ -1,0 +1,57 @@
+{
+ "id": "jjsu.dk/shop/high-standard-military--cal-22lr",
+ "detail_id": "bc169f243206bdda",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/high-standard-military--cal-22lr/",
+ "title": "High Standard Supermatic - Cal. 22LR",
+ "price_dkk": 2249,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/high-standard-military--cal-22lr/0.webp",
+ "image_count": 5,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "(647-G2) High Standard Supermatic Trophy (Registreret sim High Standard Military) Tilstand: Brugt Caliber: 22lr System: ½ auto Der medfølger ialt 1 magasin",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-military--cal-22lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-military--cal-22lr/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-military--cal-22lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-military--cal-22lr/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-military--cal-22lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-military--cal-22lr/2.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-military--cal-22lr/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-military--cal-22lr/3.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-military--cal-22lr/4.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-military--cal-22lr/4.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

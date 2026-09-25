@@ -1,0 +1,45 @@
+{
+ "id": "6a1754cc-782b-4ac9-9700-4c21cd13a663",
+ "detail_id": "bade671a8b3409d1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6a1754cc-782b-4ac9-9700-4c21cd13a663/husquarna-riffel",
+ "title": "Husquarna riffel",
+ "price_dkk": 4500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Husqvarna",
+ "calibers": [
+  "9,3x62"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-12-16",
+ "age_days": 278,
+ "postnummer": "6580",
+ "by": "Vamdrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6a1754cc-782b-4ac9-9700-4c21cd13a663/0.webp",
+ "image_count": 3,
+ "lat": 55.41366579,
+ "lon": 9.34398711,
+ "description": "Velskydende 9,3x62 riffel med gummi skæfte, så du har et godt og sikkert greb i al slags vejr.\nDen er ikke køn, men den perfekte grise riffel.\nDer kan evt medfølge lyddæmper og en del ammunition.\nGiv et bud.",
+ "images": [
+  {
+   "full": "/images/6a1754cc-782b-4ac9-9700-4c21cd13a663/0.webp",
+   "thumb": "/thumbs/6a1754cc-782b-4ac9-9700-4c21cd13a663/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6a1754cc-782b-4ac9-9700-4c21cd13a663/1.webp",
+   "thumb": "/thumbs/6a1754cc-782b-4ac9-9700-4c21cd13a663/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6a1754cc-782b-4ac9-9700-4c21cd13a663/2.webp",
+   "thumb": "/thumbs/6a1754cc-782b-4ac9-9700-4c21cd13a663/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

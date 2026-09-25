@@ -1,0 +1,33 @@
+{
+ "id": "jafi.dk/products/10155-sako-85",
+ "detail_id": "472f8d9177274e60",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/10155-sako-85",
+ "title": "Sako 85 Riffel - Kal. 308 Win",
+ "price_dkk": 14999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/10155-sako-85/0.webp",
+ "image_count": 1,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Træstruktur og -nuance kan variere fra våbnet på billedet. Kaliber: 308w Løbslængde: 48 cm Skæftelængde: 35 cm Skæfte: Komposit Andet: Flutet løb og gevind 14-1 Våbennr: 10155 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/10155-sako-85/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/10155-sako-85/0.webp",
+   "width": 580,
+   "height": 580
+  }
+ ]
+}

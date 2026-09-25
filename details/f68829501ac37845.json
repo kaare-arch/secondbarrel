@@ -1,0 +1,45 @@
+{
+ "id": "vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt",
+ "detail_id": "f68829501ac37845",
+ "source": "vaabensalg.dk",
+ "source_label": "Våbensalg",
+ "url": "https://vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt",
+ "title": "Beretta DT10 Trident Sporting Kal. 12/76  - Brugt",
+ "price_dkk": 35995,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-02-14",
+ "age_days": null,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": null,
+ "thumb": "/thumbs/vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt/0.webp",
+ "image_count": 3,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Ultimativ haglgevær til sportsskydning. Beretta DT10 Trident med udvendige chokes. Har brugsspor. Løbslængde 71 cm",
+ "images": [
+  {
+   "full": "/images/vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt/0.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt/1.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt/2.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/beretta-dt10-trident-sporting-kal-12-76-brugt/2.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

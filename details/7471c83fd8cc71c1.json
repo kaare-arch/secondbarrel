@@ -1,0 +1,31 @@
+{
+ "id": "michaelsjagt.dk/vare/25787-brugte-vaaben-4052-bsa-243w",
+ "detail_id": "7471c83fd8cc71c1",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/25787-brugte-vaaben-4052-bsa-243w",
+ "title": "4052-BSA 243w",
+ "price_dkk": 4995,
+ "weapon_type": "Jagtriffel",
+ "brand": "BSA",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/25787-brugte-vaaben-4052-bsa-243w/0.webp",
+ "image_count": 1,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Brugt BSA kaliber 243w",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/25787-brugte-vaaben-4052-bsa-243w/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25787-brugte-vaaben-4052-bsa-243w/0.webp",
+   "width": 460,
+   "height": 308
+  }
+ ]
+}

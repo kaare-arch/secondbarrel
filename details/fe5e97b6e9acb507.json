@@ -1,0 +1,45 @@
+{
+ "id": "60052a8d-2983-424f-b981-24f686c61824",
+ "detail_id": "fe5e97b6e9acb507",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/60052a8d-2983-424f-b981-24f686c61824/spansk-s-s-12-70",
+ "title": "Spansk S/S , 12 / 70",
+ "price_dkk": 1800,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-11",
+ "age_days": 221,
+ "postnummer": "9460",
+ "by": "Brovst",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/0.webp",
+ "image_count": 3,
+ "lat": 57.10716869,
+ "lon": 9.5353613,
+ "description": "Velholdt S/S Spansk cal 12/70.Canones Eibar. Sælges kun pga. Jagtophør.\nBlanke løb , intakt brunering, velfungerende uden slør.  1800,-\nOverskud af jagt-ammunition kan eventuelt tilkøbes",
+ "images": [
+  {
+   "full": "/images/60052a8d-2983-424f-b981-24f686c61824/0.webp",
+   "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60052a8d-2983-424f-b981-24f686c61824/1.webp",
+   "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60052a8d-2983-424f-b981-24f686c61824/2.webp",
+   "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

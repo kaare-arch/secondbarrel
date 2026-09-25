@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/gebr-merkel-kal-20-70",
+ "detail_id": "1f5ed11baef2130a",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/gebr-merkel-kal-20-70/",
+ "title": "Gebr Merkel kal. 20/76",
+ "price_dkk": 30000,
+ "weapon_type": "Haglgevær",
+ "brand": "Merkel",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

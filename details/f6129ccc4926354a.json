@@ -1,0 +1,45 @@
+{
+ "id": "7dbdf691-42a5-4650-bb2a-e42148ad657a",
+ "detail_id": "f6129ccc4926354a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7dbdf691-42a5-4650-bb2a-e42148ad657a/riffel-inkl-zeiss-kikkert",
+ "title": "Riffel inkl. Zeiss kikkert",
+ "price_dkk": 7995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-10",
+ "age_days": 41,
+ "postnummer": "6780",
+ "by": "Skærbæk",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/7dbdf691-42a5-4650-bb2a-e42148ad657a/0.webp",
+ "image_count": 3,
+ "lat": 55.17738587,
+ "lon": 8.79091021,
+ "description": "Riffel: Tikka m.658 lux 6.5 x 55 (købspris 8000kr) monteret med Sving-Montage(2500kr)  ZEISS  1.5-6x42 Diavari-ZA T˚ (nypris 5600kr)\nSå sættet er for dig der vægter kvalitet højt. Sælges kun samlet.",
+ "images": [
+  {
+   "full": "/images/7dbdf691-42a5-4650-bb2a-e42148ad657a/0.webp",
+   "thumb": "/thumbs/7dbdf691-42a5-4650-bb2a-e42148ad657a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7dbdf691-42a5-4650-bb2a-e42148ad657a/1.webp",
+   "thumb": "/thumbs/7dbdf691-42a5-4650-bb2a-e42148ad657a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7dbdf691-42a5-4650-bb2a-e42148ad657a/2.webp",
+   "thumb": "/thumbs/7dbdf691-42a5-4650-bb2a-e42148ad657a/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "d68cd012-313d-4dd5-ac93-66921be66c6a",
+ "detail_id": "238486f2f3e6ca0e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d68cd012-313d-4dd5-ac93-66921be66c6a/skb-600",
+ "title": "Skb 600",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "SKB",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-08-07",
+ "age_days": 44,
+ "postnummer": "5450",
+ "by": "Otterup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/0.webp",
+ "image_count": 7,
+ "lat": 55.56662852,
+ "lon": 10.41038685,
+ "description": "Går med tanken om sælge min skb 600 caliber 12 \nDejligt godt gevær til gå på jagt med",
+ "images": [
+  {
+   "full": "/images/d68cd012-313d-4dd5-ac93-66921be66c6a/0.webp",
+   "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d68cd012-313d-4dd5-ac93-66921be66c6a/1.webp",
+   "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d68cd012-313d-4dd5-ac93-66921be66c6a/2.webp",
+   "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d68cd012-313d-4dd5-ac93-66921be66c6a/3.webp",
+   "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d68cd012-313d-4dd5-ac93-66921be66c6a/4.webp",
+   "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d68cd012-313d-4dd5-ac93-66921be66c6a/5.webp",
+   "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d68cd012-313d-4dd5-ac93-66921be66c6a/6.webp",
+   "thumb": "/thumbs/d68cd012-313d-4dd5-ac93-66921be66c6a/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

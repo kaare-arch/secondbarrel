@@ -1,0 +1,45 @@
+{
+ "id": "3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72",
+ "detail_id": "76a9296d2ea067f7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/mauser-6-5x55",
+ "title": "Mauser 6,5x55",
+ "price_dkk": 3000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-31",
+ "age_days": 51,
+ "postnummer": "4220",
+ "by": "Korsør",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/0.webp",
+ "image_count": 3,
+ "lat": 55.34799675,
+ "lon": 11.02962796,
+ "description": "Ældre Mauser med nyere løb og aftræk. Monteret kikkert ProSight 3-12/56\nBipod og taske medfølger samt 10 partroner hjemmeladede op til Max, skyder helt lige på 100m og falder ca 2;5cm\nPå de næste 100m!",
+ "images": [
+  {
+   "full": "/images/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/0.webp",
+   "thumb": "/thumbs/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/1.webp",
+   "thumb": "/thumbs/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/2.webp",
+   "thumb": "/thumbs/3f42960c-c67c-41cb-a0f0-e0bf8d1f9e72/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

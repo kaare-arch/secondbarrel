@@ -1,0 +1,31 @@
+{
+ "id": "3414425f-dd7d-48a5-a2db-7615fbfb3647",
+ "detail_id": "01f4196f68d6de81",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3414425f-dd7d-48a5-a2db-7615fbfb3647/browning-m74",
+ "title": "Browning / M74",
+ "price_dkk": 1500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-08-29",
+ "age_days": 22,
+ "postnummer": "6830",
+ "by": "Nørre Nebel",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3414425f-dd7d-48a5-a2db-7615fbfb3647/0.webp",
+ "image_count": 1,
+ "lat": 55.7873441,
+ "lon": 8.22547945,
+ "description": "Brugt riffel, kaliber 300 W.",
+ "images": [
+  {
+   "full": "/images/3414425f-dd7d-48a5-a2db-7615fbfb3647/0.webp",
+   "thumb": "/thumbs/3414425f-dd7d-48a5-a2db-7615fbfb3647/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

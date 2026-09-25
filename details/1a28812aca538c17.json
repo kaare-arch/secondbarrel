@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/webley-scott-700-12-70",
+ "detail_id": "1a28812aca538c17",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/webley-scott-700-12-70/",
+ "title": "Webley & Scott 700, 12/70",
+ "price_dkk": 7000,
+ "weapon_type": "Haglgevær",
+ "brand": "Webley & Scott",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "98e2a243-ad72-4123-8941-3792f94f18a0",
+ "detail_id": "f018bd92b2ea7bee",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/98e2a243-ad72-4123-8941-3792f94f18a0/mossberg-pumpgun-mod-835",
+ "title": "Mossberg pumpgun, mod. 835",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Mossberg",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-04",
+ "age_days": 16,
+ "postnummer": "8500",
+ "by": "Grenaa",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/98e2a243-ad72-4123-8941-3792f94f18a0/0.webp",
+ "image_count": 2,
+ "lat": 56.43069147,
+ "lon": 11.08217337,
+ "description": "Kal. 12, der kan bruges patroner op til 3½\". Kun lidt brugt.",
+ "images": [
+  {
+   "full": "/images/98e2a243-ad72-4123-8941-3792f94f18a0/0.webp",
+   "thumb": "/thumbs/98e2a243-ad72-4123-8941-3792f94f18a0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/98e2a243-ad72-4123-8941-3792f94f18a0/1.webp",
+   "thumb": "/thumbs/98e2a243-ad72-4123-8941-3792f94f18a0/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

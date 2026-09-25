@@ -1,0 +1,43 @@
+{
+ "id": "jjsu.dk/shop/uberti-1873-carbine-competition",
+ "detail_id": "820a470d4ec697ed",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/uberti-1873-carbine-competition/",
+ "title": "Uberti 1873 Carbine Competition - Cal 38/357",
+ "price_dkk": 8999,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/uberti-1873-carbine-competition/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Uberti 1873 Carbine Competition Tilstand: Brugt Caliber: 38/357Magnum Short stroke Leveraction Pibelængde: 20\" Baskyle med flammebrunering",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/uberti-1873-carbine-competition/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/uberti-1873-carbine-competition/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/uberti-1873-carbine-competition/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/uberti-1873-carbine-competition/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/uberti-1873-carbine-competition/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/uberti-1873-carbine-competition/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

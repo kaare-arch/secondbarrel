@@ -1,0 +1,57 @@
+{
+ "id": "24beb987-de11-4e8a-b84a-4ae7c3a74eb5",
+ "detail_id": "cf841e9122ad77c1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/mauser-8x57-med-kikkertsigte-bud-modtages",
+ "title": "Mauser 8x57 med kikkertsigte  Bud modtages",
+ "price_dkk": 1500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "8x57"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-09",
+ "age_days": 223,
+ "postnummer": "8883",
+ "by": "Gjern",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/0.webp",
+ "image_count": 5,
+ "lat": 56.22223999,
+ "lon": 9.73984728,
+ "description": "Ælder Mauser 8x57, fuld funktions dygtig med kikkert \nDer mangler et dækdel over den ene juster skrue på kikkert.\nBud modtages.",
+ "images": [
+  {
+   "full": "/images/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/0.webp",
+   "thumb": "/thumbs/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/1.webp",
+   "thumb": "/thumbs/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/2.webp",
+   "thumb": "/thumbs/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/3.webp",
+   "thumb": "/thumbs/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/4.webp",
+   "thumb": "/thumbs/24beb987-de11-4e8a-b84a-4ae7c3a74eb5/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

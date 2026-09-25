@@ -1,0 +1,55 @@
+{
+ "id": "jjsu.dk/shop/smith--wesson-586--cal-38357-224227",
+ "detail_id": "39a60b193e809f88",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/smith--wesson-586--cal-38357-224227/",
+ "title": "Smith & Wesson 586 - Cal. 38/357",
+ "price_dkk": 7499,
+ "weapon_type": "Revolver",
+ "brand": "Smith & Wesson",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/0.webp",
+ "image_count": 5,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Smith & Wesson - Model 586/3 - 6\" Tilstand: Brugt, men flot stand Cal. 38 Special / 357 Magnum Totallængde: 29,90cm Pibelængde: 15,00cm System: Repeter (SA/DA)",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/3.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/4.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-586--cal-38357-224227/4.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

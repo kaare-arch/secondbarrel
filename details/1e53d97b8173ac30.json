@@ -1,0 +1,57 @@
+{
+ "id": "brasholt.nu/product/sako-forester-243win-m-optilock-30mm",
+ "detail_id": "1e53d97b8173ac30",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/sako-forester-243win-m-optilock-30mm/",
+ "title": "SAKO Forester 243Win M/optilock 30mm",
+ "price_dkk": 4999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/0.webp",
+ "image_count": 5,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Klassisk lille riffel i Sakos kendte kvalitet. Skæfte af valnødde træ med kindpude. Bundstykket er forsynet med en ekstra stor grebskugle af gummi.Riflen er monteret med originale optilock ringe til 30 mm rør.",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/0.webp",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/1.webp",
+   "width": 720,
+   "height": 960
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/2.webp",
+   "width": 720,
+   "height": 728
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/3.webp",
+   "width": 720,
+   "height": 720
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-forester-243win-m-optilock-30mm/4.webp",
+   "width": 960,
+   "height": 720
+  }
+ ]
+}

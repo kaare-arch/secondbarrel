@@ -1,0 +1,39 @@
+{
+ "id": "5fd92d8c-c4cc-4b3f-80a4-2e099370d3cc",
+ "detail_id": "27ba45847824076a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5fd92d8c-c4cc-4b3f-80a4-2e099370d3cc/blaser-r8-338-lapua-magnum",
+ "title": "Blaser R8 338 Lapua Magnum",
+ "price_dkk": 21000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".338 Lapua"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-08",
+ "age_days": 43,
+ "postnummer": "6470",
+ "by": "Sydals",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/5fd92d8c-c4cc-4b3f-80a4-2e099370d3cc/0.webp",
+ "image_count": 2,
+ "lat": 54.87308589,
+ "lon": 10.03587811,
+ "description": "Flot og velholdt Blaser R8 338 Lapua Magnum.\nØ22 Pibe.\nA-TEC MEGAHERTZ lydæmper.\n\nSælges kun samlet.\nIngen bytte.\nSkambud besvares ikke.",
+ "images": [
+  {
+   "full": "/images/5fd92d8c-c4cc-4b3f-80a4-2e099370d3cc/0.webp",
+   "thumb": "/thumbs/5fd92d8c-c4cc-4b3f-80a4-2e099370d3cc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fd92d8c-c4cc-4b3f-80a4-2e099370d3cc/1.webp",
+   "thumb": "/thumbs/5fd92d8c-c4cc-4b3f-80a4-2e099370d3cc/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

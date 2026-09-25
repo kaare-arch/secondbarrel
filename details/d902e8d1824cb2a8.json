@@ -1,0 +1,46 @@
+{
+ "id": "ec438b9c-8f8e-4bcb-afba-039a0a3b59a2",
+ "detail_id": "d902e8d1824cb2a8",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/brno-zh304-kombivaaben-12-70-over-7x57r",
+ "title": "BRNO ZH304 kombivåben - 12/70 over 7x57R",
+ "price_dkk": 3200,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "CZ",
+ "calibers": [
+  "12/70",
+  "7x57R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-23",
+ "age_days": 59,
+ "postnummer": "4190",
+ "by": "Munke Bjergby",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/0.webp",
+ "image_count": 3,
+ "lat": 55.50160113,
+ "lon": 11.52243487,
+ "description": "Klassisk tjekkisk bockbüchsflinte fra BRNO's ZH300-serie. Enkeltladet, hagl over kugle. Velfungerende våben i god brugsstand med almindelige brugsspor i brunering og skæfte — ingen buler, revner eller løsheder i låsetøjet. Løb er rene med skarpe riffelgange.\n\nAlsidigt revirvåben til den jagt hvor man ikke ved på forhånd om det bliver ræv eller rå. Tungt i hånden, men stabilt at skyde med.\n\n[Tilføj: sigtemidler/montage, evt. optik, evt. ekstra løb, evt. ammunition der medfølger]\n\nPris: 3.200 kr. Bud modtages. Kan afhentes og besigtiges efter aftale på Sjælland.\n\nKøb kræver gyldig våbentilladelse. Handlen gennemføres først når køber har tilladelse til netop dette våben, og overdragelsen anmeldes til politiet.",
+ "images": [
+  {
+   "full": "/images/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/0.webp",
+   "thumb": "/thumbs/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/1.webp",
+   "thumb": "/thumbs/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/2.webp",
+   "thumb": "/thumbs/ec438b9c-8f8e-4bcb-afba-039a0a3b59a2/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245",
+ "detail_id": "9a2d825c730b929f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/krico-308w",
+ "title": "Krico 308W",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Krico",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-24",
+ "age_days": 180,
+ "postnummer": "6771",
+ "by": "Gredstedbro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/0.webp",
+ "image_count": 3,
+ "lat": 55.37115323,
+ "lon": 8.60307494,
+ "description": "Krico 308W med Carl Zeiss 3-9x50 MC sælges 3500kr",
+ "images": [
+  {
+   "full": "/images/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/0.webp",
+   "thumb": "/thumbs/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/1.webp",
+   "thumb": "/thumbs/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/2.webp",
+   "thumb": "/thumbs/3ff1e3e5-0a5f-4183-8ef2-e3e4ad834245/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

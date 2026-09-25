@@ -1,0 +1,69 @@
+{
+ "id": "b1b816aa-4a3a-4c98-bb44-d44aea7be991",
+ "detail_id": "987943711e798954",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b1b816aa-4a3a-4c98-bb44-d44aea7be991/alpina-riffel-308w",
+ "title": "Alpina riffel 308w",
+ "price_dkk": 500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Alpina",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-28",
+ "age_days": 204,
+ "postnummer": "6372",
+ "by": "Bylderup-Bov",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/0.webp",
+ "image_count": 7,
+ "lat": 55.01708464,
+ "lon": 9.14165594,
+ "description": "Ældre men pæn riffel kaliber 308 w.\nSælges uden kikkert. Alpina engelsk produceret med Mauser lås.\nOverdrages først ved våben tilladelse.",
+ "images": [
+  {
+   "full": "/images/b1b816aa-4a3a-4c98-bb44-d44aea7be991/0.webp",
+   "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1b816aa-4a3a-4c98-bb44-d44aea7be991/1.webp",
+   "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1b816aa-4a3a-4c98-bb44-d44aea7be991/2.webp",
+   "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1b816aa-4a3a-4c98-bb44-d44aea7be991/3.webp",
+   "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1b816aa-4a3a-4c98-bb44-d44aea7be991/4.webp",
+   "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1b816aa-4a3a-4c98-bb44-d44aea7be991/5.webp",
+   "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1b816aa-4a3a-4c98-bb44-d44aea7be991/6.webp",
+   "thumb": "/thumbs/b1b816aa-4a3a-4c98-bb44-d44aea7be991/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

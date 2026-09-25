@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/mauser-m03-links-kal-308w-300wm",
+ "detail_id": "71b5975d7d0d8f30",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/mauser-m03-links-kal-308w-300wm/",
+ "title": "Mauser M03, Links, kal. 308w & 300wm",
+ "price_dkk": 29500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

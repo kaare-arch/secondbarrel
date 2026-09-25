@@ -1,0 +1,51 @@
+{
+ "id": "jjsu.dk/shop/benelli-mp-95e--cal-22-lr",
+ "detail_id": "0a3dcb2b6ab02122",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/benelli-mp-95e--cal-22-lr/",
+ "title": "Benelli MP 95E - Cal. 22 LR",
+ "price_dkk": 7699,
+ "weapon_type": "Pistol",
+ "brand": "Benelli",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Benelli MP 95 E - Cal. 22lr En meget velskydende sportspistol fra Italienske Benelli Armi S.P.A Tilstand: Brugt, men pæn stand Kaliber: 22 LR Totallængde: 28,50 Pibelængde: 15,00cm Vægt: Ca. 1167g System: ½ auto Der medfølger original transportkasse og i alt 1 magasin.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/benelli-mp-95e--cal-22-lr/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

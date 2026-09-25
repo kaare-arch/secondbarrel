@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-lanber-12-70-o-u",
+ "detail_id": "95b94686f46772ea",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-lanber-12-70-o-u",
+ "title": "Brugt - Lanber 12/70 O/U",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Lanber",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-lanber-12-70-o-u/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt - Lanber 12/70 O/U",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-lanber-12-70-o-u/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-lanber-12-70-o-u/0.webp",
+   "width": 1600,
+   "height": 582
+  }
+ ]
+}

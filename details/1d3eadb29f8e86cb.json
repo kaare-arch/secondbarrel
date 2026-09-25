@@ -1,0 +1,58 @@
+{
+ "id": "55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8",
+ "detail_id": "1d3eadb29f8e86cb",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/riffel-schultz-og-larsen-m97-dl",
+ "title": "Riffel Schultz og Larsen m97-Dl",
+ "price_dkk": 18000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [
+  "6,5x55",
+  "9,3x62"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-11-02",
+ "age_days": 322,
+ "postnummer": "2000",
+ "by": "Frederiksberg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/0.webp",
+ "image_count": 5,
+ "lat": 55.67945641,
+ "lon": 12.51562935,
+ "description": "Schultz og Larsen riffel. \n2 riffel løb 6.5x55 og 9,3x62\n3 magasiner 3 skuds 5 skuds og 6 skuds.\nLyddæmper thunderdome passer til begge løb.\nMundingsbremse \nStøtteben og lys til hurtig montering \n23 skud lapua mega 9,3x62\n17 skud lapua mega 6,5x55\nKikkert kan købes med swarovski 1-6-24 rød dot  8.000.kr",
+ "images": [
+  {
+   "full": "/images/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/0.webp",
+   "thumb": "/thumbs/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/1.webp",
+   "thumb": "/thumbs/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/2.webp",
+   "thumb": "/thumbs/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/3.webp",
+   "thumb": "/thumbs/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/4.webp",
+   "thumb": "/thumbs/55d960ab-1d0a-4c2b-9118-8e5ffbdb40d8/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "macnab.eu/vare/10073-tikka-tikka-bbf-3020-76",
+ "detail_id": "c6484af09b70a2b4",
+ "source": "macnab.eu",
+ "source_label": "Macnab",
+ "url": "https://www.macnab.eu/vare/10073-tikka-tikka-bbf-3020-76",
+ "title": "Tikka Tikka BBF  .30/20-76",
+ "price_dkk": 4995,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Tikka",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6400",
+ "by": "Sønderborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/macnab.eu/vare/10073-tikka-tikka-bbf-3020-76/0.webp",
+ "image_count": 1,
+ "lat": 54.9528525,
+ "lon": 9.71079556,
+ "description": "Tikka BBFKaliber 20/76 (hagl)Kaliber .30-30 (kugle)",
+ "images": [
+  {
+   "full": "/images/macnab.eu/vare/10073-tikka-tikka-bbf-3020-76/0.webp",
+   "thumb": "/thumbs/macnab.eu/vare/10073-tikka-tikka-bbf-3020-76/0.webp",
+   "width": 580,
+   "height": 580
+  }
+ ]
+}

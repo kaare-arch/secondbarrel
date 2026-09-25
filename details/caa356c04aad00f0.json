@@ -1,0 +1,39 @@
+{
+ "id": "vaabensalg.dk/products/6-5x55-1",
+ "detail_id": "caa356c04aad00f0",
+ "source": "vaabensalg.dk",
+ "source_label": "Våbensalg",
+ "url": "https://vaabensalg.dk/products/6-5x55-1",
+ "title": "Mauser Kal. 6,5x55 jagtriffel - brugt",
+ "price_dkk": 1499,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-02-05",
+ "age_days": null,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": null,
+ "thumb": "/thumbs/vaabensalg.dk/products/6-5x55-1/0.webp",
+ "image_count": 2,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Mauser kal. 6,5x55",
+ "images": [
+  {
+   "full": "/images/vaabensalg.dk/products/6-5x55-1/0.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/6-5x55-1/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/6-5x55-1/1.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/6-5x55-1/1.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

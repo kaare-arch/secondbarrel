@@ -1,0 +1,69 @@
+{
+ "id": "brasholt.nu/product/blaser-links-r-93-243-win",
+ "detail_id": "394b7908030053dd",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/blaser-links-r-93-243-win/",
+ "title": "Blaser Links R-93 .243 Win",
+ "price_dkk": 10000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/0.webp",
+ "image_count": 7,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/blaser-links-r-93-243-win/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/0.webp",
+   "width": 1600,
+   "height": 970
+  },
+  {
+   "full": "/images/brasholt.nu/product/blaser-links-r-93-243-win/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/blaser-links-r-93-243-win/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/blaser-links-r-93-243-win/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/blaser-links-r-93-243-win/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/blaser-links-r-93-243-win/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/5.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/blaser-links-r-93-243-win/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/blaser-links-r-93-243-win/6.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

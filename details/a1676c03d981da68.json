@@ -1,0 +1,33 @@
+{
+ "id": "brasholt.nu/product/remington-mohawk-308win-m-shirstone-3-9x40",
+ "detail_id": "a1676c03d981da68",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/remington-mohawk-308win-m-shirstone-3-9x40/",
+ "title": "Remington Mohawk 308Win m/Shirstone 3-9×40",
+ "price_dkk": 6999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/remington-mohawk-308win-m-shirstone-3-9x40/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/remington-mohawk-308win-m-shirstone-3-9x40/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/remington-mohawk-308win-m-shirstone-3-9x40/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

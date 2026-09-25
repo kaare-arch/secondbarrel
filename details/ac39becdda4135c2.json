@@ -1,0 +1,45 @@
+{
+ "id": "aad662b2-08cc-40a3-b836-6f1337d0fe1f",
+ "detail_id": "ac39becdda4135c2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/aad662b2-08cc-40a3-b836-6f1337d0fe1f/carl-gustav-4000-links",
+ "title": "Carl Gustav 4000 Links",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-05-18",
+ "age_days": 125,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/aad662b2-08cc-40a3-b836-6f1337d0fe1f/0.webp",
+ "image_count": 3,
+ "lat": null,
+ "lon": null,
+ "description": "Flot Carl Gustav 4000 links \nKaliber 30-06\nStår flot men brugt.\nVed mere intresse ring på [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/aad662b2-08cc-40a3-b836-6f1337d0fe1f/0.webp",
+   "thumb": "/thumbs/aad662b2-08cc-40a3-b836-6f1337d0fe1f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aad662b2-08cc-40a3-b836-6f1337d0fe1f/1.webp",
+   "thumb": "/thumbs/aad662b2-08cc-40a3-b836-6f1337d0fe1f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aad662b2-08cc-40a3-b836-6f1337d0fe1f/2.webp",
+   "thumb": "/thumbs/aad662b2-08cc-40a3-b836-6f1337d0fe1f/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

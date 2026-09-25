@@ -1,0 +1,45 @@
+{
+ "id": "52f2db11-bdaa-4f16-a057-cf91548a4c37",
+ "detail_id": "63cf0b06b1d3286c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/52f2db11-bdaa-4f16-a057-cf91548a4c37/beretta-bl-2-s",
+ "title": "Beretta BL-2/S",
+ "price_dkk": 4500,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-13",
+ "age_days": 38,
+ "postnummer": "4220",
+ "by": "Korsør",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/52f2db11-bdaa-4f16-a057-cf91548a4c37/0.webp",
+ "image_count": 3,
+ "lat": 55.34799675,
+ "lon": 11.02962796,
+ "description": "O/u cal. 12 specielt aftrækker",
+ "images": [
+  {
+   "full": "/images/52f2db11-bdaa-4f16-a057-cf91548a4c37/0.webp",
+   "thumb": "/thumbs/52f2db11-bdaa-4f16-a057-cf91548a4c37/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52f2db11-bdaa-4f16-a057-cf91548a4c37/1.webp",
+   "thumb": "/thumbs/52f2db11-bdaa-4f16-a057-cf91548a4c37/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52f2db11-bdaa-4f16-a057-cf91548a4c37/2.webp",
+   "thumb": "/thumbs/52f2db11-bdaa-4f16-a057-cf91548a4c37/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "brasholt.nu/product/winchester-70-xtr-243win",
+ "detail_id": "8509dee4129b47f4",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/winchester-70-xtr-243win/",
+ "title": "Winchester 70 XTR 243Win",
+ "price_dkk": 2999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/winchester-70-xtr-243win/0.webp",
+ "image_count": 6,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/winchester-70-xtr-243win/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-70-xtr-243win/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/winchester-70-xtr-243win/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-70-xtr-243win/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/winchester-70-xtr-243win/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-70-xtr-243win/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/winchester-70-xtr-243win/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-70-xtr-243win/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/winchester-70-xtr-243win/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-70-xtr-243win/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/winchester-70-xtr-243win/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-70-xtr-243win/5.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

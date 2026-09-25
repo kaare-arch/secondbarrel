@@ -1,0 +1,33 @@
+{
+ "id": "fb466f43-2bf4-4ea7-aaf1-d7408d864aa1",
+ "detail_id": "c0b19a68c184b24f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/fb466f43-2bf4-4ea7-aaf1-d7408d864aa1/tikka",
+ "title": "Tikka",
+ "price_dkk": 3000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Tikka",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-06-14",
+ "age_days": 98,
+ "postnummer": "5600",
+ "by": "Faaborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/fb466f43-2bf4-4ea7-aaf1-d7408d864aa1/0.webp",
+ "image_count": 1,
+ "lat": 55.11203154,
+ "lon": 10.30952407,
+ "description": "12/70 222 dejlig kanon til ræv eller råvildt.",
+ "images": [
+  {
+   "full": "/images/fb466f43-2bf4-4ea7-aaf1-d7408d864aa1/0.webp",
+   "thumb": "/thumbs/fb466f43-2bf4-4ea7-aaf1-d7408d864aa1/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

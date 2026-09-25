@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-aya-haglgevaer-kal-16-70-s-s-17982",
+ "detail_id": "0fc0457e16d13ced",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-aya-haglgevaer-kal-16-70-s-s-17982",
+ "title": "Brugt - AYA Haglgevær Kal 16/70 S/S",
+ "price_dkk": 750,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-aya-haglgevaer-kal-16-70-s-s-17982/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt - AYA Haglgevær Kal 16/70 S/S",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-aya-haglgevaer-kal-16-70-s-s-17982/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-aya-haglgevaer-kal-16-70-s-s-17982/0.webp",
+   "width": 526,
+   "height": 925
+  }
+ ]
+}

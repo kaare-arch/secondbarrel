@@ -1,0 +1,51 @@
+{
+ "id": "iversen-import.dk/browning-b525-sport-2.html",
+ "detail_id": "ce79c10d1f364ac6",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/browning-b525-sport-2.html",
+ "title": "Beretta AL390 Silver Mallard halvaut. 12/76",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/iversen-import.dk/browning-b525-sport-2.html/0.webp",
+ "image_count": 4,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": "Beretta AL390 Silver Mallard halvaut. 12/76 Totallængde: 123 cm LKøbslængde: 69 cm Afstand til aftrækker: 37,5 cm",
+ "images": [
+  {
+   "full": "/images/iversen-import.dk/browning-b525-sport-2.html/0.png",
+   "thumb": "/thumbs/iversen-import.dk/browning-b525-sport-2.html/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/iversen-import.dk/browning-b525-sport-2.html/1.png",
+   "thumb": "/thumbs/iversen-import.dk/browning-b525-sport-2.html/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/iversen-import.dk/browning-b525-sport-2.html/2.jpg",
+   "thumb": "/thumbs/iversen-import.dk/browning-b525-sport-2.html/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/iversen-import.dk/browning-b525-sport-2.html/3.png",
+   "thumb": "/thumbs/iversen-import.dk/browning-b525-sport-2.html/3.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "jjsu.dk/shop/sig-sauer-ssg-3000-target--cal-308win",
+ "detail_id": "072b4156d00a4949",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/sig-sauer-ssg-3000-target--cal-308win/",
+ "title": "Sig Sauer SSG 3000 Target Short - Cal. 308Win",
+ "price_dkk": 16499,
+ "weapon_type": "Jagtriffel",
+ "brand": "SIG Sauer",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-ssg-3000-target--cal-308win/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "- Fritliggensde matchløb - 5 Skuds aftageligt magasin- Justerbart kindpude og bagkappe- Forberedt med gevind til eks lyddæmper- Lamineret træskæfte- Integreret rail til montering af eks sigtekikkert- Bipod medfølger",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-ssg-3000-target--cal-308win/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-ssg-3000-target--cal-308win/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/sig-sauer-ssg-3000-target--cal-308win/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sig-sauer-ssg-3000-target--cal-308win/1.webp",
+   "width": 540,
+   "height": 293
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html",
+ "detail_id": "a50a6e9c4077a1ab",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html",
+ "title": "BSA riffel kal. 243 win",
+ "price_dkk": 2999,
+ "weapon_type": "Jagtriffel",
+ "brand": "BSA",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html/0.webp",
+ "image_count": 3,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": "BSA riffel pæn og velholdt riffel med faste sigtemidler. Kal 243",
+ "images": [
+  {
+   "full": "/images/iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html/0.jpg",
+   "thumb": "/thumbs/iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html/1.jpg",
+   "thumb": "/thumbs/iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html/2.jpg",
+   "thumb": "/thumbs/iversen-import.dk/bsa-riffel-kal-243-win-med-kikkert.html/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

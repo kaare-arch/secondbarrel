@@ -1,0 +1,55 @@
+{
+ "id": "f62c86ff-af40-4dfd-afe6-b944efa99b78",
+ "detail_id": "5976a310d49bb4fd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f62c86ff-af40-4dfd-afe6-b944efa99b78/fn-browning-a5",
+ "title": "FN Browning A5",
+ "price_dkk": 9900,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-01-17",
+ "age_days": 246,
+ "postnummer": "5932",
+ "by": "Humble",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f62c86ff-af40-4dfd-afe6-b944efa99b78/0.webp",
+ "image_count": 5,
+ "lat": 54.81821541,
+ "lon": 10.63436277,
+ "description": "FN Browning A5 cal 16 fra 1936. Fra Fabrique Nationale, \"Engelsk\" skæfte. Sjælden antik A5, som er i rigtig flot stand. Jagttegn-hagl våben registrering kræves. Ingen bytte.",
+ "images": [
+  {
+   "full": "/images/f62c86ff-af40-4dfd-afe6-b944efa99b78/0.webp",
+   "thumb": "/thumbs/f62c86ff-af40-4dfd-afe6-b944efa99b78/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f62c86ff-af40-4dfd-afe6-b944efa99b78/1.webp",
+   "thumb": "/thumbs/f62c86ff-af40-4dfd-afe6-b944efa99b78/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f62c86ff-af40-4dfd-afe6-b944efa99b78/2.webp",
+   "thumb": "/thumbs/f62c86ff-af40-4dfd-afe6-b944efa99b78/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f62c86ff-af40-4dfd-afe6-b944efa99b78/3.webp",
+   "thumb": "/thumbs/f62c86ff-af40-4dfd-afe6-b944efa99b78/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f62c86ff-af40-4dfd-afe6-b944efa99b78/4.webp",
+   "thumb": "/thumbs/f62c86ff-af40-4dfd-afe6-b944efa99b78/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

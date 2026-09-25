@@ -1,0 +1,39 @@
+{
+ "id": "7e33b4a8-f70a-45ed-9248-d80944456f6f",
+ "detail_id": "8f799adeb54f0a29",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7e33b4a8-f70a-45ed-9248-d80944456f6f/savage-model-110-i-kaliber-308-winchester",
+ "title": "Savage Model 110 i kaliber .308 Winchester",
+ "price_dkk": 2500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-04",
+ "age_days": 16,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/7e33b4a8-f70a-45ed-9248-d80944456f6f/0.webp",
+ "image_count": 2,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Savage Model 110 i kaliber .308 Winchester\nRiflen har ikke skudt mange skud, der er meget lidt rust på løbet",
+ "images": [
+  {
+   "full": "/images/7e33b4a8-f70a-45ed-9248-d80944456f6f/0.webp",
+   "thumb": "/thumbs/7e33b4a8-f70a-45ed-9248-d80944456f6f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7e33b4a8-f70a-45ed-9248-d80944456f6f/1.webp",
+   "thumb": "/thumbs/7e33b4a8-f70a-45ed-9248-d80944456f6f/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

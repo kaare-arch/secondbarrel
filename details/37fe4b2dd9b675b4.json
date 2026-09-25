@@ -1,0 +1,63 @@
+{
+ "id": "a50069ee-86ba-46fe-a21d-1021a1048c81",
+ "detail_id": "37fe4b2dd9b675b4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a50069ee-86ba-46fe-a21d-1021a1048c81/har-denne-o-u-som-jeg-gerne-vil-bytte-til-en-halva",
+ "title": "Har denne O/U SOM jeg gerne vil bytte til en halva",
+ "price_dkk": 3000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-15",
+ "age_days": 67,
+ "postnummer": "8981",
+ "by": "Spentrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a50069ee-86ba-46fe-a21d-1021a1048c81/0.webp",
+ "image_count": 6,
+ "lat": 56.54082727,
+ "lon": 10.0192493,
+ "description": "Har denne 12/76 o/u som jeg gerne vil bytte til en halvautomat",
+ "images": [
+  {
+   "full": "/images/a50069ee-86ba-46fe-a21d-1021a1048c81/0.webp",
+   "thumb": "/thumbs/a50069ee-86ba-46fe-a21d-1021a1048c81/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a50069ee-86ba-46fe-a21d-1021a1048c81/1.webp",
+   "thumb": "/thumbs/a50069ee-86ba-46fe-a21d-1021a1048c81/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a50069ee-86ba-46fe-a21d-1021a1048c81/2.webp",
+   "thumb": "/thumbs/a50069ee-86ba-46fe-a21d-1021a1048c81/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a50069ee-86ba-46fe-a21d-1021a1048c81/3.webp",
+   "thumb": "/thumbs/a50069ee-86ba-46fe-a21d-1021a1048c81/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a50069ee-86ba-46fe-a21d-1021a1048c81/4.webp",
+   "thumb": "/thumbs/a50069ee-86ba-46fe-a21d-1021a1048c81/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a50069ee-86ba-46fe-a21d-1021a1048c81/5.webp",
+   "thumb": "/thumbs/a50069ee-86ba-46fe-a21d-1021a1048c81/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

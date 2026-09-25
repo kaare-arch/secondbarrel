@@ -1,0 +1,37 @@
+{
+ "id": "jjsu.dk/shop/marlin-1894s--cal-44magnum",
+ "detail_id": "160fa1434ce0abf4",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/marlin-1894s--cal-44magnum/",
+ "title": "Marlin 1894S - Cal. 44Magnum / 44Special",
+ "price_dkk": 6999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Marlin",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/marlin-1894s--cal-44magnum/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Marlin Model 1894S Tilstand: Brugt. Caliber. 44 Magnum / 44 Special Ladesystem. Leveraction Totallængde: Løbslængde:",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/marlin-1894s--cal-44magnum/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/marlin-1894s--cal-44magnum/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/marlin-1894s--cal-44magnum/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/marlin-1894s--cal-44magnum/1.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006",
+ "detail_id": "c13d5a2848f97abb",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006",
+ "title": "6965-Tikkakoski 30.06",
+ "price_dkk": 4995,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/0.webp",
+ "image_count": 8,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Lækker brugt Tikkakoski i kaliber 30.06, med enkelte brugsspor.",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/0.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/1.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/2.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/3.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/3.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/4.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/4.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/5.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/5.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/6.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/6.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/7.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/43155-tikka-6965-tikkakoski-3006/7.webp",
+   "width": 460,
+   "height": 307
+  }
+ ]
+}

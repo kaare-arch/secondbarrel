@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/beretta-687-eell-kal-12-76",
+ "detail_id": "27727bf9512bcfab",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/beretta-687-eell-kal-12-76/",
+ "title": "Beretta 687 EELL, kal. 12/76",
+ "price_dkk": 35000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

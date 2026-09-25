@@ -1,0 +1,69 @@
+{
+ "id": "dc41f58a-d805-48f7-af7a-b279501af6fc",
+ "detail_id": "69d3243ea5de5167",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/dc41f58a-d805-48f7-af7a-b279501af6fc/blaser-r8-30-06",
+ "title": "Blaser R8 30.06",
+ "price_dkk": 21000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-01",
+ "age_days": 203,
+ "postnummer": "6900",
+ "by": "Skjern",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/0.webp",
+ "image_count": 7,
+ "lat": 55.99089664,
+ "lon": 8.53885308,
+ "description": "Blaser R8 professional 30.06  58cm pibe m15x1 gevind sælges er som ny og har ikke skudt ret meget maks 10 skud. Kikkert og montage sælges ikke med.",
+ "images": [
+  {
+   "full": "/images/dc41f58a-d805-48f7-af7a-b279501af6fc/0.webp",
+   "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc41f58a-d805-48f7-af7a-b279501af6fc/1.webp",
+   "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc41f58a-d805-48f7-af7a-b279501af6fc/2.webp",
+   "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc41f58a-d805-48f7-af7a-b279501af6fc/3.webp",
+   "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc41f58a-d805-48f7-af7a-b279501af6fc/4.webp",
+   "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc41f58a-d805-48f7-af7a-b279501af6fc/5.webp",
+   "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dc41f58a-d805-48f7-af7a-b279501af6fc/4.webp",
+   "thumb": "/thumbs/dc41f58a-d805-48f7-af7a-b279501af6fc/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

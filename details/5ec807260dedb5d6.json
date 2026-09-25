@@ -1,0 +1,33 @@
+{
+ "id": "jjsu.dk/shop/ruger-scout-rifle--cal-308-win",
+ "detail_id": "5ec807260dedb5d6",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/ruger-scout-rifle--cal-308-win/",
+ "title": "Ruger Scout Rifle - Cal. 308 Win",
+ "price_dkk": 11499,
+ "weapon_type": "Jagtriffel",
+ "brand": "Ruger",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/ruger-scout-rifle--cal-308-win/0.webp",
+ "image_count": 1,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Ruger Scout Rifle Tilstand: Ny Caliber: 308Win Ladesystem: Repeter 16.10\" koldhamret pibe med matsort finish Sort lamineret skæfte Åbne sigtemidler Picatinny rail Flammeskjuler 5/8\"-24 gevind til eksempelvis lyddæmper Der medfølger ialt 1stk 10-skuds magasin samt kikkertringe",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/ruger-scout-rifle--cal-308-win/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-scout-rifle--cal-308-win/0.webp",
+   "width": 1000,
+   "height": 666
+  }
+ ]
+}

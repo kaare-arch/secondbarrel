@@ -1,0 +1,43 @@
+{
+ "id": "jfskive.dk/products/sabatti-rover-links",
+ "detail_id": "d88702431c5d36e7",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/sabatti-rover-links",
+ "title": "Sabatti Rover Links",
+ "price_dkk": 5900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sabatti",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2022-12-08",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/sabatti-rover-links/0.webp",
+ "image_count": 3,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. 6,5x55 Links Schmidt og Bender 2,5-10x56 Sælges for kunde",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/sabatti-rover-links/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/sabatti-rover-links/0.webp",
+   "width": 1600,
+   "height": 1004
+  },
+  {
+   "full": "/images/jfskive.dk/products/sabatti-rover-links/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/sabatti-rover-links/1.webp",
+   "width": 1600,
+   "height": 1147
+  },
+  {
+   "full": "/images/jfskive.dk/products/sabatti-rover-links/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/sabatti-rover-links/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

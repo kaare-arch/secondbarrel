@@ -1,0 +1,61 @@
+{
+ "id": "mbjagt.dk/shop/viking-lux-243w",
+ "detail_id": "58d9854c3c87b699",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/viking-lux-243w/",
+ "title": "Viking Lux, 243W",
+ "price_dkk": 3995,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-243w/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Viking Lux, kaliber 243W",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-243w/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-243w/0.webp",
+   "width": 1024,
+   "height": 235
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-243w/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-243w/1.webp",
+   "width": 1024,
+   "height": 583
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-243w/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-243w/2.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-243w/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-243w/3.webp",
+   "width": 1024,
+   "height": 255
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-243w/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-243w/4.webp",
+   "width": 1024,
+   "height": 568
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-243w/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-243w/5.webp",
+   "width": 1024,
+   "height": 564
+  }
+ ]
+}

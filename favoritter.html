@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mine favoritter — SecondBarrel</title>
+<meta name="description" content="Dine gemte favoritter på SecondBarrel.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="styles.css?v=20260920c">
+</head>
+<body>
+
+<header class="top">
+  <div class="top-inner">
+    <a class="brand-mark" href="index.html" aria-label="SecondBarrel"><span aria-hidden="true">Sec<span class="o-barrel"></span>ndBarrel</span></a>
+    <p class="tagline"><a class="back-link" href="index.html">&larr; Tilbage til oversigten</a></p>
+  </div>
+  <div class="auth-control" id="authControl"></div>
+  <button type="button" class="btn theme-toggle" id="themeToggle" aria-label="Skift tema">Tema: Auto</button>
+</header>
+
+<main class="wrap">
+  <h1 class="detail-title" style="margin-top:0">Mine favoritter</h1>
+
+  <p class="empty-state" id="loggedOutState" hidden>
+    Log ind for at se dine gemte favoritter.<br><br>
+    <button type="button" class="btn primary" id="loginPromptBtn">Log ind</button>
+  </p>
+  <p class="empty-state" id="emptyState" hidden>Du har ikke gemt nogen favoritter endnu. Klik på stjernen på et våben for at gemme det her.</p>
+  <p class="load-error" id="loadError" hidden>Kunne ikke hente data. Kør siden via en lokal webserver (se README.md) og genindlæs.</p>
+
+  <div class="cards" id="cards" hidden></div>
+</main>
+
+<footer class="site-footer">
+  <p class="muted small">SecondBarrel er en oversigt, ikke en forhandler. Priser og stand er sælgers egne oplysninger.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+<script src="supabase-config.js?v=20260920c"></script>
+<script src="auth.js?v=20260920c"></script>
+<script src="cards.js?v=20260920c"></script>
+<script src="favoritter.js?v=20260920c"></script>
+</body>
+</html>

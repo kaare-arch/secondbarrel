@@ -1,0 +1,49 @@
+{
+ "id": "3a8ac773-e319-4287-af10-d68a18f0f8ba",
+ "detail_id": "8f2c086ca8824d0e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3a8ac773-e319-4287-af10-d68a18f0f8ba/henry-wildlife-4570",
+ "title": "Henry Wildlife 4570",
+ "price_dkk": 9500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Henry",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-09",
+ "age_days": 11,
+ "postnummer": "8410",
+ "by": "Rønde",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/3a8ac773-e319-4287-af10-d68a18f0f8ba/0.webp",
+ "image_count": 4,
+ "lat": 56.30328793,
+ "lon": 10.48173371,
+ "description": "Virkelig flot Henry Wildlife leveraction Riffel 4570 sælges.\nder er lidt Ammunition der følger med riflen.",
+ "images": [
+  {
+   "full": "/images/3a8ac773-e319-4287-af10-d68a18f0f8ba/0.webp",
+   "thumb": "/thumbs/3a8ac773-e319-4287-af10-d68a18f0f8ba/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a8ac773-e319-4287-af10-d68a18f0f8ba/1.webp",
+   "thumb": "/thumbs/3a8ac773-e319-4287-af10-d68a18f0f8ba/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a8ac773-e319-4287-af10-d68a18f0f8ba/2.webp",
+   "thumb": "/thumbs/3a8ac773-e319-4287-af10-d68a18f0f8ba/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a8ac773-e319-4287-af10-d68a18f0f8ba/3.webp",
+   "thumb": "/thumbs/3a8ac773-e319-4287-af10-d68a18f0f8ba/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

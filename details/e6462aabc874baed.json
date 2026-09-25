@@ -1,0 +1,55 @@
+{
+ "id": "b32bf759-3f5f-449b-8f49-77b6774430a9",
+ "detail_id": "e6462aabc874baed",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b32bf759-3f5f-449b-8f49-77b6774430a9/j-m-urriola-sarasqueta-kal-16-s-s",
+ "title": "J.M. Urriola Sarasqueta kal. 16 s/s",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-04-03",
+ "age_days": 170,
+ "postnummer": "9440",
+ "by": "Aabybro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b32bf759-3f5f-449b-8f49-77b6774430a9/0.webp",
+ "image_count": 5,
+ "lat": 57.16282327,
+ "lon": 9.76743314,
+ "description": "Spansk produceret",
+ "images": [
+  {
+   "full": "/images/b32bf759-3f5f-449b-8f49-77b6774430a9/0.webp",
+   "thumb": "/thumbs/b32bf759-3f5f-449b-8f49-77b6774430a9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b32bf759-3f5f-449b-8f49-77b6774430a9/1.webp",
+   "thumb": "/thumbs/b32bf759-3f5f-449b-8f49-77b6774430a9/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b32bf759-3f5f-449b-8f49-77b6774430a9/2.webp",
+   "thumb": "/thumbs/b32bf759-3f5f-449b-8f49-77b6774430a9/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b32bf759-3f5f-449b-8f49-77b6774430a9/3.webp",
+   "thumb": "/thumbs/b32bf759-3f5f-449b-8f49-77b6774430a9/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b32bf759-3f5f-449b-8f49-77b6774430a9/4.webp",
+   "thumb": "/thumbs/b32bf759-3f5f-449b-8f49-77b6774430a9/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

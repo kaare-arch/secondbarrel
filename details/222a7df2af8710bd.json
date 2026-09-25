@@ -1,0 +1,33 @@
+{
+ "id": "jafi.dk/products/8798-jaeger",
+ "detail_id": "222a7df2af8710bd",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/8798-jaeger",
+ "title": "Haenel Jaeger 10 Synthetic Riffel - Kal. 6,5x55",
+ "price_dkk": 11999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Haenel",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/8798-jaeger/0.webp",
+ "image_count": 1,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Riffel fra Jaeger. Der medfølger EAW 30 mm montager. Farvenuance kan variere fra våbnet på billedet. Kaliber: 6,5x55 Magasin: Aftageligt magasin med plads til 3 skud Løbslængde: 55 cm Skæftelængde: 37 cm Skæfte: Syntetisk (sort) Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/8798-jaeger/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/8798-jaeger/0.webp",
+   "width": 580,
+   "height": 580
+  }
+ ]
+}

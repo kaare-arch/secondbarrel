@@ -1,0 +1,61 @@
+{
+ "id": "f3b7d2bb-4fa7-4144-96c5-eba2f1337da4",
+ "detail_id": "03970197e80362a2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/miruko-mk38",
+ "title": "Miruko MK38",
+ "price_dkk": 23000,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-07-31",
+ "age_days": 51,
+ "postnummer": "7200",
+ "by": "Grindsted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/0.webp",
+ "image_count": 6,
+ "lat": 55.75986358,
+ "lon": 8.89887879,
+ "description": "Fantastisk flot og velholdt gevær med 81 cm løb og chokes, 39 cm fra aftrækker til bagklappen kan laves kortere via anden bagklappen.\nBredt froskæfte og glovegrib skæfte til hånd størrelse 9/10 højre skytte. Justerbar bagskæfteryg.\nSkæftet alene koster ca 15.000 kr. At få lavet.\nHusk jagttegn eller SKV for omregistrering ved udlevering.",
+ "images": [
+  {
+   "full": "/images/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/0.webp",
+   "thumb": "/thumbs/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/1.webp",
+   "thumb": "/thumbs/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/2.webp",
+   "thumb": "/thumbs/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/3.webp",
+   "thumb": "/thumbs/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/4.webp",
+   "thumb": "/thumbs/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/5.webp",
+   "thumb": "/thumbs/f3b7d2bb-4fa7-4144-96c5-eba2f1337da4/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

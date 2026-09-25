@@ -1,0 +1,57 @@
+{
+ "id": "e22557b7-fcd7-49e3-ba6d-39a19fef0553",
+ "detail_id": "a73a210d5047db40",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e22557b7-fcd7-49e3-ba6d-39a19fef0553/remington-600-mohawk-308win",
+ "title": "Remington 600 Mohawk 308Win.",
+ "price_dkk": 6000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-11-06",
+ "age_days": 318,
+ "postnummer": "2500",
+ "by": "Valby",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/e22557b7-fcd7-49e3-ba6d-39a19fef0553/0.webp",
+ "image_count": 5,
+ "lat": 55.65941452,
+ "lon": 12.49869399,
+ "description": "Legendarisk riffel. Den korteste masseproducerede riffel, som samtidig er ultra præcis. Monteret med en Tasco Titan kikkert og klar til brug. \nHelt fantastisk til pürch og bruger altid et smil på folks læber. Virkelig et fint eksemplar med mange flotte detaljer.",
+ "images": [
+  {
+   "full": "/images/e22557b7-fcd7-49e3-ba6d-39a19fef0553/0.webp",
+   "thumb": "/thumbs/e22557b7-fcd7-49e3-ba6d-39a19fef0553/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e22557b7-fcd7-49e3-ba6d-39a19fef0553/1.webp",
+   "thumb": "/thumbs/e22557b7-fcd7-49e3-ba6d-39a19fef0553/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e22557b7-fcd7-49e3-ba6d-39a19fef0553/2.webp",
+   "thumb": "/thumbs/e22557b7-fcd7-49e3-ba6d-39a19fef0553/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e22557b7-fcd7-49e3-ba6d-39a19fef0553/3.webp",
+   "thumb": "/thumbs/e22557b7-fcd7-49e3-ba6d-39a19fef0553/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e22557b7-fcd7-49e3-ba6d-39a19fef0553/4.webp",
+   "thumb": "/thumbs/e22557b7-fcd7-49e3-ba6d-39a19fef0553/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

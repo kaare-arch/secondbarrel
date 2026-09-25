@@ -1,0 +1,33 @@
+{
+ "id": "nkjagt.dk/vare/1825-brno-brugt-brno-zkk-601-kal-308",
+ "detail_id": "86b4448c137bb55f",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/1825-brno-brugt-brno-zkk-601-kal-308",
+ "title": "BRNO Brugt Brno ZKK 601 kal. 308",
+ "price_dkk": 2795,
+ "weapon_type": "Jagtriffel",
+ "brand": "CZ",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/1825-brno-brugt-brno-zkk-601-kal-308/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Brugt BRNO Model: ZKK 60160 cm. pibe",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/1825-brno-brugt-brno-zkk-601-kal-308/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/1825-brno-brugt-brno-zkk-601-kal-308/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "b8ef4361-a84f-4958-9c88-ef17160fa7a3",
+ "detail_id": "106f257eee67900c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b8ef4361-a84f-4958-9c88-ef17160fa7a3/carl-gustav-riffel",
+ "title": "Carl Gustav Riffel",
+ "price_dkk": 1500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-12-11",
+ "age_days": 283,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/b8ef4361-a84f-4958-9c88-ef17160fa7a3/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Carl Gustav Riffel.\n\nKaliber 6,5x55.\n\nInkl. Hawke 25mm montage. \n\nPæn og velholdt. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/b8ef4361-a84f-4958-9c88-ef17160fa7a3/0.webp",
+   "thumb": "/thumbs/b8ef4361-a84f-4958-9c88-ef17160fa7a3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b8ef4361-a84f-4958-9c88-ef17160fa7a3/1.webp",
+   "thumb": "/thumbs/b8ef4361-a84f-4958-9c88-ef17160fa7a3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b8ef4361-a84f-4958-9c88-ef17160fa7a3/2.webp",
+   "thumb": "/thumbs/b8ef4361-a84f-4958-9c88-ef17160fa7a3/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b8ef4361-a84f-4958-9c88-ef17160fa7a3/3.webp",
+   "thumb": "/thumbs/b8ef4361-a84f-4958-9c88-ef17160fa7a3/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b8ef4361-a84f-4958-9c88-ef17160fa7a3/4.webp",
+   "thumb": "/thumbs/b8ef4361-a84f-4958-9c88-ef17160fa7a3/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

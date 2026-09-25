@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/browning-425-kal-20-70",
+ "detail_id": "541075fa4baff054",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/browning-425-kal-20-70/",
+ "title": "Browning 425 kal. 20/70",
+ "price_dkk": 15000,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "20/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

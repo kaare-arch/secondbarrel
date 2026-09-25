@@ -1,0 +1,61 @@
+{
+ "id": "mbjagt.dk/shop/tikka-m695-6-5x55",
+ "detail_id": "57bf87e181fccc3a",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/tikka-m695-6-5x55/",
+ "title": "Tikka M695, 6.5×55",
+ "price_dkk": 5295,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/tikka-m695-6-5x55/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Tikka M695, kaliber 6.5x55",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-m695-6-5x55/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-m695-6-5x55/0.webp",
+   "width": 1024,
+   "height": 171
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-m695-6-5x55/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-m695-6-5x55/1.webp",
+   "width": 1024,
+   "height": 634
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-m695-6-5x55/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-m695-6-5x55/2.webp",
+   "width": 1024,
+   "height": 503
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-m695-6-5x55/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-m695-6-5x55/3.webp",
+   "width": 1024,
+   "height": 384
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-m695-6-5x55/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-m695-6-5x55/4.webp",
+   "width": 1024,
+   "height": 549
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-m695-6-5x55/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-m695-6-5x55/5.webp",
+   "width": 1024,
+   "height": 504
+  }
+ ]
+}

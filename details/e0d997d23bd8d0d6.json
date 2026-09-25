@@ -1,0 +1,63 @@
+{
+ "id": "11f5eef0-0151-4e1b-911a-337f26602797",
+ "detail_id": "e0d997d23bd8d0d6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/11f5eef0-0151-4e1b-911a-337f26602797/tikka-m65-30-06",
+ "title": "Tikka M65 - 30.06",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-30",
+ "age_days": 21,
+ "postnummer": "4400",
+ "by": "Kalundborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/11f5eef0-0151-4e1b-911a-337f26602797/0.webp",
+ "image_count": 6,
+ "lat": 55.70601705,
+ "lon": 10.97431629,
+ "description": "Rigtig fin Tikka M65 sælges da den dsv ikke bliver brugt nok. \nDer kan medfølge et par pakker patroner. \nSig Sauer whiskey 3. 3-9x50 monteret med EAW svingmontage. \nM14x1 gevind med schulz og Larsen lyddæmper. \nKanon riffel der kan det hele!\nByttes evt med lever action riffel, i kaliber 30-30",
+ "images": [
+  {
+   "full": "/images/11f5eef0-0151-4e1b-911a-337f26602797/0.webp",
+   "thumb": "/thumbs/11f5eef0-0151-4e1b-911a-337f26602797/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11f5eef0-0151-4e1b-911a-337f26602797/1.webp",
+   "thumb": "/thumbs/11f5eef0-0151-4e1b-911a-337f26602797/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11f5eef0-0151-4e1b-911a-337f26602797/2.webp",
+   "thumb": "/thumbs/11f5eef0-0151-4e1b-911a-337f26602797/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11f5eef0-0151-4e1b-911a-337f26602797/3.webp",
+   "thumb": "/thumbs/11f5eef0-0151-4e1b-911a-337f26602797/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11f5eef0-0151-4e1b-911a-337f26602797/4.webp",
+   "thumb": "/thumbs/11f5eef0-0151-4e1b-911a-337f26602797/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11f5eef0-0151-4e1b-911a-337f26602797/5.webp",
+   "thumb": "/thumbs/11f5eef0-0151-4e1b-911a-337f26602797/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

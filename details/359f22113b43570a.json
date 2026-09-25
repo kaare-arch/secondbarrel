@@ -1,0 +1,63 @@
+{
+ "id": "5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b",
+ "detail_id": "359f22113b43570a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/sjaelden-sauer-beretta-s57e-monte-carlo",
+ "title": "Sjælden Sauer-Beretta S57E Monte Carlo",
+ "price_dkk": 7500,
+ "weapon_type": "Haglgevær",
+ "brand": "Sauer",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-07",
+ "age_days": 225,
+ "postnummer": "7200",
+ "by": "Grindsted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/0.webp",
+ "image_count": 6,
+ "lat": 55.75986358,
+ "lon": 8.89887879,
+ "description": "Virkelig lækker O/U kal 12/70 med super balance.  Lavet i samarbejde med Tyske Sauer og Italienske Beretta.  \nEjector og rigtig god stand. Sjælden en sag for samler",
+ "images": [
+  {
+   "full": "/images/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/0.webp",
+   "thumb": "/thumbs/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/1.webp",
+   "thumb": "/thumbs/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/2.webp",
+   "thumb": "/thumbs/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/3.webp",
+   "thumb": "/thumbs/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/4.webp",
+   "thumb": "/thumbs/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/5.webp",
+   "thumb": "/thumbs/5b0e9a0c-8ce8-4d5d-a7db-3ca68eac613b/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

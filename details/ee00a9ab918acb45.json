@@ -1,0 +1,57 @@
+{
+ "id": "aa699bbb-4150-47c5-89eb-6f8a010a9e38",
+ "detail_id": "ee00a9ab918acb45",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/aa699bbb-4150-47c5-89eb-6f8a010a9e38/toz-salonriffel",
+ "title": "Toz Salonriffel",
+ "price_dkk": 1199,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-06-02",
+ "age_days": 110,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/aa699bbb-4150-47c5-89eb-6f8a010a9e38/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Toz Salonriffel\n\nKaliber 22LR.\n\nMed aftageligt 5 skuds magasin.\n\nInkl. Bushnell optik 2,75 x forstørrelse. \n\nFornuftig brugt stand. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/aa699bbb-4150-47c5-89eb-6f8a010a9e38/0.webp",
+   "thumb": "/thumbs/aa699bbb-4150-47c5-89eb-6f8a010a9e38/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa699bbb-4150-47c5-89eb-6f8a010a9e38/1.webp",
+   "thumb": "/thumbs/aa699bbb-4150-47c5-89eb-6f8a010a9e38/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa699bbb-4150-47c5-89eb-6f8a010a9e38/2.webp",
+   "thumb": "/thumbs/aa699bbb-4150-47c5-89eb-6f8a010a9e38/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa699bbb-4150-47c5-89eb-6f8a010a9e38/3.webp",
+   "thumb": "/thumbs/aa699bbb-4150-47c5-89eb-6f8a010a9e38/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa699bbb-4150-47c5-89eb-6f8a010a9e38/4.webp",
+   "thumb": "/thumbs/aa699bbb-4150-47c5-89eb-6f8a010a9e38/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

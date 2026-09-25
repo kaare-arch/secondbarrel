@@ -1,0 +1,51 @@
+{
+ "id": "3a3e4050-f54c-4efb-8922-fd826bc04bae",
+ "detail_id": "e24de60dc8411e31",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3a3e4050-f54c-4efb-8922-fd826bc04bae/weekend-tilbud-winchester-101-20-76-solgt",
+ "title": "WEEKEND TILBUD. Winchester  101. 20/76. SOLGT",
+ "price_dkk": 6995,
+ "weapon_type": "Haglgevær",
+ "brand": "Winchester",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-07",
+ "age_days": 44,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/3a3e4050-f54c-4efb-8922-fd826bc04bae/0.webp",
+ "image_count": 4,
+ "lat": 55.02899493,
+ "lon": 9.49975045,
+ "description": "Super fin Winchester 101 i 20/76. 71 cm løb",
+ "images": [
+  {
+   "full": "/images/3a3e4050-f54c-4efb-8922-fd826bc04bae/0.webp",
+   "thumb": "/thumbs/3a3e4050-f54c-4efb-8922-fd826bc04bae/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a3e4050-f54c-4efb-8922-fd826bc04bae/1.webp",
+   "thumb": "/thumbs/3a3e4050-f54c-4efb-8922-fd826bc04bae/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a3e4050-f54c-4efb-8922-fd826bc04bae/2.webp",
+   "thumb": "/thumbs/3a3e4050-f54c-4efb-8922-fd826bc04bae/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a3e4050-f54c-4efb-8922-fd826bc04bae/3.webp",
+   "thumb": "/thumbs/3a3e4050-f54c-4efb-8922-fd826bc04bae/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

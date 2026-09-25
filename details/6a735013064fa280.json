@@ -1,0 +1,45 @@
+{
+ "id": "michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70",
+ "detail_id": "6a735013064fa280",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70",
+ "title": "6169-AYA HUNTERS GUN 12-70",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70/0.webp",
+ "image_count": 3,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Kaliber : 12/70 Total længe :111Cm. Løbs længe : 68Cm. Skæfte længe : 34,5Cm. Ejector : Nej Chokes : Nej",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70/0.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70/1.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/37484-aya-6169-aya-hunters-gun-12-70/2.webp",
+   "width": 460,
+   "height": 307
+  }
+ ]
+}

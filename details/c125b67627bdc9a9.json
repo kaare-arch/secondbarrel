@@ -1,0 +1,75 @@
+{
+ "id": "mbjagt.dk/shop/howa-1500-30-06",
+ "detail_id": "c125b67627bdc9a9",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/howa-1500-30-06/",
+ "title": "Howa 1500, 30-06",
+ "price_dkk": 4995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Howa",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/0.webp",
+ "image_count": 8,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Howa 1500, kaliber 30-06",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/0.webp",
+   "width": 1024,
+   "height": 205
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/1.webp",
+   "width": 1024,
+   "height": 409
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/2.webp",
+   "width": 1024,
+   "height": 280
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/3.webp",
+   "width": 1024,
+   "height": 504
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/4.webp",
+   "width": 1024,
+   "height": 570
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/5.webp",
+   "width": 1024,
+   "height": 519
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/6.webp",
+   "width": 1024,
+   "height": 405
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/howa-1500-30-06/7.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/howa-1500-30-06/7.webp",
+   "width": 1024,
+   "height": 551
+  }
+ ]
+}

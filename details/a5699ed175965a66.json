@@ -1,0 +1,51 @@
+{
+ "id": "47b02594-5e1c-4ab9-87b9-e67c5845f42d",
+ "detail_id": "a5699ed175965a66",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/47b02594-5e1c-4ab9-87b9-e67c5845f42d/mauser-m69-6-5x55",
+ "title": "Mauser M69 6,5x55",
+ "price_dkk": 4800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-30",
+ "age_days": 233,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/47b02594-5e1c-4ab9-87b9-e67c5845f42d/0.webp",
+ "image_count": 4,
+ "lat": 55.02899493,
+ "lon": 9.49975045,
+ "description": "Mauser M69 sælges.\nKaliber 6,5x55\nBoyd skæfte\nLeopold montage.\nZ-Aim 3-30x56 med paralakse og belyst trådkors.\n\nVelskydende.\n\nBefinder sig ved Aabenraa.",
+ "images": [
+  {
+   "full": "/images/47b02594-5e1c-4ab9-87b9-e67c5845f42d/0.webp",
+   "thumb": "/thumbs/47b02594-5e1c-4ab9-87b9-e67c5845f42d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/47b02594-5e1c-4ab9-87b9-e67c5845f42d/1.webp",
+   "thumb": "/thumbs/47b02594-5e1c-4ab9-87b9-e67c5845f42d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/47b02594-5e1c-4ab9-87b9-e67c5845f42d/2.webp",
+   "thumb": "/thumbs/47b02594-5e1c-4ab9-87b9-e67c5845f42d/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/47b02594-5e1c-4ab9-87b9-e67c5845f42d/3.webp",
+   "thumb": "/thumbs/47b02594-5e1c-4ab9-87b9-e67c5845f42d/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

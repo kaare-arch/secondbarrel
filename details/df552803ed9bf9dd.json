@@ -1,0 +1,39 @@
+{
+ "id": "jjsu.dk/shop/mossberg-mvp-predator--308win",
+ "detail_id": "df552803ed9bf9dd",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/mossberg-mvp-predator--308win/",
+ "title": "Mossberg MVP Predator - 308Win",
+ "price_dkk": 7000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mossberg",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/mossberg-mvp-predator--308win/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Mossberg MVP Predator Tilstand: Lettere brugt (Ca. 20skud) Caliber: 7,62 Nato / 308Win Justerbart aftræk Aftageligt magasin med den fantastiske egenskab af den er konvertibel med AR10 magasiner Monteret med Hawke Hawken Endurance 30 IR 3-12x56 med LR Dot",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/mossberg-mvp-predator--308win/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/mossberg-mvp-predator--308win/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/mossberg-mvp-predator--308win/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/mossberg-mvp-predator--308win/1.webp",
+   "width": 540,
+   "height": 358
+  }
+ ]
+}

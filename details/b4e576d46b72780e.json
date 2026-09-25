@@ -1,0 +1,45 @@
+{
+ "id": "vaabensalg.dk/products/carl-gustav-6-5-55",
+ "detail_id": "b4e576d46b72780e",
+ "source": "vaabensalg.dk",
+ "source_label": "Våbensalg",
+ "url": "https://vaabensalg.dk/products/carl-gustav-6-5-55",
+ "title": "Carl Gustav Kal. 6,5x55 jagtriffel - brugt",
+ "price_dkk": 2795,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-02-05",
+ "age_days": null,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": null,
+ "thumb": "/thumbs/vaabensalg.dk/products/carl-gustav-6-5-55/0.webp",
+ "image_count": 3,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Carl Gustav 6,5x55",
+ "images": [
+  {
+   "full": "/images/vaabensalg.dk/products/carl-gustav-6-5-55/0.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/carl-gustav-6-5-55/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/carl-gustav-6-5-55/1.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/carl-gustav-6-5-55/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/carl-gustav-6-5-55/2.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/carl-gustav-6-5-55/2.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

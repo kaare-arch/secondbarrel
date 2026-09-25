@@ -1,0 +1,31 @@
+{
+ "id": "brasholt.nu/product/carl-gustav-1900-lux-65x55-m-swa-22-9x42-eaw",
+ "detail_id": "034cc47b429c03fe",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/carl-gustav-1900-lux-65x55-m-swa-22-9x42-eaw/",
+ "title": "Carl Gustav 1900 Lux. 6,5×55 m/Swa. 2,2-9×42 EAW",
+ "price_dkk": 10999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/carl-gustav-1900-lux-65x55-m-swa-22-9x42-eaw/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-1900-lux-65x55-m-swa-22-9x42-eaw/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-1900-lux-65x55-m-swa-22-9x42-eaw/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

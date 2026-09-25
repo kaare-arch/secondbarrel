@@ -1,0 +1,51 @@
+{
+ "id": "jjsu.dk/shop/glock-44-dk-",
+ "detail_id": "c350266215fe9578",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/glock-44-dk-/",
+ "title": "Glock 44 DK - Cal. 22lr",
+ "price_dkk": 6999,
+ "weapon_type": "Pistol",
+ "brand": "Glock",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/glock-44-dk-/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Glock 44 - Nu i Cal. 22lr",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/glock-44-dk-/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-44-dk-/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-44-dk-/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-44-dk-/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-44-dk-/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-44-dk-/2.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/glock-44-dk-/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/glock-44-dk-/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "huntershouse.dk/kat120-detaljer/side719-e.j.churchill-gunmakers,-london.html",
+ "detail_id": "ce6a7ec98ae820f9",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat120-Detaljer/side719-E.J.Churchill-Gunmakers,-London.html",
+ "title": "Churchill Gunmakers, London .30-06",
+ "price_dkk": 11600,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side719-e.j.churchill-gunmakers,-london.html/0.webp",
+ "image_count": 1,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Kal. .30-06 Brugt En rigtig klassisk engelsk riffel. Piben der står i original blånering er 58 cm …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side719-e.j.churchill-gunmakers,-london.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side719-e.j.churchill-gunmakers,-london.html/0.webp",
+   "width": 280,
+   "height": 1398
+  }
+ ]
+}

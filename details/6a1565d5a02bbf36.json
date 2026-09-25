@@ -1,0 +1,45 @@
+{
+ "id": "jjsu.dk/shop/fn-browning-150--cal-22lr-253469",
+ "detail_id": "6a1565d5a02bbf36",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/fn-browning-150--cal-22lr-253469/",
+ "title": "FN Browning 150 - Cal. 22lr",
+ "price_dkk": 2499,
+ "weapon_type": "Pistol",
+ "brand": "Browning",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/fn-browning-150--cal-22lr-253469/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "FN Browning 150 Tilstand: Brugt Kaliber. 22lr Totallængde: 27,90cm Løbslængde: 15,00cm Ladesystem: ½ auto Der medfølger i alt 1 magasin.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/fn-browning-150--cal-22lr-253469/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/fn-browning-150--cal-22lr-253469/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/fn-browning-150--cal-22lr-253469/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/fn-browning-150--cal-22lr-253469/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/fn-browning-150--cal-22lr-253469/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/fn-browning-150--cal-22lr-253469/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

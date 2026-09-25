@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/baikal-ij27-12-76",
+ "detail_id": "b114e57b3cc8270c",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/baikal-ij27-12-76/",
+ "title": "Baikal IJ27, 12-76",
+ "price_dkk": 2495,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/baikal-ij27-12-76/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Baikal IJ27Brugt Baikal IJ27 haglgevær i kaliber 12-76. Denne over/under har 72 cm løb samt ejektor. De viste chokes sidder fast, så derfor er den nu med \"fast boring\" på 1/4 - 1/2.",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-ij27-12-76/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-ij27-12-76/0.webp",
+   "width": 1024,
+   "height": 190
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-ij27-12-76/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-ij27-12-76/1.webp",
+   "width": 1024,
+   "height": 569
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-ij27-12-76/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-ij27-12-76/2.webp",
+   "width": 1024,
+   "height": 565
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-ij27-12-76/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-ij27-12-76/3.webp",
+   "width": 1024,
+   "height": 449
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-ij27-12-76/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-ij27-12-76/4.webp",
+   "width": 1024,
+   "height": 717
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/baikal-ij27-12-76/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/baikal-ij27-12-76/5.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": "iversen-import.dk/suhl-12-70-584397.html",
+ "detail_id": "efce4b6109f83029",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/suhl-12-70-584397.html",
+ "title": "Suhl 12/[tlf fjernet]",
+ "price_dkk": 999,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/iversen-import.dk/suhl-12-70-584397.html/0.webp",
+ "image_count": 2,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": "Længde: 113 cm Løb: 71 cm Afstand til forreste aftræk: 37 cm Trangboring: Full / Light Full",
+ "images": [
+  {
+   "full": "/images/iversen-import.dk/suhl-12-70-584397.html/0.jpg",
+   "thumb": "/thumbs/iversen-import.dk/suhl-12-70-584397.html/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/suhl-12-70-584397.html/1.jpg",
+   "thumb": "/thumbs/iversen-import.dk/suhl-12-70-584397.html/1.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

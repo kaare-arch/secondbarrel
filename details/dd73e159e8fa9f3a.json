@@ -1,0 +1,33 @@
+{
+ "id": "vaabensalg.dk/products/blaser-r8-professional-brugt",
+ "detail_id": "dd73e159e8fa9f3a",
+ "source": "vaabensalg.dk",
+ "source_label": "Våbensalg",
+ "url": "https://vaabensalg.dk/products/blaser-r8-professional-brugt",
+ "title": "Blaser R93 Professional Kal. 308 win - brugt",
+ "price_dkk": 17999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-02-05",
+ "age_days": null,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": null,
+ "thumb": "/thumbs/vaabensalg.dk/products/blaser-r8-professional-brugt/0.webp",
+ "image_count": 1,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Blaser R93 Professional inkl. pibe kal. 308 Win Piben sælges ikke separat.",
+ "images": [
+  {
+   "full": "/images/vaabensalg.dk/products/blaser-r8-professional-brugt/0.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/blaser-r8-professional-brugt/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "hunterspoint.dk/products/brugt-sako-riffel-kal-308win-kikkert",
+ "detail_id": "e1a1ba57851fd207",
+ "source": "hunterspoint.dk",
+ "source_label": "Hunters Point",
+ "url": "https://hunterspoint.dk/products/brugt-sako-riffel-kal-308win-kikkert",
+ "title": "Brugt - Sako Riffel kal. 308win + Kikkert",
+ "price_dkk": 6000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2024-02-15",
+ "age_days": null,
+ "postnummer": "8850",
+ "by": "Bjerringbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/hunterspoint.dk/products/brugt-sako-riffel-kal-308win-kikkert/0.webp",
+ "image_count": 1,
+ "lat": 56.36051392,
+ "lon": 9.64257403,
+ "description": "﻿Med brugt Nikko Stirling 4x32 Kaliber: 308 Win. (Kan kun købes i forretning)",
+ "images": [
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-sako-riffel-kal-308win-kikkert/0.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-sako-riffel-kal-308win-kikkert/0.webp",
+   "width": 1066,
+   "height": 340
+  }
+ ]
+}

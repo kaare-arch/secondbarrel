@@ -1,0 +1,75 @@
+{
+ "id": "52dacfb1-4e33-4e1a-a188-3c0f5e337aae",
+ "detail_id": "15a14ea95d594290",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/tikka-m65-6-5x55-jagtriffel-med-zeiss-optik",
+ "title": "Tikka M65 6,5x55 - jagtriffel med Zeiss optik",
+ "price_dkk": 3900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-01",
+ "age_days": 172,
+ "postnummer": "4000",
+ "by": "Roskilde",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/0.webp",
+ "image_count": 8,
+ "lat": 55.65647451,
+ "lon": 12.06373356,
+ "description": "Velskydende Tikka M65 I kaliber 6,5x55 monteret med Zeiss Diavari-Z 2,5-10x48. Der medfølger 3-skuds magasin\nTræskæfte med kun få brugsmærker. Riflen er efterset, serviceret og indskudt hos våbensmeden i oktober 2025",
+ "images": [
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/0.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/1.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/2.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/3.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/4.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/5.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/6.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/7.webp",
+   "thumb": "/thumbs/52dacfb1-4e33-4e1a-a188-3c0f5e337aae/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

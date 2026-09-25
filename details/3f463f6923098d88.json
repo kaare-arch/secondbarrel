@@ -1,0 +1,33 @@
+{
+ "id": "westgun.dk/parker-hale-6-5x55.html",
+ "detail_id": "3f463f6923098d88",
+ "source": "westgun.dk",
+ "source_label": "Westgun",
+ "url": "https://www.westgun.dk/parker-hale-6-5x55.html",
+ "title": "Parker Hale 6,5x55",
+ "price_dkk": 3950,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7660",
+ "by": "Bækmarksbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/westgun.dk/parker-hale-6-5x55.html/0.webp",
+ "image_count": 1,
+ "lat": 56.41551889,
+ "lon": 8.33184097,
+ "description": "Ældre brugt Parker Hale jagtriffel i fin stand. Inklusiv stålmontage.",
+ "images": [
+  {
+   "full": "/images/westgun.dk/parker-hale-6-5x55.html/0.jpg",
+   "thumb": "/thumbs/westgun.dk/parker-hale-6-5x55.html/0.webp",
+   "width": 265,
+   "height": 265
+  }
+ ]
+}

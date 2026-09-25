@@ -1,0 +1,45 @@
+{
+ "id": "jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994",
+ "detail_id": "dc8e6e775aae99d2",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/",
+ "title": "Sako Tri Ace - Cal. 22 LR",
+ "price_dkk": 3499,
+ "weapon_type": "Pistol",
+ "brand": "Sako",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Sako Triace Tilstand: Brugt kaliber: 22 LR Totallængde: 29,20cm Pibelængde: 14,90cm Vægt: 1315g System: ½ auto Sako Triace er en tidløs og præcis pistol, skabt med en kombination af finsk håndværk og moderne teknologi. Denne kaliber 22 LR pistol er populær blandt både hobbyskytter og professionelle, takket være dens pålidelighed og alsidighed.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/sako-tri-ace--cal-22-lr-257994/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "jjsu.dk/shop/liama-comanche-iii--caliber-38357",
+ "detail_id": "2849468f30e3aaa5",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/liama-comanche-iii--caliber-38357/",
+ "title": "LIama Comanche III - Caliber. 38/357",
+ "price_dkk": 3249,
+ "weapon_type": "Revolver",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/liama-comanche-iii--caliber-38357/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "LIama Comanche III Tilstand: Brugt, men flot stand. Cal. 38SPecial / 357Magnum",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/liama-comanche-iii--caliber-38357/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/liama-comanche-iii--caliber-38357/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/liama-comanche-iii--caliber-38357/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/liama-comanche-iii--caliber-38357/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/liama-comanche-iii--caliber-38357/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/liama-comanche-iii--caliber-38357/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

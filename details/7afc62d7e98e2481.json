@@ -1,0 +1,55 @@
+{
+ "id": "50b74669-25e2-4fff-ac44-9d441a25c04b",
+ "detail_id": "7afc62d7e98e2481",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/50b74669-25e2-4fff-ac44-9d441a25c04b/winchester-1873-44-40-first-model",
+ "title": "Winchester [tlf fjernet] First model",
+ "price_dkk": 9500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-08-26",
+ "age_days": 25,
+ "postnummer": "2000",
+ "by": "Frederiksberg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/50b74669-25e2-4fff-ac44-9d441a25c04b/0.webp",
+ "image_count": 5,
+ "lat": 55.67945641,
+ "lon": 12.51562935,
+ "description": "Winchester [tlf fjernet] en First model da den har lavt nr er fra 1886",
+ "images": [
+  {
+   "full": "/images/50b74669-25e2-4fff-ac44-9d441a25c04b/0.webp",
+   "thumb": "/thumbs/50b74669-25e2-4fff-ac44-9d441a25c04b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50b74669-25e2-4fff-ac44-9d441a25c04b/1.webp",
+   "thumb": "/thumbs/50b74669-25e2-4fff-ac44-9d441a25c04b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50b74669-25e2-4fff-ac44-9d441a25c04b/2.webp",
+   "thumb": "/thumbs/50b74669-25e2-4fff-ac44-9d441a25c04b/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50b74669-25e2-4fff-ac44-9d441a25c04b/3.webp",
+   "thumb": "/thumbs/50b74669-25e2-4fff-ac44-9d441a25c04b/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50b74669-25e2-4fff-ac44-9d441a25c04b/4.webp",
+   "thumb": "/thumbs/50b74669-25e2-4fff-ac44-9d441a25c04b/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

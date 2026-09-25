@@ -1,0 +1,61 @@
+{
+ "id": "db570308-4e1a-4c34-b390-9b498c990f5b",
+ "detail_id": "bf70b4b8ae8bfecd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/db570308-4e1a-4c34-b390-9b498c990f5b/sauer-202-eksklusiv",
+ "title": "Sauer 202 Eksklusiv",
+ "price_dkk": 21500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-06-13",
+ "age_days": 99,
+ "postnummer": "7620",
+ "by": "Lemvig",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/db570308-4e1a-4c34-b390-9b498c990f5b/0.webp",
+ "image_count": 6,
+ "lat": 56.54580784,
+ "lon": 8.33453584,
+ "description": "Sauer 202 Eksklusiv .308 med en zeiss 3-12x56i\nDer medfølger en del ammunition \n\nVed interesse ring på [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/db570308-4e1a-4c34-b390-9b498c990f5b/0.webp",
+   "thumb": "/thumbs/db570308-4e1a-4c34-b390-9b498c990f5b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/db570308-4e1a-4c34-b390-9b498c990f5b/1.webp",
+   "thumb": "/thumbs/db570308-4e1a-4c34-b390-9b498c990f5b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/db570308-4e1a-4c34-b390-9b498c990f5b/2.webp",
+   "thumb": "/thumbs/db570308-4e1a-4c34-b390-9b498c990f5b/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/db570308-4e1a-4c34-b390-9b498c990f5b/3.webp",
+   "thumb": "/thumbs/db570308-4e1a-4c34-b390-9b498c990f5b/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/db570308-4e1a-4c34-b390-9b498c990f5b/4.webp",
+   "thumb": "/thumbs/db570308-4e1a-4c34-b390-9b498c990f5b/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/db570308-4e1a-4c34-b390-9b498c990f5b/5.webp",
+   "thumb": "/thumbs/db570308-4e1a-4c34-b390-9b498c990f5b/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

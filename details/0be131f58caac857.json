@@ -1,0 +1,49 @@
+{
+ "id": "jfskive.dk/products/armi-f-gamba-gyttorp-brugt",
+ "detail_id": "0be131f58caac857",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/armi-f-gamba-gyttorp-brugt",
+ "title": "Armi F Gamba Gyttorp (Brugt)",
+ "price_dkk": 6500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-02-09",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/0.webp",
+ "image_count": 4,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "12/70 71 cm løb Engelsk skæfte Sælges for kunde",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/0.webp",
+   "width": 1600,
+   "height": 990
+  },
+  {
+   "full": "/images/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/3.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/armi-f-gamba-gyttorp-brugt/3.webp",
+   "width": 1112,
+   "height": 1600
+  }
+ ]
+}

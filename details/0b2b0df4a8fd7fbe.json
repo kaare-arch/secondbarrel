@@ -1,0 +1,33 @@
+{
+ "id": "jjsu.dk/shop/ruger-mkiv-target-wthreaded--cal-22lr",
+ "detail_id": "0b2b0df4a8fd7fbe",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/ruger-mkiv-target-wthreaded--cal-22lr/",
+ "title": "Ruger MKIV Target w/threaded Cal. 22lr",
+ "price_dkk": 8849,
+ "weapon_type": "Pistol",
+ "brand": "Ruger",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/ruger-mkiv-target-wthreaded--cal-22lr/0.webp",
+ "image_count": 1,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Ruger MK IV Target - Stainless W/threaded Tilstand: Ny Caliber. 22lr Threaded Barrel Der medfølger ialt 2stk 10skuds magasiner, samt lås.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/ruger-mkiv-target-wthreaded--cal-22lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-mkiv-target-wthreaded--cal-22lr/0.webp",
+   "width": 1000,
+   "height": 666
+  }
+ ]
+}

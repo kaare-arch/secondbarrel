@@ -1,0 +1,45 @@
+{
+ "id": "jjsu.dk/shop/high-standard-model-103--cal-22-lr-",
+ "detail_id": "2c5ce0f3fc85f38a",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/high-standard-model-103--cal-22-lr-/",
+ "title": "High Standard - Cal. 22 LR",
+ "price_dkk": 2499,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/high-standard-model-103--cal-22-lr-/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "(2343604(392-G2)) High Standard model 103 Tilstand: Brugt (Men fornuftig stand og mekanisk rigtig fin) Kaliber: 22lr Der medfølger i alt 1 magasin.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-model-103--cal-22-lr-/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-model-103--cal-22-lr-/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-model-103--cal-22-lr-/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-model-103--cal-22-lr-/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/high-standard-model-103--cal-22-lr-/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/high-standard-model-103--cal-22-lr-/2.webp",
+   "width": 540,
+   "height": 359
+  }
+ ]
+}

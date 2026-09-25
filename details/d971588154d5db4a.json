@@ -1,0 +1,33 @@
+{
+ "id": "brasholt.nu/product/sarasquetta-s-s-12-70",
+ "detail_id": "d971588154d5db4a",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/sarasquetta-s-s-12-70/",
+ "title": "Sarasquetta S/S 12/70",
+ "price_dkk": 2995,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/sarasquetta-s-s-12-70/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Sarasquetta 12/70 – 66 cm. Fast trangborring CYL – ½",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/sarasquetta-s-s-12-70/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sarasquetta-s-s-12-70/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

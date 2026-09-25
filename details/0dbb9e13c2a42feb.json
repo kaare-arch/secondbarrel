@@ -1,0 +1,33 @@
+{
+ "id": "brasholt.nu/product/tikka-m55-fuldskaeftet-308w-208889-m-30mm-montage",
+ "detail_id": "0dbb9e13c2a42feb",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/tikka-m55-fuldskaeftet-308w-208889-m-30mm-montage/",
+ "title": "Tikka M55 Fuldskæftet 308W 208889 M/30mm Montage",
+ "price_dkk": 5999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/tikka-m55-fuldskaeftet-308w-208889-m-30mm-montage/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Tikka M55 .308 Win. Fuldskæfte med kindpude og afsluttet med gummikappe.",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/tikka-m55-fuldskaeftet-308w-208889-m-30mm-montage/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/tikka-m55-fuldskaeftet-308w-208889-m-30mm-montage/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

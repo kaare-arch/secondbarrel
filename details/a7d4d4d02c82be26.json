@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/weatherby-p-beretta-kal-22lr",
+ "detail_id": "a7d4d4d02c82be26",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/weatherby-p-beretta-kal-22lr/",
+ "title": "Weatherby ‘P.Beretta’, Kal. 22LR",
+ "price_dkk": 8000,
+ "weapon_type": "Salonriffel",
+ "brand": "Weatherby",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

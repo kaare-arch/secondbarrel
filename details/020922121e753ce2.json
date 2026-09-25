@@ -1,0 +1,45 @@
+{
+ "id": "e23c7588-d77c-4e20-8468-34fad40cd754",
+ "detail_id": "020922121e753ce2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e23c7588-d77c-4e20-8468-34fad40cd754/tikka-kombi-12-222-22-lr-22-magnum",
+ "title": "Tikka kombi, 12,222,22 lr, 22 magnum.",
+ "price_dkk": 6500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Tikka",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-26",
+ "age_days": 56,
+ "postnummer": "4720",
+ "by": "Præstø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/e23c7588-d77c-4e20-8468-34fad40cd754/0.webp",
+ "image_count": 3,
+ "lat": 55.12208613,
+ "lon": 12.19166049,
+ "description": "Kombi til 4 forskellige kalibre, samt vridmontage.",
+ "images": [
+  {
+   "full": "/images/e23c7588-d77c-4e20-8468-34fad40cd754/0.webp",
+   "thumb": "/thumbs/e23c7588-d77c-4e20-8468-34fad40cd754/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e23c7588-d77c-4e20-8468-34fad40cd754/2.webp",
+   "thumb": "/thumbs/e23c7588-d77c-4e20-8468-34fad40cd754/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e23c7588-d77c-4e20-8468-34fad40cd754/2.webp",
+   "thumb": "/thumbs/e23c7588-d77c-4e20-8468-34fad40cd754/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

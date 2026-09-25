@@ -1,0 +1,39 @@
+{
+ "id": "13bbefb1-680b-48ec-9e05-21e2098c1f6b",
+ "detail_id": "e80602a2c1b46fb5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/13bbefb1-680b-48ec-9e05-21e2098c1f6b/valmet-412s-12-76",
+ "title": "Valmet 412s 12/76",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Valmet",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-30",
+ "age_days": 233,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/13bbefb1-680b-48ec-9e05-21e2098c1f6b/0.webp",
+ "image_count": 2,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Gerne bytte til riffel optik eller halvautomat! \nValmet 412S sælges da jeg ikke får den brugt. Det er den model hvor der kan fås dobbelt riffel løb eller bbf til.",
+ "images": [
+  {
+   "full": "/images/13bbefb1-680b-48ec-9e05-21e2098c1f6b/0.webp",
+   "thumb": "/thumbs/13bbefb1-680b-48ec-9e05-21e2098c1f6b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/13bbefb1-680b-48ec-9e05-21e2098c1f6b/1.webp",
+   "thumb": "/thumbs/13bbefb1-680b-48ec-9e05-21e2098c1f6b/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

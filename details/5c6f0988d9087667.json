@@ -1,0 +1,45 @@
+{
+ "id": "macnab.eu/vare/763-parker-hale-parker-hale-30-06",
+ "detail_id": "5c6f0988d9087667",
+ "source": "macnab.eu",
+ "source_label": "Macnab",
+ "url": "https://www.macnab.eu/vare/763-parker-hale-parker-hale-30-06",
+ "title": "Parker Hale Parker Hale .30-06",
+ "price_dkk": 5995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6400",
+ "by": "Sønderborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/macnab.eu/vare/763-parker-hale-parker-hale-30-06/0.webp",
+ "image_count": 3,
+ "lat": 54.9528525,
+ "lon": 9.71079556,
+ "description": "Parker Hale .30-06 Klassisk riffel med træskæfte i kaliber .30-06",
+ "images": [
+  {
+   "full": "/images/macnab.eu/vare/763-parker-hale-parker-hale-30-06/0.webp",
+   "thumb": "/thumbs/macnab.eu/vare/763-parker-hale-parker-hale-30-06/0.webp",
+   "width": 580,
+   "height": 580
+  },
+  {
+   "full": "/images/macnab.eu/vare/763-parker-hale-parker-hale-30-06/1.webp",
+   "thumb": "/thumbs/macnab.eu/vare/763-parker-hale-parker-hale-30-06/1.webp",
+   "width": 580,
+   "height": 580
+  },
+  {
+   "full": "/images/macnab.eu/vare/763-parker-hale-parker-hale-30-06/2.webp",
+   "thumb": "/thumbs/macnab.eu/vare/763-parker-hale-parker-hale-30-06/2.webp",
+   "width": 580,
+   "height": 580
+  }
+ ]
+}

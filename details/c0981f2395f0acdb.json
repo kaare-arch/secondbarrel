@@ -1,0 +1,63 @@
+{
+ "id": "bb76582d-9189-40b5-b221-cce92ca1fc9a",
+ "detail_id": "c0981f2395f0acdb",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/bb76582d-9189-40b5-b221-cce92ca1fc9a/simpson-suhl-kal-12-s-s",
+ "title": "Simpson Suhl kal. 12 s/s",
+ "price_dkk": 4500,
+ "weapon_type": "Haglgevær",
+ "brand": "Tikka",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-03",
+ "age_days": 170,
+ "postnummer": "9440",
+ "by": "Aabybro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/bb76582d-9189-40b5-b221-cce92ca1fc9a/0.webp",
+ "image_count": 6,
+ "lat": 57.16282327,
+ "lon": 9.76743314,
+ "description": "Med ekstra kraftig Tikka rem",
+ "images": [
+  {
+   "full": "/images/bb76582d-9189-40b5-b221-cce92ca1fc9a/0.webp",
+   "thumb": "/thumbs/bb76582d-9189-40b5-b221-cce92ca1fc9a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bb76582d-9189-40b5-b221-cce92ca1fc9a/1.webp",
+   "thumb": "/thumbs/bb76582d-9189-40b5-b221-cce92ca1fc9a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bb76582d-9189-40b5-b221-cce92ca1fc9a/2.webp",
+   "thumb": "/thumbs/bb76582d-9189-40b5-b221-cce92ca1fc9a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bb76582d-9189-40b5-b221-cce92ca1fc9a/3.webp",
+   "thumb": "/thumbs/bb76582d-9189-40b5-b221-cce92ca1fc9a/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bb76582d-9189-40b5-b221-cce92ca1fc9a/4.webp",
+   "thumb": "/thumbs/bb76582d-9189-40b5-b221-cce92ca1fc9a/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bb76582d-9189-40b5-b221-cce92ca1fc9a/5.webp",
+   "thumb": "/thumbs/bb76582d-9189-40b5-b221-cce92ca1fc9a/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

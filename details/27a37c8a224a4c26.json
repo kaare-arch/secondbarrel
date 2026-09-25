@@ -1,0 +1,45 @@
+{
+ "id": "b557491c-1f97-4499-94b8-503e3400b5b2",
+ "detail_id": "27a37c8a224a4c26",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b557491c-1f97-4499-94b8-503e3400b5b2/sako-a1-222-rem",
+ "title": "SAKO A1 222 rem.",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".222 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-08-06",
+ "age_days": 45,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b557491c-1f97-4499-94b8-503e3400b5b2/0.webp",
+ "image_count": 3,
+ "lat": null,
+ "lon": null,
+ "description": "Sako A1 i kaliber 222. rem. med en Contessa Picatinny-rail i stål og 14x1 gevind til lyddæmper.\nStår super flot!\n\nKUN 6500,-",
+ "images": [
+  {
+   "full": "/images/b557491c-1f97-4499-94b8-503e3400b5b2/0.webp",
+   "thumb": "/thumbs/b557491c-1f97-4499-94b8-503e3400b5b2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b557491c-1f97-4499-94b8-503e3400b5b2/1.webp",
+   "thumb": "/thumbs/b557491c-1f97-4499-94b8-503e3400b5b2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b557491c-1f97-4499-94b8-503e3400b5b2/2.webp",
+   "thumb": "/thumbs/b557491c-1f97-4499-94b8-503e3400b5b2/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

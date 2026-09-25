@@ -1,0 +1,33 @@
+{
+ "id": "hunterspoint.dk/products/brugt-sauer-80-cal-7x64",
+ "detail_id": "990268a6868cd65a",
+ "source": "hunterspoint.dk",
+ "source_label": "Hunters Point",
+ "url": "https://hunterspoint.dk/products/brugt-sauer-80-cal-7x64",
+ "title": "Brugt - Sauer 80 cal. 7x64",
+ "price_dkk": 12500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "7x64"
+ ],
+ "is_dealer": true,
+ "listed_date": "2024-02-16",
+ "age_days": null,
+ "postnummer": "8850",
+ "by": "Bjerringbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/hunterspoint.dk/products/brugt-sauer-80-cal-7x64/0.webp",
+ "image_count": 1,
+ "lat": 56.36051392,
+ "lon": 9.64257403,
+ "description": "Kaliber: 7x64 (Kan kun købes i forretning)",
+ "images": [
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-sauer-80-cal-7x64/0.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-sauer-80-cal-7x64/0.webp",
+   "width": 1224,
+   "height": 336
+  }
+ ]
+}

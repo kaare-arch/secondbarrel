@@ -1,0 +1,57 @@
+{
+ "id": "a6c33331-5974-4e4d-b4c1-486235ec772f",
+ "detail_id": "7fa70740f73575a4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a6c33331-5974-4e4d-b4c1-486235ec772f/sauer-side-by-side-suhl-haglgevaer",
+ "title": "Sauer side by side Suhl haglgevær",
+ "price_dkk": 1750,
+ "weapon_type": "Haglgevær",
+ "brand": "Sauer",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-02-28",
+ "age_days": 204,
+ "postnummer": "5620",
+ "by": "Glamsbjerg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a6c33331-5974-4e4d-b4c1-486235ec772f/0.webp",
+ "image_count": 5,
+ "lat": 55.27213799,
+ "lon": 10.10343663,
+ "description": "Gammelt haglgevær Sauer side by side Suhl - 12/70",
+ "images": [
+  {
+   "full": "/images/a6c33331-5974-4e4d-b4c1-486235ec772f/0.webp",
+   "thumb": "/thumbs/a6c33331-5974-4e4d-b4c1-486235ec772f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a6c33331-5974-4e4d-b4c1-486235ec772f/1.webp",
+   "thumb": "/thumbs/a6c33331-5974-4e4d-b4c1-486235ec772f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a6c33331-5974-4e4d-b4c1-486235ec772f/2.webp",
+   "thumb": "/thumbs/a6c33331-5974-4e4d-b4c1-486235ec772f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a6c33331-5974-4e4d-b4c1-486235ec772f/3.webp",
+   "thumb": "/thumbs/a6c33331-5974-4e4d-b4c1-486235ec772f/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a6c33331-5974-4e4d-b4c1-486235ec772f/4.webp",
+   "thumb": "/thumbs/a6c33331-5974-4e4d-b4c1-486235ec772f/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "iversen-import.dk/remington-788-kal-308.html",
+ "detail_id": "22f7fea34c5a5ee5",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/remington-788-kal-308.html",
+ "title": "Remington 788 kal. 308",
+ "price_dkk": 2700,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/iversen-import.dk/remington-788-kal-308.html/0.webp",
+ "image_count": 2,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": "Remington 788 kal. 308 Ultra kort riffel",
+ "images": [
+  {
+   "full": "/images/iversen-import.dk/remington-788-kal-308.html/0.jpg",
+   "thumb": "/thumbs/iversen-import.dk/remington-788-kal-308.html/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/remington-788-kal-308.html/1.jpg",
+   "thumb": "/thumbs/iversen-import.dk/remington-788-kal-308.html/1.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

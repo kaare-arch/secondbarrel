@@ -1,0 +1,39 @@
+{
+ "id": "b1d175eb-e7d7-44c0-8d0a-8ce25de19955",
+ "detail_id": "e000e31c2222c024",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b1d175eb-e7d7-44c0-8d0a-8ce25de19955/mauser-m03-extreme-30-06-links",
+ "title": "Mauser M03 Extreme 30.06 Links",
+ "price_dkk": 29000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-05-08",
+ "age_days": 135,
+ "postnummer": "8643",
+ "by": "Ans By",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/b1d175eb-e7d7-44c0-8d0a-8ce25de19955/0.webp",
+ "image_count": 2,
+ "lat": 56.28777753,
+ "lon": 9.6247327,
+ "description": "Farve \"Sand\". Sælges med Zeiss Diavari V 3-12x56 T* m. belyst sigte samt Paradox dæmper og rem. Der er indlagt tyngde-element i bagskæftet (kan fjernes). Match-pibe (pibelængde 54cm). Kan evt. sælges uden optik. Flere billeder og mere info kan sendes efter behov. Skriv og spørg. En toplækker riffel, som der ikke er mange af! Sælges udelukkende, da jeg skal bruge penge til ny jagtbue. Jeg gider ikke useriøse henvendelser, og fremvisning af gyldigt jagttegn er en selvfølge.",
+ "images": [
+  {
+   "full": "/images/b1d175eb-e7d7-44c0-8d0a-8ce25de19955/0.webp",
+   "thumb": "/thumbs/b1d175eb-e7d7-44c0-8d0a-8ce25de19955/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1d175eb-e7d7-44c0-8d0a-8ce25de19955/1.webp",
+   "thumb": "/thumbs/b1d175eb-e7d7-44c0-8d0a-8ce25de19955/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

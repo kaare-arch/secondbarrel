@@ -1,0 +1,75 @@
+{
+ "id": "brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell",
+ "detail_id": "651eb975e43a584e",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/",
+ "title": "Steyr Mannlicher Mod.L 22-250 REM M/Bushnell",
+ "price_dkk": 4800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".22-250"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/0.webp",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/0.webp",
+   "width": 1600,
+   "height": 507
+  },
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/5.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/6.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/steyr-mannlicher-mod-l-22-250-rem-m-bushnell/7.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "brasholt.nu/product/ruger-m77-22-250-m-swarovski-3-9x36",
+ "detail_id": "f57d6b197712023a",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/ruger-m77-22-250-m-swarovski-3-9x36/",
+ "title": "Ruger M77 22-250 m/Swarovski 3-9×36",
+ "price_dkk": 7995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Ruger",
+ "calibers": [
+  ".22-250"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/ruger-m77-22-250-m-swarovski-3-9x36/0.webp",
+ "image_count": 2,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/ruger-m77-22-250-m-swarovski-3-9x36/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/ruger-m77-22-250-m-swarovski-3-9x36/0.webp",
+   "width": 1600,
+   "height": 638
+  },
+  {
+   "full": "/images/brasholt.nu/product/ruger-m77-22-250-m-swarovski-3-9x36/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/ruger-m77-22-250-m-swarovski-3-9x36/1.webp",
+   "width": 1600,
+   "height": 958
+  }
+ ]
+}

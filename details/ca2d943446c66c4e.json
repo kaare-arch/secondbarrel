@@ -1,0 +1,39 @@
+{
+ "id": "jagtgevaer.dk/products/beretta-brx-30-06-demo",
+ "detail_id": "ca2d943446c66c4e",
+ "source": "jagtgevaer.dk",
+ "source_label": "Jagtgevær.dk",
+ "url": "https://jagtgevaer.dk/products/beretta-brx-30-06-demo",
+ "title": "Beretta BRX 30.06 demo",
+ "price_dkk": 11995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Beretta",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-10-30",
+ "age_days": null,
+ "postnummer": "9210",
+ "by": "Aalborg SØ",
+ "stand_gg": null,
+ "thumb": "/thumbs/jagtgevaer.dk/products/beretta-brx-30-06-demo/0.webp",
+ "image_count": 2,
+ "lat": 56.9991663,
+ "lon": 9.93295578,
+ "description": "Beretta BRX 30-06 – Demo-model i topstand Denne Beretta BRX i kaliber 30-06 er en eftertragtet demo-model, der kun har været brugt som udstillingsvåben hos vores leverandør. Riflen har maks. 50 skud gennem løbet og fremstår næsten som ny. BRX-serien er udviklet til jægeren, der vil have hurtighed, kontrol og absolut driftssikkerhed. Det linære repetersystem giver en glidende og lynhurtig ladebevægelse, som gør riflen ideel til både drivjagt og situationer, hvor reaktionstid betyder alt. Den solide låsning, den stabile konstruktion og Berettas kendte præcisionsløb giver en riffel, der performer sikkert i alt terræn – fra åbne marker til tæt skov. Balancen er harmonisk, rekylen behagelig, og helhedsfornemmelsen er præget af kvalitet på hver eneste detalje. For jægeren, der ønsker en moderne, robust og næsten ubrugt premium-riffel, er denne BRX et særdeles attraktivt valg med høj værdi for pengene. En væsentlig fordel ved denne model er, at den kan bruges af både højre- og links skytter. Bundstykket kan tilpasses og vendes, så riflen kan bruges fra begge sider – en fleksibilitet sjældent set i denne klasse.",
+ "images": [
+  {
+   "full": "/images/jagtgevaer.dk/products/beretta-brx-30-06-demo/0.png",
+   "thumb": "/thumbs/jagtgevaer.dk/products/beretta-brx-30-06-demo/0.webp",
+   "width": 800,
+   "height": 209
+  },
+  {
+   "full": "/images/jagtgevaer.dk/products/beretta-brx-30-06-demo/1.jpg",
+   "thumb": "/thumbs/jagtgevaer.dk/products/beretta-brx-30-06-demo/1.webp",
+   "width": 800,
+   "height": 398
+  }
+ ]
+}

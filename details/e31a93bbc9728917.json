@@ -1,0 +1,57 @@
+{
+ "id": "mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3",
+ "detail_id": "e31a93bbc9728917",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/",
+ "title": "Weatherby Mark V, 300 Wby. Mag.",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Weatherby",
+ "calibers": [
+  ".300 Wby Mag"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/0.webp",
+ "image_count": 5,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Weatherby Mark V, kaliber 300 Wby. Mag.",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/0.webp",
+   "width": 1024,
+   "height": 218
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/1.webp",
+   "width": 1024,
+   "height": 640
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/2.webp",
+   "width": 1024,
+   "height": 531
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/3.webp",
+   "width": 1024,
+   "height": 305
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/weatherby-mark-v-300-wby-mag-3/4.webp",
+   "width": 1024,
+   "height": 476
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "dd35f2a1-c218-4701-b599-dce41177f0dc",
+ "detail_id": "6406ec36092c139a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/dd35f2a1-c218-4701-b599-dce41177f0dc/haglgevaer-silma",
+ "title": "Haglgevær Silma",
+ "price_dkk": 6500,
+ "weapon_type": "Haglgevær",
+ "brand": "Silma",
+ "calibers": [
+  "12/89"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-11-15",
+ "age_days": 309,
+ "postnummer": "5953",
+ "by": "Tranekær",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/0.webp",
+ "image_count": 3,
+ "lat": 55.06361655,
+ "lon": 10.94268354,
+ "description": "Italiensk kvalitets haglgevær Silma model 70 lux Cal. 12-89, 76 cm. Har kun skudt 38 skud og fremtræder derfor som ny, helt uden brugsspor. Der medfølger etui, ekstra trangboringer og rensestok",
+ "images": [
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/0.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/1.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/2.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

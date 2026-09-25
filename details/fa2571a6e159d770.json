@@ -1,0 +1,63 @@
+{
+ "id": "bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa",
+ "detail_id": "fa2571a6e159d770",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/baikal-salonriffel-toz-78-17",
+ "title": "Baikal Salonriffel TOZ 78-17",
+ "price_dkk": 2150,
+ "weapon_type": "Salonriffel",
+ "brand": "Baikal",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-05",
+ "age_days": 15,
+ "postnummer": "5881",
+ "by": "Skårup Fyn",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/0.webp",
+ "image_count": 6,
+ "lat": 55.06735111,
+ "lon": 10.76263715,
+ "description": "Salonriffel 22lr med Olivon scope 3-7x32 og 4 magasiner, 2 stk 5 og 2 stk 10. Skyder fint, og vejer kun 2,7 kg. Har skudt max 100 skud. Der følger også et par æsker patroner til at starte med.",
+ "images": [
+  {
+   "full": "/images/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/0.webp",
+   "thumb": "/thumbs/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/1.webp",
+   "thumb": "/thumbs/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/2.webp",
+   "thumb": "/thumbs/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/3.webp",
+   "thumb": "/thumbs/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/4.webp",
+   "thumb": "/thumbs/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/5.webp",
+   "thumb": "/thumbs/bbcc8e02-8a4f-4a07-8f55-d98f6109bbfa/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

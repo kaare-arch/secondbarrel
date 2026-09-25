@@ -1,0 +1,39 @@
+{
+ "id": "huntershouse.dk/kat398-detaljer/side10938-steyr-daimler-puch-model-sl-.222rem.html",
+ "detail_id": "d0aebfb479a46734",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat398-Detaljer/side10938-Steyr-Daimler-Puch-Model-SL-.222Rem.html",
+ "title": "Steyr Daimler Puch Model SL. .222 Rem.",
+ "price_dkk": 10200,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".222 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side10938-steyr-daimler-puch-model-sl-.222rem.html/0.webp",
+ "image_count": 2,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Steyr Daimler Puch Model SL .222Rem Totallængde: 99 cm. Pibelængde: 51 cm. Skæfte af Monte-carlo t …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat398-detaljer/side10938-steyr-daimler-puch-model-sl-.222rem.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side10938-steyr-daimler-puch-model-sl-.222rem.html/0.webp",
+   "width": 144,
+   "height": 144
+  },
+  {
+   "full": "/images/huntershouse.dk/kat398-detaljer/side10938-steyr-daimler-puch-model-sl-.222rem.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side10938-steyr-daimler-puch-model-sl-.222rem.html/1.webp",
+   "width": 280,
+   "height": 924
+  }
+ ]
+}

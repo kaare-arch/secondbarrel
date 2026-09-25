@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/aya-guldmann-kal-12-70",
+ "detail_id": "e6bed712074e60d8",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/aya-guldmann-kal-12-70/",
+ "title": "AYA Guldmann, kal. 12/70",
+ "price_dkk": 25000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

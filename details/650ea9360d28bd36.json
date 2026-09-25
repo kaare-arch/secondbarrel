@@ -1,0 +1,75 @@
+{
+ "id": "1c5f4a8d-db71-4a13-9cf6-778b651f07c4",
+ "detail_id": "650ea9360d28bd36",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/eibar-jagtgevaer-12-70-sidebyside",
+ "title": "Eibar jagtgevær 12-70 sidebyside",
+ "price_dkk": 375,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-20",
+ "age_days": 153,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/0.webp",
+ "image_count": 8,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Ældre Eibar sidebyside jagtgevær med dobbelt trigger. Fin som ekstra gevær på havjagt osv. Har lidt skrammer. Skyder fint.",
+ "images": [
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/0.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/1.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/2.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/3.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/4.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/5.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/6.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/7.webp",
+   "thumb": "/thumbs/1c5f4a8d-db71-4a13-9cf6-778b651f07c4/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

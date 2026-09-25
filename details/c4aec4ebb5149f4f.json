@@ -1,0 +1,39 @@
+{
+ "id": "bf0a1a0c-041a-4dce-a9a6-0b0f8c21e5b3",
+ "detail_id": "c4aec4ebb5149f4f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/bf0a1a0c-041a-4dce-a9a6-0b0f8c21e5b3/j-p-sauer-med-sidelaase",
+ "title": "J.P.Sauer med Sidelåse.",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Sauer",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-09",
+ "age_days": 195,
+ "postnummer": "4700",
+ "by": "Næstved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/bf0a1a0c-041a-4dce-a9a6-0b0f8c21e5b3/0.webp",
+ "image_count": 2,
+ "lat": 55.19504272,
+ "lon": 11.77357353,
+ "description": "Flot gl. gevær evt. for samler:  Intet slør, ren i løbene. Krupp 3- ringet løbstål. Kal.12/65. Løbslængde: 75 cm. Skæfte - længde: 37 cm. Omtalt i Fredrik Franzens bog: \"Fine gl. våben\" side 199.",
+ "images": [
+  {
+   "full": "/images/bf0a1a0c-041a-4dce-a9a6-0b0f8c21e5b3/0.webp",
+   "thumb": "/thumbs/bf0a1a0c-041a-4dce-a9a6-0b0f8c21e5b3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bf0a1a0c-041a-4dce-a9a6-0b0f8c21e5b3/1.webp",
+   "thumb": "/thumbs/bf0a1a0c-041a-4dce-a9a6-0b0f8c21e5b3/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

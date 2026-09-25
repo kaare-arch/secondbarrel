@@ -1,0 +1,37 @@
+{
+ "id": "jjsu.dk/shop/rossi-m1892---cal-44-magnum",
+ "detail_id": "21562a8b880ed536",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/rossi-m1892---cal-44-magnum/",
+ "title": "Rossi M1892  - Cal. 44 Magnum",
+ "price_dkk": 4850,
+ "weapon_type": "Jagtriffel",
+ "brand": "Rossi",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/rossi-m1892---cal-44-magnum/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Rossi 1892 Leveraction Tilstand: Lettere Brugt Caliber 44 Magnum Ladesystem: Leveraction",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/rossi-m1892---cal-44-magnum/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/rossi-m1892---cal-44-magnum/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/rossi-m1892---cal-44-magnum/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/rossi-m1892---cal-44-magnum/1.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

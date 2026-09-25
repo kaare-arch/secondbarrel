@@ -1,0 +1,33 @@
+{
+ "id": "nkjagt.dk/vare/263-mossberg-brugt-mossberg-100-atr-kal-308",
+ "detail_id": "42ad11565f461172",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/263-mossberg-brugt-mossberg-100-atr-kal-308",
+ "title": "Mossberg Brugt Mossberg 100 ATR kal. 308",
+ "price_dkk": 3995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mossberg",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/263-mossberg-brugt-mossberg-100-atr-kal-308/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Model 100 ATRKal. 308 winSyntet skæfte56 cm. pibe",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/263-mossberg-brugt-mossberg-100-atr-kal-308/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/263-mossberg-brugt-mossberg-100-atr-kal-308/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "jjsu.dk/shop/bushmaster-xm15-e2s--cal223rem--reserveret",
+ "detail_id": "c28991a6b03c550c",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/bushmaster-xm15-e2s--cal223rem--reserveret/",
+ "title": "Bushmaster XM15 E2S - Cal.223Rem - Reserveret",
+ "price_dkk": 10999,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/bushmaster-xm15-e2s--cal223rem--reserveret/0.webp",
+ "image_count": 2,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Bushmaster XM15 E2S Tilstand: Brugt. Cal. 223Rem Forberedt til lyddæmper Ladesystem: ½ auto Sælges som ½ auto kun til export, eller forhandlertilladelse.",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/bushmaster-xm15-e2s--cal223rem--reserveret/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/bushmaster-xm15-e2s--cal223rem--reserveret/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/bushmaster-xm15-e2s--cal223rem--reserveret/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/bushmaster-xm15-e2s--cal223rem--reserveret/1.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

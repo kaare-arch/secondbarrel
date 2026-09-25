@@ -1,0 +1,33 @@
+{
+ "id": "brasholt.nu/product/browning-b25-a1-12-70",
+ "detail_id": "fe29180c716ff6c0",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/browning-b25-a1-12-70/",
+ "title": "Browning B25 A1 12/70",
+ "price_dkk": 11999,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/browning-b25-a1-12-70/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Browning B25 A1 12/70 – 71 cm m/fast trangborring ½ - ¾",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/browning-b25-a1-12-70/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/browning-b25-a1-12-70/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

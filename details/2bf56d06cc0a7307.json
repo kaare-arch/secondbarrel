@@ -1,0 +1,63 @@
+{
+ "id": "3fac484a-1264-4dbf-95bc-d2ba63cf0304",
+ "detail_id": "2bf56d06cc0a7307",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3fac484a-1264-4dbf-95bc-d2ba63cf0304/tikka-595-308w",
+ "title": "Tikka 595 308w",
+ "price_dkk": 8800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-05-14",
+ "age_days": 129,
+ "postnummer": "9490",
+ "by": "Pandrup",
+ "stand_gg": null,
+ "thumb": "/thumbs/3fac484a-1264-4dbf-95bc-d2ba63cf0304/0.webp",
+ "image_count": 6,
+ "lat": 57.20322545,
+ "lon": 9.65450533,
+ "description": "Velholdt jagt riffel tikka 595 308w m. Zeiss 2.5-10 x48 rødpunkt sigte 5 skuds magasin",
+ "images": [
+  {
+   "full": "/images/3fac484a-1264-4dbf-95bc-d2ba63cf0304/0.webp",
+   "thumb": "/thumbs/3fac484a-1264-4dbf-95bc-d2ba63cf0304/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3fac484a-1264-4dbf-95bc-d2ba63cf0304/1.webp",
+   "thumb": "/thumbs/3fac484a-1264-4dbf-95bc-d2ba63cf0304/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3fac484a-1264-4dbf-95bc-d2ba63cf0304/2.webp",
+   "thumb": "/thumbs/3fac484a-1264-4dbf-95bc-d2ba63cf0304/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3fac484a-1264-4dbf-95bc-d2ba63cf0304/3.webp",
+   "thumb": "/thumbs/3fac484a-1264-4dbf-95bc-d2ba63cf0304/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3fac484a-1264-4dbf-95bc-d2ba63cf0304/4.webp",
+   "thumb": "/thumbs/3fac484a-1264-4dbf-95bc-d2ba63cf0304/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3fac484a-1264-4dbf-95bc-d2ba63cf0304/5.webp",
+   "thumb": "/thumbs/3fac484a-1264-4dbf-95bc-d2ba63cf0304/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

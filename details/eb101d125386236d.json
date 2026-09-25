@@ -1,0 +1,63 @@
+{
+ "id": "8673cf3a-5c7d-4a30-9701-1262f834c9e7",
+ "detail_id": "eb101d125386236d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8673cf3a-5c7d-4a30-9701-1262f834c9e7/sako-quad-17hmr-m-pulsar-n450-stalon-daemper",
+ "title": "Sako Quad 17hmr m. Pulsar N450 + Stalon dæmper .",
+ "price_dkk": 10500,
+ "weapon_type": "Salonriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-01",
+ "age_days": 19,
+ "postnummer": "8830",
+ "by": "Tjele",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/8673cf3a-5c7d-4a30-9701-1262f834c9e7/0.webp",
+ "image_count": 6,
+ "lat": 56.49762699,
+ "lon": 9.60208409,
+ "description": "Lækker sæt bestående af: \n\nSako Quad 17hmr \nPulsar Digex N450 + ny HIKmicro IR lygte \nStalon dæmper . \n\nHele sættet er funktionel og i god stand . Skyder ekstrem præcis .",
+ "images": [
+  {
+   "full": "/images/8673cf3a-5c7d-4a30-9701-1262f834c9e7/0.webp",
+   "thumb": "/thumbs/8673cf3a-5c7d-4a30-9701-1262f834c9e7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8673cf3a-5c7d-4a30-9701-1262f834c9e7/1.webp",
+   "thumb": "/thumbs/8673cf3a-5c7d-4a30-9701-1262f834c9e7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8673cf3a-5c7d-4a30-9701-1262f834c9e7/2.webp",
+   "thumb": "/thumbs/8673cf3a-5c7d-4a30-9701-1262f834c9e7/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8673cf3a-5c7d-4a30-9701-1262f834c9e7/3.webp",
+   "thumb": "/thumbs/8673cf3a-5c7d-4a30-9701-1262f834c9e7/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8673cf3a-5c7d-4a30-9701-1262f834c9e7/4.webp",
+   "thumb": "/thumbs/8673cf3a-5c7d-4a30-9701-1262f834c9e7/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8673cf3a-5c7d-4a30-9701-1262f834c9e7/5.webp",
+   "thumb": "/thumbs/8673cf3a-5c7d-4a30-9701-1262f834c9e7/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

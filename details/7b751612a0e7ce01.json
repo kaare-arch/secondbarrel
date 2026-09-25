@@ -1,0 +1,33 @@
+{
+ "id": "hunterspoint.dk/products/brugt-sako-finnbear-30-06",
+ "detail_id": "7b751612a0e7ce01",
+ "source": "hunterspoint.dk",
+ "source_label": "Hunters Point",
+ "url": "https://hunterspoint.dk/products/brugt-sako-finnbear-30-06",
+ "title": "Brugt - Sako Finnbear 30-06",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2024-02-15",
+ "age_days": null,
+ "postnummer": "8850",
+ "by": "Bjerringbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/hunterspoint.dk/products/brugt-sako-finnbear-30-06/0.webp",
+ "image_count": 1,
+ "lat": 56.36051392,
+ "lon": 9.64257403,
+ "description": "Sako Finnbear Kaliber: 30-06 Riflen fremstår med mindre brugsspor, men er i flot og velholdt stand. (Kan kun købes i forretning)",
+ "images": [
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-sako-finnbear-30-06/0.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-sako-finnbear-30-06/0.webp",
+   "width": 1110,
+   "height": 278
+  }
+ ]
+}

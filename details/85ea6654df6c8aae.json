@@ -1,0 +1,33 @@
+{
+ "id": "f78cc973-fe2e-443c-be0a-9d0236c99931",
+ "detail_id": "85ea6654df6c8aae",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f78cc973-fe2e-443c-be0a-9d0236c99931/carl-gustav-jagtriffel-6-5-x-55",
+ "title": "Carl Gustav Jagtriffel (6.5 x 55)",
+ "price_dkk": 750,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-08",
+ "age_days": 74,
+ "postnummer": "6600",
+ "by": "Vejen",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f78cc973-fe2e-443c-be0a-9d0236c99931/0.webp",
+ "image_count": 1,
+ "lat": 55.4784284,
+ "lon": 9.11204215,
+ "description": "Carl Gustav Jagtriffel (6.5 x 55)",
+ "images": [
+  {
+   "full": "/images/f78cc973-fe2e-443c-be0a-9d0236c99931/0.webp",
+   "thumb": "/thumbs/f78cc973-fe2e-443c-be0a-9d0236c99931/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

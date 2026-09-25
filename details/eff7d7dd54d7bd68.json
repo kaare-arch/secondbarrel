@@ -1,0 +1,57 @@
+{
+ "id": "40e7795c-3af9-416a-ae1c-6f9394729b53",
+ "detail_id": "eff7d7dd54d7bd68",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/40e7795c-3af9-416a-ae1c-6f9394729b53/sako-75-223rem",
+ "title": "Sako 75 223rem",
+ "price_dkk": 9000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-04",
+ "age_days": 200,
+ "postnummer": "9370",
+ "by": "Hals",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/40e7795c-3af9-416a-ae1c-6f9394729b53/0.webp",
+ "image_count": 5,
+ "lat": 56.96384115,
+ "lon": 10.65368838,
+ "description": "Sako 75 223rem sælges. Flot og velholdt. Let og elegant lille riffel til regulering og rådyr. Monteret med en Leupold Vx2 3-9x40 i original Sako montage.",
+ "images": [
+  {
+   "full": "/images/40e7795c-3af9-416a-ae1c-6f9394729b53/0.webp",
+   "thumb": "/thumbs/40e7795c-3af9-416a-ae1c-6f9394729b53/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/40e7795c-3af9-416a-ae1c-6f9394729b53/1.webp",
+   "thumb": "/thumbs/40e7795c-3af9-416a-ae1c-6f9394729b53/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/40e7795c-3af9-416a-ae1c-6f9394729b53/2.webp",
+   "thumb": "/thumbs/40e7795c-3af9-416a-ae1c-6f9394729b53/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/40e7795c-3af9-416a-ae1c-6f9394729b53/3.webp",
+   "thumb": "/thumbs/40e7795c-3af9-416a-ae1c-6f9394729b53/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/40e7795c-3af9-416a-ae1c-6f9394729b53/4.webp",
+   "thumb": "/thumbs/40e7795c-3af9-416a-ae1c-6f9394729b53/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

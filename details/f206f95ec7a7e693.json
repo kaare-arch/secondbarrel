@@ -1,0 +1,31 @@
+{
+ "id": "brasholt.nu/product/carl-gustav-1900-30-06-m-kikkert",
+ "detail_id": "f206f95ec7a7e693",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/carl-gustav-1900-30-06-m-kikkert/",
+ "title": "Carl Gustav [tlf fjernet] m/ kikkert",
+ "price_dkk": 7995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/carl-gustav-1900-30-06-m-kikkert/0.webp",
+ "image_count": 1,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Carl Gustav 1900 .30-06 Spr. m/Jaguar Selection 3-9X50",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-1900-30-06-m-kikkert/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-1900-30-06-m-kikkert/0.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

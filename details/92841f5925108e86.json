@@ -1,0 +1,39 @@
+{
+ "id": "brasholt.nu/product/winchester-30-06-m-3-12x56-kikkert",
+ "detail_id": "92841f5925108e86",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/winchester-30-06-m-3-12x56-kikkert/",
+ "title": "Winchester 30.06 m/3-12×56 kikkert",
+ "price_dkk": 3995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/winchester-30-06-m-3-12x56-kikkert/0.webp",
+ "image_count": 2,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/winchester-30-06-m-3-12x56-kikkert/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-30-06-m-3-12x56-kikkert/0.webp",
+   "width": 1600,
+   "height": 628
+  },
+  {
+   "full": "/images/brasholt.nu/product/winchester-30-06-m-3-12x56-kikkert/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/winchester-30-06-m-3-12x56-kikkert/1.webp",
+   "width": 1600,
+   "height": 800
+  }
+ ]
+}

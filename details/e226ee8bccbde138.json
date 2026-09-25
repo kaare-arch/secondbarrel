@@ -1,0 +1,57 @@
+{
+ "id": "06478260-7f75-4974-9ae6-4922cc13f2b1",
+ "detail_id": "e226ee8bccbde138",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/06478260-7f75-4974-9ae6-4922cc13f2b1/anschutz-model-1450-kal-22-long-rifle",
+ "title": "Anschutz model 1450 Kal.22 Long Rifle",
+ "price_dkk": 700,
+ "weapon_type": "Jagtriffel",
+ "brand": "Anschütz",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-06",
+ "age_days": 45,
+ "postnummer": "4270",
+ "by": "Høng",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/06478260-7f75-4974-9ae6-4922cc13f2b1/0.webp",
+ "image_count": 5,
+ "lat": 55.50308551,
+ "lon": 11.30548124,
+ "description": "Pæn ældre .22 riffel til sjov med kikkert, obs. lyddæmper medfølger ikke\nEvt bud",
+ "images": [
+  {
+   "full": "/images/06478260-7f75-4974-9ae6-4922cc13f2b1/0.webp",
+   "thumb": "/thumbs/06478260-7f75-4974-9ae6-4922cc13f2b1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06478260-7f75-4974-9ae6-4922cc13f2b1/1.webp",
+   "thumb": "/thumbs/06478260-7f75-4974-9ae6-4922cc13f2b1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06478260-7f75-4974-9ae6-4922cc13f2b1/2.webp",
+   "thumb": "/thumbs/06478260-7f75-4974-9ae6-4922cc13f2b1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06478260-7f75-4974-9ae6-4922cc13f2b1/3.webp",
+   "thumb": "/thumbs/06478260-7f75-4974-9ae6-4922cc13f2b1/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06478260-7f75-4974-9ae6-4922cc13f2b1/4.webp",
+   "thumb": "/thumbs/06478260-7f75-4974-9ae6-4922cc13f2b1/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

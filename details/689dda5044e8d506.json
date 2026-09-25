@@ -1,0 +1,45 @@
+{
+ "id": "jafi.dk/products/p45-arthur-hill",
+ "detail_id": "689dda5044e8d506",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/p45-arthur-hill",
+ "title": "Arthur Hill Haglgevær - Kal. 12/70 - S/S",
+ "price_dkk": 28900,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/p45-arthur-hill/0.webp",
+ "image_count": 3,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Træstruktur og -nuance kan variere fra våbnet på billedet. Type: S/S Kaliber: 12/70 Løbs længde: 63,5 cm Skæftelængde: 36 cm Skæfte: Engelsk Sikring: Automatisk Ejector: Ja Chokes: F.C 1/4 Aftrækker: Dobbelt Trigger Tilhørende kuffert: Nej Andet: Lavet omkring [tlf fjernet] Internt bognr.: P45 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/p45-arthur-hill/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p45-arthur-hill/0.webp",
+   "width": 580,
+   "height": 580
+  },
+  {
+   "full": "/images/jafi.dk/products/p45-arthur-hill/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p45-arthur-hill/1.webp",
+   "width": 580,
+   "height": 580
+  },
+  {
+   "full": "/images/jafi.dk/products/p45-arthur-hill/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p45-arthur-hill/2.webp",
+   "width": 580,
+   "height": 580
+  }
+ ]
+}

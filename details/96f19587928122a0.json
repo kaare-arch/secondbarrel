@@ -1,0 +1,33 @@
+{
+ "id": "huntershouse.dk/kat120-detaljer/side721-steyr-mannlicher-m.html",
+ "detail_id": "96f19587928122a0",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat120-Detaljer/side721-Steyr-Mannlicher-M.html",
+ "title": "Steyr-Mannlicher M .270 Win.",
+ "price_dkk": 13900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".270 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side721-steyr-mannlicher-m.html/0.webp",
+ "image_count": 1,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Kal. .270 Win. Brugt Dejlig org. Steyr riffel. Piben er 59 cm lang og er i den velkendte snoede bl …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side721-steyr-mannlicher-m.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side721-steyr-mannlicher-m.html/0.webp",
+   "width": 280,
+   "height": 1460
+  }
+ ]
+}

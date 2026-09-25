@@ -1,0 +1,57 @@
+{
+ "id": "c3ddf397-3bab-48fc-9a50-5592b12bcef2",
+ "detail_id": "13518020e15de859",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c3ddf397-3bab-48fc-9a50-5592b12bcef2/beretta-682-gold-x-trap",
+ "title": "Beretta 682 gold X-trap",
+ "price_dkk": 22000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-05",
+ "age_days": 46,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c3ddf397-3bab-48fc-9a50-5592b12bcef2/0.webp",
+ "image_count": 5,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Den gamle 682 gold er en rigtig slider (modsat nyere modeller) \nen rigtig lerdueknuser \n12/70\n75cm løb \nHigh rib \nLængde til aftrækker 36.5cm ( kan justeres lidt begge veje )\nVægt 3.9kg \nFaste boringer 3/4-1/1\n\nJagttegn/ID SKAL forevises ved fremvisning/salg",
+ "images": [
+  {
+   "full": "/images/c3ddf397-3bab-48fc-9a50-5592b12bcef2/0.webp",
+   "thumb": "/thumbs/c3ddf397-3bab-48fc-9a50-5592b12bcef2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c3ddf397-3bab-48fc-9a50-5592b12bcef2/1.webp",
+   "thumb": "/thumbs/c3ddf397-3bab-48fc-9a50-5592b12bcef2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c3ddf397-3bab-48fc-9a50-5592b12bcef2/2.webp",
+   "thumb": "/thumbs/c3ddf397-3bab-48fc-9a50-5592b12bcef2/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c3ddf397-3bab-48fc-9a50-5592b12bcef2/3.webp",
+   "thumb": "/thumbs/c3ddf397-3bab-48fc-9a50-5592b12bcef2/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c3ddf397-3bab-48fc-9a50-5592b12bcef2/4.webp",
+   "thumb": "/thumbs/c3ddf397-3bab-48fc-9a50-5592b12bcef2/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": "73315993-c261-4b13-a68d-bd8c39877e63",
+ "detail_id": "7e3ce8ec52685a41",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/73315993-c261-4b13-a68d-bd8c39877e63/tikka-m590-308cal",
+ "title": "Tikka M590 308cal",
+ "price_dkk": 8500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-08-28",
+ "age_days": 23,
+ "postnummer": "6510",
+ "by": "Gram",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/73315993-c261-4b13-a68d-bd8c39877e63/0.webp",
+ "image_count": 2,
+ "lat": 55.27645397,
+ "lon": 9.01601909,
+ "description": "Rigtig flot riffel med lyddæmper",
+ "images": [
+  {
+   "full": "/images/73315993-c261-4b13-a68d-bd8c39877e63/0.webp",
+   "thumb": "/thumbs/73315993-c261-4b13-a68d-bd8c39877e63/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/73315993-c261-4b13-a68d-bd8c39877e63/2.webp",
+   "thumb": "/thumbs/73315993-c261-4b13-a68d-bd8c39877e63/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

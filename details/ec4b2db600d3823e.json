@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/laurona-eibar-kal-12-70",
+ "detail_id": "ec4b2db600d3823e",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/laurona-eibar-kal-12-70/",
+ "title": "Laurona Eibar, kal. 12/70",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Laurona",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

@@ -1,0 +1,57 @@
+{
+ "id": "60235d7e-0529-4efa-ab24-87fd5d26f923",
+ "detail_id": "c81a8905bcf393ca",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/60235d7e-0529-4efa-ab24-87fd5d26f923/schultz-larsen-243win-lige-flutet-pibe",
+ "title": "Schultz & Larsen 243win lige flutet pibe",
+ "price_dkk": 5500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-04",
+ "age_days": 259,
+ "postnummer": "2665",
+ "by": "Vallensbæk Strand",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/60235d7e-0529-4efa-ab24-87fd5d26f923/0.webp",
+ "image_count": 5,
+ "lat": 55.61964832,
+ "lon": 12.38841202,
+ "description": "Jeg har denne 243Win pibe som har skude meget få skud.\n\nPiben er i flutet og uden gevind",
+ "images": [
+  {
+   "full": "/images/60235d7e-0529-4efa-ab24-87fd5d26f923/0.webp",
+   "thumb": "/thumbs/60235d7e-0529-4efa-ab24-87fd5d26f923/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60235d7e-0529-4efa-ab24-87fd5d26f923/1.webp",
+   "thumb": "/thumbs/60235d7e-0529-4efa-ab24-87fd5d26f923/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60235d7e-0529-4efa-ab24-87fd5d26f923/2.webp",
+   "thumb": "/thumbs/60235d7e-0529-4efa-ab24-87fd5d26f923/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60235d7e-0529-4efa-ab24-87fd5d26f923/3.webp",
+   "thumb": "/thumbs/60235d7e-0529-4efa-ab24-87fd5d26f923/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60235d7e-0529-4efa-ab24-87fd5d26f923/4.webp",
+   "thumb": "/thumbs/60235d7e-0529-4efa-ab24-87fd5d26f923/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

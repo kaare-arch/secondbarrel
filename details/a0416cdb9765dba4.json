@@ -1,0 +1,31 @@
+{
+ "id": "9e209d1c-8b91-494d-96fc-ddef83d1549f",
+ "detail_id": "a0416cdb9765dba4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9e209d1c-8b91-494d-96fc-ddef83d1549f/hmr17-som-ny",
+ "title": "HMR17 som ny",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-05-25",
+ "age_days": 118,
+ "postnummer": "7570",
+ "by": "Vemb",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/9e209d1c-8b91-494d-96fc-ddef83d1549f/0.webp",
+ "image_count": 1,
+ "lat": 56.35236537,
+ "lon": 8.27244636,
+ "description": "Har Max skudt 20 skud",
+ "images": [
+  {
+   "full": "/images/9e209d1c-8b91-494d-96fc-ddef83d1549f/0.webp",
+   "thumb": "/thumbs/9e209d1c-8b91-494d-96fc-ddef83d1549f/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

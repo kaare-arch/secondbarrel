@@ -1,0 +1,39 @@
+{
+ "id": "vaabensalg.dk/products/remington-700-brugt",
+ "detail_id": "457098d4c06d7031",
+ "source": "vaabensalg.dk",
+ "source_label": "Våbensalg",
+ "url": "https://vaabensalg.dk/products/remington-700-brugt",
+ "title": "Remington 700 Kal. 30-06 - Brugt",
+ "price_dkk": 2499,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-02-05",
+ "age_days": null,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": null,
+ "thumb": "/thumbs/vaabensalg.dk/products/remington-700-brugt/0.webp",
+ "image_count": 2,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Remington kal. 30-06 Pibelængde 53,50 cm, Totallængde 107 cm, brugt fremstår pæn.",
+ "images": [
+  {
+   "full": "/images/vaabensalg.dk/products/remington-700-brugt/0.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/remington-700-brugt/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/vaabensalg.dk/products/remington-700-brugt/1.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/remington-700-brugt/1.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

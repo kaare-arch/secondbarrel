@@ -1,0 +1,33 @@
+{
+ "id": "hunterspoint.dk/products/brugt-steyr-mannlicher-308-win-kikkert",
+ "detail_id": "e4dafe7a7d61449c",
+ "source": "hunterspoint.dk",
+ "source_label": "Hunters Point",
+ "url": "https://hunterspoint.dk/products/brugt-steyr-mannlicher-308-win-kikkert",
+ "title": "Brugt - Steyr Mannlicher 308 Win. + Kikkert",
+ "price_dkk": 8000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2024-02-15",
+ "age_days": null,
+ "postnummer": "8850",
+ "by": "Bjerringbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/hunterspoint.dk/products/brugt-steyr-mannlicher-308-win-kikkert/0.webp",
+ "image_count": 1,
+ "lat": 56.36051392,
+ "lon": 9.64257403,
+ "description": "﻿Med brugt Nickelback kikkert Kaliber: 308 Win (Kan kun købes i forretning)",
+ "images": [
+  {
+   "full": "/images/hunterspoint.dk/products/brugt-steyr-mannlicher-308-win-kikkert/0.jpg",
+   "thumb": "/thumbs/hunterspoint.dk/products/brugt-steyr-mannlicher-308-win-kikkert/0.webp",
+   "width": 1202,
+   "height": 330
+  }
+ ]
+}

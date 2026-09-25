@@ -1,0 +1,57 @@
+{
+ "id": "076db639-431f-4178-a369-6554b5fa77a5",
+ "detail_id": "c63a32ca112ed731",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/076db639-431f-4178-a369-6554b5fa77a5/baikal-o-u-12-76",
+ "title": "Baikal o/u 12/76",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-28",
+ "age_days": 23,
+ "postnummer": "9560",
+ "by": "Hadsund",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/076db639-431f-4178-a369-6554b5fa77a5/0.webp",
+ "image_count": 5,
+ "lat": 56.77688954,
+ "lon": 10.41645939,
+ "description": "Flot baikal 12/76 sælges/byttes. Dobbelt aftrækker. 72 cm løb. 37 cm til forreste aftrækker. Prøvet på skydebanen et par gange, omkring 100 skud. Den passer mig ikke helt optimalt. Byttes gerne til en side by side",
+ "images": [
+  {
+   "full": "/images/076db639-431f-4178-a369-6554b5fa77a5/0.webp",
+   "thumb": "/thumbs/076db639-431f-4178-a369-6554b5fa77a5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/076db639-431f-4178-a369-6554b5fa77a5/1.webp",
+   "thumb": "/thumbs/076db639-431f-4178-a369-6554b5fa77a5/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/076db639-431f-4178-a369-6554b5fa77a5/2.webp",
+   "thumb": "/thumbs/076db639-431f-4178-a369-6554b5fa77a5/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/076db639-431f-4178-a369-6554b5fa77a5/3.webp",
+   "thumb": "/thumbs/076db639-431f-4178-a369-6554b5fa77a5/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/076db639-431f-4178-a369-6554b5fa77a5/4.webp",
+   "thumb": "/thumbs/076db639-431f-4178-a369-6554b5fa77a5/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

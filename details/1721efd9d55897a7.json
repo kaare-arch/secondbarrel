@@ -1,0 +1,63 @@
+{
+ "id": "4eee1364-3251-4463-85ac-07eb5150fc19",
+ "detail_id": "1721efd9d55897a7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4eee1364-3251-4463-85ac-07eb5150fc19/mossbeg-935-12-89-supermagnum",
+ "title": "Mossbeg 935  12/89  supermagnum",
+ "price_dkk": 4950,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/89"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-09-28",
+ "age_days": 357,
+ "postnummer": "2635",
+ "by": "Ishøj",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/4eee1364-3251-4463-85ac-07eb5150fc19/0.webp",
+ "image_count": 6,
+ "lat": 55.58776321,
+ "lon": 12.39483896,
+ "description": "Brugt/velhold 12/89 spermagnum..3 invendig 1 udvendig chock med..\nLøb Længde 71 cm\nTotal længde 124 cm\nLøb længde med udvendig chock 75 cm",
+ "images": [
+  {
+   "full": "/images/4eee1364-3251-4463-85ac-07eb5150fc19/0.webp",
+   "thumb": "/thumbs/4eee1364-3251-4463-85ac-07eb5150fc19/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4eee1364-3251-4463-85ac-07eb5150fc19/1.webp",
+   "thumb": "/thumbs/4eee1364-3251-4463-85ac-07eb5150fc19/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4eee1364-3251-4463-85ac-07eb5150fc19/2.webp",
+   "thumb": "/thumbs/4eee1364-3251-4463-85ac-07eb5150fc19/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4eee1364-3251-4463-85ac-07eb5150fc19/3.webp",
+   "thumb": "/thumbs/4eee1364-3251-4463-85ac-07eb5150fc19/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4eee1364-3251-4463-85ac-07eb5150fc19/4.webp",
+   "thumb": "/thumbs/4eee1364-3251-4463-85ac-07eb5150fc19/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4eee1364-3251-4463-85ac-07eb5150fc19/5.webp",
+   "thumb": "/thumbs/4eee1364-3251-4463-85ac-07eb5150fc19/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

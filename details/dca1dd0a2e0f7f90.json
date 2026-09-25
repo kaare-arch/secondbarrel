@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/brugt-simson-suhl-haglgevaer-o-u-12-70",
+ "detail_id": "dca1dd0a2e0f7f90",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/brugt-simson-suhl-haglgevaer-o-u-12-70",
+ "title": "Brugt - Simson Suhl Haglgevær O/U 12/70",
+ "price_dkk": 5499,
+ "weapon_type": "Haglgevær",
+ "brand": "Simson",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/brugt-simson-suhl-haglgevaer-o-u-12-70/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Brugt - Simson Suhl Haglgevær O/U 12/70",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/brugt-simson-suhl-haglgevaer-o-u-12-70/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/brugt-simson-suhl-haglgevaer-o-u-12-70/0.webp",
+   "width": 1600,
+   "height": 841
+  }
+ ]
+}

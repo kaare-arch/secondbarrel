@@ -1,0 +1,73 @@
+{
+ "id": "brasholt.nu/product/savage-93-22-wmr",
+ "detail_id": "fa9f156f857dc7cf",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/savage-93-22-wmr/",
+ "title": "SAVAGE 93 .22 WMR",
+ "price_dkk": 1900,
+ "weapon_type": "Salonriffel",
+ "brand": "Savage",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/0.webp",
+   "width": 1600,
+   "height": 676
+  },
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/1.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/2.webp",
+   "width": 1355,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/3.webp",
+   "width": 1536,
+   "height": 1575
+  },
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/4.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/5.webp",
+   "width": 1273,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/6.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/savage-93-22-wmr/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/savage-93-22-wmr/7.webp",
+   "width": 1337,
+   "height": 1600
+  }
+ ]
+}

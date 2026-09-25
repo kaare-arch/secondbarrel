@@ -1,0 +1,51 @@
+{
+ "id": "d908948d-ce74-4d63-b083-764e6cdaa250",
+ "detail_id": "3b47ce5540516fcd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d908948d-ce74-4d63-b083-764e6cdaa250/aya-side-bye-side-the-hunters-gun",
+ "title": "AYA  side bye side.The hunters gun",
+ "price_dkk": 800,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-27",
+ "age_days": 24,
+ "postnummer": "6360",
+ "by": "Tinglev",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/d908948d-ce74-4d63-b083-764e6cdaa250/0.webp",
+ "image_count": 4,
+ "lat": 54.90310802,
+ "lon": 9.20354055,
+ "description": "AYA Cal. 12/70, 900kgs, boring 17.7 og 18.6.                              Sælges kun ved fremvisning af gyldig jagttegn.",
+ "images": [
+  {
+   "full": "/images/d908948d-ce74-4d63-b083-764e6cdaa250/0.webp",
+   "thumb": "/thumbs/d908948d-ce74-4d63-b083-764e6cdaa250/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d908948d-ce74-4d63-b083-764e6cdaa250/1.webp",
+   "thumb": "/thumbs/d908948d-ce74-4d63-b083-764e6cdaa250/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d908948d-ce74-4d63-b083-764e6cdaa250/3.webp",
+   "thumb": "/thumbs/d908948d-ce74-4d63-b083-764e6cdaa250/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d908948d-ce74-4d63-b083-764e6cdaa250/4.webp",
+   "thumb": "/thumbs/d908948d-ce74-4d63-b083-764e6cdaa250/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "70da9f19-b9d1-4ec1-a797-aeac9b74d462",
+ "detail_id": "d96546c0b266dc21",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/70da9f19-b9d1-4ec1-a797-aeac9b74d462/cz-452-2e",
+ "title": "Cz 452-2E",
+ "price_dkk": 1500,
+ "weapon_type": "Salonriffel",
+ "brand": "CZ",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-11",
+ "age_days": 9,
+ "postnummer": "6580",
+ "by": "Vamdrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/70da9f19-b9d1-4ec1-a797-aeac9b74d462/0.webp",
+ "image_count": 3,
+ "lat": 55.41366579,
+ "lon": 9.34398711,
+ "description": "Sælger min salon riffel da jeg ikke får den brugt. \n\nDer medfølger en lyddæmper og den er unden kikkert \n\nTænker den skal koste 1500 med lyddæmper \n\nKan kontaktes på [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/70da9f19-b9d1-4ec1-a797-aeac9b74d462/0.webp",
+   "thumb": "/thumbs/70da9f19-b9d1-4ec1-a797-aeac9b74d462/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/70da9f19-b9d1-4ec1-a797-aeac9b74d462/1.webp",
+   "thumb": "/thumbs/70da9f19-b9d1-4ec1-a797-aeac9b74d462/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/70da9f19-b9d1-4ec1-a797-aeac9b74d462/2.webp",
+   "thumb": "/thumbs/70da9f19-b9d1-4ec1-a797-aeac9b74d462/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

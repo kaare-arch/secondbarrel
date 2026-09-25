@@ -1,0 +1,45 @@
+{
+ "id": "9cc404e8-2bce-4443-995f-e242fe4e4b67",
+ "detail_id": "13396bc6d4a5a790",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9cc404e8-2bce-4443-995f-e242fe4e4b67/spansk-laurona-eibar-haglgevaer",
+ "title": "Spansk Laurona Eibar Haglgevær",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": "Laurona",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-20",
+ "age_days": 31,
+ "postnummer": "4200",
+ "by": "Slagelse",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9cc404e8-2bce-4443-995f-e242fe4e4b67/0.webp",
+ "image_count": 3,
+ "lat": 55.40887345,
+ "lon": 11.37134678,
+ "description": "S/S 12/70 \n1/1 og 1/2 trangboret tryk 900kgs\nProduktion år 1976\nObs på det ikke kan skyde med highspeed stålhagl.\nFin stand, ingen buler eller rust.\nIkke skudt ret mange skud.",
+ "images": [
+  {
+   "full": "/images/9cc404e8-2bce-4443-995f-e242fe4e4b67/0.webp",
+   "thumb": "/thumbs/9cc404e8-2bce-4443-995f-e242fe4e4b67/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9cc404e8-2bce-4443-995f-e242fe4e4b67/1.webp",
+   "thumb": "/thumbs/9cc404e8-2bce-4443-995f-e242fe4e4b67/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9cc404e8-2bce-4443-995f-e242fe4e4b67/2.webp",
+   "thumb": "/thumbs/9cc404e8-2bce-4443-995f-e242fe4e4b67/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

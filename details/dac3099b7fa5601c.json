@@ -1,0 +1,31 @@
+{
+ "id": "nkjagt.dk/vare/18478-gebruder-merkel-gebr-merkel",
+ "detail_id": "dac3099b7fa5601c",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/18478-gebruder-merkel-gebr-merkel",
+ "title": "GEBRÜDER MERKEL Gebr. Merkel",
+ "price_dkk": 7995,
+ "weapon_type": "Haglgevær",
+ "brand": "Merkel",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/18478-gebruder-merkel-gebr-merkel/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Gebruder Merkel i kaliber 12/70 og med en løbslængde på 66cm",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/18478-gebruder-merkel-gebr-merkel/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/18478-gebruder-merkel-gebr-merkel/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

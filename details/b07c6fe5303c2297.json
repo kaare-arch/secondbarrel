@@ -1,0 +1,57 @@
+{
+ "id": "ad3f3f33-9fcd-4890-84ec-3122e10a8b0f",
+ "detail_id": "b07c6fe5303c2297",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/beretta-silver-hawk",
+ "title": "Beretta Silver Hawk",
+ "price_dkk": 15000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-30",
+ "age_days": 21,
+ "postnummer": "8260",
+ "by": "Viby J",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/0.webp",
+ "image_count": 5,
+ "lat": 56.12635244,
+ "lon": 10.13778473,
+ "description": "Super flot og velholdt Silver Hawk sælges. Løbet er 66 cm. Kaliber 12. Single trigger. Stram lås. Ca 37 cm til aftrækket.",
+ "images": [
+  {
+   "full": "/images/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/0.webp",
+   "thumb": "/thumbs/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/1.webp",
+   "thumb": "/thumbs/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/2.webp",
+   "thumb": "/thumbs/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/3.webp",
+   "thumb": "/thumbs/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/4.webp",
+   "thumb": "/thumbs/ad3f3f33-9fcd-4890-84ec-3122e10a8b0f/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "brasholt.nu/product/sako-finbear-30-06",
+ "detail_id": "0d4b220638832b90",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/sako-finbear-30-06/",
+ "title": "Sako Finbear 30-06",
+ "price_dkk": 4999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/0.webp",
+ "image_count": 8,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/0.webp",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/4.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/5.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/6.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/6.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/sako-finbear-30-06/7.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sako-finbear-30-06/7.webp",
+   "width": 1200,
+   "height": 1600
+  }
+ ]
+}

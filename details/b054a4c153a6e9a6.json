@@ -1,0 +1,51 @@
+{
+ "id": "75461c32-4f0c-4791-b1aa-cb500b2f1746",
+ "detail_id": "b054a4c153a6e9a6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/75461c32-4f0c-4791-b1aa-cb500b2f1746/simson-suhl-side-by-side",
+ "title": "Simson Suhl Side by Side",
+ "price_dkk": 500,
+ "weapon_type": "Haglgevær",
+ "brand": "Simson",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-12-03",
+ "age_days": 291,
+ "postnummer": "5631",
+ "by": "Ebberup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/75461c32-4f0c-4791-b1aa-cb500b2f1746/0.webp",
+ "image_count": 4,
+ "lat": 55.13177189,
+ "lon": 9.96382534,
+ "description": "En ældre Simson Suhl Side by Side kaliber 12.",
+ "images": [
+  {
+   "full": "/images/75461c32-4f0c-4791-b1aa-cb500b2f1746/0.webp",
+   "thumb": "/thumbs/75461c32-4f0c-4791-b1aa-cb500b2f1746/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/75461c32-4f0c-4791-b1aa-cb500b2f1746/1.webp",
+   "thumb": "/thumbs/75461c32-4f0c-4791-b1aa-cb500b2f1746/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/75461c32-4f0c-4791-b1aa-cb500b2f1746/2.webp",
+   "thumb": "/thumbs/75461c32-4f0c-4791-b1aa-cb500b2f1746/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/75461c32-4f0c-4791-b1aa-cb500b2f1746/3.webp",
+   "thumb": "/thumbs/75461c32-4f0c-4791-b1aa-cb500b2f1746/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

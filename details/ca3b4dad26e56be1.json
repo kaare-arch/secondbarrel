@@ -1,0 +1,37 @@
+{
+ "id": "michaelsjagt.dk/vare/25793-brugte-vaaben-4470-remington-243w",
+ "detail_id": "ca3b4dad26e56be1",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/25793-brugte-vaaben-4470-remington-243w",
+ "title": "4470-Remington 243w",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/25793-brugte-vaaben-4470-remington-243w/0.webp",
+ "image_count": 2,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Brugt Remington kaliber 243w",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/25793-brugte-vaaben-4470-remington-243w/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25793-brugte-vaaben-4470-remington-243w/0.webp",
+   "width": 460,
+   "height": 97
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/25793-brugte-vaaben-4470-remington-243w/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25793-brugte-vaaben-4470-remington-243w/1.webp",
+   "width": 460,
+   "height": 141
+  }
+ ]
+}

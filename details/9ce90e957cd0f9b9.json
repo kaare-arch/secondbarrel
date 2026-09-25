@@ -1,0 +1,75 @@
+{
+ "id": "michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr",
+ "detail_id": "9ce90e957cd0f9b9",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr",
+ "title": "7020-Anschutz 22 LR",
+ "price_dkk": 2995,
+ "weapon_type": "Salonriffel",
+ "brand": "Anschütz",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/0.webp",
+ "image_count": 8,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Brugt Anschütz salonriffel i kaliber .22lr med Bushnell 4X custom .22 sigtekikkert påmonteret. I købet er der skåret gevind til lyddæmper. Løbslængde: 41cm Totallængde: 88cm Afstand til aftrækker: 35,5cm",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/0.webp",
+   "width": 460,
+   "height": 119
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/1.webp",
+   "width": 460,
+   "height": 345
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/2.webp",
+   "width": 460,
+   "height": 345
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/3.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/3.webp",
+   "width": 460,
+   "height": 345
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/4.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/4.webp",
+   "width": 460,
+   "height": 345
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/5.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/5.webp",
+   "width": 460,
+   "height": 345
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/6.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/6.webp",
+   "width": 460,
+   "height": 345
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/7.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/46334-anschutz-7020-anschutz-22-lr/7.webp",
+   "width": 460,
+   "height": 345
+  }
+ ]
+}

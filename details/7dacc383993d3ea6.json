@@ -1,0 +1,33 @@
+{
+ "id": "vaabensalg.dk/products/felix-sarasqueta-s-s-kal-12-70-haglgevaer-brugt-1",
+ "detail_id": "7dacc383993d3ea6",
+ "source": "vaabensalg.dk",
+ "source_label": "Våbensalg",
+ "url": "https://vaabensalg.dk/products/felix-sarasqueta-s-s-kal-12-70-haglgevaer-brugt-1",
+ "title": "Felix Sarasqueta S/S Kal. 12/70 Haglgevær - Brugt",
+ "price_dkk": 2999,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-09-08",
+ "age_days": null,
+ "postnummer": "6760",
+ "by": "Ribe",
+ "stand_gg": null,
+ "thumb": "/thumbs/vaabensalg.dk/products/felix-sarasqueta-s-s-kal-12-70-haglgevaer-brugt-1/0.webp",
+ "image_count": 1,
+ "lat": 55.31137673,
+ "lon": 8.76358629,
+ "description": "Kommissionsvåben – Felix Sarasqueta S/S Kal. 12/70 Haglgevær Robust og funktionelt side-by-side haglgevær fra spanske Felix Sarasqueta. Kaliber: 12/70 Type: Side-by-side (S/S) Producent: Felix Sarasqueta, Spanien Stand: Brugt, pæn stand (sælges i kommission)",
+ "images": [
+  {
+   "full": "/images/vaabensalg.dk/products/felix-sarasqueta-s-s-kal-12-70-haglgevaer-brugt-1/0.jpg",
+   "thumb": "/thumbs/vaabensalg.dk/products/felix-sarasqueta-s-s-kal-12-70-haglgevaer-brugt-1/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

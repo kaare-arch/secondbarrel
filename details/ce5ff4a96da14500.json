@@ -1,0 +1,67 @@
+{
+ "id": "mbjagt.dk/shop/sako-forester-243w",
+ "detail_id": "ce5ff4a96da14500",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/sako-forester-243w/",
+ "title": "Sako Forester, 243W",
+ "price_dkk": 6495,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/0.webp",
+ "image_count": 7,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Sako Forester, kaliber 243W",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/sako-forester-243w/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/0.webp",
+   "width": 1024,
+   "height": 231
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-forester-243w/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/1.webp",
+   "width": 1024,
+   "height": 547
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-forester-243w/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/2.webp",
+   "width": 1024,
+   "height": 601
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-forester-243w/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/3.webp",
+   "width": 1024,
+   "height": 394
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-forester-243w/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/4.webp",
+   "width": 1024,
+   "height": 558
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-forester-243w/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/5.webp",
+   "width": 1024,
+   "height": 624
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-forester-243w/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-forester-243w/6.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

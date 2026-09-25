@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/fn-browning-7x65r",
+ "detail_id": "76e261f2929ee264",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/fn-browning-7x65r/",
+ "title": "FN Browning, 7x65R",
+ "price_dkk": 42500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Browning",
+ "calibers": [
+  "7x65R"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

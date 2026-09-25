@@ -1,0 +1,37 @@
+{
+ "id": "jfskive.dk/products/cz-550-lux-brugt",
+ "detail_id": "868380767057d029",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/cz-550-lux-brugt",
+ "title": "CZ 550 Lux (Brugt)",
+ "price_dkk": 5499,
+ "weapon_type": "Jagtriffel",
+ "brand": "CZ",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-03-23",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/cz-550-lux-brugt/0.webp",
+ "image_count": 2,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. 308 Win Aftageligt 5 skuds magasin Tasco 3-9x42 kikkert",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/cz-550-lux-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/cz-550-lux-brugt/0.webp",
+   "width": 1600,
+   "height": 1006
+  },
+  {
+   "full": "/images/jfskive.dk/products/cz-550-lux-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/cz-550-lux-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

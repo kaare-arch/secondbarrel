@@ -1,0 +1,33 @@
+{
+ "id": "jjsu.dk/shop/ruger-sfar-16--308-win--762-nato",
+ "detail_id": "0cae625a35969974",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/ruger-sfar-16--308-win--762-nato/",
+ "title": "Ruger SFAR 16\" - 308 WIN / 7,62 NATO",
+ "price_dkk": 16999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Ruger",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/ruger-sfar-16--308-win--762-nato/0.webp",
+ "image_count": 1,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/ruger-sfar-16--308-win--762-nato/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ruger-sfar-16--308-win--762-nato/0.webp",
+   "width": 1000,
+   "height": 666
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "jfskive.dk/products/nikko-shadow-brugt",
+ "detail_id": "ac2aad80d6b36af3",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/nikko-shadow-brugt",
+ "title": "Nikko Shadow (Brugt)",
+ "price_dkk": 5499,
+ "weapon_type": "Haglgevær",
+ "brand": "Nikko",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-08-12",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/nikko-shadow-brugt/0.webp",
+ "image_count": 3,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. 12-70 70 cm. løb 36,5 cm. til aftrækker Bred sigteskinne",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/nikko-shadow-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/nikko-shadow-brugt/0.webp",
+   "width": 1600,
+   "height": 970
+  },
+  {
+   "full": "/images/jfskive.dk/products/nikko-shadow-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/nikko-shadow-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/nikko-shadow-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/nikko-shadow-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

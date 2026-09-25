@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/906-jrc-kaliber-3006",
+ "detail_id": "523acacc7da66baf",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/906-jrc-kaliber-3006/",
+ "title": "JRC M75 Kaliber 30.06",
+ "price_dkk": 45000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

@@ -1,0 +1,51 @@
+{
+ "id": "hubertushuset.com/products/4720-brno-brugt-308win",
+ "detail_id": "b01baa38f1095b0a",
+ "source": "hubertushuset.com",
+ "source_label": "Hubertushuset",
+ "url": "https://hubertushuset.com/products/4720-brno-brugt-308win",
+ "title": "BRNO Kaliber .308 Winchester BRUGT (4720)",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "CZ",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2024-10-16",
+ "age_days": null,
+ "postnummer": "4100",
+ "by": "Ringsted",
+ "stand_gg": null,
+ "thumb": "/thumbs/hubertushuset.com/products/4720-brno-brugt-308win/0.webp",
+ "image_count": 4,
+ "lat": 55.43053197,
+ "lon": 11.82805925,
+ "description": "Riffel BRNO i kaliber .308 Winchester. Riflen har hård bagkaope, snelle og baser til montering af sigtekikkert, og der er hængslet magasin. Riflen har brugsspor. - Kaliber: .308 Winchester - Pibelængde: 58 cm - Totallængde: 110 cm",
+ "images": [
+  {
+   "full": "/images/hubertushuset.com/products/4720-brno-brugt-308win/0.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/4720-brno-brugt-308win/0.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/4720-brno-brugt-308win/1.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/4720-brno-brugt-308win/1.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/4720-brno-brugt-308win/2.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/4720-brno-brugt-308win/2.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/4720-brno-brugt-308win/3.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/4720-brno-brugt-308win/3.webp",
+   "width": 800,
+   "height": 800
+  }
+ ]
+}

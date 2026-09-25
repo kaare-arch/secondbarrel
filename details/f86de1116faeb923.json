@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/anschutz-kal-22",
+ "detail_id": "f86de1116faeb923",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/anschutz-kal-22/",
+ "title": "Anschütz Kal 22",
+ "price_dkk": 1000,
+ "weapon_type": "Salonriffel",
+ "brand": "Anschütz",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "iversen-import.dk/anschutz-22-lr.html",
+ "detail_id": "743356d1584c4c8e",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/anschutz-22-lr.html",
+ "title": "Anschütz 22 lr",
+ "price_dkk": 999,
+ "weapon_type": "Salonriffel",
+ "brand": "Anschütz",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": null,
+ "images": []
+}

@@ -1,0 +1,45 @@
+{
+ "id": "e535273a-e1a2-42c2-98f3-8008fb37874d",
+ "detail_id": "6a640b0197f077ad",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e535273a-e1a2-42c2-98f3-8008fb37874d/jagtgevaer-breda-o-u-kal-12-70",
+ "title": "JAGTGEVÆR BREDA O/U KAL 12,70",
+ "price_dkk": 5500,
+ "weapon_type": "Haglgevær",
+ "brand": "Breda",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-10-18",
+ "age_days": 337,
+ "postnummer": "6230",
+ "by": "Rødekro",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/e535273a-e1a2-42c2-98f3-8008fb37874d/0.webp",
+ "image_count": 3,
+ "lat": 55.07437317,
+ "lon": 9.28037618,
+ "description": "ER MGET VELHOLDT",
+ "images": [
+  {
+   "full": "/images/e535273a-e1a2-42c2-98f3-8008fb37874d/0.webp",
+   "thumb": "/thumbs/e535273a-e1a2-42c2-98f3-8008fb37874d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e535273a-e1a2-42c2-98f3-8008fb37874d/1.webp",
+   "thumb": "/thumbs/e535273a-e1a2-42c2-98f3-8008fb37874d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e535273a-e1a2-42c2-98f3-8008fb37874d/2.webp",
+   "thumb": "/thumbs/e535273a-e1a2-42c2-98f3-8008fb37874d/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

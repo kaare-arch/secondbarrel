@@ -1,0 +1,51 @@
+{
+ "id": "23af0213-e7dd-4cbf-a8e3-7e0500eec8ba",
+ "detail_id": "d71bf80e3147e9da",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/meget-velholdt-blaser-d-99-drilling",
+ "title": "Meget velholdt Blaser D.99. Drilling.",
+ "price_dkk": 36000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Blaser",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-07",
+ "age_days": 13,
+ "postnummer": "7430",
+ "by": "Ikast",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/0.webp",
+ "image_count": 4,
+ "lat": 56.09377094,
+ "lon": 9.1925469,
+ "description": "Blaser D99 Drilling 20/76. 7x65.R Med rødpunkt sigte. Meget velholdt brugt få gange.",
+ "images": [
+  {
+   "full": "/images/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/0.webp",
+   "thumb": "/thumbs/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/1.webp",
+   "thumb": "/thumbs/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/2.webp",
+   "thumb": "/thumbs/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/3.webp",
+   "thumb": "/thumbs/23af0213-e7dd-4cbf-a8e3-7e0500eec8ba/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

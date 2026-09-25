@@ -1,0 +1,39 @@
+{
+ "id": "325d55d5-af06-49f0-90de-cdce012c0784",
+ "detail_id": "870628dd20447547",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/325d55d5-af06-49f0-90de-cdce012c0784/tika-t3x-links-cal223",
+ "title": "Tika T3x links cal223",
+ "price_dkk": 10500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-01",
+ "age_days": 19,
+ "postnummer": "9370",
+ "by": "Hals",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/325d55d5-af06-49f0-90de-cdce012c0784/0.webp",
+ "image_count": 2,
+ "lat": 56.96384115,
+ "lon": 10.65368838,
+ "description": "Tika T3x links cal 223 \nSchmidt & Bender 1.5-6 x 42\nMontage\nLyddæmper Superdrome \nDiverse patroner \n3 år gammel ikke brugt i 2 år Max 30 skud brugt til mårhund regulering",
+ "images": [
+  {
+   "full": "/images/325d55d5-af06-49f0-90de-cdce012c0784/0.webp",
+   "thumb": "/thumbs/325d55d5-af06-49f0-90de-cdce012c0784/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/325d55d5-af06-49f0-90de-cdce012c0784/1.webp",
+   "thumb": "/thumbs/325d55d5-af06-49f0-90de-cdce012c0784/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

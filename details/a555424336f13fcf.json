@@ -1,0 +1,51 @@
+{
+ "id": "822e99da-433d-45d2-8e83-43c83406d820",
+ "detail_id": "a555424336f13fcf",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/822e99da-433d-45d2-8e83-43c83406d820/lincoln-premier-12-76",
+ "title": "Lincoln Premier 12/76",
+ "price_dkk": 2900,
+ "weapon_type": "Haglgevær",
+ "brand": "FAIR",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-02",
+ "age_days": 261,
+ "postnummer": "9460",
+ "by": "Brovst",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/822e99da-433d-45d2-8e83-43c83406d820/0.webp",
+ "image_count": 4,
+ "lat": 57.10716869,
+ "lon": 9.5353613,
+ "description": "Godt jagtgevær \n12/76 \nEnjektor\nAltid fået olie efter en tur ude af skabet\n\nGyldigt jagttegn skal fremvises ved salg",
+ "images": [
+  {
+   "full": "/images/822e99da-433d-45d2-8e83-43c83406d820/0.webp",
+   "thumb": "/thumbs/822e99da-433d-45d2-8e83-43c83406d820/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/822e99da-433d-45d2-8e83-43c83406d820/1.webp",
+   "thumb": "/thumbs/822e99da-433d-45d2-8e83-43c83406d820/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/822e99da-433d-45d2-8e83-43c83406d820/2.webp",
+   "thumb": "/thumbs/822e99da-433d-45d2-8e83-43c83406d820/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/822e99da-433d-45d2-8e83-43c83406d820/3.webp",
+   "thumb": "/thumbs/822e99da-433d-45d2-8e83-43c83406d820/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

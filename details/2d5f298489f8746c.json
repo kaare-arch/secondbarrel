@@ -1,0 +1,31 @@
+{
+ "id": "michaelsjagt.dk/vare/28125-heckler-koch-5288-heckler-koch-770",
+ "detail_id": "2d5f298489f8746c",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/28125-heckler-koch-5288-heckler-koch-770",
+ "title": "5288-Heckler Koch 770",
+ "price_dkk": 9500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/28125-heckler-koch-5288-heckler-koch-770/0.webp",
+ "image_count": 1,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Brugt heckler Koch 770 Kaliber 308W",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/28125-heckler-koch-5288-heckler-koch-770/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/28125-heckler-koch-5288-heckler-koch-770/0.webp",
+   "width": 460,
+   "height": 94
+  }
+ ]
+}

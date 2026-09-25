@@ -1,0 +1,51 @@
+{
+ "id": "315072de-2147-40ad-b479-6b53b1ce64f1",
+ "detail_id": "36290aae054f23ad",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/315072de-2147-40ad-b479-6b53b1ce64f1/browning-ultra-xs-xtr-cal-12",
+ "title": "Browning Ultra XS/XTR cal 12",
+ "price_dkk": 20000,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-12-05",
+ "age_days": 289,
+ "postnummer": "4700",
+ "by": "Næstved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/315072de-2147-40ad-b479-6b53b1ce64f1/0.webp",
+ "image_count": 4,
+ "lat": 55.19504272,
+ "lon": 11.77357353,
+ "description": "Browning Ultra XS lagt i et XTR justerbart skæfte og et ekstra bredt MK 38 trapforskæfte incl. 14 extended chokes også ported 2” - 76 cm løb\nIncl kuffert",
+ "images": [
+  {
+   "full": "/images/315072de-2147-40ad-b479-6b53b1ce64f1/0.webp",
+   "thumb": "/thumbs/315072de-2147-40ad-b479-6b53b1ce64f1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/315072de-2147-40ad-b479-6b53b1ce64f1/1.webp",
+   "thumb": "/thumbs/315072de-2147-40ad-b479-6b53b1ce64f1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/315072de-2147-40ad-b479-6b53b1ce64f1/2.webp",
+   "thumb": "/thumbs/315072de-2147-40ad-b479-6b53b1ce64f1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/315072de-2147-40ad-b479-6b53b1ce64f1/3.webp",
+   "thumb": "/thumbs/315072de-2147-40ad-b479-6b53b1ce64f1/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

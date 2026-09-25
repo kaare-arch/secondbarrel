@@ -1,0 +1,51 @@
+{
+ "id": "5a9adba6-87cc-461b-9462-0d250dcaae9c",
+ "detail_id": "a0f61b60a9348f2d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5a9adba6-87cc-461b-9462-0d250dcaae9c/over-under-haglgaever-kaliber-12",
+ "title": "Over/Under Haglgæver kaliber 12.",
+ "price_dkk": 3250,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-09",
+ "age_days": 11,
+ "postnummer": "7500",
+ "by": "Holstebro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5a9adba6-87cc-461b-9462-0d250dcaae9c/0.webp",
+ "image_count": 4,
+ "lat": 56.34794414,
+ "lon": 8.58519299,
+ "description": "Fint O/U Haglgevær sælges grundet jagtophør. Er ikke brugt ret meget, og primært til flugtskydning. \nHar stået i våbenskab i et par år uden at blive brugt, og chokes sidder fast (ikke forsøgt løsnet)\n\n5 chokes og nøgle til udskiftning medfølger selvfølgelig.\n\nGyldigt jagttegn kræves\nFremvises i Holstebro efter aftale.\n\nPris 3250,- DKK (åben for bud)",
+ "images": [
+  {
+   "full": "/images/5a9adba6-87cc-461b-9462-0d250dcaae9c/0.webp",
+   "thumb": "/thumbs/5a9adba6-87cc-461b-9462-0d250dcaae9c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5a9adba6-87cc-461b-9462-0d250dcaae9c/2.webp",
+   "thumb": "/thumbs/5a9adba6-87cc-461b-9462-0d250dcaae9c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5a9adba6-87cc-461b-9462-0d250dcaae9c/3.webp",
+   "thumb": "/thumbs/5a9adba6-87cc-461b-9462-0d250dcaae9c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5a9adba6-87cc-461b-9462-0d250dcaae9c/4.webp",
+   "thumb": "/thumbs/5a9adba6-87cc-461b-9462-0d250dcaae9c/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

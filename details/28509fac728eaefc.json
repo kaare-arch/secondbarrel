@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/ruger-77-kal-308-win",
+ "detail_id": "28509fac728eaefc",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/ruger-77-kal-308-win/",
+ "title": "Ruger 77 kal. 308 win.",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Ruger",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

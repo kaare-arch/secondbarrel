@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/beretta-eellkal-20",
+ "detail_id": "3f5a2fe35e1d3878",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/beretta-eellkal-20/",
+ "title": "Beretta Diamond Pigeon EELL, kal 20/76",
+ "price_dkk": 50000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

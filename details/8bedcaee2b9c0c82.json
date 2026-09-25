@@ -1,0 +1,43 @@
+{
+ "id": "6d24cd65-c24a-473e-8f79-6998130fdb31",
+ "detail_id": "8bedcaee2b9c0c82",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6d24cd65-c24a-473e-8f79-6998130fdb31/holland-and-holland",
+ "title": "Holland and Holland",
+ "price_dkk": 38000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2025-10-20",
+ "age_days": 335,
+ "postnummer": "4180",
+ "by": "Sorø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/0.webp",
+ "image_count": 3,
+ "lat": 55.40880423,
+ "lon": 11.55727004,
+ "description": "Dobbeltriffel cal 450 Bpe. God renoveret stand. Holland and Holland.",
+ "images": [
+  {
+   "full": "/images/6d24cd65-c24a-473e-8f79-6998130fdb31/0.webp",
+   "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d24cd65-c24a-473e-8f79-6998130fdb31/1.webp",
+   "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d24cd65-c24a-473e-8f79-6998130fdb31/2.webp",
+   "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

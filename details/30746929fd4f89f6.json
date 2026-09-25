@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/highlander-308w",
+ "detail_id": "30746929fd4f89f6",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/highlander-308w/",
+ "title": "Highlander, 308W",
+ "price_dkk": 4495,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/highlander-308w/0.webp",
+ "image_count": 6,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Highlander, kaliber 308",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/highlander-308w/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/highlander-308w/0.webp",
+   "width": 1024,
+   "height": 284
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/highlander-308w/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/highlander-308w/1.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/highlander-308w/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/highlander-308w/2.webp",
+   "width": 1024,
+   "height": 434
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/highlander-308w/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/highlander-308w/3.webp",
+   "width": 1024,
+   "height": 394
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/highlander-308w/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/highlander-308w/4.webp",
+   "width": 1024,
+   "height": 660
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/highlander-308w/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/highlander-308w/5.webp",
+   "width": 1024,
+   "height": 478
+  }
+ ]
+}

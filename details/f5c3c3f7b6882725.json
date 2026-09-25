@@ -1,0 +1,57 @@
+{
+ "id": "e8b68c23-4610-450d-b3d4-682be4af0100",
+ "detail_id": "f5c3c3f7b6882725",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e8b68c23-4610-450d-b3d4-682be4af0100/sauer-202-m-zeiss-kikkert-m-afstand-maaler",
+ "title": "Sauer 202 m/Zeiss Kikkert m/afstand måler",
+ "price_dkk": 17500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-01",
+ "age_days": 172,
+ "postnummer": "8600",
+ "by": "Silkeborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/e8b68c23-4610-450d-b3d4-682be4af0100/0.webp",
+ "image_count": 5,
+ "lat": 56.17147071,
+ "lon": 9.4900253,
+ "description": "Sauer 202 \n308 W\nLinks\nSnelle\nZeiss Diarage M 3-12x56 T / med rød punkt\nM/svinge montage.\nM/foderal\nEr indskudt med kobber kugler - har ikke skudt meget.\nSælges kun pga. hjerneblødning.",
+ "images": [
+  {
+   "full": "/images/e8b68c23-4610-450d-b3d4-682be4af0100/0.webp",
+   "thumb": "/thumbs/e8b68c23-4610-450d-b3d4-682be4af0100/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e8b68c23-4610-450d-b3d4-682be4af0100/1.webp",
+   "thumb": "/thumbs/e8b68c23-4610-450d-b3d4-682be4af0100/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e8b68c23-4610-450d-b3d4-682be4af0100/2.webp",
+   "thumb": "/thumbs/e8b68c23-4610-450d-b3d4-682be4af0100/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e8b68c23-4610-450d-b3d4-682be4af0100/3.webp",
+   "thumb": "/thumbs/e8b68c23-4610-450d-b3d4-682be4af0100/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e8b68c23-4610-450d-b3d4-682be4af0100/4.webp",
+   "thumb": "/thumbs/e8b68c23-4610-450d-b3d4-682be4af0100/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

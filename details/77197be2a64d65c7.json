@@ -1,0 +1,33 @@
+{
+ "id": "thyoutdoor.dk/belgisk-side-by-side-12-70",
+ "detail_id": "77197be2a64d65c7",
+ "source": "thyoutdoor.dk",
+ "source_label": "Thy Outdoor",
+ "url": "https://thyoutdoor.dk/belgisk-side-by-side-12-70",
+ "title": "Brugt Belgisk side by side 12/70",
+ "price_dkk": 750,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": null,
+ "thumb": "/thumbs/thyoutdoor.dk/belgisk-side-by-side-12-70/0.webp",
+ "image_count": 1,
+ "lat": 57.32370377,
+ "lon": 7.90681299,
+ "description": "Belgisk side by side 12/70",
+ "images": [
+  {
+   "full": "/images/thyoutdoor.dk/belgisk-side-by-side-12-70/0.jpg",
+   "thumb": "/thumbs/thyoutdoor.dk/belgisk-side-by-side-12-70/0.webp",
+   "width": 1024,
+   "height": 768
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "31fcba9a-758c-4fce-9b2f-83b599ccefe5",
+ "detail_id": "79264018cca2fc4f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/31fcba9a-758c-4fce-9b2f-83b599ccefe5/jagtriffel",
+ "title": "Jagtriffel",
+ "price_dkk": 1850,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-13",
+ "age_days": 250,
+ "postnummer": "8722",
+ "by": "Hedensted",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/31fcba9a-758c-4fce-9b2f-83b599ccefe5/0.webp",
+ "image_count": 4,
+ "lat": 55.76508387,
+ "lon": 9.71130088,
+ "description": "Midland jagtriffel cal. 6,5 x 55 med fast magasin, der følger lidt ammunition med. Prisen er uden den monterede kikkert, andre kikkerter haves.\nEvt. kan der indgå Flugtskydnings patroner i handlen.",
+ "images": [
+  {
+   "full": "/images/31fcba9a-758c-4fce-9b2f-83b599ccefe5/0.webp",
+   "thumb": "/thumbs/31fcba9a-758c-4fce-9b2f-83b599ccefe5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/31fcba9a-758c-4fce-9b2f-83b599ccefe5/1.webp",
+   "thumb": "/thumbs/31fcba9a-758c-4fce-9b2f-83b599ccefe5/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/31fcba9a-758c-4fce-9b2f-83b599ccefe5/2.webp",
+   "thumb": "/thumbs/31fcba9a-758c-4fce-9b2f-83b599ccefe5/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/31fcba9a-758c-4fce-9b2f-83b599ccefe5/3.webp",
+   "thumb": "/thumbs/31fcba9a-758c-4fce-9b2f-83b599ccefe5/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

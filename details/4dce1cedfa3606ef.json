@@ -1,0 +1,64 @@
+{
+ "id": "efcc1454-b76e-4893-afd5-34031ce9c6f3",
+ "detail_id": "4dce1cedfa3606ef",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/efcc1454-b76e-4893-afd5-34031ce9c6f3/baikal-mx94-bockbuchsflinte-6-5x55-12-76",
+ "title": "Baikal MX94 Bockbüchsflinte 6,5x55 - 12/76",
+ "price_dkk": 4000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Baikal",
+ "calibers": [
+  "12/76",
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-02",
+ "age_days": 80,
+ "postnummer": "3650",
+ "by": "Ølstykke",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/efcc1454-b76e-4893-afd5-34031ce9c6f3/0.webp",
+ "image_count": 6,
+ "lat": 55.78991195,
+ "lon": 12.1609202,
+ "description": "Næsten som ny uden ridser i hverken skæfte eller brunering. Monteret mod holo sight.\nHar skudt meget lidt 10 hagl og 5 riffel skud medens jeg har haft den.",
+ "images": [
+  {
+   "full": "/images/efcc1454-b76e-4893-afd5-34031ce9c6f3/0.webp",
+   "thumb": "/thumbs/efcc1454-b76e-4893-afd5-34031ce9c6f3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/efcc1454-b76e-4893-afd5-34031ce9c6f3/1.webp",
+   "thumb": "/thumbs/efcc1454-b76e-4893-afd5-34031ce9c6f3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/efcc1454-b76e-4893-afd5-34031ce9c6f3/2.webp",
+   "thumb": "/thumbs/efcc1454-b76e-4893-afd5-34031ce9c6f3/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/efcc1454-b76e-4893-afd5-34031ce9c6f3/3.webp",
+   "thumb": "/thumbs/efcc1454-b76e-4893-afd5-34031ce9c6f3/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/efcc1454-b76e-4893-afd5-34031ce9c6f3/0.webp",
+   "thumb": "/thumbs/efcc1454-b76e-4893-afd5-34031ce9c6f3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/efcc1454-b76e-4893-afd5-34031ce9c6f3/1.webp",
+   "thumb": "/thumbs/efcc1454-b76e-4893-afd5-34031ce9c6f3/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "westgun.dk/midland-6-5x55.html",
+ "detail_id": "fa133e45312e8f0f",
+ "source": "westgun.dk",
+ "source_label": "Westgun",
+ "url": "https://www.westgun.dk/midland-6-5x55.html",
+ "title": "Midland 6,5x55",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "7660",
+ "by": "Bækmarksbro",
+ "stand_gg": null,
+ "thumb": "/thumbs/westgun.dk/midland-6-5x55.html/0.webp",
+ "image_count": 1,
+ "lat": 56.41551889,
+ "lon": 8.33184097,
+ "description": "<p>Velskydende brugt riffel til små penge.</p> <p>Midland kaliber 6,5x55.</p> <p>Stålmontage medfølger.</p>",
+ "images": [
+  {
+   "full": "/images/westgun.dk/midland-6-5x55.html/0.jpg",
+   "thumb": "/thumbs/westgun.dk/midland-6-5x55.html/0.webp",
+   "width": 265,
+   "height": 265
+  }
+ ]
+}

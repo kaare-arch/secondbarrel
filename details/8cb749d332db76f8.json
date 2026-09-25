@@ -1,0 +1,57 @@
+{
+ "id": "664da461-a178-4729-9b4c-7f481a5c88cf",
+ "detail_id": "8cb749d332db76f8",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/664da461-a178-4729-9b4c-7f481a5c88cf/beretta-303-auto-lux",
+ "title": "Beretta 303 Auto Lux",
+ "price_dkk": 6500,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-09",
+ "age_days": 11,
+ "postnummer": "7400",
+ "by": "Herning",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/664da461-a178-4729-9b4c-7f481a5c88cf/0.webp",
+ "image_count": 5,
+ "lat": 56.11911505,
+ "lon": 8.98775376,
+ "description": "Sælger denne fine Beretta 303 Auto Luksus med fine guldgraveringer. Det er en Sports løb (Bred skinne)  cal. 12/70  med chokes. Geværet har ikke skudt meget, så alle roset slibningerne står stadig helt skarpe.",
+ "images": [
+  {
+   "full": "/images/664da461-a178-4729-9b4c-7f481a5c88cf/0.webp",
+   "thumb": "/thumbs/664da461-a178-4729-9b4c-7f481a5c88cf/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/664da461-a178-4729-9b4c-7f481a5c88cf/1.webp",
+   "thumb": "/thumbs/664da461-a178-4729-9b4c-7f481a5c88cf/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/664da461-a178-4729-9b4c-7f481a5c88cf/2.webp",
+   "thumb": "/thumbs/664da461-a178-4729-9b4c-7f481a5c88cf/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/664da461-a178-4729-9b4c-7f481a5c88cf/3.webp",
+   "thumb": "/thumbs/664da461-a178-4729-9b4c-7f481a5c88cf/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/664da461-a178-4729-9b4c-7f481a5c88cf/4.webp",
+   "thumb": "/thumbs/664da461-a178-4729-9b4c-7f481a5c88cf/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

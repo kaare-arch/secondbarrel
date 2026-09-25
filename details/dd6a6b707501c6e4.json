@@ -1,0 +1,75 @@
+{
+ "id": "mbjagt.dk/shop/ugartechea-royal-12-70",
+ "detail_id": "dd6a6b707501c6e4",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/ugartechea-royal-12-70/",
+ "title": "Ugartechea Royal, 12-70",
+ "price_dkk": 14995,
+ "weapon_type": "Haglgevær",
+ "brand": "Ugartechea",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/0.webp",
+ "image_count": 8,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Ugartechea RoyalBrugt Ugartechea Royal haglgevlær i kaliber 12-70. Dette side-by-side våben har 63 cm løb. Trangboringen er 1/4 - 1/2, og geværet er forsynet med ejektor samt sidelås.",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/0.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/1.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/2.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/3.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/4.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/5.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/6.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/ugartechea-royal-12-70/7.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/ugartechea-royal-12-70/7.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

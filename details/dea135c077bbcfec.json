@@ -1,0 +1,33 @@
+{
+ "id": "nkjagt.dk/vare/1864-anschutz-brugt-anschutz-1418-kal-22lr",
+ "detail_id": "dea135c077bbcfec",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/1864-anschutz-brugt-anschutz-1418-kal-22lr",
+ "title": "ANSCHÜTZ Brugt Anschütz 1418 kal. 22LR",
+ "price_dkk": 5995,
+ "weapon_type": "Salonriffel",
+ "brand": "Anschütz",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/1864-anschutz-brugt-anschutz-1418-kal-22lr/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Brugt AnschützModel. 1418Kal. 22LRFuldskæftet",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/1864-anschutz-brugt-anschutz-1418-kal-22lr/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/1864-anschutz-brugt-anschutz-1418-kal-22lr/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

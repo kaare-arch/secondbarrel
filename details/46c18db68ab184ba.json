@@ -1,0 +1,45 @@
+{
+ "id": "ce7c80b0-c276-4965-9686-4f85a4af2376",
+ "detail_id": "46c18db68ab184ba",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ce7c80b0-c276-4965-9686-4f85a4af2376/tikka-m595-swarovski",
+ "title": "Tikka m595 Swarovski",
+ "price_dkk": 8500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-08",
+ "age_days": 43,
+ "postnummer": "4760",
+ "by": "Vordingborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ce7c80b0-c276-4965-9686-4f85a4af2376/0.webp",
+ "image_count": 3,
+ "lat": 55.02464842,
+ "lon": 11.8960716,
+ "description": "Flot jagtriffel i cal. 308. Inkl. Swarovski Habicht 3-12x50 med lys. Alt i flot stand.",
+ "images": [
+  {
+   "full": "/images/ce7c80b0-c276-4965-9686-4f85a4af2376/0.webp",
+   "thumb": "/thumbs/ce7c80b0-c276-4965-9686-4f85a4af2376/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ce7c80b0-c276-4965-9686-4f85a4af2376/1.webp",
+   "thumb": "/thumbs/ce7c80b0-c276-4965-9686-4f85a4af2376/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ce7c80b0-c276-4965-9686-4f85a4af2376/2.webp",
+   "thumb": "/thumbs/ce7c80b0-c276-4965-9686-4f85a4af2376/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

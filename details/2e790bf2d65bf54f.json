@@ -1,0 +1,51 @@
+{
+ "id": "b5c42cb6-2d88-4072-911b-b297e9e43d03",
+ "detail_id": "2e790bf2d65bf54f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b5c42cb6-2d88-4072-911b-b297e9e43d03/drilling",
+ "title": "Drilling",
+ "price_dkk": 4000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-18",
+ "age_days": 64,
+ "postnummer": "6990",
+ "by": "Ulfborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b5c42cb6-2d88-4072-911b-b297e9e43d03/0.webp",
+ "image_count": 4,
+ "lat": 56.3042395,
+ "lon": 8.0070526,
+ "description": "Suhler Waffenwerk , cal. 12 / 70 og 9,3 *72R , Drilling. Ved interesse ring til Hans Jensen  på tlf. [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/b5c42cb6-2d88-4072-911b-b297e9e43d03/0.webp",
+   "thumb": "/thumbs/b5c42cb6-2d88-4072-911b-b297e9e43d03/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b5c42cb6-2d88-4072-911b-b297e9e43d03/1.webp",
+   "thumb": "/thumbs/b5c42cb6-2d88-4072-911b-b297e9e43d03/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b5c42cb6-2d88-4072-911b-b297e9e43d03/2.webp",
+   "thumb": "/thumbs/b5c42cb6-2d88-4072-911b-b297e9e43d03/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b5c42cb6-2d88-4072-911b-b297e9e43d03/3.webp",
+   "thumb": "/thumbs/b5c42cb6-2d88-4072-911b-b297e9e43d03/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

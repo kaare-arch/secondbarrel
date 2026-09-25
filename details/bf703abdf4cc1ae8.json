@@ -1,0 +1,33 @@
+{
+ "id": "nkjagt.dk/vare/16667-hanel-brugt-jaeger-10-pro-kal-3006",
+ "detail_id": "bf703abdf4cc1ae8",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/16667-hanel-brugt-jaeger-10-pro-kal-3006",
+ "title": "HANEL BRUGT Jaeger 10 pro kal. 30.06",
+ "price_dkk": 12995,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/16667-hanel-brugt-jaeger-10-pro-kal-3006/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Hanel JaegerModel: 10 Pro Kal. 30.06",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/16667-hanel-brugt-jaeger-10-pro-kal-3006/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/16667-hanel-brugt-jaeger-10-pro-kal-3006/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

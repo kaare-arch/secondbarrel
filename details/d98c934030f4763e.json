@@ -1,0 +1,52 @@
+{
+ "id": "ab3897c4-50bc-4342-9016-1b3bf876ccca",
+ "detail_id": "d98c934030f4763e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ab3897c4-50bc-4342-9016-1b3bf876ccca/sauer-202-med-zeiss",
+ "title": "Sauer 202 med Zeiss",
+ "price_dkk": 22000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "6,5x55",
+  "9,3x62"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-16",
+ "age_days": 66,
+ "postnummer": "6900",
+ "by": "Skjern",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ab3897c4-50bc-4342-9016-1b3bf876ccca/0.webp",
+ "image_count": 4,
+ "lat": 55.99089664,
+ "lon": 8.53885308,
+ "description": "Flot og velholdt riffel i kaliber 9,3x62 med 2 magasiner.\n1 stk 6,5x55 veksel pibe uden magasiner.\nEaw svingmontage.\nDer medfølger 30 stk blandet 9,3x62 patroner",
+ "images": [
+  {
+   "full": "/images/ab3897c4-50bc-4342-9016-1b3bf876ccca/0.webp",
+   "thumb": "/thumbs/ab3897c4-50bc-4342-9016-1b3bf876ccca/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ab3897c4-50bc-4342-9016-1b3bf876ccca/1.webp",
+   "thumb": "/thumbs/ab3897c4-50bc-4342-9016-1b3bf876ccca/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ab3897c4-50bc-4342-9016-1b3bf876ccca/2.webp",
+   "thumb": "/thumbs/ab3897c4-50bc-4342-9016-1b3bf876ccca/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ab3897c4-50bc-4342-9016-1b3bf876ccca/3.webp",
+   "thumb": "/thumbs/ab3897c4-50bc-4342-9016-1b3bf876ccca/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

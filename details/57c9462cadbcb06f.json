@@ -1,0 +1,69 @@
+{
+ "id": "brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper",
+ "detail_id": "57c9462cadbcb06f",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/",
+ "title": "CARL GUSTAV 3000 222rem M/ATN Sigte M/Dæmper",
+ "price_dkk": 6999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  ".222 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/0.webp",
+ "image_count": 7,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/0.webp",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/0.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/1.webp",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/1.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/2.webp",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/2.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/3.webp",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/3.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/4.webp",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/4.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/5.webp",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/5.webp",
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "full": "/images/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/6.webp",
+   "thumb": "/thumbs/brasholt.nu/product/carl-gustav-3000-222rem-m-atn-sigte-m-daemper/6.webp",
+   "width": 1254,
+   "height": 1254
+  }
+ ]
+}

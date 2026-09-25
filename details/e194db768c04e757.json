@@ -1,0 +1,63 @@
+{
+ "id": "brasholt.nu/product/sl-hunter-lh-308-win",
+ "detail_id": "e194db768c04e757",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/sl-hunter-lh-308-win/",
+ "title": "S&L Hunter LH .308 Win",
+ "price_dkk": 10000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/sl-hunter-lh-308-win/0.webp",
+ "image_count": 6,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": "Med Stalon VictorMed S&L montage 30 mm.",
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/sl-hunter-lh-308-win/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sl-hunter-lh-308-win/0.webp",
+   "width": 1600,
+   "height": 579
+  },
+  {
+   "full": "/images/brasholt.nu/product/sl-hunter-lh-308-win/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sl-hunter-lh-308-win/1.webp",
+   "width": 1473,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/sl-hunter-lh-308-win/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sl-hunter-lh-308-win/2.webp",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/sl-hunter-lh-308-win/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sl-hunter-lh-308-win/3.webp",
+   "width": 1296,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/sl-hunter-lh-308-win/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sl-hunter-lh-308-win/4.webp",
+   "width": 1276,
+   "height": 1600
+  },
+  {
+   "full": "/images/brasholt.nu/product/sl-hunter-lh-308-win/5.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/sl-hunter-lh-308-win/5.webp",
+   "width": 1353,
+   "height": 1600
+  }
+ ]
+}

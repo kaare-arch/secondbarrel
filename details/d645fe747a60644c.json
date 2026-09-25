@@ -1,0 +1,69 @@
+{
+ "id": "3c9636c9-d974-4fb9-ac69-63ba445ff816",
+ "detail_id": "d645fe747a60644c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3c9636c9-d974-4fb9-ac69-63ba445ff816/varberger-717-lux",
+ "title": "VARBERGER - 717 LUX",
+ "price_dkk": 6000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-04-07",
+ "age_days": 166,
+ "postnummer": "8000",
+ "by": "Aarhus C",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/0.webp",
+ "image_count": 7,
+ "lat": 56.15051496,
+ "lon": 10.27802097,
+ "description": "Varberger – 717 Lux riffel\n\nBliv klar til bukkejagten med denne riffel fra svenske Varberger. \nDet er en 6,5 x 55 kaliber riffel med et Zeiss Diavari 2,5-10×50 T*.\nDertil følger 39 Partizan patroner til træning og 9 Hornady Superperformance patroner til jagt. Begge er 6,5 x 55.",
+ "images": [
+  {
+   "full": "/images/3c9636c9-d974-4fb9-ac69-63ba445ff816/0.webp",
+   "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3c9636c9-d974-4fb9-ac69-63ba445ff816/1.webp",
+   "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3c9636c9-d974-4fb9-ac69-63ba445ff816/2.webp",
+   "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3c9636c9-d974-4fb9-ac69-63ba445ff816/3.webp",
+   "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3c9636c9-d974-4fb9-ac69-63ba445ff816/4.webp",
+   "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3c9636c9-d974-4fb9-ac69-63ba445ff816/5.webp",
+   "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3c9636c9-d974-4fb9-ac69-63ba445ff816/6.webp",
+   "thumb": "/thumbs/3c9636c9-d974-4fb9-ac69-63ba445ff816/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

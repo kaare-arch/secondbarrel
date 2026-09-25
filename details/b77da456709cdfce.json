@@ -1,0 +1,63 @@
+{
+ "id": "c88f0f9c-2cfa-4ec1-98d0-25ae129814e7",
+ "detail_id": "b77da456709cdfce",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/sauer-80-fuldskaeftet-30-06",
+ "title": "Sauer 80 Fuldskæftet 30.06",
+ "price_dkk": 12000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-03-15",
+ "age_days": 189,
+ "postnummer": "1674",
+ "by": "København V",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/0.webp",
+ "image_count": 6,
+ "lat": 55.66560968,
+ "lon": 12.54312615,
+ "description": "Meget velholdt sauer 80 med magasin i 30.06.",
+ "images": [
+  {
+   "full": "/images/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/0.webp",
+   "thumb": "/thumbs/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/1.webp",
+   "thumb": "/thumbs/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/2.webp",
+   "thumb": "/thumbs/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/3.webp",
+   "thumb": "/thumbs/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/4.webp",
+   "thumb": "/thumbs/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/5.webp",
+   "thumb": "/thumbs/c88f0f9c-2cfa-4ec1-98d0-25ae129814e7/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

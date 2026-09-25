@@ -1,0 +1,39 @@
+{
+ "id": "a30d06f4-593d-488c-9a28-d75cb7623d32",
+ "detail_id": "3b86f594ed103104",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a30d06f4-593d-488c-9a28-d75cb7623d32/remington-870-pumpgun-cal-12",
+ "title": "Remington 870 pumpgun Cal 12",
+ "price_dkk": 4500,
+ "weapon_type": "Haglgevær",
+ "brand": "Remington",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-12-30",
+ "age_days": 264,
+ "postnummer": "9493",
+ "by": "Saltum",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/a30d06f4-593d-488c-9a28-d75cb7623d32/0.webp",
+ "image_count": 2,
+ "lat": 57.26602114,
+ "lon": 9.69608315,
+ "description": "Super fed Remington 870 pumpgun med udskiftelige chokes ( 1 medfølger) \nMeget lidt brugt og rigtig fed og skyde med grundet det geniale skæfte. \n\nKan kontaktes på [tlf fjernet] ved interesse. \nBefinder sig i 9440. Jagttegn skal fremvises",
+ "images": [
+  {
+   "full": "/images/a30d06f4-593d-488c-9a28-d75cb7623d32/0.webp",
+   "thumb": "/thumbs/a30d06f4-593d-488c-9a28-d75cb7623d32/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a30d06f4-593d-488c-9a28-d75cb7623d32/1.webp",
+   "thumb": "/thumbs/a30d06f4-593d-488c-9a28-d75cb7623d32/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

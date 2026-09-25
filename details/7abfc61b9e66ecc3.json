@@ -1,0 +1,73 @@
+{
+ "id": "mbjagt.dk/shop/sako-85-243w",
+ "detail_id": "7abfc61b9e66ecc3",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/sako-85-243w/",
+ "title": "Sako 85, 243W",
+ "price_dkk": 14500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/0.webp",
+ "image_count": 8,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Sako 85, kaliber 243W",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/0.webp",
+   "width": 1024,
+   "height": 245
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/1.webp",
+   "width": 1024,
+   "height": 543
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/2.webp",
+   "width": 1024,
+   "height": 636
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/3.webp",
+   "width": 1024,
+   "height": 280
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/4.webp",
+   "width": 1024,
+   "height": 597
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/5.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/6.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-85-243w/7.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-85-243w/7.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

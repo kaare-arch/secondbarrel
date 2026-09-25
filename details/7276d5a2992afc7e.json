@@ -1,0 +1,26 @@
+{
+ "id": "michaelsjagt.dk/vare/996-mauser-3366-mauser-98-65x55",
+ "detail_id": "7276d5a2992afc7e",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/996-mauser-3366-mauser-98-65x55",
+ "title": "3366-Mauser 98 6,5x55",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Kaliber : 6,5x55Total længe :108Cm.Løbs længe : 54Cm.Skæfte længe : 36Cm.Gevind : Nej",
+ "images": []
+}

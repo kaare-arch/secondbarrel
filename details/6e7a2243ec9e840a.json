@@ -1,0 +1,43 @@
+{
+ "id": "jjsu.dk/shop/cz52--cal-762x25",
+ "detail_id": "6e7a2243ec9e840a",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/cz52--cal-762x25/",
+ "title": "CZ52 - Cal. 7,62x25",
+ "price_dkk": 5999,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/cz52--cal-762x25/0.webp",
+ "image_count": 3,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "CZ52 Tilstand: Brugt, men pæn stand (1953) Kaliber: 7,62x25 Totallængde: 21,00cm Pibelængde: 12,00cm Vægt: 950g System: ½ auto Der medfølger i alt 3 magasiner og Ca. 100 patroner CZ 52-pistolen bruger et meget specielt \"Roller-locked\" system, hvor der er to ruller som låser piben og slæden når pistolen bliver affyret, lidt som systemet i MG42",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/cz52--cal-762x25/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/cz52--cal-762x25/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/cz52--cal-762x25/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/cz52--cal-762x25/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/cz52--cal-762x25/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/cz52--cal-762x25/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "5f39a1ef-789e-45e1-811b-754de4f76cf7",
+ "detail_id": "3485490d32fb18d4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5f39a1ef-789e-45e1-811b-754de4f76cf7/cz-511-cal-22-lr-halvautomatisk",
+ "title": "CZ 511 cal 22 LR halvautomatisk",
+ "price_dkk": 2250,
+ "weapon_type": "Salonriffel",
+ "brand": "CZ",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-11-23",
+ "age_days": 301,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/5f39a1ef-789e-45e1-811b-754de4f76cf7/0.webp",
+ "image_count": 4,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Kvalitet I perfekt stand.",
+ "images": [
+  {
+   "full": "/images/5f39a1ef-789e-45e1-811b-754de4f76cf7/0.webp",
+   "thumb": "/thumbs/5f39a1ef-789e-45e1-811b-754de4f76cf7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5f39a1ef-789e-45e1-811b-754de4f76cf7/1.webp",
+   "thumb": "/thumbs/5f39a1ef-789e-45e1-811b-754de4f76cf7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5f39a1ef-789e-45e1-811b-754de4f76cf7/2.webp",
+   "thumb": "/thumbs/5f39a1ef-789e-45e1-811b-754de4f76cf7/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5f39a1ef-789e-45e1-811b-754de4f76cf7/3.webp",
+   "thumb": "/thumbs/5f39a1ef-789e-45e1-811b-754de4f76cf7/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

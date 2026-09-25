@@ -1,0 +1,37 @@
+{
+ "id": "michaelsjagt.dk/vare/28121-brno-5059-brno",
+ "detail_id": "d91c03fac71b6d76",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/28121-brno-5059-brno",
+ "title": "5059-BRNO",
+ "price_dkk": 3795,
+ "weapon_type": "Haglgevær",
+ "brand": "CZ",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/28121-brno-5059-brno/0.webp",
+ "image_count": 2,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Kaliber 20/70 Sidelås Doubletrigger Til forreste aftrækker: 36 cm Løbslængde: 70 cm Har du spørgsmål omkring dette gevær, så ring til os på: [tlf fjernet]. Bemærk: Fragt på våben er 400,- DKK",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/28121-brno-5059-brno/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/28121-brno-5059-brno/0.webp",
+   "width": 460,
+   "height": 308
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/28121-brno-5059-brno/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/28121-brno-5059-brno/1.webp",
+   "width": 460,
+   "height": 294
+  }
+ ]
+}

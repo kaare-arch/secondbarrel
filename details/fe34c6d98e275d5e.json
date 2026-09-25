@@ -1,0 +1,31 @@
+{
+ "id": "nkjagt.dk/vare/19440-simson-suhl-simson",
+ "detail_id": "fe34c6d98e275d5e",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/19440-simson-suhl-simson",
+ "title": "Simson Suhl Simson",
+ "price_dkk": 3995,
+ "weapon_type": "Haglgevær",
+ "brand": "Simson",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/19440-simson-suhl-simson/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/19440-simson-suhl-simson/0.png",
+   "thumb": "/thumbs/nkjagt.dk/vare/19440-simson-suhl-simson/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}

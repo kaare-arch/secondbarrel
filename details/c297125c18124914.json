@@ -1,0 +1,37 @@
+{
+ "id": "e7191b23-f013-4486-8538-1e259ef21fa9",
+ "detail_id": "c297125c18124914",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e7191b23-f013-4486-8538-1e259ef21fa9/snowpeak-diana-bandit-4-5mm",
+ "title": "Snowpeak/Diana Bandit 4.5mm",
+ "price_dkk": 1500,
+ "weapon_type": "Pistol",
+ "brand": "Diana",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-05",
+ "age_days": 15,
+ "postnummer": "4700",
+ "by": "Næstved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/e7191b23-f013-4486-8538-1e259ef21fa9/0.webp",
+ "image_count": 2,
+ "lat": 55.19504272,
+ "lon": 11.77357353,
+ "description": "Rigtig fin og velskydene pcp luftpistol med Focus rødpunktsigte magasin og fyldestuds samt ca 1000 hagl medfølger.",
+ "images": [
+  {
+   "full": "/images/e7191b23-f013-4486-8538-1e259ef21fa9/0.webp",
+   "thumb": "/thumbs/e7191b23-f013-4486-8538-1e259ef21fa9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e7191b23-f013-4486-8538-1e259ef21fa9/1.webp",
+   "thumb": "/thumbs/e7191b23-f013-4486-8538-1e259ef21fa9/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

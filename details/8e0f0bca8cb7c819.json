@@ -1,0 +1,67 @@
+{
+ "id": "20d061b6-e54c-443b-a106-17d0980580f4",
+ "detail_id": "8e0f0bca8cb7c819",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/20d061b6-e54c-443b-a106-17d0980580f4/heym-cal-416-rigby",
+ "title": "Heym cal. 416 Rigby",
+ "price_dkk": 69000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Heym",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-06-05",
+ "age_days": 107,
+ "postnummer": "4760",
+ "by": "Vordingborg",
+ "stand_gg": "Ny",
+ "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/0.webp",
+ "image_count": 7,
+ "lat": 55.02464842,
+ "lon": 11.8960716,
+ "description": "Heym cal. 416 Rigby. Riflen er helt ny. Den har aldrig skudt.",
+ "images": [
+  {
+   "full": "/images/20d061b6-e54c-443b-a106-17d0980580f4/0.webp",
+   "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/20d061b6-e54c-443b-a106-17d0980580f4/1.webp",
+   "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/20d061b6-e54c-443b-a106-17d0980580f4/2.webp",
+   "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/20d061b6-e54c-443b-a106-17d0980580f4/3.webp",
+   "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/20d061b6-e54c-443b-a106-17d0980580f4/4.webp",
+   "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/20d061b6-e54c-443b-a106-17d0980580f4/5.webp",
+   "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/20d061b6-e54c-443b-a106-17d0980580f4/6.webp",
+   "thumb": "/thumbs/20d061b6-e54c-443b-a106-17d0980580f4/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

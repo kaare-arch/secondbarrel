@@ -1,0 +1,75 @@
+{
+ "id": "23af1ffd-0355-4da5-b286-ee3e7543fee0",
+ "detail_id": "a4b65b684caaa7d2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/23af1ffd-0355-4da5-b286-ee3e7543fee0/f-pedretti-italiensk-over-and-under",
+ "title": "F. Pedretti Italiensk Over and Under",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-08-10",
+ "age_days": 41,
+ "postnummer": "2900",
+ "by": "Hellerup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/0.webp",
+ "image_count": 8,
+ "lat": 55.73442051,
+ "lon": 12.56946744,
+ "description": "Et smukt Italiensk Over and Under haglgevær i kaliber 12 med flotte sideplader, geværet steel proff med et løb på 71 cm.\nEn perfekt jagtmakker som man glad i hovet af at kigge på.\nItalienske våbenmager Francesco Pedretti fra Gardone Val Trompia ved Brescia.",
+ "images": [
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/0.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/1.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/2.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/3.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/4.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/5.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/6.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/23af1ffd-0355-4da5-b286-ee3e7543fee0/7.webp",
+   "thumb": "/thumbs/23af1ffd-0355-4da5-b286-ee3e7543fee0/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

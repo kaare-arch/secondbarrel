@@ -1,0 +1,33 @@
+{
+ "id": "db619601-8067-44d4-b954-c4a3f6249bf8",
+ "detail_id": "55df53174044fa34",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/db619601-8067-44d4-b954-c4a3f6249bf8/baikal-12-70-o-u",
+ "title": "Baikal 12/70 O/U",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-07-19",
+ "age_days": 63,
+ "postnummer": "4200",
+ "by": "Slagelse",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/db619601-8067-44d4-b954-c4a3f6249bf8/0.webp",
+ "image_count": 1,
+ "lat": 55.40887345,
+ "lon": 11.37134678,
+ "description": "Baikal Model IJ27E ejector cal. 12/70. \nAfhentes\nJagttegn eller anden tilladelse kræves",
+ "images": [
+  {
+   "full": "/images/db619601-8067-44d4-b954-c4a3f6249bf8/0.webp",
+   "thumb": "/thumbs/db619601-8067-44d4-b954-c4a3f6249bf8/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

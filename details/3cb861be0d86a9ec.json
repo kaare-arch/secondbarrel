@@ -1,0 +1,26 @@
+{
+ "id": "jagtliv.dk/vare/miroku-mk70-kal-12-76",
+ "detail_id": "3cb861be0d86a9ec",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/miroku-mk70-kal-12-76/",
+ "title": "Miroku MK70, kal. 12/76",
+ "price_dkk": 9500,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": null,
+ "lon": null,
+ "description": null,
+ "images": []
+}

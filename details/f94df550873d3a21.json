@@ -1,0 +1,57 @@
+{
+ "id": "brasholt.nu/product/browning-b725-sporter-12-76-76cm",
+ "detail_id": "f94df550873d3a21",
+ "source": "brasholt.nu",
+ "source_label": "Brasholt",
+ "url": "https://brasholt.nu/product/browning-b725-sporter-12-76-76cm/",
+ "title": "BROWNING B725 Sporter 12/76 76cm",
+ "price_dkk": 14999,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9800",
+ "by": "Hjørring",
+ "stand_gg": null,
+ "thumb": "/thumbs/brasholt.nu/product/browning-b725-sporter-12-76-76cm/0.webp",
+ "image_count": 5,
+ "lat": 57.70230652,
+ "lon": 9.2956345,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/browning-b725-sporter-12-76-76cm/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/browning-b725-sporter-12-76-76cm/0.webp",
+   "width": 1561,
+   "height": 720
+  },
+  {
+   "full": "/images/brasholt.nu/product/browning-b725-sporter-12-76-76cm/1.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/browning-b725-sporter-12-76-76cm/1.webp",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "full": "/images/brasholt.nu/product/browning-b725-sporter-12-76-76cm/2.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/browning-b725-sporter-12-76-76cm/2.webp",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "full": "/images/brasholt.nu/product/browning-b725-sporter-12-76-76cm/3.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/browning-b725-sporter-12-76-76cm/3.webp",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "full": "/images/brasholt.nu/product/browning-b725-sporter-12-76-76cm/4.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/browning-b725-sporter-12-76-76cm/4.webp",
+   "width": 960,
+   "height": 720
+  }
+ ]
+}

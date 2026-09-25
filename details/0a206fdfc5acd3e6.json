@@ -1,0 +1,51 @@
+{
+ "id": "iversen-import.dk/browning-citory-12-76-71-cm-lob.html",
+ "detail_id": "0a206fdfc5acd3e6",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/browning-citory-12-76-71-cm-lob.html",
+ "title": "Browning Citory  12/76 - 71 cm løb",
+ "price_dkk": 9999,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/0.webp",
+ "image_count": 4,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/0.jpg",
+   "thumb": "/thumbs/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/1.jpg",
+   "thumb": "/thumbs/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/2.jpg",
+   "thumb": "/thumbs/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/3.jpg",
+   "thumb": "/thumbs/iversen-import.dk/browning-citory-12-76-71-cm-lob.html/3.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "iversen-import.dk/winchester-m-101.html",
+ "detail_id": "45e994704457f792",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/winchester-m-101.html",
+ "title": "Winchester  Model 101 ejektor",
+ "price_dkk": 5999,
+ "weapon_type": "Haglgevær",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/iversen-import.dk/winchester-m-101.html/0.webp",
+ "image_count": 4,
+ "lat": 55.24177268,
+ "lon": 9.61886938,
+ "description": "Winchester Model 101 super velholdt Winchester, to blanke løb ingen slør eller nævne værdig slid. Kal. 12/70 Ejektor Single trigger Løbsvælger Boring: Skeet / Skeet Længde: 114 cm Pibe : 71 cm Afstand til aftrækker: 35,5 cm",
+ "images": [
+  {
+   "full": "/images/iversen-import.dk/winchester-m-101.html/0.jpg",
+   "thumb": "/thumbs/iversen-import.dk/winchester-m-101.html/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/winchester-m-101.html/1.jpg",
+   "thumb": "/thumbs/iversen-import.dk/winchester-m-101.html/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/winchester-m-101.html/2.jpg",
+   "thumb": "/thumbs/iversen-import.dk/winchester-m-101.html/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/winchester-m-101.html/3.jpg",
+   "thumb": "/thumbs/iversen-import.dk/winchester-m-101.html/3.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

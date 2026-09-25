@@ -1,0 +1,51 @@
+{
+ "id": "jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065",
+ "detail_id": "fb3af19d82c8a43b",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/",
+ "title": "Smith & Wesson model 17 - Cal. 22lr",
+ "price_dkk": 4499,
+ "weapon_type": "Revolver",
+ "brand": "Smith & Wesson",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Smith & Wesson - Model 17-3 Tilstand: Brugt Cal. 22lr 6 Skuds Ladesystem: Repeter Totallængde: 28,20cm Løbslængde: 14,80cm Klassisk model med bred target aftrækker, bred target hane og bret target greb. ( \"The Three T's\" = Target Trigger, Target Hammer and Target Grips)",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/0.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/1.webp",
+   "width": 540,
+   "height": 359
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/smith--wesson-model-17--cal-22lr-237065/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

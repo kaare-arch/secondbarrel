@@ -1,0 +1,46 @@
+{
+ "id": "41d9c2ca-df32-4f07-abae-7d711dedf52f",
+ "detail_id": "49286cfffa6999b2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/41d9c2ca-df32-4f07-abae-7d711dedf52f/brno-zh304",
+ "title": "Brno ZH304",
+ "price_dkk": 4000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "CZ",
+ "calibers": [
+  "12/70",
+  "7x57R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2025-12-26",
+ "age_days": 268,
+ "postnummer": "9260",
+ "by": "Gistrup",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/41d9c2ca-df32-4f07-abae-7d711dedf52f/0.webp",
+ "image_count": 3,
+ "lat": 56.93195612,
+ "lon": 10.01379029,
+ "description": "Bron ZH304 BFF 12/70 samt 7x57R\nEt gevær uden slør.\nMå bruges til alt jagt i Danmark \nKan bruges fra snepper til krondyr \nDer følger kikkert og montering med\nSamt nogle patroner.",
+ "images": [
+  {
+   "full": "/images/41d9c2ca-df32-4f07-abae-7d711dedf52f/0.webp",
+   "thumb": "/thumbs/41d9c2ca-df32-4f07-abae-7d711dedf52f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/41d9c2ca-df32-4f07-abae-7d711dedf52f/1.webp",
+   "thumb": "/thumbs/41d9c2ca-df32-4f07-abae-7d711dedf52f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/41d9c2ca-df32-4f07-abae-7d711dedf52f/2.webp",
+   "thumb": "/thumbs/41d9c2ca-df32-4f07-abae-7d711dedf52f/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "mbjagt.dk/shop/viking-lux-6-5x55",
+ "detail_id": "fb142bb2afa9ccd4",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/viking-lux-6-5x55/",
+ "title": "Viking Lux, 6.5×55",
+ "price_dkk": 7995,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/0.webp",
+ "image_count": 7,
+ "lat": 56.6528756,
+ "lon": 9.77366901,
+ "description": "Viking Lux, kaliber 6.5x55",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-6-5x55/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/0.webp",
+   "width": 1024,
+   "height": 237
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-6-5x55/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/1.webp",
+   "width": 1024,
+   "height": 612
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-6-5x55/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/2.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-6-5x55/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/3.webp",
+   "width": 1024,
+   "height": 286
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-6-5x55/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/4.webp",
+   "width": 1024,
+   "height": 582
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-6-5x55/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/5.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/viking-lux-6-5x55/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/viking-lux-6-5x55/6.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

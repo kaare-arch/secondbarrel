@@ -1,0 +1,46 @@
+{
+ "id": "7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c",
+ "detail_id": "6c631cf1a09dfc41",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/schultz-larsen-magasin",
+ "title": "Schultz & Larsen magasin",
+ "price_dkk": 750,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [
+  ".243 Win",
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-01-04",
+ "age_days": 259,
+ "postnummer": "2665",
+ "by": "Vallensbæk Strand",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/0.webp",
+ "image_count": 3,
+ "lat": 55.61964832,
+ "lon": 12.38841202,
+ "description": "Kort Schultz Larsen magasin, passer blandt andet til 243win, 308win, 22-250rem",
+ "images": [
+  {
+   "full": "/images/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/0.webp",
+   "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/1.webp",
+   "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/2.webp",
+   "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

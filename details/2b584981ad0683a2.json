@@ -1,0 +1,69 @@
+{
+ "id": "ecacdb0a-4e2d-4b5c-982e-5d5662a5c880",
+ "detail_id": "2b584981ad0683a2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/miroku-800sw-i-unik-stand",
+ "title": "Miroku 800SW i unik stand",
+ "price_dkk": 14500,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-06-07",
+ "age_days": 105,
+ "postnummer": "8260",
+ "by": "Viby J",
+ "stand_gg": null,
+ "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/0.webp",
+ "image_count": 7,
+ "lat": 56.12635244,
+ "lon": 10.13778473,
+ "description": "Her udbydes en legendarisk Miroku 800 SW med den brede sigteskinne i en helt unik og original stand - kvaliteten behøver ikke nærmere omtale for kendere. Geværet fremstår reelt som nyt og har kun skudt meget få skud. Kaliber 12/70. Løbslængde 71cm. Boring kvart og halv. Prisen er fast.",
+ "images": [
+  {
+   "full": "/images/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/0.webp",
+   "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/1.webp",
+   "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/2.webp",
+   "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/3.webp",
+   "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/4.webp",
+   "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/5.webp",
+   "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/6.webp",
+   "thumb": "/thumbs/ecacdb0a-4e2d-4b5c-982e-5d5662a5c880/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

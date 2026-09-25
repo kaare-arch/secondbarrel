@@ -1,0 +1,40 @@
+{
+ "id": "b1d17513-e94e-40bc-9e2c-89c2be96e084",
+ "detail_id": "ba3796bac382ae04",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b1d17513-e94e-40bc-9e2c-89c2be96e084/brno-bbf-z-h-104-12-70-7x57r",
+ "title": "Brno BBF Z.H 104 12/70- 7x57R",
+ "price_dkk": 1500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "CZ",
+ "calibers": [
+  "12/70",
+  "7x57R"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-05-04",
+ "age_days": 139,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b1d17513-e94e-40bc-9e2c-89c2be96e084/0.webp",
+ "image_count": 2,
+ "lat": null,
+ "lon": null,
+ "description": "For mere info ring på [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/b1d17513-e94e-40bc-9e2c-89c2be96e084/0.webp",
+   "thumb": "/thumbs/b1d17513-e94e-40bc-9e2c-89c2be96e084/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b1d17513-e94e-40bc-9e2c-89c2be96e084/1.webp",
+   "thumb": "/thumbs/b1d17513-e94e-40bc-9e2c-89c2be96e084/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

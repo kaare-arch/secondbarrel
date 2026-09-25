@@ -1,0 +1,31 @@
+{
+ "id": "8da6d478-52e5-43bb-acd3-0eeacbc99e00",
+ "detail_id": "e1be8ae9407d7b10",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8da6d478-52e5-43bb-acd3-0eeacbc99e00/sauer-200-str",
+ "title": "Sauer 200 str",
+ "price_dkk": 500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-04-06",
+ "age_days": 167,
+ "postnummer": "4683",
+ "by": "Rønnede",
+ "stand_gg": null,
+ "thumb": "/thumbs/8da6d478-52e5-43bb-acd3-0eeacbc99e00/0.webp",
+ "image_count": 1,
+ "lat": 55.23758668,
+ "lon": 12.02277028,
+ "description": "KØBES\nAlternativt skæfte til en Sauer 200 Str købes altså ikke et standard skæfte.",
+ "images": [
+  {
+   "full": "/images/8da6d478-52e5-43bb-acd3-0eeacbc99e00/0.webp",
+   "thumb": "/thumbs/8da6d478-52e5-43bb-acd3-0eeacbc99e00/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

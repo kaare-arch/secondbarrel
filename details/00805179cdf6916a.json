@@ -1,0 +1,49 @@
+{
+ "id": "c1b6952e-0de0-4e40-b347-e0b7055cf587",
+ "detail_id": "00805179cdf6916a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c1b6952e-0de0-4e40-b347-e0b7055cf587/tikka-t3x-t1x-trae-skaefte",
+ "title": "Tikka T3x/ T1x træ skæfte",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-02-22",
+ "age_days": 210,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/c1b6952e-0de0-4e40-b347-e0b7055cf587/0.webp",
+ "image_count": 4,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Sælger dette fine  Skæfte til tikka T3X / T1X\n\nStår i Svendborg. \n[tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/c1b6952e-0de0-4e40-b347-e0b7055cf587/0.webp",
+   "thumb": "/thumbs/c1b6952e-0de0-4e40-b347-e0b7055cf587/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1b6952e-0de0-4e40-b347-e0b7055cf587/1.webp",
+   "thumb": "/thumbs/c1b6952e-0de0-4e40-b347-e0b7055cf587/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1b6952e-0de0-4e40-b347-e0b7055cf587/2.webp",
+   "thumb": "/thumbs/c1b6952e-0de0-4e40-b347-e0b7055cf587/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1b6952e-0de0-4e40-b347-e0b7055cf587/3.webp",
+   "thumb": "/thumbs/c1b6952e-0de0-4e40-b347-e0b7055cf587/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

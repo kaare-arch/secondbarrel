@@ -1,0 +1,45 @@
+{
+ "id": "michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06",
+ "detail_id": "23ce0321eb075638",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06",
+ "title": "4788-Steyr Mannlicher 30-06",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06/0.webp",
+ "image_count": 3,
+ "lat": 55.01443666,
+ "lon": 10.59802878,
+ "description": "Kaliber : 30.06 Total længe :110Cm. Løbs længe : 60Cm. Skæfte længe : 35Cm. Gevind : Nej",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06/0.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06/1.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/12432-steyr-4788-steyr-mannlicher-30-06/2.webp",
+   "width": 460,
+   "height": 307
+  }
+ ]
+}

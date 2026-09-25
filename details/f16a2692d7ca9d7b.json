@@ -1,0 +1,51 @@
+{
+ "id": "b84afb02-ef7f-49a3-ab93-d4e28e3d1f53",
+ "detail_id": "f16a2692d7ca9d7b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/tikka-tx1-17-hmr-med-daemper-og-leupold-3-9x40",
+ "title": "Tikka tx1 17 hmr med dæmper og leupold 3-9x40",
+ "price_dkk": 6000,
+ "weapon_type": "Salonriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-05",
+ "age_days": 15,
+ "postnummer": "4000",
+ "by": "Roskilde",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/0.webp",
+ "image_count": 4,
+ "lat": 55.65647451,
+ "lon": 12.06373356,
+ "description": "Fin vel skydende riffel i cal 17 hmr har lidt ridser her og der men en rigtig sjov riffel som jeg desværre ikke får brugt så meget mere",
+ "images": [
+  {
+   "full": "/images/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/0.webp",
+   "thumb": "/thumbs/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/1.webp",
+   "thumb": "/thumbs/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/2.webp",
+   "thumb": "/thumbs/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/3.webp",
+   "thumb": "/thumbs/b84afb02-ef7f-49a3-ab93-d4e28e3d1f53/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

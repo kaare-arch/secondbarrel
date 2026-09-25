@@ -1,0 +1,51 @@
+{
+ "id": "jjsu.dk/shop/tesro-ts222--cal-22-lr",
+ "detail_id": "dfcc9ab41a043055",
+ "source": "jjsu.dk",
+ "source_label": "JJSU",
+ "url": "https://www.jjsu.dk/shop/tesro-ts222--cal-22-lr/",
+ "title": "Tesro TS22-2 - Cal. 22 LR",
+ "price_dkk": 6499,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/jjsu.dk/shop/tesro-ts222--cal-22-lr/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "Fabrikat/Model: Tesro TS22-2 Tilstand: Brugt Kaliber. 22 LR Totallængde: 30,00cm Løbslængde: 11,30cm Vægt: 1600g System: ½ auto Der medfølger i alt 2 magasiner samt original transportkasse (Låget flækket, men limet)",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/tesro-ts222--cal-22-lr/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/tesro-ts222--cal-22-lr/0.webp",
+   "width": 1000,
+   "height": 1000
+  },
+  {
+   "full": "/images/jjsu.dk/shop/tesro-ts222--cal-22-lr/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/tesro-ts222--cal-22-lr/1.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/tesro-ts222--cal-22-lr/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/tesro-ts222--cal-22-lr/2.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/tesro-ts222--cal-22-lr/3.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/tesro-ts222--cal-22-lr/3.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
+}

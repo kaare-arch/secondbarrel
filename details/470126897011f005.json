@@ -1,0 +1,43 @@
+{
+ "id": "c541c4b8-0f51-477a-a4dc-c58d35537f77",
+ "detail_id": "470126897011f005",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c541c4b8-0f51-477a-a4dc-c58d35537f77/schultz-larsen-riffel-pibe",
+ "title": "SCHULTZ & LARSEN RIFFEL PIBE",
+ "price_dkk": 2500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-01-12",
+ "age_days": 251,
+ "postnummer": "3480",
+ "by": "Fredensborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/0.webp",
+ "image_count": 3,
+ "lat": 55.97086354,
+ "lon": 12.40200836,
+ "description": "SCHULTZ og LARSEN veksel pibe til model 97DL:-\n1 stk S&L kal 7x57 ackley improved, 65cm pibe uden gevind 17mm kron",
+ "images": [
+  {
+   "full": "/images/c541c4b8-0f51-477a-a4dc-c58d35537f77/0.webp",
+   "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c541c4b8-0f51-477a-a4dc-c58d35537f77/1.webp",
+   "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c541c4b8-0f51-477a-a4dc-c58d35537f77/2.webp",
+   "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

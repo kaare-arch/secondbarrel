@@ -1,0 +1,39 @@
+{
+ "id": "huntershouse.dk/kat398-detaljer/side10962-steyr-daimler-puch-model-m-.30-06.html",
+ "detail_id": "c3621fc1820f94cd",
+ "source": "huntershouse.dk",
+ "source_label": "Hunters House",
+ "url": "https://huntershouse.dk/kat398-Detaljer/side10962-Steyr-Daimler-Puch-Model-M-.30-06.html",
+ "title": "Steyr Daimler Puch Model M. med Kahles kikkert .30-06",
+ "price_dkk": 13580,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "1879",
+ "by": "Frederiksberg C",
+ "stand_gg": null,
+ "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side10962-steyr-daimler-puch-model-m-.30-06.html/0.webp",
+ "image_count": 2,
+ "lat": 55.67944885,
+ "lon": 12.54791386,
+ "description": "Steyr Daimler Puch Model M, .30-06 Pibelængde: 51 cm. Totallængde 101cm. Klassisk fuldskæftet riff …",
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat398-detaljer/side10962-steyr-daimler-puch-model-m-.30-06.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side10962-steyr-daimler-puch-model-m-.30-06.html/0.webp",
+   "width": 190,
+   "height": 189
+  },
+  {
+   "full": "/images/huntershouse.dk/kat398-detaljer/side10962-steyr-daimler-puch-model-m-.30-06.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat398-detaljer/side10962-steyr-daimler-puch-model-m-.30-06.html/1.webp",
+   "width": 280,
+   "height": 1111
+  }
+ ]
+}
