@@ -1,0 +1,33 @@
+{
+ "id": "jk-jagt.dk/products/parker-hale-308w-brugt-1",
+ "detail_id": "fbe637ca854da872",
+ "source": "jk-jagt.dk",
+ "source_label": "JK Jagt & Fiskeri",
+ "url": "https://jk-jagt.dk/products/parker-hale-308w-brugt-1",
+ "title": "Parker Hale 308w. Brugt",
+ "price_dkk": 2995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-12-19",
+ "age_days": null,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": null,
+ "thumb": "/thumbs/jk-jagt.dk/products/parker-hale-308w-brugt-1/0.webp",
+ "image_count": 1,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Brugt Riffel Cal. 308w. Træskæfte Inkl. Montage Kun 2.995,-",
+ "images": [
+  {
+   "full": "/images/jk-jagt.dk/products/parker-hale-308w-brugt-1/0.png",
+   "thumb": "/thumbs/jk-jagt.dk/products/parker-hale-308w-brugt-1/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

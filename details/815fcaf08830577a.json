@@ -1,0 +1,33 @@
+{
+ "id": "jk-jagt.dk/products/sabatti-870-308w-brugt",
+ "detail_id": "815fcaf08830577a",
+ "source": "jk-jagt.dk",
+ "source_label": "JK Jagt & Fiskeri",
+ "url": "https://jk-jagt.dk/products/sabatti-870-308w-brugt",
+ "title": "Sabatti 870 308w. Brugt",
+ "price_dkk": 5995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sabatti",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-12-13",
+ "age_days": null,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": null,
+ "thumb": "/thumbs/jk-jagt.dk/products/sabatti-870-308w-brugt/0.webp",
+ "image_count": 1,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Brugt Riffel Cal. 308w. Træskæfte Kun 5.995,-",
+ "images": [
+  {
+   "full": "/images/jk-jagt.dk/products/sabatti-870-308w-brugt/0.png",
+   "thumb": "/thumbs/jk-jagt.dk/products/sabatti-870-308w-brugt/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

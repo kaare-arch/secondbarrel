@@ -1,0 +1,33 @@
+{
+ "id": "jk-jagt.dk/products/armscor-22-lr-brugt",
+ "detail_id": "d59c7af9f245101f",
+ "source": "jk-jagt.dk",
+ "source_label": "JK Jagt & Fiskeri",
+ "url": "https://jk-jagt.dk/products/armscor-22-lr-brugt",
+ "title": "Armscor 22 lr. Brugt",
+ "price_dkk": 3999,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-24",
+ "age_days": null,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": null,
+ "thumb": "/thumbs/jk-jagt.dk/products/armscor-22-lr-brugt/0.webp",
+ "image_count": 1,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Brugt Salonriffel Cal. 22 lr. Inkl. montage og optik Optik: Tasco 4x32 Klargjort til lyddæmper (gevind) Kun 3.999,-",
+ "images": [
+  {
+   "full": "/images/jk-jagt.dk/products/armscor-22-lr-brugt/0.png",
+   "thumb": "/thumbs/jk-jagt.dk/products/armscor-22-lr-brugt/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

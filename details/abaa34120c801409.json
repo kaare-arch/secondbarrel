@@ -1,0 +1,33 @@
+{
+ "id": "jk-jagt.dk/products/aya-s-s-brugt",
+ "detail_id": "abaa34120c801409",
+ "source": "jk-jagt.dk",
+ "source_label": "JK Jagt & Fiskeri",
+ "url": "https://jk-jagt.dk/products/aya-s-s-brugt",
+ "title": "AYA s/s Brugt",
+ "price_dkk": 1299,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-21",
+ "age_days": null,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": null,
+ "thumb": "/thumbs/jk-jagt.dk/products/aya-s-s-brugt/0.webp",
+ "image_count": 1,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Brugt Haglgevær 12/70 Boring 3/4 - 1/1 Kun 1.299,-",
+ "images": [
+  {
+   "full": "/images/jk-jagt.dk/products/aya-s-s-brugt/0.png",
+   "thumb": "/thumbs/jk-jagt.dk/products/aya-s-s-brugt/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

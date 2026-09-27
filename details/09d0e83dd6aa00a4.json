@@ -1,0 +1,33 @@
+{
+ "id": "jk-jagt.dk/products/tikka-695-lux",
+ "detail_id": "09d0e83dd6aa00a4",
+ "source": "jk-jagt.dk",
+ "source_label": "JK Jagt & Fiskeri",
+ "url": "https://jk-jagt.dk/products/tikka-695-lux",
+ "title": "Tikka 695 lux",
+ "price_dkk": 8500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-02-10",
+ "age_days": null,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": null,
+ "thumb": "/thumbs/jk-jagt.dk/products/tikka-695-lux/0.webp",
+ "image_count": 1,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Brugt riffel Cal. 30.06 14x1 gevind Kun 8.500,-",
+ "images": [
+  {
+   "full": "/images/jk-jagt.dk/products/tikka-695-lux/0.png",
+   "thumb": "/thumbs/jk-jagt.dk/products/tikka-695-lux/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "jk-jagt.dk/products/browning-2000-halvautomat",
+ "detail_id": "7b9a8236731d1d6d",
+ "source": "jk-jagt.dk",
+ "source_label": "JK Jagt & Fiskeri",
+ "url": "https://jk-jagt.dk/products/browning-2000-halvautomat",
+ "title": "Browning 2000 halvautomat",
+ "price_dkk": 3500,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2025-01-17",
+ "age_days": null,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": null,
+ "thumb": "/thumbs/jk-jagt.dk/products/browning-2000-halvautomat/0.webp",
+ "image_count": 1,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Brugt haglgevær Cal. 12/70 Kun 3.500,-",
+ "images": [
+  {
+   "full": "/images/jk-jagt.dk/products/browning-2000-halvautomat/0.png",
+   "thumb": "/thumbs/jk-jagt.dk/products/browning-2000-halvautomat/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

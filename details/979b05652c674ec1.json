@@ -1,0 +1,33 @@
+{
+ "id": "jk-jagt.dk/products/carl-gustaf-6-5-x-55-brugt",
+ "detail_id": "979b05652c674ec1",
+ "source": "jk-jagt.dk",
+ "source_label": "JK Jagt & Fiskeri",
+ "url": "https://jk-jagt.dk/products/carl-gustaf-6-5-x-55-brugt",
+ "title": "Carl Gustaf 6,5 x 55 Brugt",
+ "price_dkk": 1500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-12-13",
+ "age_days": null,
+ "postnummer": "6950",
+ "by": "Ringkøbing",
+ "stand_gg": null,
+ "thumb": "/thumbs/jk-jagt.dk/products/carl-gustaf-6-5-x-55-brugt/0.webp",
+ "image_count": 1,
+ "lat": 56.20098497,
+ "lon": 4.07461311,
+ "description": "Brugt Riffel Cal. 6,5 x 55 Fuldskæftet Kun 1.500,-",
+ "images": [
+  {
+   "full": "/images/jk-jagt.dk/products/carl-gustaf-6-5-x-55-brugt/0.png",
+   "thumb": "/thumbs/jk-jagt.dk/products/carl-gustaf-6-5-x-55-brugt/0.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

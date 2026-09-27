@@ -126,7 +126,7 @@
 
   // --------------------------------------------------------------- render
   function render(it) {
-    document.title = it.title + " – " + fmtPrice(it.price_dkk) + " | SecondBarrel";
+    document.title = "SecondBarrel – " + it.title + " – " + fmtPrice(it.price_dkk);
     galleryImages = (it.images || []).filter(function (img) { return img.full || img.thumb; });
 
     var sellerLabel = it.is_dealer ? "Forhandler" : "Privat";
