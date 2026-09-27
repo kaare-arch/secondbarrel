@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Samme proportioner som logoets "o" (.o-barrel i styles.css):
+       ring = 0.09/0.61 af diameteren, kryds = 0.055/0.61, krydset naar ringens inderkant -->
   <rect width="64" height="64" rx="14" fill="#FFFFFF"/>
-  <circle cx="32" cy="32" r="21" fill="none" stroke="#000000" stroke-width="7"/>
-  <rect x="11" y="29" width="42" height="6" fill="#000000"/>
-  <rect x="29" y="11" width="6" height="42" fill="#000000"/>
+  <circle cx="32" cy="32" r="23.87" fill="none" stroke="#000000" stroke-width="8.26"/>
+  <rect x="12.26" y="29.48" width="39.48" height="5.05" fill="#000000"/>
+  <rect x="29.48" y="12.26" width="5.05" height="39.48" fill="#000000"/>
 </svg>
