@@ -156,14 +156,14 @@
       if (hay.indexOf(state.search) === -1) return false;
     }
     if (!opts.skipPrice && state.maxPrice < PRICE_CAP && it.price_dkk > state.maxPrice) return false;
-    // Radius udelader ALDRIG forhandlere - deres postnummer er
-    // forretningsadressen, ikke hvor varen fysisk skal afhentes, og de
-    // leverer typisk i hele landet (se CLAUDE.md). Kun private annoncer, der
-    // reelt ligger uden for radius, udelades; en privat annonce uden
-    // postnummer har ingen kendt afstand og holdes ligeledes altid.
-    if (!opts.skipRadius && state.radiusKm !== null && originCoord && !it.is_dealer) {
+    // Radius gaelder ALLE (Jonas' beslutning 27. sep. 2026 - foer blev
+    // forhandlere altid vist, og saa virkede filtret i stykker, da de er ~3/4
+    // af varerne). Forhandlere maales fra butikkens adresse; en forhandler
+    // uden kendt adresse udelades, naar en radius er valgt. En privat annonce
+    // uden postnummer har ingen kendt afstand og holdes som foer.
+    if (!opts.skipRadius && state.radiusKm !== null && originCoord) {
       var d = distanceKm(it);
-      if (d !== null && d > state.radiusKm) return false;
+      if (d === null ? it.is_dealer : d > state.radiusKm) return false;
     }
     return true;
   }
@@ -488,7 +488,7 @@
       msg = postnumreTable ? "Ukendt postnummer." : "Afstandsopslag er ikke tilgængeligt lige nu.";
       isError = true;
     } else if (state.radiusKm !== null && originCoord) {
-      msg = "Radius filtrerer kun private annoncer - forhandlere vises altid, uanset afstand.";
+      msg = "Forhandlere måles fra butikkens adresse - mange sender også til hele landet.";
     }
     els.postnrNote.hidden = !msg;
     els.postnrNote.textContent = msg;
