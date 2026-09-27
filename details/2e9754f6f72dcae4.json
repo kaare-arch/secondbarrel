@@ -15,10 +15,17 @@
  "postnummer": "1879",
  "by": "Frederiksberg C",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side6754-mauser-dwm-.458-win.-mag..html/0.webp",
+ "image_count": 1,
  "lat": 55.67944885,
  "lon": 12.54791386,
  "description": "Kal. .458 Win.Mag. Brugt - men i flot stand. Klassisk Mauser storvildtsriffel med aftagelig kikker …",
- "images": []
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side6754-mauser-dwm-.458-win.-mag..html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side6754-mauser-dwm-.458-win.-mag..html/0.webp",
+   "width": 280,
+   "height": 1305
+  }
+ ]
 }

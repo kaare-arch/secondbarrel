@@ -15,10 +15,59 @@
  "postnummer": "1879",
  "by": "Frederiksberg C",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/3.webp",
+ "image_count": 8,
  "lat": 55.67944885,
  "lon": 12.54791386,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/3.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/3.webp",
+   "width": 230,
+   "height": 44
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/2.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/2.webp",
+   "width": 230,
+   "height": 40
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/3.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/3.webp",
+   "width": 230,
+   "height": 42
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/7.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/7.webp",
+   "width": 230,
+   "height": 43
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/6.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/6.webp",
+   "width": 230,
+   "height": 44
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/5.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/5.webp",
+   "width": 230,
+   "height": 44
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/6.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/6.webp",
+   "width": 230,
+   "height": 45
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/7.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side12529-winchester-m70-super-shadow.html/7.webp",
+   "width": 230,
+   "height": 42
+  }
+ ]
 }

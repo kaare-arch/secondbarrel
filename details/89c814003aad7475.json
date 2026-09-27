@@ -15,10 +15,17 @@
  "postnummer": null,
  "by": null,
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/jagtliv.dk/vare/mauser-m66s-7x64/0.webp",
+ "image_count": 1,
  "lat": null,
  "lon": null,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/jagtliv.dk/vare/mauser-m66s-7x64/0.jpg",
+   "thumb": "/thumbs/jagtliv.dk/vare/mauser-m66s-7x64/0.webp",
+   "width": 1080,
+   "height": 1080
+  }
+ ]
 }

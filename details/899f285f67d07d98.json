@@ -18,10 +18,17 @@
  "postnummer": null,
  "by": null,
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/jagtliv.dk/vare/krieghoff-trumpf-drilling-12-70-7x65r/0.webp",
+ "image_count": 1,
  "lat": null,
  "lon": null,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/jagtliv.dk/vare/krieghoff-trumpf-drilling-12-70-7x65r/0.jpg",
+   "thumb": "/thumbs/jagtliv.dk/vare/krieghoff-trumpf-drilling-12-70-7x65r/0.webp",
+   "width": 1080,
+   "height": 1080
+  }
+ ]
 }

@@ -15,10 +15,23 @@
  "postnummer": "1879",
  "by": "Frederiksberg C",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/huntershouse.dk/kat1017-luger-p08-brugtliste/side23121-luger-p08-9x19.-dwm-1917-i-pæn-stand..html/0.webp",
+ "image_count": 2,
  "lat": 55.67944885,
  "lon": 12.54791386,
  "description": "Deutsche Waffen- und Munitionsfabriken eller DWM Luger P08 pistol fra 1917. Den er produceret unde …",
- "images": []
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat1017-luger-p08-brugtliste/side23121-luger-p08-9x19.-dwm-1917-i-pæn-stand..html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat1017-luger-p08-brugtliste/side23121-luger-p08-9x19.-dwm-1917-i-pæn-stand..html/0.webp",
+   "width": 600,
+   "height": 703
+  },
+  {
+   "full": "/images/huntershouse.dk/kat1017-luger-p08-brugtliste/side23121-luger-p08-9x19.-dwm-1917-i-pæn-stand..html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat1017-luger-p08-brugtliste/side23121-luger-p08-9x19.-dwm-1917-i-pæn-stand..html/1.webp",
+   "width": 300,
+   "height": 157
+  }
+ ]
 }

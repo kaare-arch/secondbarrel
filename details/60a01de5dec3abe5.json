@@ -8,17 +8,26 @@
  "price_dkk": 17999,
  "weapon_type": "Jagtriffel",
  "brand": "Mauser",
- "calibers": [],
+ "calibers": [
+  "6,5x55"
+ ],
  "is_dealer": true,
  "listed_date": null,
  "age_days": null,
  "postnummer": "7441",
  "by": "Bording",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#mauser-model-03-mauser-03-med-grade-5-tr/0.webp",
+ "image_count": 1,
  "lat": 56.15035869,
  "lon": 9.25469883,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/koskov.dk/rifler/brugte-rifler.aspx#mauser-model-03-mauser-03-med-grade-5-tr/0.png",
+   "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#mauser-model-03-mauser-03-med-grade-5-tr/0.webp",
+   "width": 650,
+   "height": 141
+  }
+ ]
 }

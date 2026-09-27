@@ -18,10 +18,29 @@
  "postnummer": "9700",
  "by": "Brønderslev",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/jjsu.dk/shop/ar15-vekselsaet--cal-22lr-228124/0.webp",
+ "image_count": 3,
  "lat": 57.28432949,
  "lon": 9.88277134,
- "description": null,
- "images": []
+ "description": "Ciener AR15 Vekselsæt Convertere Cal. 223rem/556 til Cal. 22 uden brug af værktøj. Erstat blot byndstykket og magasinet i din 223/556, men dette bundstykke og magasin og du har nu en AR15 i cal. 22lr Tilstand: Brugt Caliber: 22lr Ladesystem: ½ auto",
+ "images": [
+  {
+   "full": "/images/jjsu.dk/shop/ar15-vekselsaet--cal-22lr-228124/0.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ar15-vekselsaet--cal-22lr-228124/0.webp",
+   "width": 540,
+   "height": 540
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ar15-vekselsaet--cal-22lr-228124/1.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ar15-vekselsaet--cal-22lr-228124/1.webp",
+   "width": 1000,
+   "height": 666
+  },
+  {
+   "full": "/images/jjsu.dk/shop/ar15-vekselsaet--cal-22lr-228124/2.jpg",
+   "thumb": "/thumbs/jjsu.dk/shop/ar15-vekselsaet--cal-22lr-228124/2.webp",
+   "width": 540,
+   "height": 540
+  }
+ ]
 }

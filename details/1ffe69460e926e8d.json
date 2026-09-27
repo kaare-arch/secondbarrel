@@ -8,17 +8,26 @@
  "price_dkk": 1500,
  "weapon_type": "Jagtriffel",
  "brand": "Husqvarna",
- "calibers": [],
+ "calibers": [
+  "6,5x55"
+ ],
  "is_dealer": true,
  "listed_date": null,
  "age_days": null,
  "postnummer": "7441",
  "by": "Bording",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#husqvarna-model-96-brugt-brugt-model-96-fra-husqvarna/0.webp",
+ "image_count": 1,
  "lat": 56.15035869,
  "lon": 9.25469883,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/koskov.dk/rifler/brugte-rifler.aspx#husqvarna-model-96-brugt-brugt-model-96-fra-husqvarna/0.png",
+   "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#husqvarna-model-96-brugt-brugt-model-96-fra-husqvarna/0.webp",
+   "width": 600,
+   "height": 113
+  }
+ ]
 }

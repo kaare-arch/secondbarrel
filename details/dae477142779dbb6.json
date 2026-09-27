@@ -15,10 +15,41 @@
  "postnummer": "6100",
  "by": "Haderslev",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/0.webp",
+ "image_count": 5,
  "lat": 55.24177268,
  "lon": 9.61886938,
  "description": "Mauser M12 Extreme super velholdt med GRS skæfte og monteret med Hawke Endurance 2,5-10x50 mm med lys Original skæfte medfølger. Kal. 3006 Leveres monteret med Hawke Endurance 2,5-10x50 mm med lys Længde: 102 cm Pibe længde: 52 cm Original skæfte medfølger",
- "images": []
+ "images": [
+  {
+   "full": "/images/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/0.jpg",
+   "thumb": "/thumbs/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/0.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/1.jpg",
+   "thumb": "/thumbs/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/2.jpg",
+   "thumb": "/thumbs/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/2.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/3.jpg",
+   "thumb": "/thumbs/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/3.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/4.jpg",
+   "thumb": "/thumbs/iversen-import.dk/mauser-m12-extreme-md-kikkert.html/4.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
 }

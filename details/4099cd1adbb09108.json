@@ -17,10 +17,59 @@
  "postnummer": "1879",
  "by": "Frederiksberg C",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/0.webp",
+ "image_count": 8,
  "lat": 55.67944885,
  "lon": 12.54791386,
  "description": "Mauser 77 i kaliber .30-06 AI (Ackley Improved) Her er en rigtig feinschmecker riffel, til den kræ …",
- "images": []
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/0.webp",
+   "width": 600,
+   "height": 141
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/1.webp",
+   "width": 600,
+   "height": 289
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/2.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/2.webp",
+   "width": 600,
+   "height": 294
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/3.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/3.webp",
+   "width": 600,
+   "height": 263
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/4.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/4.webp",
+   "width": 600,
+   "height": 319
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/5.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/5.webp",
+   "width": 600,
+   "height": 190
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/6.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/6.webp",
+   "width": 600,
+   "height": 114
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/7.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side22393-mauser-model-77-lux-.30-06-ai.html/7.webp",
+   "width": 250,
+   "height": 810
+  }
+ ]
 }

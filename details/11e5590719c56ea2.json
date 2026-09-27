@@ -15,10 +15,35 @@
  "postnummer": "1879",
  "by": "Frederiksberg C",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/0.webp",
+ "image_count": 4,
  "lat": 55.67944885,
  "lon": 12.54791386,
  "description": "Mauser M.98, i kaliber 8x57 JS Blåneringen står med kun ganske få mærker eller pletter. Sigtemidle …",
- "images": []
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/0.webp",
+   "width": 600,
+   "height": 139
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/1.webp",
+   "width": 600,
+   "height": 297
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/2.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/2.webp",
+   "width": 600,
+   "height": 503
+  },
+  {
+   "full": "/images/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/3.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side23003-mauser-m.98-8x57-js.html/3.webp",
+   "width": 600,
+   "height": 153
+  }
+ ]
 }

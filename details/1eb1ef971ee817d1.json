@@ -15,10 +15,17 @@
  "postnummer": "7441",
  "by": "Bording",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#viking-model-1900-brugt-riffel-i-fin-stand/0.webp",
+ "image_count": 1,
  "lat": 56.15035869,
  "lon": 9.25469883,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/koskov.dk/rifler/brugte-rifler.aspx#viking-model-1900-brugt-riffel-i-fin-stand/0.jpg",
+   "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#viking-model-1900-brugt-riffel-i-fin-stand/0.webp",
+   "width": 600,
+   "height": 122
+  }
+ ]
 }

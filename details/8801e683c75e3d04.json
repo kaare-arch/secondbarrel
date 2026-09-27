@@ -15,10 +15,35 @@
  "postnummer": "1879",
  "by": "Frederiksberg C",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/0.webp",
+ "image_count": 4,
  "lat": 55.67944885,
  "lon": 12.54791386,
  "description": "Produktionsåret for serienummer 850506 er 1932. D.R.P.u.A.P. (Deutsches Reich Patenten und Anderes …",
- "images": []
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/0.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/0.webp",
+   "width": 600,
+   "height": 322
+  },
+  {
+   "full": "/images/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/1.webp",
+   "width": 600,
+   "height": 324
+  },
+  {
+   "full": "/images/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/2.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/2.webp",
+   "width": 600,
+   "height": 298
+  },
+  {
+   "full": "/images/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/3.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat910-mauser-werke-brugtliste/side23986-mauser-c96-9mm.-pæn-stand.-reserveret..html/3.webp",
+   "width": 600,
+   "height": 282
+  }
+ ]
 }

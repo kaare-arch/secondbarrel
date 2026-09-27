@@ -17,10 +17,59 @@
  "postnummer": "1879",
  "by": "Frederiksberg C",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/1.webp",
+ "image_count": 8,
  "lat": 55.67944885,
  "lon": 12.54791386,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/1.webp",
+   "width": 230,
+   "height": 43
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/2.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/2.webp",
+   "width": 230,
+   "height": 54
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/3.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/3.webp",
+   "width": 230,
+   "height": 44
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/4.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/4.webp",
+   "width": 230,
+   "height": 46
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/5.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/5.webp",
+   "width": 230,
+   "height": 57
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/1.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/1.webp",
+   "width": 230,
+   "height": 48
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/7.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/7.webp",
+   "width": 230,
+   "height": 48
+  },
+  {
+   "full": "/images/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/7.jpg",
+   "thumb": "/thumbs/huntershouse.dk/kat-1-papirkurv/side11425-tikka-t3-lite-.308win.html/7.webp",
+   "width": 230,
+   "height": 43
+  }
+ ]
 }

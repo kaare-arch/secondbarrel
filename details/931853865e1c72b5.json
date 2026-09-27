@@ -17,10 +17,23 @@
  "postnummer": "5700",
  "by": "Svendborg",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/25819-brugte-vaaben-5016-mauser-m2000-cal30-06/0.webp",
+ "image_count": 2,
  "lat": 55.01443666,
  "lon": 10.59802878,
  "description": "Kaliber : 30.06Total længe :113Cm.Løbs længe : 60Cm.Skæfte længe : 36Cm.Gevind : Nej",
- "images": []
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/25819-brugte-vaaben-5016-mauser-m2000-cal30-06/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25819-brugte-vaaben-5016-mauser-m2000-cal30-06/0.webp",
+   "width": 460,
+   "height": 227
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/25819-brugte-vaaben-5016-mauser-m2000-cal30-06/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/25819-brugte-vaaben-5016-mauser-m2000-cal30-06/1.webp",
+   "width": 460,
+   "height": 308
+  }
+ ]
 }

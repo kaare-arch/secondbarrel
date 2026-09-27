@@ -17,10 +17,17 @@
  "postnummer": "7441",
  "by": "Bording",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#parker-hale-model-98-kal-30-06-brugt-brugt-riffel-med-gummib/0.webp",
+ "image_count": 1,
  "lat": 56.15035869,
  "lon": 9.25469883,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/koskov.dk/rifler/brugte-rifler.aspx#parker-hale-model-98-kal-30-06-brugt-brugt-riffel-med-gummib/0.png",
+   "thumb": "/thumbs/koskov.dk/rifler/brugte-rifler.aspx#parker-hale-model-98-kal-30-06-brugt-brugt-riffel-med-gummib/0.webp",
+   "width": 600,
+   "height": 97
+  }
+ ]
 }
