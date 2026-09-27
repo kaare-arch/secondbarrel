@@ -8,9 +8,7 @@
  "price_dkk": 11999,
  "weapon_type": "Haglgevær",
  "brand": "Webley & Scott",
- "calibers": [
-  "12/70"
- ],
+ "calibers": [],
  "is_dealer": true,
  "listed_date": "2023-11-22",
  "age_days": null,

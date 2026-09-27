@@ -8,9 +8,7 @@
  "price_dkk": 17999,
  "weapon_type": "Jagtriffel",
  "brand": "Mauser",
- "calibers": [
-  "6,5x55"
- ],
+ "calibers": [],
  "is_dealer": true,
  "listed_date": null,
  "age_days": null,

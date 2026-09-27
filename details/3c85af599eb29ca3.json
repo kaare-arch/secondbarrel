@@ -8,10 +8,7 @@
  "price_dkk": 1500,
  "weapon_type": "Kombinationsvåben",
  "brand": "Tikka",
- "calibers": [
-  "12 (ukendt kammer)",
-  ".222 Rem"
- ],
+ "calibers": [],
  "is_dealer": true,
  "listed_date": "2023-11-23",
  "age_days": null,

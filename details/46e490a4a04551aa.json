@@ -8,10 +8,7 @@
  "price_dkk": 1500,
  "weapon_type": "Kombinationsvåben",
  "brand": "CZ",
- "calibers": [
-  "12 (ukendt kammer)",
-  "7x57R"
- ],
+ "calibers": [],
  "is_dealer": true,
  "listed_date": "2023-11-23",
  "age_days": null,

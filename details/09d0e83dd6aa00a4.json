@@ -8,9 +8,7 @@
  "price_dkk": 8500,
  "weapon_type": "Jagtriffel",
  "brand": "Tikka",
- "calibers": [
-  ".30-06"
- ],
+ "calibers": [],
  "is_dealer": true,
  "listed_date": "2025-02-10",
  "age_days": null,

@@ -8,9 +8,7 @@
  "price_dkk": 1500,
  "weapon_type": "Jagtriffel",
  "brand": "Husqvarna",
- "calibers": [
-  "6,5x55"
- ],
+ "calibers": [],
  "is_dealer": true,
  "listed_date": null,
  "age_days": null,

@@ -8,9 +8,7 @@
  "price_dkk": 999,
  "weapon_type": "Haglgevær",
  "brand": null,
- "calibers": [
-  "12/70"
- ],
+ "calibers": [],
  "is_dealer": true,
  "listed_date": "2023-11-22",
  "age_days": null,
