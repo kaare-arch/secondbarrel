@@ -246,3 +246,31 @@ select:disabled{opacity:.5;cursor:not-allowed}
 .toast{position:fixed;bottom:20px;left:50%;transform:translate(-50%,20px);background:var(--ink);color:var(--ground);padding:10px 16px;border-radius:var(--r);font-size:14px;opacity:0;transition:opacity .2s,transform .2s;z-index:200;max-width:90vw;pointer-events:none}
 .toast.show{opacity:1;transform:translate(-50%,0)}
 .toast-error{background:var(--danger);color:#fff}
+
+/* ---------- kompakt filterbar (skjul ved scroll ned, vis ved scroll op) ---------- */
+.minibar{position:fixed;top:0;left:0;right:0;z-index:50;background:var(--surface);border-bottom:1px solid var(--line);box-shadow:0 2px 12px rgba(0,0,0,.08);transform:translateY(-100%);transition:transform .2s ease;visibility:hidden}
+.minibar.show{transform:translateY(0);visibility:visible}
+.minibar-inner{max-width:1240px;margin:0 auto;padding:8px var(--s5);display:flex;align-items:center;justify-content:space-between;gap:var(--s3);min-height:40px}
+.minibar-info{font-size:14px;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.minibar-summary{color:var(--muted);margin-left:4px}
+.minibar-btn{flex:none}
+
+/* ---------- filterpanel: bottom sheet på mobil, panel fra toppen på desktop ---------- */
+.sheet-backdrop{position:fixed;inset:0;z-index:90;background:rgba(14,20,17,.5);display:flex;align-items:flex-end;justify-content:center}
+.sheet-backdrop[hidden]{display:none}
+.sheet{background:var(--ground);width:100%;max-height:88vh;display:flex;flex-direction:column;border-radius:var(--r-lg) var(--r-lg) 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.25)}
+.sheet-head{display:flex;align-items:center;justify-content:space-between;padding:var(--s3) var(--s5);border-bottom:1px solid var(--line)}
+.sheet-title{margin:0;font-size:18px;font-weight:600}
+.sheet-close{border:none;background:none;font-size:26px;line-height:1;color:var(--muted);cursor:pointer;padding:4px 8px}
+.sheet-close:hover{color:var(--ink)}
+.sheet-body{overflow-y:auto;padding:var(--s4) var(--s5);-webkit-overflow-scrolling:touch}
+.sheet-body .pricegraph{margin-bottom:0}
+.sheet-foot{padding:var(--s3) var(--s5);border-top:1px solid var(--line)}
+.sheet-done{width:100%;padding:12px;font-size:16px}
+body.sheet-open{overflow:hidden}
+@media (min-width:768px){
+  .sheet-backdrop{align-items:flex-start;padding-top:var(--s6)}
+  .sheet{max-width:1000px;max-height:calc(100vh - 96px);border-radius:var(--r-lg);box-shadow:0 20px 60px rgba(0,0,0,.3)}
+  .sheet-foot{display:flex;justify-content:flex-end}
+  .sheet-done{width:auto;padding:10px 24px}
+}

@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
-<link rel="stylesheet" href="styles.css?v=20260920c">
+<link rel="stylesheet" href="styles.css?v=20260927a">
 </head>
 <body>
 
@@ -21,8 +21,32 @@
   <button type="button" class="btn theme-toggle" id="themeToggle" aria-label="Skift tema">Tema: Auto</button>
 </header>
 
+<div class="minibar" id="miniBar" aria-hidden="true">
+  <div class="minibar-inner">
+    <div class="minibar-info">
+      <b id="miniCount">–</b> våben
+      <span class="minibar-summary" id="miniSummary"></span>
+    </div>
+    <button type="button" class="btn primary minibar-btn" id="miniFilterBtn" tabindex="-1">Filtrér</button>
+  </div>
+</div>
+
+<div class="sheet-backdrop" id="sheetBackdrop" hidden>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet-head">
+      <h2 class="sheet-title" id="sheetTitle">Filtrér</h2>
+      <button type="button" class="sheet-close" id="sheetClose" aria-label="Luk filtre">&times;</button>
+    </div>
+    <div class="sheet-body" id="sheetBody"></div>
+    <div class="sheet-foot">
+      <button type="button" class="btn primary sheet-done" id="sheetDone">Vis <span id="sheetCount">–</span> våben</button>
+    </div>
+  </div>
+</div>
+
 <main class="wrap">
 
+  <div id="filtersHome"><div id="filters">
   <div class="bar" id="filterBar">
     <div class="group" data-key="type" role="group" aria-label="Våbentype (alle valgt som udgangspunkt - klik for at fjerne)">
       <button type="button" class="chip" aria-pressed="true" data-key="type" data-v="Jagtriffel">Jagtriffel <span class="n">–</span></button>
@@ -84,6 +108,7 @@
     </div>
     <p class="median-note muted" id="medianNote"></p>
   </section>
+  </div></div>
 
   <div class="result">
     <div class="count"><b id="resultCount">–</b> <span id="resultLabel">våben</span></div>
@@ -117,9 +142,9 @@
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
-<script src="supabase-config.js?v=20260920c"></script>
-<script src="auth.js?v=20260920c"></script>
-<script src="cards.js?v=20260920c"></script>
-<script src="app.js?v=20260920c"></script>
+<script src="supabase-config.js?v=20260927a"></script>
+<script src="auth.js?v=20260927a"></script>
+<script src="cards.js?v=20260927a"></script>
+<script src="app.js?v=20260927a"></script>
 </body>
 </html>

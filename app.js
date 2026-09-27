@@ -66,7 +66,18 @@
     postnrInput: document.getElementById("postnrInput"),
     radiusSelect: document.getElementById("radiusSelect"),
     postnrNote: document.getElementById("postnrNote"),
-    distanceOption: document.getElementById("distanceOption")
+    distanceOption: document.getElementById("distanceOption"),
+    filters: document.getElementById("filters"),
+    filtersHome: document.getElementById("filtersHome"),
+    miniBar: document.getElementById("miniBar"),
+    miniCount: document.getElementById("miniCount"),
+    miniSummary: document.getElementById("miniSummary"),
+    miniFilterBtn: document.getElementById("miniFilterBtn"),
+    sheetBackdrop: document.getElementById("sheetBackdrop"),
+    sheetBody: document.getElementById("sheetBody"),
+    sheetClose: document.getElementById("sheetClose"),
+    sheetDone: document.getElementById("sheetDone"),
+    sheetCount: document.getElementById("sheetCount")
   };
 
   // -------------------------------------------------------------- state ----
@@ -336,6 +347,7 @@
       els.resultCountLive.textContent = fmtInt(total) + " " + els.resultLabel.textContent;
     }
     lastCount = total;
+    updateMiniBar(total);
     updateFacetCounts();
     updateHistogramHighlight();
 
@@ -652,6 +664,106 @@
     // updateDependentFilters() ved naeste render() - intet at goere her.
   }
 
+  // ------------------------------------------- kompakt bar + filterpanel
+  // Mønster: "skjul ved scroll ned, vis ved scroll op" (Headroom-stil). Den
+  // slanke bar viser kun antal + aktive valg; hele filtermenuen åbnes som et
+  // panel ovenpå på brugerens eget initiativ, så den aldrig dækker produkterne
+  // uopfordret. Selve filter-DOM'en FLYTTES ind i panelet og tilbage igen
+  // (ikke klonet), så alle eksisterende event-lyttere virker uændret.
+  function activeSummaryParts() {
+    var parts = [];
+    if (state.activeTypes.size < ALL_TYPES.length) {
+      // Nævn den korteste side: "uden Jagtriffel" frem for fem inkluderede typer.
+      var inc = ALL_TYPES.filter(function (t) { return state.activeTypes.has(t); });
+      var exc = ALL_TYPES.filter(function (t) { return !state.activeTypes.has(t); });
+      if (!inc.length) parts.push("ingen typer");
+      else parts.push(exc.length < inc.length ? "uden " + exc.join(", ") : inc.join(", "));
+    }
+    if (state.activeSellers.size < ALL_SELLERS.length) {
+      parts.push(state.activeSellers.has(true) ? "kun forhandlere" : (state.activeSellers.has(false) ? "kun private" : "ingen sælgere"));
+    }
+    if (state.brand) parts.push(state.brand);
+    if (state.caliber) parts.push(state.caliber);
+    if (state.search) parts.push("“" + state.searchRaw + "”");
+    if (state.maxPrice < PRICE_CAP) parts.push("maks. " + fmtPrice(state.maxPrice));
+    if (state.radiusKm !== null && originCoord) parts.push(state.radiusKm + " km fra " + state.postnr);
+    return parts;
+  }
+  function updateMiniBar(total) {
+    els.miniCount.textContent = fmtInt(total);
+    els.sheetCount.textContent = fmtInt(total);
+    var parts = activeSummaryParts();
+    els.miniSummary.textContent = parts.length ? "· " + parts.join(" · ") : "· alle";
+  }
+
+  var SCROLL_THRESHOLD = 15; // px i samme retning, før baren reagerer - undgår blinken
+  var lastScrollY = 0, scrollAccum = 0, miniShown = false, scrollTicking = false;
+  function setMiniBar(show) {
+    if (show === miniShown) return;
+    miniShown = show;
+    els.miniBar.classList.toggle("show", show);
+    els.miniBar.setAttribute("aria-hidden", String(!show));
+    els.miniFilterBtn.tabIndex = show ? 0 : -1;
+  }
+  function onScroll() {
+    scrollTicking = false;
+    if (!els.sheetBackdrop.hidden) return;
+    var y = window.scrollY;
+    var homeBottom = els.filtersHome.getBoundingClientRect().bottom + y;
+    var delta = y - lastScrollY;
+    lastScrollY = y;
+    // Mens den fulde menu stadig er synlig i toppen, er der ingen grund til baren.
+    if (y < homeBottom) { scrollAccum = 0; setMiniBar(false); return; }
+    // Nulstil akkumulatoren, når retningen skifter, så kun sammenhængende
+    // bevægelse tæller mod tærsklen.
+    if ((delta > 0 && scrollAccum < 0) || (delta < 0 && scrollAccum > 0)) scrollAccum = 0;
+    scrollAccum += delta;
+    if (scrollAccum <= -SCROLL_THRESHOLD) setMiniBar(true);
+    else if (scrollAccum >= SCROLL_THRESHOLD) setMiniBar(false);
+  }
+
+  var sheetReturnFocus = null, sheetOpenSnapshot = "";
+  function filterSnapshot() {
+    return JSON.stringify([Array.from(state.activeTypes), Array.from(state.activeSellers), state.brand,
+      state.caliber, state.search, state.maxPrice, state.postnr, state.radiusKm]);
+  }
+  function openSheet() {
+    sheetReturnFocus = document.activeElement;
+    sheetOpenSnapshot = filterSnapshot();
+    els.sheetBody.appendChild(els.filters);
+    els.sheetBackdrop.hidden = false;
+    document.body.classList.add("sheet-open");
+    setMiniBar(false);
+    els.sheetClose.focus({ preventScroll: true });
+  }
+  function closeSheet() {
+    if (els.sheetBackdrop.hidden) return;
+    els.filtersHome.appendChild(els.filters);
+    els.sheetBackdrop.hidden = true;
+    document.body.classList.remove("sheet-open");
+    // Ændrede valg = en ny resultatliste; stå ikke midt i den, gå til toppen af resultaterne.
+    if (filterSnapshot() !== sheetOpenSnapshot) {
+      var resultTop = document.querySelector(".result").getBoundingClientRect().top + window.scrollY - 64;
+      window.scrollTo(0, Math.max(0, resultTop));
+    }
+    lastScrollY = window.scrollY;
+    scrollAccum = 0;
+    // Brugeren har netop brugt baren - lad den stå, indtil de scroller ned igen.
+    if (window.scrollY >= els.filtersHome.getBoundingClientRect().bottom + window.scrollY) setMiniBar(true);
+    if (sheetReturnFocus && sheetReturnFocus.focus) sheetReturnFocus.focus({ preventScroll: true });
+  }
+  function wireMiniBar() {
+    lastScrollY = window.scrollY;
+    window.addEventListener("scroll", function () {
+      if (!scrollTicking) { scrollTicking = true; requestAnimationFrame(onScroll); }
+    }, { passive: true });
+    els.miniFilterBtn.addEventListener("click", openSheet);
+    els.sheetClose.addEventListener("click", closeSheet);
+    els.sheetDone.addEventListener("click", closeSheet);
+    els.sheetBackdrop.addEventListener("click", function (e) { if (e.target === els.sheetBackdrop) closeSheet(); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeSheet(); });
+  }
+
   // ----------------------------------------------------------------- tema
   function applyTheme(mode) {
     if (mode === "light" || mode === "dark") {
@@ -706,6 +818,7 @@
     els.skeletonCards.innerHTML = "";
 
     wireEvents();
+    wireMiniBar();
     render();
 
     // Scroll til det sted, brugeren slap, da et kort blev aabnet - efter
