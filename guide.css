@@ -1,0 +1,17 @@
+/* Prisguide + mærke-/modelsider (seo_pages.py) */
+.guide h1{font-size:clamp(26px,4vw,36px);line-height:1.15;letter-spacing:-.02em;margin:var(--s6) 0 var(--s3)}
+.guide h2{font-size:20px;margin:var(--s7) 0 var(--s4);letter-spacing:-.01em}
+.guide .lede{font-size:17px;line-height:1.55;max-width:70ch;margin:0 0 var(--s5)}
+.guide .crumbs{margin-top:var(--s5)}
+.guide .crumbs a,.guide-table a{color:inherit}
+.stat-tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(200px,100%),1fr));gap:var(--s3);margin:var(--s5) 0}
+.stat-tile{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);padding:var(--s4)}
+.stat-label{font-size:13px;color:var(--muted)}
+.stat-value{font-size:20px;font-weight:700;margin-top:4px;letter-spacing:-.01em}
+.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r-lg);background:var(--surface)}
+.guide-table{width:100%;border-collapse:collapse;font-size:15px}
+.guide-table th,.guide-table td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+.guide-table th{font-size:13px;color:var(--muted);font-weight:500}
+.guide-table td:not(:first-child),.guide-table th:not(:first-child){text-align:right;font-variant-numeric:tabular-nums}
+.guide-table tr:last-child td{border-bottom:0}
+.guide-method{margin-top:var(--s7);max-width:70ch}
