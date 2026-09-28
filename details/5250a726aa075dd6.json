@@ -1,0 +1,67 @@
+{
+ "id": "51f6095e-3aa0-48c6-b534-e816db64fbc4",
+ "detail_id": "5250a726aa075dd6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/51f6095e-3aa0-48c6-b534-e816db64fbc4/flintlaas-pistol",
+ "title": "Flintlås pistol",
+ "price_dkk": 9500,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-25",
+ "age_days": 3,
+ "postnummer": "9000",
+ "by": "Aalborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/0.webp",
+ "image_count": 7,
+ "lat": 57.04071943,
+ "lon": 9.89137823,
+ "description": "Super flot flintlås pistol. Lidt sjælden amerikansk model  1836 A waters. Virker 100% som den skal og i god stand. Kan frit erhverves \nCaliber: .54 caliberBarrel Length: 8½ inchesOverall Length: 14 inchesAction: Flintlock ignition (many later converted to percussion)Components: Round barrel, iron mountings, brass flash pan, and a trapped swivel steel ramrod with a button head",
+ "images": [
+  {
+   "full": "/images/51f6095e-3aa0-48c6-b534-e816db64fbc4/0.webp",
+   "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51f6095e-3aa0-48c6-b534-e816db64fbc4/1.webp",
+   "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51f6095e-3aa0-48c6-b534-e816db64fbc4/2.webp",
+   "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51f6095e-3aa0-48c6-b534-e816db64fbc4/3.webp",
+   "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51f6095e-3aa0-48c6-b534-e816db64fbc4/4.webp",
+   "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51f6095e-3aa0-48c6-b534-e816db64fbc4/5.webp",
+   "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51f6095e-3aa0-48c6-b534-e816db64fbc4/6.webp",
+   "thumb": "/thumbs/51f6095e-3aa0-48c6-b534-e816db64fbc4/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "5a9f7f2b-9c67-4d08-ba36-14f2a460292b",
+ "detail_id": "094f62a20b17d301",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/ottrup-cali-22lr",
+ "title": "Ottrup cali 22lr",
+ "price_dkk": 650,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/0.webp",
+ "image_count": 3,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Go gamle Ottrup \nGo stand",
+ "images": [
+  {
+   "full": "/images/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/0.webp",
+   "thumb": "/thumbs/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/1.webp",
+   "thumb": "/thumbs/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/2.webp",
+   "thumb": "/thumbs/5a9f7f2b-9c67-4d08-ba36-14f2a460292b/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

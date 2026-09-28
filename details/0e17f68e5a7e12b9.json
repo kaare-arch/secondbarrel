@@ -1,0 +1,75 @@
+{
+ "id": "f79dd329-9f6d-4ac4-93a2-52b9f2a997b9",
+ "detail_id": "0e17f68e5a7e12b9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/blaser-r8-super-lux-30-06",
+ "title": "Blaser R8 super lux 30-06",
+ "price_dkk": 90000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-14",
+ "age_days": 14,
+ "postnummer": "6230",
+ "by": "Rødekro",
+ "stand_gg": "Ny",
+ "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/0.webp",
+ "image_count": 8,
+ "lat": 55.07437317,
+ "lon": 9.28037618,
+ "description": "Virkelig lækker Blaser R8.\nKaliber 30-06\nZeiss HT 3-12x56 asv med skinne. ( den helt store HT med side justering)\nHausken xtrm lyddæmper.\nHele sættet er sådan set plukket fra øverste hylde.\nNypris på riflen er 96.000.- vejl. + optik + lyddæmper.\nSælges kun samlet!",
+ "images": [
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/0.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/1.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/2.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/3.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/4.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/5.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/6.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/7.webp",
+   "thumb": "/thumbs/f79dd329-9f6d-4ac4-93a2-52b9f2a997b9/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

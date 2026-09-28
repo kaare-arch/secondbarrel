@@ -1,0 +1,31 @@
+{
+ "id": "4b4d3b7a-fff3-477b-ab20-8e2fc99d1a9b",
+ "detail_id": "587811b22f389e97",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4b4d3b7a-fff3-477b-ab20-8e2fc99d1a9b/jagtriffel-links",
+ "title": "Jagtriffel links",
+ "price_dkk": 10000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-14",
+ "age_days": 14,
+ "postnummer": "8930",
+ "by": "Randers NØ",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/4b4d3b7a-fff3-477b-ab20-8e2fc99d1a9b/0.webp",
+ "image_count": 1,
+ "lat": 56.50133804,
+ "lon": 10.1684307,
+ "description": "Flot og velholdt riffel med kikkert skudt ca 100 skudd.   Byd.",
+ "images": [
+  {
+   "full": "/images/4b4d3b7a-fff3-477b-ab20-8e2fc99d1a9b/0.webp",
+   "thumb": "/thumbs/4b4d3b7a-fff3-477b-ab20-8e2fc99d1a9b/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c",
+ "detail_id": "21dc55943de55d7d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/komplet-sauer-101-classic-riffelsaet",
+ "title": "Komplet Sauer 101 Classic riffelsæt",
+ "price_dkk": 15000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-27",
+ "age_days": 1,
+ "postnummer": "8240",
+ "by": "Risskov",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/0.webp",
+ "image_count": 8,
+ "lat": 56.20013895,
+ "lon": 10.22772666,
+ "description": "Flot Sauer 101 Classic riffel komplet med Kahles Helia kikkert, montage, rem og S&L lyddæmper. Virkelig et kvalitetssæt. \nBrugt meget lidt. Købt i 2020/2021. Kaliber .308 Win.",
+ "images": [
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/0.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/1.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/2.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/3.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/4.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/5.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/6.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/7.webp",
+   "thumb": "/thumbs/3a1c0ee1-51dd-4fe8-9f7b-3f78a2f1063c/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

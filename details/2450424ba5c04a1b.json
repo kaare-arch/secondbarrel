@@ -1,0 +1,31 @@
+{
+ "id": "9ddbc939-662a-4349-a47c-94fca39883cd",
+ "detail_id": "2450424ba5c04a1b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9ddbc939-662a-4349-a47c-94fca39883cd/parker-hale-30-6",
+ "title": "Parker Hale 30-6",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-23",
+ "age_days": 5,
+ "postnummer": "8981",
+ "by": "Spentrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9ddbc939-662a-4349-a47c-94fca39883cd/0.webp",
+ "image_count": 1,
+ "lat": 56.54082727,
+ "lon": 10.0192493,
+ "description": "Riffel med kikkert.",
+ "images": [
+  {
+   "full": "/images/9ddbc939-662a-4349-a47c-94fca39883cd/0.webp",
+   "thumb": "/thumbs/9ddbc939-662a-4349-a47c-94fca39883cd/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

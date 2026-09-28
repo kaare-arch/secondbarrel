@@ -1,0 +1,45 @@
+{
+ "id": "52e3a189-0f89-4095-b9a8-ed84f4e703b1",
+ "detail_id": "992b5412e3c22ff9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/52e3a189-0f89-4095-b9a8-ed84f4e703b1/blaser-k95-ultimate-270-win",
+ "title": "Blaser K95 Ultimate 270 Win",
+ "price_dkk": 35000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".270 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-19",
+ "age_days": 9,
+ "postnummer": "7200",
+ "by": "Grindsted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/52e3a189-0f89-4095-b9a8-ed84f4e703b1/0.webp",
+ "image_count": 3,
+ "lat": 55.75986358,
+ "lon": 8.89887879,
+ "description": "Blaser K95 Ultimate – 270 Win\n\nMeget flot Blaser K95 Ultimate i kaliber 270 Win sælges.\nRiflen står i rigtig pæn stand og er kun brugt meget begrænset. Perfekt til pürsch og anden jagt, hvor lav vægt og høj præcision er et must.\n\nData:\n\t•\tModel: Blaser K95 Ultimate\n\t•\tKaliber: 270Win\n\t•\tStand: Meget pæn\n\t•\tSkæfte: Ultimate skæfte med ergonomisk greb, justerbar kindpude og rekyldæmpende bagskæfte. \n\t\nKikkert medfølger ikke, men kan indgå i handel.",
+ "images": [
+  {
+   "full": "/images/52e3a189-0f89-4095-b9a8-ed84f4e703b1/0.webp",
+   "thumb": "/thumbs/52e3a189-0f89-4095-b9a8-ed84f4e703b1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52e3a189-0f89-4095-b9a8-ed84f4e703b1/1.webp",
+   "thumb": "/thumbs/52e3a189-0f89-4095-b9a8-ed84f4e703b1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52e3a189-0f89-4095-b9a8-ed84f4e703b1/2.webp",
+   "thumb": "/thumbs/52e3a189-0f89-4095-b9a8-ed84f4e703b1/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

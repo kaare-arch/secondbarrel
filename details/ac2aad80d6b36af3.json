@@ -8,7 +8,9 @@
  "price_dkk": 5499,
  "weapon_type": "Haglgevær",
  "brand": "Nikko",
- "calibers": [],
+ "calibers": [
+  "12/70"
+ ],
  "is_dealer": true,
  "listed_date": "2026-08-12",
  "age_days": null,

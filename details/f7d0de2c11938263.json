@@ -1,0 +1,45 @@
+{
+ "id": "jfskive.dk/products/blaser-f16-game-brugt",
+ "detail_id": "f7d0de2c11938263",
+ "source": "jfskive.dk",
+ "source_label": "JF Skive",
+ "url": "https://jfskive.dk/products/blaser-f16-game-brugt",
+ "title": "Blaser F16 Game (Brugt)",
+ "price_dkk": 21999,
+ "weapon_type": "Haglgevær",
+ "brand": "Blaser",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-09-21",
+ "age_days": null,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": null,
+ "thumb": "/thumbs/jfskive.dk/products/blaser-f16-game-brugt/0.webp",
+ "image_count": 3,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "Kal. 12-76 71 cm. løb 3 udskiftelige chokes Flot og velholdt gevær",
+ "images": [
+  {
+   "full": "/images/jfskive.dk/products/blaser-f16-game-brugt/0.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/blaser-f16-game-brugt/0.webp",
+   "width": 1600,
+   "height": 899
+  },
+  {
+   "full": "/images/jfskive.dk/products/blaser-f16-game-brugt/1.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/blaser-f16-game-brugt/1.webp",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "full": "/images/jfskive.dk/products/blaser-f16-game-brugt/2.jpg",
+   "thumb": "/thumbs/jfskive.dk/products/blaser-f16-game-brugt/2.webp",
+   "width": 1600,
+   "height": 1200
+  }
+ ]
+}

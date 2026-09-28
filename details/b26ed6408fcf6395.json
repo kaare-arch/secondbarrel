@@ -8,7 +8,9 @@
  "price_dkk": 11999,
  "weapon_type": "Jagtriffel",
  "brand": "Sauer",
- "calibers": [],
+ "calibers": [
+  "6,5x55"
+ ],
  "is_dealer": true,
  "listed_date": "2026-02-05",
  "age_days": null,

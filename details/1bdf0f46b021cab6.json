@@ -8,12 +8,10 @@
  "price_dkk": 65000,
  "weapon_type": "Jagtriffel",
  "brand": "Blaser",
- "calibers": [
-  "6,5x55"
- ],
+ "calibers": [],
  "is_dealer": false,
  "listed_date": "2026-04-13",
- "age_days": 160,
+ "age_days": 168,
  "postnummer": "4640",
  "by": "Faxe",
  "stand_gg": "Næsten som ny",
@@ -21,7 +19,7 @@
  "image_count": 4,
  "lat": 55.26858416,
  "lon": 12.12411181,
- "description": "Blaser R8 ultimate x sælges\nKIKKERTER SÆLGES IKKE MED.\nJusterbar bagkappe \nFront m.picatinny rail\n1 stk 22 mm fluted pibe cal 6,5x.284 Norma\n1 stk 19 mm  pibe cal.6,5x55 SE\n2stk 10 skuds magasiner\n1 stk 4 skuds magasin \n2 stk lyddæmper\n1 stk ekstra Bundstykke \nBlaserrem.\nSystem og fluted pibe er 2 år\n19 mm pibe er Schultz Larsen pibe 1 år",
+ "description": "Blaser R8 ultimate x sælges\nKIKKERTER SÆLGES IKKE MED.\nJusterbar bagkappe \n1 stk 22 mm 6,5 x 284 Norma Fluted Pibe\n2stk 10 skuds magasiner\n1 stk 4 skuds magasin \n1 stk lyddæmper\n1 stk ekstra Bundstykke \nSystem og fluted pibe er 2 år\n\nSYSTEM OG DE TO MAGASINER \nKan godt købes alene.",
  "images": [
   {
    "full": "/images/d0bfd129-598c-46a8-9ce4-4c5782acdd3b/0.webp",

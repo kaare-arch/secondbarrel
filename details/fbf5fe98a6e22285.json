@@ -1,0 +1,37 @@
+{
+ "id": "3fd35939-d3c8-40c5-9f7b-b2b3f54770ab",
+ "detail_id": "fbf5fe98a6e22285",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3fd35939-d3c8-40c5-9f7b-b2b3f54770ab/blaser-r8-6xc-div",
+ "title": "Blaser r8 6xc + div",
+ "price_dkk": 10000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-16",
+ "age_days": 12,
+ "postnummer": "6240",
+ "by": "Løgumkloster",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/3fd35939-d3c8-40c5-9f7b-b2b3f54770ab/0.webp",
+ "image_count": 2,
+ "lat": 55.06237954,
+ "lon": 8.96415413,
+ "description": "Blaser r8 6xc har skudt ca 400skud med magasin indsats\nDie set \nDiv patroner \nSprit ny titaniums dæmper (ny pris 6500kr) \nPris med dæmper 13999kr\nUden dæmper 9999kr",
+ "images": [
+  {
+   "full": "/images/3fd35939-d3c8-40c5-9f7b-b2b3f54770ab/0.webp",
+   "thumb": "/thumbs/3fd35939-d3c8-40c5-9f7b-b2b3f54770ab/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3fd35939-d3c8-40c5-9f7b-b2b3f54770ab/1.webp",
+   "thumb": "/thumbs/3fd35939-d3c8-40c5-9f7b-b2b3f54770ab/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

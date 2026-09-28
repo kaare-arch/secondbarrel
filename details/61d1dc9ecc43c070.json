@@ -8,7 +8,9 @@
  "price_dkk": 15999,
  "weapon_type": "Haglgevær",
  "brand": "Browning",
- "calibers": [],
+ "calibers": [
+  "12/70"
+ ],
  "is_dealer": true,
  "listed_date": "2024-02-27",
  "age_days": null,

@@ -15,10 +15,17 @@
  "postnummer": "9800",
  "by": "Hjørring",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/brasholt.nu/product/brno-22-hornet-m-kikkert/0.webp",
+ "image_count": 1,
  "lat": 57.45677529,
  "lon": 10.00194327,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/brno-22-hornet-m-kikkert/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/brno-22-hornet-m-kikkert/0.webp",
+   "width": 765,
+   "height": 766
+  }
+ ]
 }

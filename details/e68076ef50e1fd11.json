@@ -1,0 +1,45 @@
+{
+ "id": "ed226611-c421-40bc-98ae-4da70e1a5dc0",
+ "detail_id": "e68076ef50e1fd11",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ed226611-c421-40bc-98ae-4da70e1a5dc0/mossberg-pump-aktion-835-magunun",
+ "title": "MOSSBERG pump aktion 835 Magunun",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": "Mossberg",
+ "calibers": [
+  "12/89"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-20",
+ "age_days": 8,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ed226611-c421-40bc-98ae-4da70e1a5dc0/0.webp",
+ "image_count": 3,
+ "lat": 56.98615967,
+ "lon": 8.56134224,
+ "description": "MOSSBERG pump aktion 835. brugt men fungere upåklagelig, vil dog helst bruge jagtammonitation cal 12/89, købt til pramjagt",
+ "images": [
+  {
+   "full": "/images/ed226611-c421-40bc-98ae-4da70e1a5dc0/0.webp",
+   "thumb": "/thumbs/ed226611-c421-40bc-98ae-4da70e1a5dc0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ed226611-c421-40bc-98ae-4da70e1a5dc0/1.webp",
+   "thumb": "/thumbs/ed226611-c421-40bc-98ae-4da70e1a5dc0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ed226611-c421-40bc-98ae-4da70e1a5dc0/2.webp",
+   "thumb": "/thumbs/ed226611-c421-40bc-98ae-4da70e1a5dc0/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -8,7 +8,9 @@
  "price_dkk": 5499,
  "weapon_type": "Jagtriffel",
  "brand": "CZ",
- "calibers": [],
+ "calibers": [
+  ".308 Win"
+ ],
  "is_dealer": true,
  "listed_date": "2026-03-23",
  "age_days": null,

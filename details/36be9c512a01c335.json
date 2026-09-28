@@ -1,0 +1,45 @@
+{
+ "id": "4ea60873-e3ff-429a-8c6d-66b9eea57b7a",
+ "detail_id": "36be9c512a01c335",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/22-lr-salon-riffel-saelges",
+ "title": "22 lr. Salon riffel sælges",
+ "price_dkk": 500,
+ "weapon_type": "Salonriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-13",
+ "age_days": 15,
+ "postnummer": "4700",
+ "by": "Næstved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/0.webp",
+ "image_count": 3,
+ "lat": 55.18747659,
+ "lon": 11.83193497,
+ "description": "Remington Sportsmaster kaliber 22 lr \nRørmagasin med kapacitet til 16 skud.",
+ "images": [
+  {
+   "full": "/images/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/0.webp",
+   "thumb": "/thumbs/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/1.webp",
+   "thumb": "/thumbs/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/2.webp",
+   "thumb": "/thumbs/4ea60873-e3ff-429a-8c6d-66b9eea57b7a/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

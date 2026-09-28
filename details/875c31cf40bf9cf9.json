@@ -1,0 +1,43 @@
+{
+ "id": "c6307b12-3aab-47de-b32d-dcccd733f0e7",
+ "detail_id": "875c31cf40bf9cf9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c6307b12-3aab-47de-b32d-dcccd733f0e7/schmidt-rubin-k00-11",
+ "title": "Schmidt Rubin k00/11",
+ "price_dkk": 4500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-22",
+ "age_days": 6,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c6307b12-3aab-47de-b32d-dcccd733f0e7/0.webp",
+ "image_count": 3,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Schmidt Rubin K00/11.\n\nRifler er fra 1909 ombygget mellem 1913 og 1919 til K11, riflen har fået ny pibe i 1936.\nDen er spejlblank i piben og skyder fantastisk.\nKan registreres til jagt eller sports skydning.",
+ "images": [
+  {
+   "full": "/images/c6307b12-3aab-47de-b32d-dcccd733f0e7/0.webp",
+   "thumb": "/thumbs/c6307b12-3aab-47de-b32d-dcccd733f0e7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c6307b12-3aab-47de-b32d-dcccd733f0e7/1.webp",
+   "thumb": "/thumbs/c6307b12-3aab-47de-b32d-dcccd733f0e7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c6307b12-3aab-47de-b32d-dcccd733f0e7/2.webp",
+   "thumb": "/thumbs/c6307b12-3aab-47de-b32d-dcccd733f0e7/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

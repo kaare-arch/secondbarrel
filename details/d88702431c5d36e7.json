@@ -8,7 +8,9 @@
  "price_dkk": 5900,
  "weapon_type": "Jagtriffel",
  "brand": "Sabatti",
- "calibers": [],
+ "calibers": [
+  "6,5x55"
+ ],
  "is_dealer": true,
  "listed_date": "2022-12-08",
  "age_days": null,

@@ -1,0 +1,75 @@
+{
+ "id": "c7bfa92a-2da1-477b-a2c1-22064c128ba9",
+ "detail_id": "a8b9c3f5e9f49e55",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c7bfa92a-2da1-477b-a2c1-22064c128ba9/sauer-kal-22-magnum",
+ "title": "Sauer kal 22 Magnum",
+ "price_dkk": 5500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-12",
+ "age_days": 16,
+ "postnummer": "6280",
+ "by": "Højer",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/0.webp",
+ "image_count": 8,
+ "lat": 54.97579845,
+ "lon": 8.70734026,
+ "description": "Velholdt Sauer salonriffel med Zeiss kikkert og mulighed for lyddæmper (medfølger ikke). Virkelig flot og velskydende riffel. Se billede for mere data, Fornuftigt bud modtages",
+ "images": [
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/0.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/1.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/2.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/3.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/4.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/5.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/6.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7bfa92a-2da1-477b-a2c1-22064c128ba9/7.webp",
+   "thumb": "/thumbs/c7bfa92a-2da1-477b-a2c1-22064c128ba9/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

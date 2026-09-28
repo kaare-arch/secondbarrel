@@ -1,0 +1,55 @@
+{
+ "id": "0f0c1df9-406e-4496-b4e0-49a4002e0308",
+ "detail_id": "4aaebdc20d051c9b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0f0c1df9-406e-4496-b4e0-49a4002e0308/sjaeldent-samlervaaben-a-burgess-model-1873",
+ "title": "Sjældent samlervåben. A.Burgess Model 1873.",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-15",
+ "age_days": 13,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/0f0c1df9-406e-4496-b4e0-49a4002e0308/0.webp",
+ "image_count": 5,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "A.Buggess Model 1873.\nMilitær Carbin Cal. 45-70",
+ "images": [
+  {
+   "full": "/images/0f0c1df9-406e-4496-b4e0-49a4002e0308/0.webp",
+   "thumb": "/thumbs/0f0c1df9-406e-4496-b4e0-49a4002e0308/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f0c1df9-406e-4496-b4e0-49a4002e0308/1.webp",
+   "thumb": "/thumbs/0f0c1df9-406e-4496-b4e0-49a4002e0308/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f0c1df9-406e-4496-b4e0-49a4002e0308/2.webp",
+   "thumb": "/thumbs/0f0c1df9-406e-4496-b4e0-49a4002e0308/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f0c1df9-406e-4496-b4e0-49a4002e0308/3.webp",
+   "thumb": "/thumbs/0f0c1df9-406e-4496-b4e0-49a4002e0308/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f0c1df9-406e-4496-b4e0-49a4002e0308/4.webp",
+   "thumb": "/thumbs/0f0c1df9-406e-4496-b4e0-49a4002e0308/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

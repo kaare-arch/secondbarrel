@@ -1,0 +1,51 @@
+{
+ "id": "a83746ea-eef2-4050-aea9-a906fb53d42f",
+ "detail_id": "95467cef1cf7d19b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a83746ea-eef2-4050-aea9-a906fb53d42f/steyr-mannlicher-kaliber-308",
+ "title": "Steyr mannlicher kaliber.308",
+ "price_dkk": 12500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "7755",
+ "by": "Bedsted Thy",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/a83746ea-eef2-4050-aea9-a906fb53d42f/0.webp",
+ "image_count": 4,
+ "lat": 56.84864154,
+ "lon": 8.35724313,
+ "description": "Utrolig velholdt riffel med helt ny magasin og lyddæmper",
+ "images": [
+  {
+   "full": "/images/a83746ea-eef2-4050-aea9-a906fb53d42f/0.webp",
+   "thumb": "/thumbs/a83746ea-eef2-4050-aea9-a906fb53d42f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a83746ea-eef2-4050-aea9-a906fb53d42f/1.webp",
+   "thumb": "/thumbs/a83746ea-eef2-4050-aea9-a906fb53d42f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a83746ea-eef2-4050-aea9-a906fb53d42f/2.webp",
+   "thumb": "/thumbs/a83746ea-eef2-4050-aea9-a906fb53d42f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a83746ea-eef2-4050-aea9-a906fb53d42f/3.webp",
+   "thumb": "/thumbs/a83746ea-eef2-4050-aea9-a906fb53d42f/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

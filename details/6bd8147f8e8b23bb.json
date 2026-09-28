@@ -8,7 +8,9 @@
  "price_dkk": 25999,
  "weapon_type": "Jagtriffel",
  "brand": "Merkel",
- "calibers": [],
+ "calibers": [
+  ".300 Win Mag"
+ ],
  "is_dealer": true,
  "listed_date": "2024-11-19",
  "age_days": null,

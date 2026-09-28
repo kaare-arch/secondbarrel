@@ -1,0 +1,45 @@
+{
+ "id": "4a1ebeae-9896-4140-9aa5-20cd357065aa",
+ "detail_id": "7e4e06a379426607",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4a1ebeae-9896-4140-9aa5-20cd357065aa/beretta-silverpigeon-2",
+ "title": "Beretta Silverpigeon 2",
+ "price_dkk": 8000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-27",
+ "age_days": 1,
+ "postnummer": "8600",
+ "by": "Silkeborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/4a1ebeae-9896-4140-9aa5-20cd357065aa/0.webp",
+ "image_count": 3,
+ "lat": 56.17147071,
+ "lon": 9.4900253,
+ "description": "Sælger to stk. Beretta 12/76 71 cm løb \nKun brugt til jagttegnsundervisning. \nSælges kun med gyldigt jagttegn\n\nGennemgået af bøssemager\n8000,- pr. Stk",
+ "images": [
+  {
+   "full": "/images/4a1ebeae-9896-4140-9aa5-20cd357065aa/0.webp",
+   "thumb": "/thumbs/4a1ebeae-9896-4140-9aa5-20cd357065aa/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4a1ebeae-9896-4140-9aa5-20cd357065aa/1.webp",
+   "thumb": "/thumbs/4a1ebeae-9896-4140-9aa5-20cd357065aa/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4a1ebeae-9896-4140-9aa5-20cd357065aa/2.webp",
+   "thumb": "/thumbs/4a1ebeae-9896-4140-9aa5-20cd357065aa/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -8,7 +8,9 @@
  "price_dkk": 95000,
  "weapon_type": "Jagtriffel",
  "brand": "Steyr Mannlicher",
- "calibers": [],
+ "calibers": [
+  "6,5x55"
+ ],
  "is_dealer": true,
  "listed_date": "2025-12-18",
  "age_days": null,

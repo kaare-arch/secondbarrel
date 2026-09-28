@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/sako-vixen-222rem",
+ "detail_id": "4c0f8876336f471b",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/sako-vixen-222rem/",
+ "title": "Sako Vixen, 222Rem",
+ "price_dkk": 2500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".222 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/sako-vixen-222rem/0.webp",
+ "image_count": 6,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Sako Vixen, kaliber 222Rem Brugt Sako Vixen jagtriffel i kaliber 222Rem. Denne riffel har et fuldskæfte i træ. Piben måler 58 cm, og riflens totale længde er 108 cm. Den er forsynet med et 5 skuds hængselmagasin. Fuldskæfte i træ 58 cm pibe Totallængde: 108 cm 5 skuds hængselmagasin",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/sako-vixen-222rem/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-vixen-222rem/0.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-vixen-222rem/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-vixen-222rem/1.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-vixen-222rem/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-vixen-222rem/2.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-vixen-222rem/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-vixen-222rem/3.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-vixen-222rem/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-vixen-222rem/4.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/sako-vixen-222rem/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/sako-vixen-222rem/5.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

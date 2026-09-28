@@ -1,0 +1,33 @@
+{
+ "id": "8d4b573b-6079-40bd-9564-a85e18ef7284",
+ "detail_id": "e95088944719a52f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8d4b573b-6079-40bd-9564-a85e18ef7284/p38-model-i-kal-22",
+ "title": "P38 model i kal. .22",
+ "price_dkk": 1900,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-13",
+ "age_days": 15,
+ "postnummer": "8500",
+ "by": "Grenaa",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/8d4b573b-6079-40bd-9564-a85e18ef7284/0.webp",
+ "image_count": 1,
+ "lat": 56.42794759,
+ "lon": 10.84475511,
+ "description": "Den er tæt på at være som ny.",
+ "images": [
+  {
+   "full": "/images/8d4b573b-6079-40bd-9564-a85e18ef7284/0.webp",
+   "thumb": "/thumbs/8d4b573b-6079-40bd-9564-a85e18ef7284/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

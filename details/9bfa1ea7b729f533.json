@@ -1,0 +1,39 @@
+{
+ "id": "0f441a44-aaf6-457b-b9ab-88cad7120b1c",
+ "detail_id": "9bfa1ea7b729f533",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0f441a44-aaf6-457b-b9ab-88cad7120b1c/belgisk-hane-gevaer-12-70-fra-1928",
+ "title": "Belgisk hane gevær  12/70 fra 1928",
+ "price_dkk": 1100,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/0f441a44-aaf6-457b-b9ab-88cad7120b1c/0.webp",
+ "image_count": 2,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Bliver brugt til sortkrudt skydning \nLidt krater i løbet ik noget a betydning",
+ "images": [
+  {
+   "full": "/images/0f441a44-aaf6-457b-b9ab-88cad7120b1c/0.webp",
+   "thumb": "/thumbs/0f441a44-aaf6-457b-b9ab-88cad7120b1c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0f441a44-aaf6-457b-b9ab-88cad7120b1c/1.webp",
+   "thumb": "/thumbs/0f441a44-aaf6-457b-b9ab-88cad7120b1c/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

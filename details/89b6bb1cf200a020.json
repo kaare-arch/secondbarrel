@@ -1,0 +1,45 @@
+{
+ "id": "bb174694-56cc-453d-80ea-1932d7e3bda6",
+ "detail_id": "89b6bb1cf200a020",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/bb174694-56cc-453d-80ea-1932d7e3bda6/dickinson-arms-hunter-20-76",
+ "title": "Dickinson Arms Hunter 20/76",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Dickinson",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-12",
+ "age_days": 16,
+ "postnummer": "5620",
+ "by": "Glamsbjerg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/bb174694-56cc-453d-80ea-1932d7e3bda6/0.webp",
+ "image_count": 3,
+ "lat": 55.27213799,
+ "lon": 10.10343663,
+ "description": "Stort set nyt haglgevær sælges, grundet manglende interesse. Der medfølger taske og næsten 2 hele kasser patroner. Kun brugt 3 gange på skydebane",
+ "images": [
+  {
+   "full": "/images/bb174694-56cc-453d-80ea-1932d7e3bda6/0.webp",
+   "thumb": "/thumbs/bb174694-56cc-453d-80ea-1932d7e3bda6/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bb174694-56cc-453d-80ea-1932d7e3bda6/1.webp",
+   "thumb": "/thumbs/bb174694-56cc-453d-80ea-1932d7e3bda6/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bb174694-56cc-453d-80ea-1932d7e3bda6/2.webp",
+   "thumb": "/thumbs/bb174694-56cc-453d-80ea-1932d7e3bda6/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

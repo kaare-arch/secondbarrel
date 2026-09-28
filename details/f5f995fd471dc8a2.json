@@ -1,0 +1,49 @@
+{
+ "id": "michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65",
+ "detail_id": "f5f995fd471dc8a2",
+ "source": "michaelsjagt.dk",
+ "source_label": "Michaels Jagt",
+ "url": "https://www.michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65",
+ "title": "6824-Tikka M65",
+ "price_dkk": 5999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "5700",
+ "by": "Svendborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/0.webp",
+ "image_count": 4,
+ "lat": 54.98699919,
+ "lon": 10.57527981,
+ "description": "Brugt Tikka M65 riffel med 1 tommer monterings ringe",
+ "images": [
+  {
+   "full": "/images/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/0.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/0.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/1.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/1.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/2.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/2.webp",
+   "width": 460,
+   "height": 307
+  },
+  {
+   "full": "/images/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/3.jpg",
+   "thumb": "/thumbs/michaelsjagt.dk/vare/41910-tikka-6824-tikka-m65/3.webp",
+   "width": 460,
+   "height": 307
+  }
+ ]
+}

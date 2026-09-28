@@ -8,7 +8,9 @@
  "price_dkk": 29999,
  "weapon_type": "Haglgevær",
  "brand": "Beretta",
- "calibers": [],
+ "calibers": [
+  "12/76"
+ ],
  "is_dealer": true,
  "listed_date": "2026-02-09",
  "age_days": null,

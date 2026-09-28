@@ -1,0 +1,43 @@
+{
+ "id": "bbf9fe14-608b-4b1b-890e-4aaf54d0b549",
+ "detail_id": "74ea82c1b0e06dc3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/schultz-og-larsen-otterup-model-42-rptl",
+ "title": "Schultz og Larsen Otterup model 42, RPTL.",
+ "price_dkk": 3200,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "8530",
+ "by": "Hjortshøj",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/0.webp",
+ "image_count": 3,
+ "lat": 56.29464717,
+ "lon": 10.20502083,
+ "description": "Kaliber 8x58RD dansk militærpatron. Pæn med brugsspor, skyder godt med super flot mekanik.",
+ "images": [
+  {
+   "full": "/images/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/0.webp",
+   "thumb": "/thumbs/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/1.webp",
+   "thumb": "/thumbs/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/2.webp",
+   "thumb": "/thumbs/bbf9fe14-608b-4b1b-890e-4aaf54d0b549/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

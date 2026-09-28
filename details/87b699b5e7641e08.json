@@ -1,0 +1,63 @@
+{
+ "id": "c0bb4886-1423-46d0-83ca-3bf5f868edb1",
+ "detail_id": "87b699b5e7641e08",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c0bb4886-1423-46d0-83ca-3bf5f868edb1/savage-93-mossy-oak-17hmr",
+ "title": "Savage 93 mossy oak 17hmr",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "9510",
+ "by": "Arden",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/c0bb4886-1423-46d0-83ca-3bf5f868edb1/0.webp",
+ "image_count": 6,
+ "lat": 56.76264148,
+ "lon": 9.94260419,
+ "description": "Medfølger 100 skud. Lyddæmper.  Bushnell kikkert. 2 magasiner. Piben er afkortet. En fin lille riffel som jeg har haft spændt fast på min rygsæk når jeg har været på andet jagt.",
+ "images": [
+  {
+   "full": "/images/c0bb4886-1423-46d0-83ca-3bf5f868edb1/0.webp",
+   "thumb": "/thumbs/c0bb4886-1423-46d0-83ca-3bf5f868edb1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0bb4886-1423-46d0-83ca-3bf5f868edb1/1.webp",
+   "thumb": "/thumbs/c0bb4886-1423-46d0-83ca-3bf5f868edb1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0bb4886-1423-46d0-83ca-3bf5f868edb1/2.webp",
+   "thumb": "/thumbs/c0bb4886-1423-46d0-83ca-3bf5f868edb1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0bb4886-1423-46d0-83ca-3bf5f868edb1/3.webp",
+   "thumb": "/thumbs/c0bb4886-1423-46d0-83ca-3bf5f868edb1/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0bb4886-1423-46d0-83ca-3bf5f868edb1/4.webp",
+   "thumb": "/thumbs/c0bb4886-1423-46d0-83ca-3bf5f868edb1/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0bb4886-1423-46d0-83ca-3bf5f868edb1/5.webp",
+   "thumb": "/thumbs/c0bb4886-1423-46d0-83ca-3bf5f868edb1/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

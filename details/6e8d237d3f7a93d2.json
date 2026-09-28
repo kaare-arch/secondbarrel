@@ -1,0 +1,49 @@
+{
+ "id": "b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27",
+ "detail_id": "6e8d237d3f7a93d2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/browning",
+ "title": "Browning",
+ "price_dkk": 14000,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-21",
+ "age_days": 7,
+ "postnummer": "4250",
+ "by": "Fuglebjerg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/0.webp",
+ "image_count": 4,
+ "lat": 55.31864081,
+ "lon": 11.55229442,
+ "description": "Browning 1270’erne et dejligt lille let gevær måske til en kvinde og et rigtig godt start Gevær kunststof",
+ "images": [
+  {
+   "full": "/images/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/0.webp",
+   "thumb": "/thumbs/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/1.webp",
+   "thumb": "/thumbs/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/2.webp",
+   "thumb": "/thumbs/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/3.webp",
+   "thumb": "/thumbs/b913d628-d4b4-4fe7-8d9c-d7b95bcd1d27/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

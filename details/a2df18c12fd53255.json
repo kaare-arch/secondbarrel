@@ -1,0 +1,57 @@
+{
+ "id": "192a2cd7-d56f-4e0f-84bc-fbcfb695eba3",
+ "detail_id": "a2df18c12fd53255",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/s-s-haglgevaer",
+ "title": "S/S haglgevær",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-17",
+ "age_days": 11,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/0.webp",
+ "image_count": 5,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Velskydende haglgevær uden slør - i fin stand - flot brunering og blanke løb - cal 12/70\nMærke: GOROSABEL",
+ "images": [
+  {
+   "full": "/images/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/0.webp",
+   "thumb": "/thumbs/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/1.webp",
+   "thumb": "/thumbs/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/2.webp",
+   "thumb": "/thumbs/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/0.webp",
+   "thumb": "/thumbs/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/4.webp",
+   "thumb": "/thumbs/192a2cd7-d56f-4e0f-84bc-fbcfb695eba3/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

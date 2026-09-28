@@ -1,0 +1,46 @@
+{
+ "id": "f38b7116-5ce9-4c32-865d-840e30d1c61a",
+ "detail_id": "e47e8c4c4c5d9181",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f38b7116-5ce9-4c32-865d-840e30d1c61a/drilling-suhl",
+ "title": "Drilling Suhl",
+ "price_dkk": 9500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": null,
+ "calibers": [
+  "12/70",
+  "7x65R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "8530",
+ "by": "Hjortshøj",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f38b7116-5ce9-4c32-865d-840e30d1c61a/0.webp",
+ "image_count": 3,
+ "lat": 56.29464717,
+ "lon": 10.20502083,
+ "description": "Haglkaliber 12/70, riffelløb 7x65R.\nIngen slør i mekanik, men brugsspor og udvendig slid fra håndtering. \nBaser til einhack montage.",
+ "images": [
+  {
+   "full": "/images/f38b7116-5ce9-4c32-865d-840e30d1c61a/0.webp",
+   "thumb": "/thumbs/f38b7116-5ce9-4c32-865d-840e30d1c61a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f38b7116-5ce9-4c32-865d-840e30d1c61a/1.webp",
+   "thumb": "/thumbs/f38b7116-5ce9-4c32-865d-840e30d1c61a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f38b7116-5ce9-4c32-865d-840e30d1c61a/2.webp",
+   "thumb": "/thumbs/f38b7116-5ce9-4c32-865d-840e30d1c61a/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

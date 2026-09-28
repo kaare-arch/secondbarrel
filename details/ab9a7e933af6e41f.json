@@ -9,7 +9,8 @@
  "weapon_type": "Haglgevær",
  "brand": "Browning",
  "calibers": [
-  "12/76"
+  "12/76",
+  "12/70"
  ],
  "is_dealer": true,
  "listed_date": "2026-08-18",

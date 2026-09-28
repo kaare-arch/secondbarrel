@@ -1,0 +1,43 @@
+{
+ "id": "af92d2ed-4ffe-4f93-b120-8caf666b5987",
+ "detail_id": "65413294a6c32c51",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/af92d2ed-4ffe-4f93-b120-8caf666b5987/schmidt-rubin-m1889",
+ "title": "Schmidt Rubin M1889",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-22",
+ "age_days": 6,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/af92d2ed-4ffe-4f93-b120-8caf666b5987/0.webp",
+ "image_count": 3,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Schmidt Rubin M1889.\nFlot riffel fra 1891, riflen er i god stand for sin alder og skyder godt, piben er spejl blank, bundstykket er ikke nummerens med riflen resten af riffel er nummerens.\nDen kan registreres på samlertilladelse, jagt eller sports skydning.",
+ "images": [
+  {
+   "full": "/images/af92d2ed-4ffe-4f93-b120-8caf666b5987/0.webp",
+   "thumb": "/thumbs/af92d2ed-4ffe-4f93-b120-8caf666b5987/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/af92d2ed-4ffe-4f93-b120-8caf666b5987/1.webp",
+   "thumb": "/thumbs/af92d2ed-4ffe-4f93-b120-8caf666b5987/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/af92d2ed-4ffe-4f93-b120-8caf666b5987/2.webp",
+   "thumb": "/thumbs/af92d2ed-4ffe-4f93-b120-8caf666b5987/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

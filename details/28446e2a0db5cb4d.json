@@ -1,0 +1,45 @@
+{
+ "id": "74cc135d-aa3f-48c5-a27b-2d91c2d13a4d",
+ "detail_id": "28446e2a0db5cb4d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/manuarm-o-u-cal-410-36-mag",
+ "title": "Manuarm o/u cal. .410(36) mag.",
+ "price_dkk": 3200,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  ".410"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "8530",
+ "by": "Hjortshøj",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/0.webp",
+ "image_count": 3,
+ "lat": 56.29464717,
+ "lon": 10.20502083,
+ "description": "Flot over/under .410 haglgevær no. 43559.",
+ "images": [
+  {
+   "full": "/images/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/0.webp",
+   "thumb": "/thumbs/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/1.webp",
+   "thumb": "/thumbs/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/2.webp",
+   "thumb": "/thumbs/74cc135d-aa3f-48c5-a27b-2d91c2d13a4d/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

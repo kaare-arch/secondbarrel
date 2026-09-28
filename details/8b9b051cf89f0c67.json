@@ -1,0 +1,39 @@
+{
+ "id": "8d14746b-cf92-4058-87e8-8877d2f5fc36",
+ "detail_id": "8b9b051cf89f0c67",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8d14746b-cf92-4058-87e8-8877d2f5fc36/skb-500-skeet-links",
+ "title": "SKB 500 skeet links",
+ "price_dkk": 1200,
+ "weapon_type": "Haglgevær",
+ "brand": "SKB",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-16",
+ "age_days": 12,
+ "postnummer": "4990",
+ "by": "Sakskøbing",
+ "stand_gg": "Slidt",
+ "thumb": "/thumbs/8d14746b-cf92-4058-87e8-8877d2f5fc36/0.webp",
+ "image_count": 2,
+ "lat": 54.77305496,
+ "lon": 11.66272079,
+ "description": "Ældre SKB 500 12/70\nSkeetboret\nLøbslængde 66 cm \nSkæfte 34 cm\nSelektiv single trigger \nEjector \nmanuel sikring\n linksskæfte\nForskæfte limet\nIkke køn men fungerer",
+ "images": [
+  {
+   "full": "/images/8d14746b-cf92-4058-87e8-8877d2f5fc36/0.webp",
+   "thumb": "/thumbs/8d14746b-cf92-4058-87e8-8877d2f5fc36/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8d14746b-cf92-4058-87e8-8877d2f5fc36/1.webp",
+   "thumb": "/thumbs/8d14746b-cf92-4058-87e8-8877d2f5fc36/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

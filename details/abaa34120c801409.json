@@ -8,7 +8,9 @@
  "price_dkk": 1299,
  "weapon_type": "Haglgevær",
  "brand": "AyA",
- "calibers": [],
+ "calibers": [
+  "12/70"
+ ],
  "is_dealer": true,
  "listed_date": "2023-11-21",
  "age_days": null,

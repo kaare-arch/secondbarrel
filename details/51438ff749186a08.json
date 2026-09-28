@@ -1,0 +1,63 @@
+{
+ "id": "6d6e52e8-cf08-4c5b-8718-52a7e13a97f1",
+ "detail_id": "51438ff749186a08",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/miruko-800",
+ "title": "Miruko 800",
+ "price_dkk": 9500,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-27",
+ "age_days": 1,
+ "postnummer": "8581",
+ "by": "Nimtofte",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/0.webp",
+ "image_count": 6,
+ "lat": 56.42793946,
+ "lon": 10.53988094,
+ "description": "Miruko 800 O/U cal 12/70 , boret fuld på begge løb .\n36 cm til aftrækkeren.\n76cm løb .\nSom ny .",
+ "images": [
+  {
+   "full": "/images/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/0.webp",
+   "thumb": "/thumbs/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/1.webp",
+   "thumb": "/thumbs/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/2.webp",
+   "thumb": "/thumbs/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/3.webp",
+   "thumb": "/thumbs/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/4.webp",
+   "thumb": "/thumbs/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/5.webp",
+   "thumb": "/thumbs/6d6e52e8-cf08-4c5b-8718-52a7e13a97f1/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

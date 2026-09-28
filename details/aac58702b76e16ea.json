@@ -5,7 +5,7 @@
  "source_label": "Gul og Gratis",
  "url": "https://www.guloggratis.dk/annonce/4e9236eb-b251-4624-a8f7-155458fed626/tikka-valmet-512-9-3x74r-12-76",
  "title": "Tikka/Valmet 512 9,3x74R 12/76",
- "price_dkk": 10000,
+ "price_dkk": 9200,
  "weapon_type": "Jagtriffel",
  "brand": "Tikka",
  "calibers": [
@@ -14,14 +14,63 @@
  ],
  "is_dealer": false,
  "listed_date": "2026-09-09",
- "age_days": 11,
+ "age_days": 19,
  "postnummer": "8541",
  "by": "Skødstrup",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/0.webp",
+ "image_count": 8,
  "lat": 56.27207744,
  "lon": 10.32071454,
- "description": "Dobbelt riffel i cal.9,3x74R med haglløb i cal.12/76 og 30mm kikkertmontage. \nDer følger noget jagt ammunition med og nogle tomme hylstre til genladning. \nPris med kikkerten (Swarovski habicht med lys og CD-1 sigte 1,25-4x24) er 12000kr",
- "images": []
+ "description": "Dobbelt riffel i cal.9,3x74R med haglløb i cal.12/76 og 30mm kikkertmontage. \nDer følger 60 jagt patroner med og nogle tomme hylstre til genladning. \nPris med kikkerten (Swarovski habicht med lys og CD-1 sigte 1,25-4x24) er 12000kr",
+ "images": [
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/0.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/1.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/2.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/3.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/4.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/5.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/6.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4e9236eb-b251-4624-a8f7-155458fed626/7.webp",
+   "thumb": "/thumbs/4e9236eb-b251-4624-a8f7-155458fed626/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

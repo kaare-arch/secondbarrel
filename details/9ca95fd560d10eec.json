@@ -1,0 +1,33 @@
+{
+ "id": "bdb2fc12-49f0-46c5-b6e1-8619ea0c80f5",
+ "detail_id": "9ca95fd560d10eec",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/bdb2fc12-49f0-46c5-b6e1-8619ea0c80f5/miroku-model-700",
+ "title": "Miroku Model 700",
+ "price_dkk": 8000,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-21",
+ "age_days": 7,
+ "postnummer": "6040",
+ "by": "Egtved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/bdb2fc12-49f0-46c5-b6e1-8619ea0c80f5/0.webp",
+ "image_count": 1,
+ "lat": 55.61664144,
+ "lon": 9.29089234,
+ "description": "Japansk klasse gevær, kaliber 12. Model Superior Grade, altså i ypperst stål.",
+ "images": [
+  {
+   "full": "/images/bdb2fc12-49f0-46c5-b6e1-8619ea0c80f5/0.webp",
+   "thumb": "/thumbs/bdb2fc12-49f0-46c5-b6e1-8619ea0c80f5/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

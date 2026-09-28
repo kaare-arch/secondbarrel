@@ -8,7 +8,10 @@
  "price_dkk": 67890,
  "weapon_type": "Jagtriffel",
  "brand": "Strasser",
- "calibers": [],
+ "calibers": [
+  ".243 Win",
+  "9,3x62"
+ ],
  "is_dealer": true,
  "listed_date": "2024-10-16",
  "age_days": null,

@@ -1,0 +1,45 @@
+{
+ "id": "395f3a9e-77a1-40a5-84db-4113f33883ec",
+ "detail_id": "f660c978fe8a44f1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/395f3a9e-77a1-40a5-84db-4113f33883ec/bsa-jagtriffel-cal-30-06",
+ "title": "BSA jagtriffel cal. 30.06",
+ "price_dkk": 1000,
+ "weapon_type": "Jagtriffel",
+ "brand": "BSA",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-25",
+ "age_days": 3,
+ "postnummer": "7620",
+ "by": "Lemvig",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/395f3a9e-77a1-40a5-84db-4113f33883ec/0.webp",
+ "image_count": 3,
+ "lat": 56.51847102,
+ "lon": 8.38720164,
+ "description": "Jagtriffel I cal 30.06. Produceret af Birmingham Small Arms i England, kendt for god mekanik og pålidelighed. Skyder godt. Skæftet har lidt ridser - derfor prisen. Sælges uden kikkert. \n\nDen befinder sig i 7620 Lemvig.",
+ "images": [
+  {
+   "full": "/images/395f3a9e-77a1-40a5-84db-4113f33883ec/0.webp",
+   "thumb": "/thumbs/395f3a9e-77a1-40a5-84db-4113f33883ec/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/395f3a9e-77a1-40a5-84db-4113f33883ec/1.webp",
+   "thumb": "/thumbs/395f3a9e-77a1-40a5-84db-4113f33883ec/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/395f3a9e-77a1-40a5-84db-4113f33883ec/2.webp",
+   "thumb": "/thumbs/395f3a9e-77a1-40a5-84db-4113f33883ec/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

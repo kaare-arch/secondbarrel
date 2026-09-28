@@ -8,7 +8,11 @@
  "price_dkk": 14995,
  "weapon_type": "Jagtriffel",
  "brand": "Blaser",
- "calibers": [],
+ "calibers": [
+  "6,5x55",
+  ".308 Win",
+  ".300 Win Mag"
+ ],
  "is_dealer": true,
  "listed_date": "2025-02-14",
  "age_days": null,

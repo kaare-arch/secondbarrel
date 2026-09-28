@@ -1,0 +1,43 @@
+{
+ "id": "14f4c71a-35c3-41d6-ab81-47db227903eb",
+ "detail_id": "83109c80847171c0",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/14f4c71a-35c3-41d6-ab81-47db227903eb/ottrup-mauser-cali-6-5",
+ "title": "Ottrup mauser cali 6.5",
+ "price_dkk": 1200,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-26",
+ "age_days": 2,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/14f4c71a-35c3-41d6-ab81-47db227903eb/0.webp",
+ "image_count": 3,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Flot stand  lidt amu følger med",
+ "images": [
+  {
+   "full": "/images/14f4c71a-35c3-41d6-ab81-47db227903eb/0.webp",
+   "thumb": "/thumbs/14f4c71a-35c3-41d6-ab81-47db227903eb/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/14f4c71a-35c3-41d6-ab81-47db227903eb/1.webp",
+   "thumb": "/thumbs/14f4c71a-35c3-41d6-ab81-47db227903eb/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/14f4c71a-35c3-41d6-ab81-47db227903eb/2.webp",
+   "thumb": "/thumbs/14f4c71a-35c3-41d6-ab81-47db227903eb/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -8,7 +8,9 @@
  "price_dkk": 2999,
  "weapon_type": "Jagtriffel",
  "brand": "Krico",
- "calibers": [],
+ "calibers": [
+  ".222 Rem"
+ ],
  "is_dealer": true,
  "listed_date": "2026-05-29",
  "age_days": null,

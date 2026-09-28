@@ -1,0 +1,51 @@
+{
+ "id": "jafi.dk/products/browning-b25",
+ "detail_id": "3c35a44dc13bd3cf",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/browning-b25",
+ "title": "Browning B25 Black Duck Haglgevær - Kal. 12/70 - O/U",
+ "price_dkk": 59800,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-09-19",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/browning-b25/0.webp",
+ "image_count": 4,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Denne Browning B25 Black Duck fremstår i rigtig fin stand med et tydeligt klassisk islæt. Det mørke skæfte, den rigt graverede baskyle og de gyldne fuglemotiver giver geværet et elegant og karakterfuldt udtryk, som skiller sig ud uden at virke prangende. Det er et gevær med en æstetik, der taler til jægeren, som sætter pris på traditionelt håndværkspræg og et underspillet, eksklusivt udseende. Samtidig er Browning B25 Black Duck praktisk anvendeligt. De forholdsvist korte løb på 67 cm og den relativt åbne trangboring på 1/4 og 1/4 gør geværet velegnet til mange jagtformer, hvor hurtig håndtering og alsidighed er en fordel. Kaliber: 12/70 Løbslængde: 67 cm Skæftelængde: 38 cm Skæfte: Træ - Pistolgreb Sikring: Manuel Ejector: Ja Chokes: Nej - Boret 1/4 & 1/4 Aftræk: Enkelt Vægt: 3,4 kg Tilhørende kuffert: Nej ID: 14703 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/browning-b25/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/browning-b25/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/browning-b25/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/browning-b25/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/browning-b25/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/browning-b25/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/browning-b25/3.jpg",
+   "thumb": "/thumbs/jafi.dk/products/browning-b25/3.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}
