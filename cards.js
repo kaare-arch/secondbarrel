@@ -75,10 +75,15 @@
     }
 
     card.innerHTML =
+      // Stjernen ligger oven paa BILLEDET (ikke kortets hjoerne), ellers
+      // daekkede den datoen i saelgerlinjen (28. sep. 2026). En <button> maa
+      // ikke ligge inde i <a>, derfor den faelles .photo-wrap.
+      '<div class="photo-wrap">' +
       '<a class="photo-link" href="/vaaben/' + encodeURIComponent(it.detail_id) + '.html">' +
       '<div class="photo">' + photoHtml + "</div>" +
       "</a>" +
       favButtonHtml(it.detail_id) +
+      "</div>" +
       '<a class="body-link" href="' + escapeHtml(it.url) + '" target="_blank" rel="noopener">' +
       '<div class="seller"><span class="who"><b>' + escapeHtml(sellerLabel) + "</b> · " + escapeHtml(it.source_label) + "</span>" +
       (dateText ? '<span class="when">' + escapeHtml(dateText) + "</span>" : "") +

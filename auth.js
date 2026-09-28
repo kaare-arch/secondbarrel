@@ -104,6 +104,7 @@
       '<div class="field"><label for="authPassword">Adgangskode</label><input type="password" id="authPassword" autocomplete="current-password" minlength="6" required></div>' +
       '<p class="auth-msg" hidden></p>' +
       '<button type="submit" class="btn primary auth-submit">Log ind</button>' +
+      '<p class="muted small" style="margin:12px 0 0">Vi gemmer kun din e-mail og dine favoritter. <a href="/om.html#privatliv">Læs om privatliv</a></p>' +
       "</form>" +
       "</div>";
     document.body.appendChild(modalEl);

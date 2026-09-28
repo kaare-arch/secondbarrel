@@ -73,6 +73,8 @@
     miniCount: document.getElementById("miniCount"),
     miniSummary: document.getElementById("miniSummary"),
     miniFilterBtn: document.getElementById("miniFilterBtn"),
+    inlineFilterBtn: document.getElementById("inlineFilterBtn"),
+    inlineSummary: document.getElementById("inlineSummary"),
     sheetBackdrop: document.getElementById("sheetBackdrop"),
     sheetBody: document.getElementById("sheetBody"),
     sheetClose: document.getElementById("sheetClose"),
@@ -348,6 +350,7 @@
     }
     lastCount = total;
     updateMiniBar(total);
+    updateMedianNote(filtered);
     updateFacetCounts();
     updateHistogramHighlight();
 
@@ -496,11 +499,36 @@
   }
 
   // -------------------------------------------------------------- median
-  function computeMedian() {
-    var prices = items.map(function (it) { return it.price_dkk; }).sort(function (a, b) { return a - b; });
+  function computeMedian(list) {
+    var prices = (list || items).map(function (it) { return it.price_dkk; }).sort(function (a, b) { return a - b; });
     var n = prices.length;
     if (n === 0) return 0;
     return n % 2 ? prices[(n - 1) / 2] : (prices[n / 2 - 1] + prices[n / 2]) / 2;
+  }
+
+  // "i nat kl. 02:41" / "i dag kl. 14:05" / "i går kl. 02:41" / "26. sep. kl. 02:41"
+  function describeUpdated(iso) {
+    if (!iso) return "";
+    var d = new Date(iso);
+    if (isNaN(d)) return "";
+    var hhmm = ("0" + d.getHours()).slice(-2) + ":" + ("0" + d.getMinutes()).slice(-2);
+    var today = new Date(); today.setHours(0, 0, 0, 0);
+    var day = new Date(d); day.setHours(0, 0, 0, 0);
+    var diff = Math.round((today - day) / 86400000);
+    if (diff === 0) return (d.getHours() < 6 ? "i nat" : "i dag") + " kl. " + hhmm;
+    if (diff === 1) return "i går kl. " + hhmm;
+    return formatDaDate(String(iso).split("T")[0]) + " kl. " + hhmm;
+  }
+
+  // Medianen foelger de VISTE annoncer (28. sep. 2026 - foer var den et fast
+  // tal for alle typer blandet, ved siden af et histogram, der fulgte
+  // filtrene). "Udbudspris": det er saelgernes bud, ikke handelspriser.
+  function updateMedianNote(list) {
+    if (!els.medianNote) return;
+    els.medianNote.textContent = list.length
+      ? "Median udbudspris for de " + fmtInt(list.length) + " viste annoncer: " + fmtPrice(computeMedian(list)) +
+        " Udbudspriser er sælgernes egne priser, ikke handelspriser."
+      : "";
   }
 
   // --------------------------------------------------------------- events
@@ -694,6 +722,7 @@
     els.sheetCount.textContent = fmtInt(total);
     var parts = activeSummaryParts();
     els.miniSummary.textContent = parts.length ? "· " + parts.join(" · ") : "· alle";
+    if (els.inlineSummary) els.inlineSummary.textContent = (parts.length ? parts.join(" · ") : "alle") + " · " + fmtInt(total) + " annoncer";
   }
 
   var SCROLL_THRESHOLD = 15; // px i samme retning, før baren reagerer - undgår blinken
@@ -758,6 +787,7 @@
       if (!scrollTicking) { scrollTicking = true; requestAnimationFrame(onScroll); }
     }, { passive: true });
     els.miniFilterBtn.addEventListener("click", openSheet);
+    if (els.inlineFilterBtn) els.inlineFilterBtn.addEventListener("click", openSheet);
     els.sheetClose.addEventListener("click", closeSheet);
     els.sheetDone.addEventListener("click", closeSheet);
     els.sheetBackdrop.addEventListener("click", function (e) { if (e.target === els.sheetBackdrop) closeSheet(); });
@@ -793,7 +823,6 @@
     items = (payload && payload.items) || [];
 
     overallMedian = computeMedian();
-    els.medianNote.textContent = "Medianprisen for alle " + fmtInt(items.length) + " våben er " + fmtPrice(overallMedian);
 
     // Skyderens gulv er den rigtige laveste pris i data, ikke et gaettet 0 -
     // under den vaerdi giver ethvert valg garanteret nul resultater. Sat
@@ -808,10 +837,12 @@
     renderHistAxis();
     renderHistogramShell();
 
-    if (els.totalTag) els.totalTag.textContent = " — " + fmtInt(items.length) + " annoncer lige nu";
-    if (els.dataDate && payload && payload.generated_at) {
-      var isoDate = String(payload.generated_at).split("T")[0];
-      els.dataDate.textContent = " Data hentet " + formatDaDate(isoDate) + ".";
+    // Ikke "lige nu": data er et oejebliksbillede fra seneste natlige kørsel
+    // (28. sep. 2026). Vis hvornaar, saa brugeren kan vurdere aktualiteten.
+    var updated = describeUpdated(payload && payload.generated_at);
+    if (els.totalTag) els.totalTag.textContent = " — " + fmtInt(items.length) + " annoncer" + (updated ? ", opdateret " + updated : "");
+    if (els.dataDate && updated) {
+      els.dataDate.textContent = " Annoncerne blev hentet " + updated + " og opdateres hver nat. En annonce kan være solgt siden.";
     }
 
     els.skeletonCards.hidden = true;

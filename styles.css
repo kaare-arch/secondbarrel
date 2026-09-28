@@ -160,7 +160,8 @@ select:disabled{opacity:.5;cursor:not-allowed}
    .card og kan faa deres egen 'order' - dermed bevares det oprindelige
    visuelle udseende (saelger foerst, saa foto, saa body) uden at splitte
    linket til kilden i to <a>-elementer. */
-.card .photo-link{display:block;text-decoration:none;color:inherit;order:2}
+.card .photo-wrap{position:relative;order:2}   /* stjernen (.fav-btn) positioneres i billedet */
+.card .photo-link{display:block;text-decoration:none;color:inherit}
 .card .body-link{display:contents}
 .card .body-link .seller{order:1}
 .card .body-link .body{order:3}
@@ -271,6 +272,15 @@ select:disabled{opacity:.5;cursor:not-allowed}
 .sheet-foot{padding:var(--s3) var(--s5);border-top:1px solid var(--line)}
 .sheet-done{width:100%;padding:12px;font-size:16px}
 body.sheet-open{overflow:hidden}
+/* Mobil: filtrene i toppen er erstattet af én knap, der aabner panelet (28. sep. 2026).
+   #filters flyttes ind i .sheet-body, naar panelet aabnes, og er derfor kun skjult i #filtersHome. */
+.inline-filter-btn{display:none}
+@media (max-width:767px){
+  #filtersHome > #filters{display:none}
+  .inline-filter-btn{display:flex;align-items:center;gap:8px;width:100%;justify-content:flex-start;padding:12px 14px;margin:var(--s3) 0;text-align:left}
+  .inline-filter-label{font-weight:600;flex:none}
+  .inline-filter-summary{color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+}
 @media (min-width:768px){
   .sheet-backdrop{align-items:flex-start;padding-top:var(--s6)}
   .sheet{max-width:1000px;max-height:calc(100vh - 96px);border-radius:var(--r-lg);box-shadow:0 20px 60px rgba(0,0,0,.3)}
