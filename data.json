@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T19:45:55",
+ "generated_at": "2026-09-28T19:53:32",
  "source_db": "gg_vaaben.db",
- "count": 3670,
+ "count": 3669,
  "items": [
   {
    "id": "54eb18f8-17e4-4e56-8b72-be23c4b9d0b6",
@@ -17136,28 +17136,6 @@
    "stand_gg": "God, men brugt",
    "thumb": "/thumbs/34581884-f459-410e-a973-a8c90dbdd444/0.webp",
    "image_count": 5,
-   "lat": 55.78962271,
-   "lon": 12.46836985
-  },
-  {
-   "id": "5f91344b-7697-4128-a413-5e055203d23a",
-   "detail_id": "54379023d5b08f5f",
-   "source": "gg",
-   "source_label": "Gul og Gratis",
-   "url": "https://www.guloggratis.dk/annonce/5f91344b-7697-4128-a413-5e055203d23a/koeb-af-vaaben",
-   "title": "Køb af våben",
-   "price_dkk": 12121212,
-   "weapon_type": "Haglgevær",
-   "brand": "Browning",
-   "calibers": [],
-   "is_dealer": false,
-   "listed_date": "2026-04-02",
-   "age_days": 179,
-   "postnummer": "2830",
-   "by": "Virum",
-   "stand_gg": "Næsten som ny",
-   "thumb": "/thumbs/5f91344b-7697-4128-a413-5e055203d23a/0.webp",
-   "image_count": 2,
    "lat": 55.78962271,
    "lon": 12.46836985
   },
