@@ -230,6 +230,13 @@
       var v = btn.dataset.v;
       var n = countWhere({ skipType: true }, function (it) { return it.weapon_type === v; });
       btn.querySelector(".n").textContent = fmtInt(n);
+      // Valgt kaliber, som denne type ikke har: typen er fravalgt, indtil
+      // kaliberen fjernes igen (28. sep. 2026). Brugerens eget valg i
+      // state.activeTypes roeres ikke, saa det kommer tilbage uaendret.
+      var unavailable = !!state.caliber && n === 0;
+      btn.disabled = unavailable;
+      btn.classList.toggle("unavailable", unavailable);
+      btn.title = unavailable ? "Ingen " + v.toLowerCase() + " i kaliber " + state.caliber : "";
     });
     var sellerBtns = els.bar.querySelectorAll('.chip[data-key="seller"]');
     sellerBtns.forEach(function (btn) {

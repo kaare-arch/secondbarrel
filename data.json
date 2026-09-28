@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T20:39:33",
+ "generated_at": "2026-09-28T21:09:57",
  "source_db": "gg_vaaben.db",
- "count": 3669,
+ "count": 3668,
  "items": [
   {
    "id": "54eb18f8-17e4-4e56-8b72-be23c4b9d0b6",
@@ -3824,7 +3824,7 @@
    "url": "https://www.guloggratis.dk/annonce/4e9236eb-b251-4624-a8f7-155458fed626/tikka-valmet-512-9-3x74r-12-76",
    "title": "Tikka/Valmet 512 9,3x74R 12/76",
    "price_dkk": 9200,
-   "weapon_type": "Jagtriffel",
+   "weapon_type": "Kombinationsvåben",
    "brand": "Tikka",
    "calibers": [
     "12/76",
@@ -6475,7 +6475,7 @@
    "url": "https://www.guloggratis.dk/annonce/cd7a3cb2-2f8b-48c1-8653-fe6a82d65ed2/jagtgevaer-jagtriffel-mm-saelges",
    "title": "jagtriffel mm sælges",
    "price_dkk": 12000,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": null,
    "calibers": [
     ".30-06"
@@ -12801,7 +12801,7 @@
    "url": "https://www.guloggratis.dk/annonce/4152f799-45da-4f75-b4ff-e901f5be3d49/sauer-3000-lux-drilling-12-70-7x65r",
    "title": "Sauer 3000 lux Drilling 12/70 7X65r",
    "price_dkk": 15000,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Kombinationsvåben",
    "brand": "Sauer",
    "calibers": [
     "12/70",
@@ -13579,7 +13579,7 @@
    "url": "https://www.guloggratis.dk/annonce/be90168b-3a7b-46e1-b6a0-21c982c66fcc/super-fint-riffel-saet-saelges-kun-samlet",
    "title": "Super fint riffel sæt,  SÆLGES KUN SAMLET",
    "price_dkk": 9900,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": "Remington",
    "calibers": [
     ".223 Rem"
@@ -16489,7 +16489,7 @@
    "url": "https://www.guloggratis.dk/annonce/99123c9b-9899-4b3f-a57c-98fa88d534fe/velholdt-heym-308-win-fuldskaeftet",
    "title": "Velholdt Heym 308 Win. fuldskæftet",
    "price_dkk": 6500,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": "Heym",
    "calibers": [
     ".308 Win"
@@ -17571,7 +17571,7 @@
    "url": "https://www.guloggratis.dk/annonce/a091d653-4946-4e11-a8d7-a5b47fb27dbf/simson-suhl-drilling-lux-inklusiv-tilladelse",
    "title": "Simson Suhl Drilling lux",
    "price_dkk": 15000,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Kombinationsvåben",
    "brand": "Simson",
    "calibers": [
     "12/70",
@@ -18146,7 +18146,7 @@
    "url": "https://www.guloggratis.dk/annonce/0dc1295e-0571-4220-9747-378b16499f80/fabrique-d-armes-modernes-s-s-12-70",
    "title": "Fabrique D'armes Modernes S/S 12/70",
    "price_dkk": 500,
-   "weapon_type": "Jagtriffel",
+   "weapon_type": "Haglgevær",
    "brand": null,
    "calibers": [
     "12/70"
@@ -21197,31 +21197,6 @@
    "lon": 10.70448069
   },
   {
-   "id": "5195e505-7a5e-4260-b6fc-4f8a19024817",
-   "detail_id": "72f71c6b97058e93",
-   "source": "gg",
-   "source_label": "Gul og Gratis",
-   "url": "https://www.guloggratis.dk/annonce/5195e505-7a5e-4260-b6fc-4f8a19024817/blaser-pipe",
-   "title": "Blaser pipe",
-   "price_dkk": 7000,
-   "weapon_type": "Haglgevær",
-   "brand": "Blaser",
-   "calibers": [
-    ".308 Win",
-    ".30-06"
-   ],
-   "is_dealer": false,
-   "listed_date": "2026-01-16",
-   "age_days": 255,
-   "postnummer": "9990",
-   "by": "Skagen",
-   "stand_gg": null,
-   "thumb": "/thumbs/5195e505-7a5e-4260-b6fc-4f8a19024817/0.webp",
-   "image_count": 1,
-   "lat": 57.67467155,
-   "lon": 10.46037657
-  },
-  {
    "id": "7d409dcf-d993-4059-809a-fe9955090eff",
    "detail_id": "c6f7070b0c632a35",
    "source": "gg",
@@ -21301,7 +21276,7 @@
    "url": "https://www.guloggratis.dk/annonce/31fcba9a-758c-4fce-9b2f-83b599ccefe5/jagtriffel",
    "title": "Jagtriffel",
    "price_dkk": 1850,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": null,
    "calibers": [
     "6,5x55"
@@ -21778,7 +21753,7 @@
    "url": "https://www.guloggratis.dk/annonce/dc012d75-2b36-4165-a5c2-3706f1710015/jagtriffel-med-kikkert-og-ammunition",
    "title": "Jagtriffel med kikkert og ammunition",
    "price_dkk": 2700,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": "Howa",
    "calibers": [
     "6,5x55"
@@ -22775,7 +22750,7 @@
    "url": "https://www.guloggratis.dk/annonce/8f950a27-c283-4e88-b539-ac4bbd078559/2-jagt-rifler-til-salg-sauer-80-er-reserveret",
    "title": "2 jagt rifler til salg - Sauer 80 er reserveret",
    "price_dkk": 10000,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": "Sauer",
    "calibers": [
     ".30-06"
@@ -23005,7 +22980,7 @@
    "url": "https://www.guloggratis.dk/annonce/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/fin-carl-gustav-6-5x55-evt-med-kikkert",
    "title": "Fin Carl Gustav 6,5x55 evt. med kikkert",
    "price_dkk": 500,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": "Carl Gustaf",
    "calibers": [
     "6,5x55"
@@ -23401,7 +23376,7 @@
    "url": "https://www.guloggratis.dk/annonce/e950c16a-9037-48c9-9b4c-1d394511a26b/riffel-flint-forlader-kal-62-med-kugletang",
    "title": "Riffel Flint forlader kal. 62 med kugletang.",
    "price_dkk": 1900,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": null,
    "calibers": [],
    "is_dealer": false,
@@ -25739,7 +25714,7 @@
    "url": "https://www.jafi.dk/products/zoli-focus-db-riffel-30-06",
    "title": "Antonio Zoli Focus Dobbeltiffel - Kal. 30-06 Sprg. - O/U",
    "price_dkk": 49800,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": "Zoli",
    "calibers": [
     ".30-06"
@@ -43528,7 +43503,7 @@
    "url": "https://huntershouse.dk/kat1889-Bockbüchsflinte/side21813-Savage-24-S-E,-20-76-.22-lr..html",
    "title": "Savage 24 S-E,  20/76 - .22 lr.",
    "price_dkk": 2980,
-   "weapon_type": "Salonriffel",
+   "weapon_type": "Kombinationsvåben",
    "brand": "Savage",
    "calibers": [
     "20/76",
@@ -43553,7 +43528,7 @@
    "url": "https://huntershouse.dk/kat1889-Bockbüchsflinte/side12283-Savage-24B-.410-.22Lr.html",
    "title": "Savage 24B .410 & .22Lr",
    "price_dkk": 2950,
-   "weapon_type": "Salonriffel",
+   "weapon_type": "Kombinationsvåben",
    "brand": "Savage",
    "calibers": [
     ".410",
@@ -44492,7 +44467,7 @@
    "url": "https://huntershouse.dk/kat1879-Drillinger/side11785-Gebr-Merkel-Lützen-12-70-.222Rem.html",
    "title": "Gebr Merkel Lützen 12/70 & .222Rem 46.745,-",
    "price_dkk": 22500,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Kombinationsvåben",
    "brand": "Merkel",
    "calibers": [
     "12/70",
@@ -44614,7 +44589,7 @@
    "url": "https://huntershouse.dk/kat1879-Drillinger/side11767-J.-P.-Sauer-Sohn-12-70-.222Rem.html",
    "title": "J. P. Sauer & Sohn 12/70 & .222Rem 34.620,-",
    "price_dkk": 16720,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Kombinationsvåben",
    "brand": "Sauer",
    "calibers": [
     "12/70",
@@ -50129,7 +50104,7 @@
    "url": "https://www.jjsu.dk/shop/issc-austria-par-crusader-pumpaction--cal-223/",
    "title": "ISSC Austria Par Crusader Pumpaction - Cal. 223",
    "price_dkk": 12499,
-   "weapon_type": "Haglgevær",
+   "weapon_type": "Jagtriffel",
    "brand": null,
    "calibers": [
     ".223 Rem"
