@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>SecondBarrel – Vælg ny adgangskode</title>
+<link rel="icon" href="/favicon.svg?v=3" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico?v=3" sizes="48x48">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=3">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="/styles.css?v=20260928b">
+<style>.reset{max-width:360px}</style>
+</head>
+<body>
+<!-- Landingsside for Supabase' "nulstil adgangskode"-link (28. sep. 2026).
+     supabase-js laeser selv token/kode i URL'en (detectSessionInUrl) og
+     udloeser PASSWORD_RECOVERY; derefter saettes den nye kode med updateUser(). -->
+<header class="top">
+  <div class="top-inner">
+    <a class="brand-mark" href="/index.html" aria-label="SecondBarrel"><span aria-hidden="true">Sec<span class="o-barrel"></span>ndBarrel</span></a>
+    <p class="tagline"><a class="back-link" href="/index.html">&larr; Tilbage til oversigten</a></p>
+  </div>
+</header>
+
+<main class="wrap reset">
+  <h1 class="detail-title" style="margin-top:0">Vælg ny adgangskode</h1>
+
+  <p class="muted" id="waiting">Kontrollerer linket…</p>
+
+  <form class="auth-form" id="resetForm" hidden>
+    <div class="field"><label for="pw1">Ny adgangskode</label><input type="password" id="pw1" autocomplete="new-password" minlength="6" required></div>
+    <div class="field"><label for="pw2">Gentag adgangskode</label><input type="password" id="pw2" autocomplete="new-password" minlength="6" required></div>
+    <p class="auth-msg" id="resetMsg" hidden></p>
+    <button type="submit" class="btn primary">Gem ny adgangskode</button>
+  </form>
+
+  <div id="invalid" hidden>
+    <p class="auth-msg error">Linket er udløbet eller allerede brugt.</p>
+    <p>Gå til <a href="/index.html">forsiden</a>, tryk på <b>Log ind</b> og derefter <b>Glemt adgangskode?</b> for at få et nyt link.</p>
+  </div>
+
+  <div id="done" hidden>
+    <p class="auth-msg">Din adgangskode er ændret, og du er logget ind.</p>
+    <p><a class="btn primary" href="/index.html">Til oversigten</a></p>
+  </div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+<script src="/supabase-config.js?v=20260928b"></script>
+<script>
+(function () {
+  "use strict";
+  var $ = function (id) { return document.getElementById(id); };
+  function show(id) { ["waiting", "resetForm", "invalid", "done"].forEach(function (x) { $(x).hidden = x !== id; }); }
+  function msg(t, err) { var p = $("resetMsg"); p.textContent = t; p.hidden = !t; p.classList.toggle("error", !!err); }
+
+  if (!window.supabase || !window.SUPABASE_URL) { show("invalid"); return; }
+  var sb = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY);
+
+  // Supabase sender fejl (fx udloebet link) i URL'ens hash eller query.
+  var params = new URLSearchParams(location.hash.slice(1) + "&" + location.search.slice(1));
+  if (params.get("error") || params.get("error_code")) { show("invalid"); return; }
+
+  var settled = false;
+  sb.auth.onAuthStateChange(function (event, session) {
+    if (settled) return;
+    if (event === "PASSWORD_RECOVERY" || (session && event === "SIGNED_IN")) { settled = true; show("resetForm"); $("pw1").focus(); }
+  });
+  // Ingen gyldig session inden for et par sekunder = linket virker ikke.
+  setTimeout(function () {
+    if (settled) return;
+    sb.auth.getSession().then(function (r) {
+      if (settled) return;
+      settled = true;
+      if (r.data && r.data.session) { show("resetForm"); $("pw1").focus(); } else show("invalid");
+    });
+  }, 2500);
+
+  $("resetForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var a = $("pw1").value, b = $("pw2").value;
+    if (a.length < 6) { msg("Adgangskoden skal være mindst 6 tegn.", true); return; }
+    if (a !== b) { msg("De to adgangskoder er ikke ens.", true); return; }
+    var btn = this.querySelector("button[type=submit]");
+    btn.disabled = true; msg("");
+    sb.auth.updateUser({ password: a }).then(function (res) {
+      btn.disabled = false;
+      if (res.error) {
+        var m = res.error.message || "";
+        msg(/different from the old/i.test(m) ? "Den nye adgangskode skal være forskellig fra den gamle."
+          : /least/i.test(m) ? "Adgangskoden skal være mindst 6 tegn." : "Kunne ikke gemme: " + m, true);
+        return;
+      }
+      history.replaceState(null, "", "/nulstil.html");   // fjern token fra adresselinjen
+      show("done");
+    });
+  });
+})();
+</script>
+</body>
+</html>

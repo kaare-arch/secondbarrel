@@ -102,6 +102,7 @@
       '<form class="auth-form" data-mode="signin">' +
       '<div class="field"><label for="authEmail">E-mail</label><input type="email" id="authEmail" autocomplete="email" required></div>' +
       '<div class="field"><label for="authPassword">Adgangskode</label><input type="password" id="authPassword" autocomplete="current-password" minlength="6" required></div>' +
+      '<p class="auth-forgot small"><button type="button" class="link-btn auth-forgot-btn">Glemt adgangskode?</button></p>' +
       '<p class="auth-msg" hidden></p>' +
       '<button type="submit" class="btn primary auth-submit">Log ind</button>' +
       '<p class="muted small" style="margin:12px 0 0">Vi gemmer kun din e-mail og dine favoritter. <a href="/om.html#privatliv">Læs om privatliv</a></p>' +
@@ -120,8 +121,34 @@
         tabs.forEach(function (o) { o.classList.toggle("active", o === t); });
         form.dataset.mode = t.dataset.tab;
         form.querySelector(".auth-submit").textContent = t.dataset.tab === "signup" ? "Opret bruger" : "Log ind";
+        form.querySelector(".auth-forgot").hidden = t.dataset.tab === "signup";
         setMsg("");
       });
+    });
+
+    // Glemt adgangskode: Supabase sender et link til /nulstil.html, hvor den
+    // nye kode vaelges (28. sep. 2026). Samme svar uanset om e-mailen findes,
+    // saa siden ikke afsloerer, hvem der har en konto. Kraever at
+    // https://secondbarrel.com/nulstil.html staar under Redirect URLs i Supabase.
+    form.querySelector(".auth-forgot-btn").addEventListener("click", function () {
+      var emailEl = form.querySelector("#authEmail");
+      var email = emailEl.value.trim();
+      if (!email || !emailEl.checkValidity()) {
+        setMsg("Skriv din e-mail ovenfor, og tryk så på “Glemt adgangskode?” igen.", true);
+        emailEl.focus();
+        return;
+      }
+      var btn = this;
+      btn.disabled = true;
+      sb.auth.resetPasswordForEmail(email, { redirectTo: window.location.origin + "/nulstil.html" })
+        .then(function (res) {
+          btn.disabled = false;
+          if (res.error && /rate limit|too many/i.test(res.error.message || "")) {
+            setMsg("Der er sendt for mange links på kort tid. Vent lidt, og prøv igen.", true);
+            return;
+          }
+          setMsg("Hvis " + email + " har en konto, har vi sendt et link til at vælge en ny adgangskode. Tjek også spam.", false);
+        });
     });
 
     form.addEventListener("submit", function (e) {
