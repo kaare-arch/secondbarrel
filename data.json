@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T02:41:22",
+ "generated_at": "2026-09-28T19:45:55",
  "source_db": "gg_vaaben.db",
- "count": 3684,
+ "count": 3670,
  "items": [
   {
    "id": "54eb18f8-17e4-4e56-8b72-be23c4b9d0b6",
@@ -38037,30 +38037,6 @@
    "lon": 12.54791386
   },
   {
-   "id": "huntershouse.dk/kat120-detaljer/side11712-sako-75-varmint-.243-win..html",
-   "detail_id": "b698a23736ce04f0",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11712-Sako-75-Varmint-.243-Win..html",
-   "title": "Sako 75 Varmint .243 Win.",
-   "price_dkk": 11900,
-   "weapon_type": "Jagtriffel",
-   "brand": "Sako",
-   "calibers": [
-    ".243 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11712-sako-75-varmint-.243-win..html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
    "id": "huntershouse.dk/kat3207-rifler/side25615-steyr-daimler-puch-mod.l,-.243-win.-m.-4x36-kikkert.html",
    "detail_id": "a075db925e8bdc9f",
    "source": "huntershouse.dk",
@@ -38267,30 +38243,6 @@
    "stand_gg": null,
    "thumb": null,
    "image_count": 0,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side639-mauser-model-225.html",
-   "detail_id": "65c879279e79bbf3",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side639-Mauser-model-225.html",
-   "title": "Mauser model 225 6,5 x 55",
-   "price_dkk": 9900,
-   "weapon_type": "Jagtriffel",
-   "brand": "Mauser",
-   "calibers": [
-    "6,5x55"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side639-mauser-model-225.html/0.webp",
-   "image_count": 1,
    "lat": 55.67944885,
    "lon": 12.54791386
   },
@@ -38674,54 +38626,6 @@
    "by": "Frederiksberg C",
    "stand_gg": null,
    "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11321-sauer-202-jagtmatch-6,5x55.html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side11411-tikka-t3-hunter.html",
-   "detail_id": "a020aad3b7c996d1",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11411-Tikka-T3-Hunter.html",
-   "title": "Tikka T3 Hunter 6,5 x 55",
-   "price_dkk": 10495,
-   "weapon_type": "Jagtriffel",
-   "brand": "Tikka",
-   "calibers": [
-    "6,5x55"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11411-tikka-t3-hunter.html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side11422-steyr-manlicher-classic-mountain-6,5x55.html",
-   "detail_id": "ed9ae9c006f4a444",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11422-Steyr-Manlicher-Classic-Mountain-6,5x55.html",
-   "title": "Steyr Manlicher Classic Mountain 6,5 x 55",
-   "price_dkk": 14595,
-   "weapon_type": "Jagtriffel",
-   "brand": "Steyr Mannlicher",
-   "calibers": [
-    "6,5x55"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11422-steyr-manlicher-classic-mountain-6,5x55.html/0.webp",
    "image_count": 1,
    "lat": 55.67944885,
    "lon": 12.54791386
@@ -39483,30 +39387,6 @@
    "lon": 12.54791386
   },
   {
-   "id": "huntershouse.dk/kat120-detaljer/side11519-browning-acera-.270-win..html",
-   "detail_id": "db83e3427767fe7f",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11519-Browning-Acera-.270-Win..html",
-   "title": "Browning Acera .270 Win.",
-   "price_dkk": 7980,
-   "weapon_type": "Jagtriffel",
-   "brand": "Browning",
-   "calibers": [
-    ".270 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11519-browning-acera-.270-win..html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
    "id": "huntershouse.dk/kat3089-browning-rifler/side22088-browning-european-.270-win..html",
    "detail_id": "d67ed83ace6dc65f",
    "source": "huntershouse.dk",
@@ -39985,30 +39865,6 @@
    "lon": 12.54791386
   },
   {
-   "id": "huntershouse.dk/kat120-detaljer/side1962-heckler-koch-sl-7,-halvautomat.html",
-   "detail_id": "b873a7701044bf94",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side1962-Heckler-Koch-SL-7,-Halvautomat.html",
-   "title": "Heckler & Koch SL 7, Halvautomat .308 Win.",
-   "price_dkk": 19500,
-   "weapon_type": "Jagtriffel",
-   "brand": "Heckler & Koch",
-   "calibers": [
-    ".308 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side1962-heckler-koch-sl-7,-halvautomat.html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
    "id": "huntershouse.dk/kat120-detaljer/side655-withworth-rifle-co..html",
    "detail_id": "796e0ed89c6f5f22",
    "source": "huntershouse.dk",
@@ -40225,30 +40081,6 @@
    "lon": 12.54791386
   },
   {
-   "id": "huntershouse.dk/kat1420-sig-sauer/side10476-sig-sauer-ssg-3000-.308-win.-eckenförde..html",
-   "detail_id": "e866c8d8b03ecfb9",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat1420-SIG-Sauer/side10476-SIG-Sauer-SSG-3000-.308-Win.-Eckenförde..html",
-   "title": "Sig Sauer SSG 3000 .308 Win.",
-   "price_dkk": 19900,
-   "weapon_type": "Jagtriffel",
-   "brand": "SIG Sauer",
-   "calibers": [
-    ".308 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat1420-sig-sauer/side10476-sig-sauer-ssg-3000-.308-win.-eckenförde..html/0.webp",
-   "image_count": 2,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
    "id": "huntershouse.dk/kat120-detaljer/side11036-sako-aii-.308-win..html",
    "detail_id": "08425903ad8be5fa",
    "source": "huntershouse.dk",
@@ -40340,78 +40172,6 @@
    "by": "Frederiksberg C",
    "stand_gg": null,
    "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11319-weatherby-vanguard-.308win.html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side11320-sauer-101-.308-win.-valnøddeskæfte.html",
-   "detail_id": "c802e8114468eaca",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11320-Sauer-101-.308-Win.-Valnøddeskæfte.html",
-   "title": "Sauer 101 .308 Win.",
-   "price_dkk": 13300,
-   "weapon_type": "Jagtriffel",
-   "brand": "Sauer",
-   "calibers": [
-    ".308 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11320-sauer-101-.308-win.-valnøddeskæfte.html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side11423-tikka-t3-wildgame-.308win..html",
-   "detail_id": "e519c2c227b42ee9",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11423-Tikka-T3-Wildgame-.308Win..html",
-   "title": "Tikka T3 Wildgame .308 Win.",
-   "price_dkk": 8995,
-   "weapon_type": "Jagtriffel",
-   "brand": "Tikka",
-   "calibers": [
-    ".308 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11423-tikka-t3-wildgame-.308win..html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side11436-steyr-manlicher-sm-12-.308-win.html",
-   "detail_id": "0ef927ff09e4e767",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11436-Steyr-Manlicher-SM-12-.308-Win.html",
-   "title": "Steyr Manlicher SM 12 .308 Win.",
-   "price_dkk": 20995,
-   "weapon_type": "Jagtriffel",
-   "brand": "Steyr Mannlicher",
-   "calibers": [
-    ".308 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11436-steyr-manlicher-sm-12-.308-win.html/0.webp",
    "image_count": 1,
    "lat": 55.67944885,
    "lon": 12.54791386
@@ -40605,30 +40365,6 @@
    "stand_gg": null,
    "thumb": "/thumbs/huntershouse.dk/kat2865-riffelbeskrivelser-til-genbrug/side13029-sabre-defence-xr41.html/0.webp",
    "image_count": 8,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side18692-mke-t41-.308win.-semiauto-(h-k-g3).html",
-   "detail_id": "0dd9218afb4894b8",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side18692-MKE-T41-.308Win.-semiauto-(H-K-G3).html",
-   "title": "MKE T41 .308Win. semiauto (H&K G 3) .308 Win.",
-   "price_dkk": 23980,
-   "weapon_type": "Jagtriffel",
-   "brand": "Heckler & Koch",
-   "calibers": [
-    ".308 Win"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side18692-mke-t41-.308win.-semiauto-(h-k-g3).html/0.webp",
-   "image_count": 6,
    "lat": 55.67944885,
    "lon": 12.54791386
   },
@@ -41330,30 +41066,6 @@
    "lon": 12.54791386
   },
   {
-   "id": "huntershouse.dk/kat120-detaljer/side516-s-l,-schultz-larsen-otterup-m.54j-30-06.html",
-   "detail_id": "73e210e060e6a321",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side516-S-L,-Schultz-Larsen-Otterup-M.54J-30-06.html",
-   "title": "Schultz & Larsen, Otterup 54J .30-06",
-   "price_dkk": 12800,
-   "weapon_type": "Jagtriffel",
-   "brand": "Schultz & Larsen",
-   "calibers": [
-    ".30-06"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side516-s-l,-schultz-larsen-otterup-m.54j-30-06.html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
    "id": "huntershouse.dk/kat120-detaljer/side997-parker-hale.html",
    "detail_id": "27df96b03f3fb21a",
    "source": "huntershouse.dk",
@@ -41902,30 +41614,6 @@
    "stand_gg": null,
    "thumb": "/thumbs/huntershouse.dk/kat2469-jagtvåben/side11314-schultz-larsen-m.-98.html/3.webp",
    "image_count": 8,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat1422-sauer/side11323-sauer-303-halvautomatisk-.30-06.html",
-   "detail_id": "d79ac9cbb79c3758",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat1422-Sauer/side11323-Sauer-303-Halvautomatisk-.30-06.html",
-   "title": "Sauer 303 Halvautomatisk .30-06",
-   "price_dkk": 27999,
-   "weapon_type": "Jagtriffel",
-   "brand": "Sauer",
-   "calibers": [
-    ".30-06"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat1422-sauer/side11323-sauer-303-halvautomatisk-.30-06.html/0.webp",
-   "image_count": 4,
    "lat": 55.67944885,
    "lon": 12.54791386
   },
@@ -43007,30 +42695,6 @@
    "by": "Frederiksberg C",
    "stand_gg": null,
    "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11281-husqvarna-1900-9,3x62.html/0.webp",
-   "image_count": 1,
-   "lat": 55.67944885,
-   "lon": 12.54791386
-  },
-  {
-   "id": "huntershouse.dk/kat120-detaljer/side11336-sauer-202-forester-9,3x62.html",
-   "detail_id": "205d1f8310f2b5b2",
-   "source": "huntershouse.dk",
-   "source_label": "Hunters House",
-   "url": "https://huntershouse.dk/kat120-Detaljer/side11336-Sauer-202-Forester-9,3x62.html",
-   "title": "Sauer 202 Forester 9,3 x 62",
-   "price_dkk": 19999,
-   "weapon_type": "Jagtriffel",
-   "brand": "Sauer",
-   "calibers": [
-    "9,3x62"
-   ],
-   "is_dealer": true,
-   "listed_date": null,
-   "age_days": null,
-   "postnummer": "1879",
-   "by": "Frederiksberg C",
-   "stand_gg": null,
-   "thumb": "/thumbs/huntershouse.dk/kat120-detaljer/side11336-sauer-202-forester-9,3x62.html/0.webp",
    "image_count": 1,
    "lat": 55.67944885,
    "lon": 12.54791386
