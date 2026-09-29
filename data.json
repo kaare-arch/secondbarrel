@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T02:18:17",
+ "generated_at": "2026-09-29T21:00:37",
  "source_db": "gg_vaaben.db",
- "count": 3688,
+ "count": 3683,
  "items": [
   {
    "id": "1b3b153a-007e-46d6-b51f-c89d89f04455",
@@ -26,30 +26,6 @@
    "image_count": 3,
    "lat": 55.49880374,
    "lon": 8.99731666
-  },
-  {
-   "id": "40cdda41-e56d-4ce6-a532-12bd4e811118",
-   "detail_id": "828cccb804168a2c",
-   "source": "gg",
-   "source_label": "Gul og Gratis",
-   "url": "https://www.guloggratis.dk/annonce/40cdda41-e56d-4ce6-a532-12bd4e811118/soeger-riffel-i-cal-223",
-   "title": "SØGER riffel i cal 223",
-   "price_dkk": 5000,
-   "weapon_type": "Jagtriffel",
-   "brand": "Tikka",
-   "calibers": [
-    ".223 Rem"
-   ],
-   "is_dealer": false,
-   "listed_date": "2026-09-28",
-   "age_days": 1,
-   "postnummer": "7200",
-   "by": "Grindsted",
-   "stand_gg": "God, men brugt",
-   "thumb": "/thumbs/40cdda41-e56d-4ce6-a532-12bd4e811118/0.webp",
-   "image_count": 1,
-   "lat": 55.75986358,
-   "lon": 8.89887879
   },
   {
    "id": "93e332e1-8a71-4dd7-82a5-b376da5ccb34",
@@ -4682,30 +4658,6 @@
    "lon": 11.83193497
   },
   {
-   "id": "e481bf85-dd93-42bc-ab60-840dbfc724be",
-   "detail_id": "df7797063f17698b",
-   "source": "gg",
-   "source_label": "Gul og Gratis",
-   "url": "https://www.guloggratis.dk/annonce/e481bf85-dd93-42bc-ab60-840dbfc724be/soeger-schultz-larsen-victory-legacy-cal-223",
-   "title": "SØGER Schultz & larsen Victory/legacy cal .223",
-   "price_dkk": 10000,
-   "weapon_type": "Jagtriffel",
-   "brand": "Schultz & Larsen",
-   "calibers": [
-    ".223 Rem"
-   ],
-   "is_dealer": false,
-   "listed_date": "2026-09-07",
-   "age_days": 22,
-   "postnummer": "5700",
-   "by": "Svendborg",
-   "stand_gg": "God, men brugt",
-   "thumb": "/thumbs/e481bf85-dd93-42bc-ab60-840dbfc724be/0.webp",
-   "image_count": 1,
-   "lat": 54.98699919,
-   "lon": 10.57527981
-  },
-  {
    "id": "f1d4d8aa-1c16-46e0-84bd-ab3194a64660",
    "detail_id": "dec845c4b2b7ce10",
    "source": "gg",
@@ -8184,28 +8136,6 @@
    "image_count": 8,
    "lat": 55.25979308,
    "lon": 11.86408266
-  },
-  {
-   "id": "844fe114-0f21-4b90-9ebd-71629ba0330c",
-   "detail_id": "aa8905ff57fdfdda",
-   "source": "gg",
-   "source_label": "Gul og Gratis",
-   "url": "https://www.guloggratis.dk/annonce/844fe114-0f21-4b90-9ebd-71629ba0330c/soeger-s-w-m-p-2-0-9mm-magasin",
-   "title": "Søger: S&W M&P 2.0, 9mm magasin",
-   "price_dkk": 250,
-   "weapon_type": "Pistol",
-   "brand": "Smith & Wesson",
-   "calibers": [],
-   "is_dealer": false,
-   "listed_date": "2026-08-13",
-   "age_days": 47,
-   "postnummer": "8382",
-   "by": "Hinnerup",
-   "stand_gg": "God, men brugt",
-   "thumb": "/thumbs/844fe114-0f21-4b90-9ebd-71629ba0330c/0.webp",
-   "image_count": 1,
-   "lat": 56.25949156,
-   "lon": 10.06719333
   },
   {
    "id": "7c8193da-2b4e-4e26-8805-52ff8f1c923f",
@@ -14364,30 +14294,6 @@
    "lon": 9.68119202
   },
   {
-   "id": "48f40eaf-0617-47ea-b7ca-c39199876db9",
-   "detail_id": "d593029cba428de6",
-   "source": "gg",
-   "source_label": "Gul og Gratis",
-   "url": "https://www.guloggratis.dk/annonce/48f40eaf-0617-47ea-b7ca-c39199876db9/soeger-o-u-12-76",
-   "title": "Søger o/u 12/76",
-   "price_dkk": 1500,
-   "weapon_type": "Haglgevær",
-   "brand": null,
-   "calibers": [
-    "12/76"
-   ],
-   "is_dealer": false,
-   "listed_date": "2026-06-06",
-   "age_days": 115,
-   "postnummer": "5592",
-   "by": "Ejby",
-   "stand_gg": "God, men brugt",
-   "thumb": "/thumbs/48f40eaf-0617-47ea-b7ca-c39199876db9/0.webp",
-   "image_count": 1,
-   "lat": 55.39677197,
-   "lon": 9.87138048
-  },
-  {
    "id": "fe361b38-e687-4c2b-b695-65168c60594e",
    "detail_id": "d812014a146eca11",
    "source": "gg",
@@ -15663,28 +15569,6 @@
    "image_count": 6,
    "lat": 55.83658956,
    "lon": 12.09380321
-  },
-  {
-   "id": "b26ec20b-1185-4120-a2d2-2dd41ab4e3b2",
-   "detail_id": "06f9e03819203429",
-   "source": "gg",
-   "source_label": "Gul og Gratis",
-   "url": "https://www.guloggratis.dk/annonce/b26ec20b-1185-4120-a2d2-2dd41ab4e3b2/soeger-tikka-t3x-hunter-links",
-   "title": "SØGER Tikka T3X Hunter Links",
-   "price_dkk": 6500,
-   "weapon_type": "Jagtriffel",
-   "brand": "Tikka",
-   "calibers": [],
-   "is_dealer": false,
-   "listed_date": "2026-05-09",
-   "age_days": 143,
-   "postnummer": "4200",
-   "by": "Slagelse",
-   "stand_gg": null,
-   "thumb": "/thumbs/b26ec20b-1185-4120-a2d2-2dd41ab4e3b2/0.webp",
-   "image_count": 1,
-   "lat": 55.40887585,
-   "lon": 11.37133987
   },
   {
    "id": "b3d41b36-1dbf-49d8-bf5e-6b990a98e764",

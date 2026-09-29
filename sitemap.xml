@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://secondbarrel.com/</loc><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/jagtrifler/</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/haglgevaer/</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/kombivaaben/</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/salonrifler/</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/pistoler/</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/revolvere/</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-cz-452.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-sauer-200.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
@@ -32,7 +38,6 @@
   <url><loc>https://secondbarrel.com/priser/brugt-winchester-1894.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-tikka-590.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-winchester-model-70.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://secondbarrel.com/priser/brugt-schultz-og-larsen-victory.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-blaser-d99.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-browning-maral.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-colt-1873-saa.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
@@ -48,6 +53,7 @@
   <url><loc>https://secondbarrel.com/priser/brugt-merkel-helix.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-ruger-vaquero.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-smith-og-wesson-617.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/priser/brugt-schultz-og-larsen-victory.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-husqvarna-640.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-mauser-m03.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-browning-cynergy.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
@@ -94,12 +100,12 @@
   <url><loc>https://secondbarrel.com/priser/brugt-smith-og-wesson-686.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/priser/brugt-walther-q5.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/cz.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://secondbarrel.com/maerke/tikka.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/merkel.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/beretta.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/colt.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/sauer.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/simson.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://secondbarrel.com/maerke/tikka.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/winchester.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/remington.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/maerke/blaser.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
@@ -158,7 +164,6 @@
   <url><loc>https://secondbarrel.com/maerke/bernardelli.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/om.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://secondbarrel.com/vaaben/7718f30af3481d3a.html</loc><lastmod>2026-09-28</lastmod></url>
-  <url><loc>https://secondbarrel.com/vaaben/828cccb804168a2c.html</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/44d32963530643fb.html</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/38cc78f33ac44942.html</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/1644e12074cf85d4.html</loc><lastmod>2026-09-28</lastmod></url>
@@ -356,7 +361,6 @@
   <url><loc>https://secondbarrel.com/vaaben/bb27cec064a35af2.html</loc><lastmod>2026-09-08</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/ac6df26192fdc9de.html</loc><lastmod>2026-09-08</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/db418def26944811.html</loc><lastmod>2026-09-08</lastmod></url>
-  <url><loc>https://secondbarrel.com/vaaben/df7797063f17698b.html</loc><lastmod>2026-09-07</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/dec845c4b2b7ce10.html</loc><lastmod>2026-09-07</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/ddc5b1e7b923fafc.html</loc><lastmod>2026-09-07</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/a9fd22d049d4b505.html</loc><lastmod>2026-09-07</lastmod></url>
@@ -504,7 +508,6 @@
   <url><loc>https://secondbarrel.com/vaaben/c1d4a58a5aef6230.html</loc><lastmod>2026-08-15</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/5f2b1a64738eac89.html</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/165836a071e89335.html</loc><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://secondbarrel.com/vaaben/aa8905ff57fdfdda.html</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/b898a33bf3dc27db.html</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/90bbdaedace2c26c.html</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/a851588df3574cb1.html</loc><lastmod>2026-08-13</lastmod></url>
@@ -765,7 +768,6 @@
   <url><loc>https://secondbarrel.com/vaaben/2b584981ad0683a2.html</loc><lastmod>2026-06-07</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/e88dc5c0fd021bf0.html</loc><lastmod>2026-06-07</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/2257756d965cadab.html</loc><lastmod>2026-06-06</lastmod></url>
-  <url><loc>https://secondbarrel.com/vaaben/d593029cba428de6.html</loc><lastmod>2026-06-06</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/d812014a146eca11.html</loc><lastmod>2026-06-06</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/5ab5c1442e79ad85.html</loc><lastmod>2026-06-05</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/8e0f0bca8cb7c819.html</loc><lastmod>2026-06-05</lastmod></url>
@@ -820,7 +822,6 @@
   <url><loc>https://secondbarrel.com/vaaben/fbc1665146bbcbea.html</loc><lastmod>2026-05-10</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/4a23e474bb42da07.html</loc><lastmod>2026-05-10</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/8837b08fec831f3e.html</loc><lastmod>2026-05-09</lastmod></url>
-  <url><loc>https://secondbarrel.com/vaaben/06f9e03819203429.html</loc><lastmod>2026-05-09</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/b3f2d4a4cae9937c.html</loc><lastmod>2026-05-09</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/c64dee4a25b6d1c7.html</loc><lastmod>2026-05-09</lastmod></url>
   <url><loc>https://secondbarrel.com/vaaben/e000e31c2222c024.html</loc><lastmod>2026-05-08</lastmod></url>

@@ -1,0 +1,59 @@
+{
+ "site": "https://secondbarrel.com",
+ "updated": "29. sep. 2026 kl. 21:00",
+ "fields": {
+  "title": "annoncens titel",
+  "price_dkk": "udbudspris i kr. (sælgers egen pris)",
+  "type": "våbentype",
+  "brand": "mærke (null = ukendt)",
+  "model": "model, når den kan udledes (null = ukendt)",
+  "calibers": "kalibre, fx [\"12/70\"] eller [\"6,5x55\"]",
+  "action": "mekanisme udledt af titlen: O/U, S/S, halvautomat, pump, repeter, knæk/enkeltskud (null = ukendt)",
+  "condition": "stand angivet af sælger på Gul og Gratis (null for forhandlere)",
+  "seller": "\"privat\" eller \"forhandler\"",
+  "source": "kilde, fx \"Gul og Gratis\" eller forhandlerens navn",
+  "postnummer": "postnummer (forhandlere: butikkens adresse)",
+  "city": "by",
+  "listed": "oprettelsesdato (ÅÅÅÅ-MM-DD) hvis kendt",
+  "url": "link til den oprindelige annonce hos kilden",
+  "page": "SecondBarrels side for annoncen"
+ },
+ "feeds": [
+  {
+   "type": "Jagtriffel",
+   "count": 1231,
+   "feed": "https://secondbarrel.com/feed/jagtrifler.json",
+   "page": "https://secondbarrel.com/jagtrifler/"
+  },
+  {
+   "type": "Haglgevær",
+   "count": 696,
+   "feed": "https://secondbarrel.com/feed/haglgevaer.json",
+   "page": "https://secondbarrel.com/haglgevaer/"
+  },
+  {
+   "type": "Kombinationsvåben",
+   "count": 143,
+   "feed": "https://secondbarrel.com/feed/kombivaaben.json",
+   "page": "https://secondbarrel.com/kombivaaben/"
+  },
+  {
+   "type": "Salonriffel",
+   "count": 97,
+   "feed": "https://secondbarrel.com/feed/salonrifler.json",
+   "page": "https://secondbarrel.com/salonrifler/"
+  },
+  {
+   "type": "Pistol",
+   "count": 898,
+   "feed": "https://secondbarrel.com/feed/pistoler.json",
+   "page": "https://secondbarrel.com/pistoler/"
+  },
+  {
+   "type": "Revolver",
+   "count": 618,
+   "feed": "https://secondbarrel.com/feed/revolvere.json",
+   "page": "https://secondbarrel.com/revolvere/"
+  }
+ ]
+}
