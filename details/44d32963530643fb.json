@@ -1,0 +1,39 @@
+{
+ "id": "93e332e1-8a71-4dd7-82a5-b376da5ccb34",
+ "detail_id": "44d32963530643fb",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/93e332e1-8a71-4dd7-82a5-b376da5ccb34/gebruder-merkel-suhl-drilling",
+ "title": "Gebrüder Merkel Suhl Drilling",
+ "price_dkk": 16000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Merkel",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-28",
+ "age_days": 1,
+ "postnummer": "6990",
+ "by": "Ulfborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/93e332e1-8a71-4dd7-82a5-b376da5ccb34/0.webp",
+ "image_count": 2,
+ "lat": 56.26972137,
+ "lon": 8.3516813,
+ "description": "6,5x55 med AimPoint rødpunkt sigte\nSælges for vores far da han  pga. alder er stoppet som aktiv jæger\nNypris 27.000 kr.",
+ "images": [
+  {
+   "full": "/images/93e332e1-8a71-4dd7-82a5-b376da5ccb34/0.webp",
+   "thumb": "/thumbs/93e332e1-8a71-4dd7-82a5-b376da5ccb34/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/93e332e1-8a71-4dd7-82a5-b376da5ccb34/1.webp",
+   "thumb": "/thumbs/93e332e1-8a71-4dd7-82a5-b376da5ccb34/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

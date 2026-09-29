@@ -1,0 +1,45 @@
+{
+ "id": "1b3b153a-007e-46d6-b51f-c89d89f04455",
+ "detail_id": "7718f30af3481d3a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1b3b153a-007e-46d6-b51f-c89d89f04455/cz-452-cal-22lr",
+ "title": "CZ 452 cal 22lr.",
+ "price_dkk": 2900,
+ "weapon_type": "Salonriffel",
+ "brand": "CZ",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-28",
+ "age_days": 1,
+ "postnummer": "6650",
+ "by": "Brørup",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/1b3b153a-007e-46d6-b51f-c89d89f04455/0.webp",
+ "image_count": 3,
+ "lat": 55.49880374,
+ "lon": 8.99731666,
+ "description": "Meget velholdt og skudt få skud, med lyddæmper og rem.",
+ "images": [
+  {
+   "full": "/images/1b3b153a-007e-46d6-b51f-c89d89f04455/0.webp",
+   "thumb": "/thumbs/1b3b153a-007e-46d6-b51f-c89d89f04455/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1b3b153a-007e-46d6-b51f-c89d89f04455/1.webp",
+   "thumb": "/thumbs/1b3b153a-007e-46d6-b51f-c89d89f04455/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1b3b153a-007e-46d6-b51f-c89d89f04455/2.webp",
+   "thumb": "/thumbs/1b3b153a-007e-46d6-b51f-c89d89f04455/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

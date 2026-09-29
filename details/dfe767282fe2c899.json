@@ -1,0 +1,43 @@
+{
+ "id": "7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3",
+ "detail_id": "dfe767282fe2c899",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/uberti-cattleman-45-long-colt-med-12-cm-pibe",
+ "title": "Uberti cattleman .45 long colt med 12 cm pibe",
+ "price_dkk": 5000,
+ "weapon_type": "Pistol",
+ "brand": "Colt",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-28",
+ "age_days": 1,
+ "postnummer": "7470",
+ "by": "Karup J",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/0.webp",
+ "image_count": 3,
+ "lat": 56.32799021,
+ "lon": 9.17419358,
+ "description": "Helt som ny. Har skudt under 50 skud. Købt ved JJSU for ca. 6 år siden. Kan ses og prøves i Langå skytteforening. Kræver SKV 2 eller SKV 4 tilladelse. Der kan medfølge 200 patroner for 1000 kr. ekstra.",
+ "images": [
+  {
+   "full": "/images/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/0.webp",
+   "thumb": "/thumbs/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/1.webp",
+   "thumb": "/thumbs/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/2.webp",
+   "thumb": "/thumbs/7acc8fd3-c38b-4d94-a4cb-69e3f5d59db3/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

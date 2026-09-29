@@ -1,0 +1,75 @@
+{
+ "id": "78c72378-aad7-4252-9bc5-044e0e798396",
+ "detail_id": "7da0e9b2b26f3e69",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/78c72378-aad7-4252-9bc5-044e0e798396/ny-blaser-f16-12-76-game",
+ "title": "Ny Blaser F16 12/76 Game",
+ "price_dkk": 24000,
+ "weapon_type": "Haglgevær",
+ "brand": "Blaser",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-28",
+ "age_days": 1,
+ "postnummer": "9640",
+ "by": "Farsø",
+ "stand_gg": "Ny",
+ "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/0.webp",
+ "image_count": 8,
+ "lat": 56.78956936,
+ "lon": 9.29587574,
+ "description": "Med kuffert og 3 chokes",
+ "images": [
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/0.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/1.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/2.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/3.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/4.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/5.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/6.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/78c72378-aad7-4252-9bc5-044e0e798396/7.webp",
+   "thumb": "/thumbs/78c72378-aad7-4252-9bc5-044e0e798396/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
