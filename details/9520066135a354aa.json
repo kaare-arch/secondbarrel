@@ -1,0 +1,43 @@
+{
+ "id": "8ed164cc-5b64-4746-bb29-ea8b60bb3277",
+ "detail_id": "9520066135a354aa",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8ed164cc-5b64-4746-bb29-ea8b60bb3277/marlin-xt-22-wmr-22mag-plastskaefte",
+ "title": "Marlin xt 22 wmr (22mag) plastskæfte",
+ "price_dkk": 3000,
+ "weapon_type": "Salonriffel",
+ "brand": "Marlin",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-29",
+ "age_days": 1,
+ "postnummer": "9760",
+ "by": "Vrå",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/8ed164cc-5b64-4746-bb29-ea8b60bb3277/0.webp",
+ "image_count": 3,
+ "lat": 57.37190853,
+ "lon": 9.87742317,
+ "description": "Salonriffel sælges \nStår flot. Gevin til lyddæmper \nSælges med rødpunt sigte 3000kr uden sigte 2500kr",
+ "images": [
+  {
+   "full": "/images/8ed164cc-5b64-4746-bb29-ea8b60bb3277/0.webp",
+   "thumb": "/thumbs/8ed164cc-5b64-4746-bb29-ea8b60bb3277/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ed164cc-5b64-4746-bb29-ea8b60bb3277/1.webp",
+   "thumb": "/thumbs/8ed164cc-5b64-4746-bb29-ea8b60bb3277/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ed164cc-5b64-4746-bb29-ea8b60bb3277/0.webp",
+   "thumb": "/thumbs/8ed164cc-5b64-4746-bb29-ea8b60bb3277/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
