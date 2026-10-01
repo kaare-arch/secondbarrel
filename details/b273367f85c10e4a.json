@@ -1,0 +1,57 @@
+{
+ "id": "344e36ec-a452-418c-bb64-630286e67957",
+ "detail_id": "b273367f85c10e4a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/344e36ec-a452-418c-bb64-630286e67957/baykal-12-70-ussr",
+ "title": "Baykal 12/70 USSR",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-19",
+ "age_days": 12,
+ "postnummer": "2791",
+ "by": "Dragør",
+ "stand_gg": "Slidt",
+ "thumb": "/thumbs/344e36ec-a452-418c-bb64-630286e67957/0.webp",
+ "image_count": 5,
+ "lat": 55.57811737,
+ "lon": 12.5946831,
+ "description": "Gammel Baykal side by side, som skyder fortrinligt, med kraftig trangboring, så hagl er samlet på længere afstande. Den har været brugt til havjagt.\n\n73cm løbslængde\n117cm total længde",
+ "images": [
+  {
+   "full": "/images/344e36ec-a452-418c-bb64-630286e67957/0.webp",
+   "thumb": "/thumbs/344e36ec-a452-418c-bb64-630286e67957/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/344e36ec-a452-418c-bb64-630286e67957/1.webp",
+   "thumb": "/thumbs/344e36ec-a452-418c-bb64-630286e67957/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/344e36ec-a452-418c-bb64-630286e67957/2.webp",
+   "thumb": "/thumbs/344e36ec-a452-418c-bb64-630286e67957/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/344e36ec-a452-418c-bb64-630286e67957/3.webp",
+   "thumb": "/thumbs/344e36ec-a452-418c-bb64-630286e67957/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/344e36ec-a452-418c-bb64-630286e67957/4.webp",
+   "thumb": "/thumbs/344e36ec-a452-418c-bb64-630286e67957/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

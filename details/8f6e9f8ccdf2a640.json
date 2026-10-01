@@ -1,0 +1,39 @@
+{
+ "id": "6de4f878-a9a0-4760-951b-fb1b7db9e507",
+ "detail_id": "8f6e9f8ccdf2a640",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6de4f878-a9a0-4760-951b-fb1b7db9e507/laekker-lille-boejlespaender-fra-browning-i-22lr",
+ "title": "Lækker lille bøjlespænder fra Browning i 22LR.",
+ "price_dkk": 5000,
+ "weapon_type": "Salonriffel",
+ "brand": "Browning",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-30",
+ "age_days": 1,
+ "postnummer": "9430",
+ "by": "Vadum",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/6de4f878-a9a0-4760-951b-fb1b7db9e507/0.webp",
+ "image_count": 2,
+ "lat": 57.11542262,
+ "lon": 9.85636123,
+ "description": "Browning BL-22 blev introduceret i 1969. Riflen er bygget hos Miroku i Japan, hvilket er kvalitetsstemplet for godt håndværk og præcise piber.\n\nMange vælger Browning BL-22 som supplement til deres større Leveraction våben, idet den er eminent til træning. Den motoriske bevægelse er den samme som på større leveractions og samtidig er ammunitionen billigere.\nMed lidt træning kan der skydes næsten lige så hurtigt som med en halvautomatisk riffel.\n\nBrowning BL22 er og velegnet til almindelig jagt og regulering, eller blot som en lille sjov riffel.\n\nReceiveren er udført i kvalitetsstål.\n\nMagasinet er 15 skuds (22Lr.) og kan lades med både 22 short, 22 long og 22Lr.\n\nPibe længde: 50cm.\nTotal længde: 93cm.",
+ "images": [
+  {
+   "full": "/images/6de4f878-a9a0-4760-951b-fb1b7db9e507/0.webp",
+   "thumb": "/thumbs/6de4f878-a9a0-4760-951b-fb1b7db9e507/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6de4f878-a9a0-4760-951b-fb1b7db9e507/1.webp",
+   "thumb": "/thumbs/6de4f878-a9a0-4760-951b-fb1b7db9e507/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

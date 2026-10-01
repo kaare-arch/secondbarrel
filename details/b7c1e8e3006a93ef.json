@@ -1,0 +1,43 @@
+{
+ "id": "5cad889a-fba8-4eaf-8a23-3ab2b8863e00",
+ "detail_id": "b7c1e8e3006a93ef",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/beretta-gold-e-skeet",
+ "title": "Beretta Gold E skeet.",
+ "price_dkk": 13000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-30",
+ "age_days": 1,
+ "postnummer": "8550",
+ "by": "Ryomgård",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/0.webp",
+ "image_count": 3,
+ "lat": 56.38481233,
+ "lon": 10.50027849,
+ "description": "Beretta Gold E med fast boring Skeet/Skeet og TSK skæfte. I pæn stand.",
+ "images": [
+  {
+   "full": "/images/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/0.webp",
+   "thumb": "/thumbs/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/1.webp",
+   "thumb": "/thumbs/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/2.webp",
+   "thumb": "/thumbs/5cad889a-fba8-4eaf-8a23-3ab2b8863e00/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
