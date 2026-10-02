@@ -1,0 +1,45 @@
+{
+ "id": "d95b250e-d937-45f2-833f-8eb2ebbb6634",
+ "detail_id": "b399896db12d7538",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d95b250e-d937-45f2-833f-8eb2ebbb6634/akkar-churchill-cal-12-over-under",
+ "title": "Akkar Churchill cal 12. over under",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Akkar",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-20",
+ "age_days": 12,
+ "postnummer": "7700",
+ "by": "Thisted",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/d95b250e-d937-45f2-833f-8eb2ebbb6634/0.webp",
+ "image_count": 3,
+ "lat": 56.98615967,
+ "lon": 8.56134224,
+ "description": "mit første haglgevær købt af nyt. alle choks medfølger + 2 ekstra forlængede, funger som det skal men brugt, et meget ret gevær i skæftet, rigtig godt begynder gevær",
+ "images": [
+  {
+   "full": "/images/d95b250e-d937-45f2-833f-8eb2ebbb6634/0.webp",
+   "thumb": "/thumbs/d95b250e-d937-45f2-833f-8eb2ebbb6634/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d95b250e-d937-45f2-833f-8eb2ebbb6634/1.webp",
+   "thumb": "/thumbs/d95b250e-d937-45f2-833f-8eb2ebbb6634/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d95b250e-d937-45f2-833f-8eb2ebbb6634/2.webp",
+   "thumb": "/thumbs/d95b250e-d937-45f2-833f-8eb2ebbb6634/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

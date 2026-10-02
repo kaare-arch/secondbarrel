@@ -1,0 +1,70 @@
+{
+ "id": "ceb29a04-52ec-41a2-978c-161c2a0e21b0",
+ "detail_id": "aed30f802ec75f3d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ceb29a04-52ec-41a2-978c-161c2a0e21b0/cz455-22lr-17-hmr",
+ "title": "CZ455 22lr + 17 HMR",
+ "price_dkk": 5000,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [
+  ".22 LR",
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-01",
+ "age_days": 1,
+ "postnummer": "9310",
+ "by": "Vodskov",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/0.webp",
+ "image_count": 7,
+ "lat": 57.10195914,
+ "lon": 10.08812266,
+ "description": "Flot CZ455 med vekselpibe til 17HMR og ATEC lyddæmper som passer til begge kaliber.\n\nKikkert - Jaeger 3-9x40 fin til skud ud til 100 meter. \n\nDer medfølger 1 - 5 skud 17 HMR, 1 - 5 skud 22lr og 1 - 10 skud 22lr.\n\nDer kan medfølge en del ammunition ved hurtig handel.",
+ "images": [
+  {
+   "full": "/images/ceb29a04-52ec-41a2-978c-161c2a0e21b0/0.webp",
+   "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ceb29a04-52ec-41a2-978c-161c2a0e21b0/1.webp",
+   "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ceb29a04-52ec-41a2-978c-161c2a0e21b0/2.webp",
+   "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ceb29a04-52ec-41a2-978c-161c2a0e21b0/3.webp",
+   "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ceb29a04-52ec-41a2-978c-161c2a0e21b0/5.webp",
+   "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ceb29a04-52ec-41a2-978c-161c2a0e21b0/6.webp",
+   "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ceb29a04-52ec-41a2-978c-161c2a0e21b0/7.webp",
+   "thumb": "/thumbs/ceb29a04-52ec-41a2-978c-161c2a0e21b0/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

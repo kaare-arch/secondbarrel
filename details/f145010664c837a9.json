@@ -1,0 +1,39 @@
+{
+ "id": "a1154d5f-4ab0-4562-8755-d9c84239707f",
+ "detail_id": "f145010664c837a9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a1154d5f-4ab0-4562-8755-d9c84239707f/remington-511-cal-22",
+ "title": "Remington 511 cal.22",
+ "price_dkk": 2000,
+ "weapon_type": "Salonriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-01",
+ "age_days": 1,
+ "postnummer": "2300",
+ "by": "København S",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a1154d5f-4ab0-4562-8755-d9c84239707f/0.webp",
+ "image_count": 2,
+ "lat": 55.65453771,
+ "lon": 12.6050411,
+ "description": "Købt i DK i 1964. Kun 2 ejere og står næsten som ny. Mossberg kikkertsigte. Ekstra 10 skudsmagasin og rigeligt ammunition.",
+ "images": [
+  {
+   "full": "/images/a1154d5f-4ab0-4562-8755-d9c84239707f/0.webp",
+   "thumb": "/thumbs/a1154d5f-4ab0-4562-8755-d9c84239707f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a1154d5f-4ab0-4562-8755-d9c84239707f/1.webp",
+   "thumb": "/thumbs/a1154d5f-4ab0-4562-8755-d9c84239707f/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

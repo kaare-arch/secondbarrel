@@ -1,0 +1,51 @@
+{
+ "id": "e2d02f84-bce2-4a7a-a086-dc4d649502f7",
+ "detail_id": "cf64a381ec21ff1c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e2d02f84-bce2-4a7a-a086-dc4d649502f7/sauer-str-200-vekselsaet",
+ "title": "Sauer STR 200 vekselsæt",
+ "price_dkk": 12900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-01",
+ "age_days": 1,
+ "postnummer": "7620",
+ "by": "Lemvig",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/e2d02f84-bce2-4a7a-a086-dc4d649502f7/0.webp",
+ "image_count": 4,
+ "lat": 56.51847102,
+ "lon": 8.38720164,
+ "description": "Sælger Sauer STR 200 med vekselsystem i .22 LR.\n6,5×55 + .22 LR\n6 magasiner i alt\nEftermonteret Picatinny-skinne\nDæmper til .22 LR medfølger\nKikkert medfølger ikke, men kan købes separat",
+ "images": [
+  {
+   "full": "/images/e2d02f84-bce2-4a7a-a086-dc4d649502f7/0.webp",
+   "thumb": "/thumbs/e2d02f84-bce2-4a7a-a086-dc4d649502f7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e2d02f84-bce2-4a7a-a086-dc4d649502f7/1.webp",
+   "thumb": "/thumbs/e2d02f84-bce2-4a7a-a086-dc4d649502f7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e2d02f84-bce2-4a7a-a086-dc4d649502f7/2.webp",
+   "thumb": "/thumbs/e2d02f84-bce2-4a7a-a086-dc4d649502f7/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e2d02f84-bce2-4a7a-a086-dc4d649502f7/3.webp",
+   "thumb": "/thumbs/e2d02f84-bce2-4a7a-a086-dc4d649502f7/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

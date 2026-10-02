@@ -1,0 +1,57 @@
+{
+ "id": "b2a131ce-e86b-4599-a63e-10d99740eb49",
+ "detail_id": "ce7694fb923e4579",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b2a131ce-e86b-4599-a63e-10d99740eb49/links-tikka-t3x-lite-adj-30-06",
+ "title": "LINKS Tikka T3x lite adj 30-06",
+ "price_dkk": 12000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-01",
+ "age_days": 1,
+ "postnummer": "6400",
+ "by": "Sønderborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b2a131ce-e86b-4599-a63e-10d99740eb49/0.webp",
+ "image_count": 5,
+ "lat": 54.9535844,
+ "lon": 9.69069026,
+ "description": "Tikka T3x lite ADJ 30-06 LINKS. - Nikko stirling diamond 3-12x56, aftageligt stålmontage QR. Nielsen sonic 45 lyddæmper, mundingsbremse, ekstra 5 skudsmagasin. Skudt under 300 skud. Står rigtig flot. men med småt flyverust hist og her på løb.\nHar også ny jaeger drivjagt kikkert med aftageligt montage, som kan købes med",
+ "images": [
+  {
+   "full": "/images/b2a131ce-e86b-4599-a63e-10d99740eb49/0.webp",
+   "thumb": "/thumbs/b2a131ce-e86b-4599-a63e-10d99740eb49/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b2a131ce-e86b-4599-a63e-10d99740eb49/1.webp",
+   "thumb": "/thumbs/b2a131ce-e86b-4599-a63e-10d99740eb49/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b2a131ce-e86b-4599-a63e-10d99740eb49/2.webp",
+   "thumb": "/thumbs/b2a131ce-e86b-4599-a63e-10d99740eb49/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b2a131ce-e86b-4599-a63e-10d99740eb49/3.webp",
+   "thumb": "/thumbs/b2a131ce-e86b-4599-a63e-10d99740eb49/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b2a131ce-e86b-4599-a63e-10d99740eb49/4.webp",
+   "thumb": "/thumbs/b2a131ce-e86b-4599-a63e-10d99740eb49/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
