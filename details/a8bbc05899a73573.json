@@ -1,0 +1,55 @@
+{
+ "id": "11fce1e9-3b6f-4d87-a2e3-07e21535503d",
+ "detail_id": "a8bbc05899a73573",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/11fce1e9-3b6f-4d87-a2e3-07e21535503d/sonic-nielsen-paradox-45-max-30",
+ "title": "Sonic nielsen paradox 45 Max 30",
+ "price_dkk": 1000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-09-18",
+ "age_days": 15,
+ "postnummer": "6230",
+ "by": "Rødekro",
+ "stand_gg": null,
+ "thumb": "/thumbs/11fce1e9-3b6f-4d87-a2e3-07e21535503d/0.webp",
+ "image_count": 5,
+ "lat": 55.07437317,
+ "lon": 9.28037618,
+ "description": "Sælger pæn og velholdt lyddæmper fra Sonic.\n15X1 gevind.\nDer medfølger en ekstra mundingsbremse(se eventuelt video på Sonic hjemmeside)\nDæmper super godt.\nFast pris 1000.-",
+ "images": [
+  {
+   "full": "/images/11fce1e9-3b6f-4d87-a2e3-07e21535503d/0.webp",
+   "thumb": "/thumbs/11fce1e9-3b6f-4d87-a2e3-07e21535503d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11fce1e9-3b6f-4d87-a2e3-07e21535503d/1.webp",
+   "thumb": "/thumbs/11fce1e9-3b6f-4d87-a2e3-07e21535503d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11fce1e9-3b6f-4d87-a2e3-07e21535503d/2.webp",
+   "thumb": "/thumbs/11fce1e9-3b6f-4d87-a2e3-07e21535503d/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11fce1e9-3b6f-4d87-a2e3-07e21535503d/3.webp",
+   "thumb": "/thumbs/11fce1e9-3b6f-4d87-a2e3-07e21535503d/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11fce1e9-3b6f-4d87-a2e3-07e21535503d/4.webp",
+   "thumb": "/thumbs/11fce1e9-3b6f-4d87-a2e3-07e21535503d/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

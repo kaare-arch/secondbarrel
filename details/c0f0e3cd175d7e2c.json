@@ -1,0 +1,63 @@
+{
+ "id": "mbjagt.dk/shop/fair-jubilee-prestige-20-76",
+ "detail_id": "c0f0e3cd175d7e2c",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/fair-jubilee-prestige-20-76/",
+ "title": "Fair Jubilee Prestige, 20-76",
+ "price_dkk": 17995,
+ "weapon_type": "Haglgevær",
+ "brand": "FAIR",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/fair-jubilee-prestige-20-76/0.webp",
+ "image_count": 6,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Fair Jubilee Prestige",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/fair-jubilee-prestige-20-76/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/fair-jubilee-prestige-20-76/0.webp",
+   "width": 1024,
+   "height": 204
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/fair-jubilee-prestige-20-76/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/fair-jubilee-prestige-20-76/1.webp",
+   "width": 1024,
+   "height": 578
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/fair-jubilee-prestige-20-76/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/fair-jubilee-prestige-20-76/2.webp",
+   "width": 1024,
+   "height": 569
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/fair-jubilee-prestige-20-76/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/fair-jubilee-prestige-20-76/3.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/fair-jubilee-prestige-20-76/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/fair-jubilee-prestige-20-76/4.webp",
+   "width": 1024,
+   "height": 455
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/fair-jubilee-prestige-20-76/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/fair-jubilee-prestige-20-76/5.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

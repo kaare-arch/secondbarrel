@@ -1,0 +1,45 @@
+{
+ "id": "d15240fa-b2f6-4367-b199-31e115015b01",
+ "detail_id": "9832492668e2ee02",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d15240fa-b2f6-4367-b199-31e115015b01/caesar-guerini-avian-20-76",
+ "title": "Cæsar Guerini Avian 20/76",
+ "price_dkk": 20000,
+ "weapon_type": "Haglgevær",
+ "brand": "Caesar Guerini",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-02",
+ "age_days": 1,
+ "postnummer": "6960",
+ "by": "Hvide Sande",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/d15240fa-b2f6-4367-b199-31e115015b01/0.webp",
+ "image_count": 3,
+ "lat": 55.86176611,
+ "lon": 8.17402151,
+ "description": "Flot og som ny, har max skudt 500 skud.\nÅrg 2025\nMed Choke og orginale kuffert.\n76 cm løb",
+ "images": [
+  {
+   "full": "/images/d15240fa-b2f6-4367-b199-31e115015b01/0.webp",
+   "thumb": "/thumbs/d15240fa-b2f6-4367-b199-31e115015b01/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d15240fa-b2f6-4367-b199-31e115015b01/1.webp",
+   "thumb": "/thumbs/d15240fa-b2f6-4367-b199-31e115015b01/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d15240fa-b2f6-4367-b199-31e115015b01/2.webp",
+   "thumb": "/thumbs/d15240fa-b2f6-4367-b199-31e115015b01/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
