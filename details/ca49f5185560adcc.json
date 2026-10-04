@@ -1,0 +1,31 @@
+{
+ "id": "nkjagt.dk/vare/18701-lu-mar-scirocco",
+ "detail_id": "ca49f5185560adcc",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/18701-lu-mar-scirocco",
+ "title": "LU-MAR SCIROCCO",
+ "price_dkk": 3995,
+ "weapon_type": "Haglgevær",
+ "brand": "Lu-Mar",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/18701-lu-mar-scirocco/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": "Kaliber: 12/76Løbslængde: 70 cmTotal længde: 113 cmLu-mar Scirocco er et Italiensk produceret jagt gevær Geværet er pænt og velholdt, med fine graveringer, og dobbelt aftrækker. våbnet er gennemgået og serviceret af egen vores egen våbensmed.",
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/18701-lu-mar-scirocco/0.jpg",
+   "thumb": "/thumbs/nkjagt.dk/vare/18701-lu-mar-scirocco/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}
