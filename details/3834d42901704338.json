@@ -1,0 +1,39 @@
+{
+ "id": "5ccabc6e-19b8-4b64-9b0b-c9b91f7eded5",
+ "detail_id": "3834d42901704338",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5ccabc6e-19b8-4b64-9b0b-c9b91f7eded5/langdistanceriffel-6-5x55-rem700la",
+ "title": "Langdistanceriffel 6,5x55 Rem700LA",
+ "price_dkk": 9900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-04",
+ "age_days": 1,
+ "postnummer": "2500",
+ "by": "Valby",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/5ccabc6e-19b8-4b64-9b0b-c9b91f7eded5/0.webp",
+ "image_count": 2,
+ "lat": 55.65941452,
+ "lon": 12.49869399,
+ "description": "Specialbygget Remington 700 i kaliber 6,5x55 med stigning (twist) designet til tunge long range projektiler som Berger mv. Lother Walter bull match pibe - 65cm med gevind. \nTimney matchaftræk med straight trigger. \nStål picatiny rail.\nNyt MDT Field justerbart skæfte\n3 Magpul Pmags\nMeget præcis riffel ud til 800-1000 meter.\nDer kan tilkøbes Vortex longrabge kikkert til god pakkepris.\n\nDe andre rifler er solgt (aktuel riffel i midten)",
+ "images": [
+  {
+   "full": "/images/5ccabc6e-19b8-4b64-9b0b-c9b91f7eded5/0.webp",
+   "thumb": "/thumbs/5ccabc6e-19b8-4b64-9b0b-c9b91f7eded5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5ccabc6e-19b8-4b64-9b0b-c9b91f7eded5/1.webp",
+   "thumb": "/thumbs/5ccabc6e-19b8-4b64-9b0b-c9b91f7eded5/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
