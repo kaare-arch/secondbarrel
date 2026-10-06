@@ -1,0 +1,75 @@
+{
+ "id": "e9457d5f-f63a-413b-ae7a-e2c3299bf1f3",
+ "detail_id": "07ff38a587040675",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/varberg-717-6-5x55",
+ "title": "Varberg 717 6,5x55",
+ "price_dkk": 4499,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-05",
+ "age_days": 1,
+ "postnummer": "9575",
+ "by": "Terndrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/0.webp",
+ "image_count": 8,
+ "lat": 56.81450196,
+ "lon": 10.04422607,
+ "description": "Fin Varberg 717 6,5x55 med tasco titan 3-12x52 kikkert uden lys, lækkert rulle magasin og rigtig godt aftræk.",
+ "images": [
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/0.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/1.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/2.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/3.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/4.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/5.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/6.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/7.webp",
+   "thumb": "/thumbs/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

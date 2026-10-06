@@ -1,0 +1,51 @@
+{
+ "id": "430074b3-a4ff-4976-afd9-573226646bf6",
+ "detail_id": "6f434ff14fa9abf4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/430074b3-a4ff-4976-afd9-573226646bf6/beretta-silver-pigeon",
+ "title": "Beretta, Silver pigeon",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-05",
+ "age_days": 1,
+ "postnummer": "8543",
+ "by": "Hornslet",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/430074b3-a4ff-4976-afd9-573226646bf6/0.webp",
+ "image_count": 4,
+ "lat": 56.33260256,
+ "lon": 10.29717181,
+ "description": "Kaliber 12/70. Længde 107, løbslængde 67. God stand uden rust og uden slør. Kun brugt få gange de sidste 8 år.\nSælges mod fremvisning af jagttegn.",
+ "images": [
+  {
+   "full": "/images/430074b3-a4ff-4976-afd9-573226646bf6/0.webp",
+   "thumb": "/thumbs/430074b3-a4ff-4976-afd9-573226646bf6/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/430074b3-a4ff-4976-afd9-573226646bf6/1.webp",
+   "thumb": "/thumbs/430074b3-a4ff-4976-afd9-573226646bf6/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/430074b3-a4ff-4976-afd9-573226646bf6/2.webp",
+   "thumb": "/thumbs/430074b3-a4ff-4976-afd9-573226646bf6/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/430074b3-a4ff-4976-afd9-573226646bf6/3.webp",
+   "thumb": "/thumbs/430074b3-a4ff-4976-afd9-573226646bf6/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

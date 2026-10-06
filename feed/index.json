@@ -1,6 +1,6 @@
 {
  "site": "https://secondbarrel.com",
- "updated": "5. okt. 2026 kl. 02:14",
+ "updated": "6. okt. 2026 kl. 02:15",
  "fields": {
   "title": "annoncens titel",
   "price_dkk": "udbudspris i kr. (sælgers egen pris)",
@@ -21,19 +21,19 @@
  "feeds": [
   {
    "type": "Jagtriffel",
-   "count": 1231,
+   "count": 1228,
    "feed": "https://secondbarrel.com/feed/jagtrifler.json",
    "page": "https://secondbarrel.com/jagtrifler/"
   },
   {
    "type": "Haglgevær",
-   "count": 678,
+   "count": 677,
    "feed": "https://secondbarrel.com/feed/haglgevaer.json",
    "page": "https://secondbarrel.com/haglgevaer/"
   },
   {
    "type": "Kombinationsvåben",
-   "count": 143,
+   "count": 142,
    "feed": "https://secondbarrel.com/feed/kombivaaben.json",
    "page": "https://secondbarrel.com/kombivaaben/"
   },
@@ -45,13 +45,13 @@
   },
   {
    "type": "Pistol",
-   "count": 901,
+   "count": 899,
    "feed": "https://secondbarrel.com/feed/pistoler.json",
    "page": "https://secondbarrel.com/pistoler/"
   },
   {
    "type": "Revolver",
-   "count": 620,
+   "count": 618,
    "feed": "https://secondbarrel.com/feed/revolvere.json",
    "page": "https://secondbarrel.com/revolvere/"
   }
