@@ -1,0 +1,33 @@
+{
+ "id": "1a55656b-c2d9-415b-b2f8-d0d60bd034dc",
+ "detail_id": "cb7bf866abdae7d3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1a55656b-c2d9-415b-b2f8-d0d60bd034dc/mauser-8x57",
+ "title": "Mauser 8X57",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "8x57"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-23",
+ "age_days": 14,
+ "postnummer": "8981",
+ "by": "Spentrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1a55656b-c2d9-415b-b2f8-d0d60bd034dc/0.webp",
+ "image_count": 1,
+ "lat": 56.54082727,
+ "lon": 10.0192493,
+ "description": "Ældre, arvet riffel.\nRiffel med kikkert",
+ "images": [
+  {
+   "full": "/images/1a55656b-c2d9-415b-b2f8-d0d60bd034dc/0.webp",
+   "thumb": "/thumbs/1a55656b-c2d9-415b-b2f8-d0d60bd034dc/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

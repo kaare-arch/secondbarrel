@@ -1,0 +1,43 @@
+{
+ "id": "d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2",
+ "detail_id": "8824e0fd66b9e5c2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/blaser-r93-ragnarok-system",
+ "title": "Blaser R93 Ragnarok system",
+ "price_dkk": 6000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-06",
+ "age_days": 1,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": null,
+ "thumb": "/thumbs/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/0.webp",
+ "image_count": 3,
+ "lat": 54.9813044,
+ "lon": 9.43042383,
+ "description": "GRS system til en Blaser R93 \nPerfekt til dig, som vil have noget der ikke kan matches af andre systemer. Bipod medfølger. \n\nGRS Ragnarok er et stærkt skæfte produceret i 60063 hårdtanodiseret aluminium.\nSort\n6063 hårdtanodiseret aluminium\nGummi-overflade på grebet\nGRS Speedlock II justeringssystem\nForskæfte bredde 42 mm\nJusterbar kindstøtte\nSkæftelængde LOP 37,5-40,5 cm\nTotal længde 885 mm\nIntegreret Picatinny-skinne",
+ "images": [
+  {
+   "full": "/images/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/0.webp",
+   "thumb": "/thumbs/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/1.webp",
+   "thumb": "/thumbs/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/2.webp",
+   "thumb": "/thumbs/d2687e3c-0f36-4bb6-bda9-6b3bc0ffdfd2/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

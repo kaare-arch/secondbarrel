@@ -1,0 +1,45 @@
+{
+ "id": "de4173ad-06eb-499d-9627-47a1ae3137dd",
+ "detail_id": "c7d90843bbaca248",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/de4173ad-06eb-499d-9627-47a1ae3137dd/huglu-103de",
+ "title": "Huglu 103de",
+ "price_dkk": 3000,
+ "weapon_type": "Haglgevær",
+ "brand": "Huglu",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-06",
+ "age_days": 1,
+ "postnummer": "4930",
+ "by": "Maribo",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/de4173ad-06eb-499d-9627-47a1ae3137dd/0.webp",
+ "image_count": 3,
+ "lat": 54.76659869,
+ "lon": 11.49814602,
+ "description": "God haglbøsse fra huglu kaliber 12/76 model 103 de silver med auto sikring og ejektor \n\nDen skyder godt og fungere 110 procent optimalt ingen slør. \n\nDen har nogle få skrammer på forskæftet samt kolben men det kun kosmetisk. \n\nJeg tænker en pris på 3000 kr ellers må du komme med et godt bud, kan også være interesseret i at bytte med halvautomat",
+ "images": [
+  {
+   "full": "/images/de4173ad-06eb-499d-9627-47a1ae3137dd/0.webp",
+   "thumb": "/thumbs/de4173ad-06eb-499d-9627-47a1ae3137dd/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de4173ad-06eb-499d-9627-47a1ae3137dd/1.webp",
+   "thumb": "/thumbs/de4173ad-06eb-499d-9627-47a1ae3137dd/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/de4173ad-06eb-499d-9627-47a1ae3137dd/2.webp",
+   "thumb": "/thumbs/de4173ad-06eb-499d-9627-47a1ae3137dd/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
