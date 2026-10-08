@@ -1,0 +1,75 @@
+{
+ "id": "8203efbc-7568-4491-9657-f055ab10e492",
+ "detail_id": "ec575b0e4eb58a17",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8203efbc-7568-4491-9657-f055ab10e492/vel-skydende-marlin-cal-22lr",
+ "title": "Vel skydende Marlin cal. 22LR",
+ "price_dkk": 2200,
+ "weapon_type": "Salonriffel",
+ "brand": "Marlin",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-07",
+ "age_days": 1,
+ "postnummer": "8722",
+ "by": "Hedensted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/0.webp",
+ "image_count": 8,
+ "lat": 55.76508387,
+ "lon": 9.71130088,
+ "description": "Marlin model 25N med løs magasin og gevind til lyddæmper,  belyst Bushnell 4- 12 x 56. Virkelig god sigte  hele dagen, grøn/ rød sigte.",
+ "images": [
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/0.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/1.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/2.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/3.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/4.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/5.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/6.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8203efbc-7568-4491-9657-f055ab10e492/7.webp",
+   "thumb": "/thumbs/8203efbc-7568-4491-9657-f055ab10e492/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "384c9138-fb05-4dac-9243-298f0d3130f7",
+ "detail_id": "f130cd0b05df48bb",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/384c9138-fb05-4dac-9243-298f0d3130f7/maverick-mossberg-88",
+ "title": "Maverick mossberg 88",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Mossberg",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-07",
+ "age_days": 1,
+ "postnummer": "8700",
+ "by": "Horsens",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/384c9138-fb05-4dac-9243-298f0d3130f7/0.webp",
+ "image_count": 2,
+ "lat": 55.88079276,
+ "lon": 9.78149881,
+ "description": "Har den her i overskud den er 100% iorden den har brugsspor men har ikke skudt meget det er en 12/76 skambud ignoreres",
+ "images": [
+  {
+   "full": "/images/384c9138-fb05-4dac-9243-298f0d3130f7/0.webp",
+   "thumb": "/thumbs/384c9138-fb05-4dac-9243-298f0d3130f7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/384c9138-fb05-4dac-9243-298f0d3130f7/1.webp",
+   "thumb": "/thumbs/384c9138-fb05-4dac-9243-298f0d3130f7/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

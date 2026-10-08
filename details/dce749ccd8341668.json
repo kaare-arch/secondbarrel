@@ -1,0 +1,63 @@
+{
+ "id": "b61695fd-02d4-43e4-bf80-3001c4dd542d",
+ "detail_id": "dce749ccd8341668",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b61695fd-02d4-43e4-bf80-3001c4dd542d/victor-sarasqueta-sidelock-i-12-70",
+ "title": "Victor Sarasqueta sidelock i 12/70",
+ "price_dkk": 7500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-09-20",
+ "age_days": 18,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": null,
+ "thumb": "/thumbs/b61695fd-02d4-43e4-bf80-3001c4dd542d/0.webp",
+ "image_count": 6,
+ "lat": 54.9813044,
+ "lon": 9.43042383,
+ "description": "Lækker sidelås s/s fra spanske Victor Sarasqueta, hvor kvalitet er i top! \nHand detachable sidelock, engelsk skæfte i flot træ, ejektor, absolut intet slør. Løbslængde 66cm, 37cm fra bagkappe til aftrække. Side by side fra øverste hylde i det spanske. Trykprøvet til 1000bar, og boret 1/4 og 3/4, dvs at den uden problemer kan bruger til stålhagl og evt flutskydning.",
+ "images": [
+  {
+   "full": "/images/b61695fd-02d4-43e4-bf80-3001c4dd542d/0.webp",
+   "thumb": "/thumbs/b61695fd-02d4-43e4-bf80-3001c4dd542d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61695fd-02d4-43e4-bf80-3001c4dd542d/1.webp",
+   "thumb": "/thumbs/b61695fd-02d4-43e4-bf80-3001c4dd542d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61695fd-02d4-43e4-bf80-3001c4dd542d/2.webp",
+   "thumb": "/thumbs/b61695fd-02d4-43e4-bf80-3001c4dd542d/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61695fd-02d4-43e4-bf80-3001c4dd542d/3.webp",
+   "thumb": "/thumbs/b61695fd-02d4-43e4-bf80-3001c4dd542d/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61695fd-02d4-43e4-bf80-3001c4dd542d/4.webp",
+   "thumb": "/thumbs/b61695fd-02d4-43e4-bf80-3001c4dd542d/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61695fd-02d4-43e4-bf80-3001c4dd542d/5.webp",
+   "thumb": "/thumbs/b61695fd-02d4-43e4-bf80-3001c4dd542d/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
