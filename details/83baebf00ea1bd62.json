@@ -1,0 +1,69 @@
+{
+ "id": "mbjagt.dk/shop/scandium-s12-sporting-12-76-links",
+ "detail_id": "83baebf00ea1bd62",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/scandium-s12-sporting-12-76-links/",
+ "title": "Scandium S12 Sporting, 12-76 #LINKS",
+ "price_dkk": 6995,
+ "weapon_type": "Haglgevær",
+ "brand": "Scandium",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/0.webp",
+ "image_count": 7,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Scandium S12 Sporting",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/0.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/1.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/2.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/3.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/4.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/5.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/scandium-s12-sporting-12-76-links/6.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}
