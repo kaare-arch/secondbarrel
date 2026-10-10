@@ -1,0 +1,45 @@
+{
+ "id": "97f1374e-7f54-4f63-a889-2ad96992bf77",
+ "detail_id": "89fc85ac447a9fd5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/97f1374e-7f54-4f63-a889-2ad96992bf77/jagtriffel-browning-x-bolt-kaliber-338",
+ "title": "Jagtriffel Browning x-Bolt Kaliber 338",
+ "price_dkk": 8000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Browning",
+ "calibers": [
+  ".338"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": "7000",
+ "by": "Fredericia",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/97f1374e-7f54-4f63-a889-2ad96992bf77/0.webp",
+ "image_count": 3,
+ "lat": 55.57485304,
+ "lon": 9.65659006,
+ "description": "Browning i kaliber 338 med en rigtig god Docter kikkert 3-12x56 med lys. Den sælges uden lyddæmper. \nRiflen er meget velskydende og har skudt under 30 skud. Riflen en en model X-Bolt Stalker i rustfri ned syntetisk skæfte så den kan tåle vejr og vind. 20 stk. patroner medfølger",
+ "images": [
+  {
+   "full": "/images/97f1374e-7f54-4f63-a889-2ad96992bf77/0.webp",
+   "thumb": "/thumbs/97f1374e-7f54-4f63-a889-2ad96992bf77/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97f1374e-7f54-4f63-a889-2ad96992bf77/1.webp",
+   "thumb": "/thumbs/97f1374e-7f54-4f63-a889-2ad96992bf77/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97f1374e-7f54-4f63-a889-2ad96992bf77/2.webp",
+   "thumb": "/thumbs/97f1374e-7f54-4f63-a889-2ad96992bf77/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

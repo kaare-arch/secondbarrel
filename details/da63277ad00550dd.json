@@ -1,0 +1,43 @@
+{
+ "id": "79f05c76-811d-4639-8a0a-dc84bde25627",
+ "detail_id": "da63277ad00550dd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/79f05c76-811d-4639-8a0a-dc84bde25627/salonriffel-22-mag",
+ "title": "Salonriffel 22 Mag",
+ "price_dkk": 1300,
+ "weapon_type": "Salonriffel",
+ "brand": "Marlin",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": "7000",
+ "by": "Fredericia",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/79f05c76-811d-4639-8a0a-dc84bde25627/0.webp",
+ "image_count": 3,
+ "lat": 55.57485304,
+ "lon": 9.65659006,
+ "description": "Fin og velskydende Marlin salonriffel i 22 Mag. Kikkerten er en Zeiss Duralyt 3-12x50 med fejlfrie linser. Kikkerten er med montager så den kan tages af og på uden indskydning. Der er gevind til lyddæmper på løbet. Riflen er halvautomatisk.  \nRiflen sælges for kr. 1300 uden kikkert og montage eller kr. 4700 med kikkert og montage",
+ "images": [
+  {
+   "full": "/images/79f05c76-811d-4639-8a0a-dc84bde25627/0.webp",
+   "thumb": "/thumbs/79f05c76-811d-4639-8a0a-dc84bde25627/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79f05c76-811d-4639-8a0a-dc84bde25627/1.webp",
+   "thumb": "/thumbs/79f05c76-811d-4639-8a0a-dc84bde25627/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79f05c76-811d-4639-8a0a-dc84bde25627/2.webp",
+   "thumb": "/thumbs/79f05c76-811d-4639-8a0a-dc84bde25627/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

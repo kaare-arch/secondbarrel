@@ -1,0 +1,39 @@
+{
+ "id": "3158bbdc-a47e-4b6e-ad04-b7467277bfae",
+ "detail_id": "bf122b8982b6aaed",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3158bbdc-a47e-4b6e-ad04-b7467277bfae/zabala-haglgevaer",
+ "title": "Zabala Haglgevær",
+ "price_dkk": 800,
+ "weapon_type": "Haglgevær",
+ "brand": "Zabala",
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-10-10",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3158bbdc-a47e-4b6e-ad04-b7467277bfae/0.webp",
+ "image_count": 2,
+ "lat": null,
+ "lon": null,
+ "description": "Zabala s/s haglgevær kaliber 16/70\nEt elegant våben med pænt træ og rene løb. Mekanisk i god stand\nDen er brugt men ikke misbrugt",
+ "images": [
+  {
+   "full": "/images/3158bbdc-a47e-4b6e-ad04-b7467277bfae/0.webp",
+   "thumb": "/thumbs/3158bbdc-a47e-4b6e-ad04-b7467277bfae/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3158bbdc-a47e-4b6e-ad04-b7467277bfae/1.webp",
+   "thumb": "/thumbs/3158bbdc-a47e-4b6e-ad04-b7467277bfae/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

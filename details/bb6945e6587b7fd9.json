@@ -1,0 +1,51 @@
+{
+ "id": "01e5875a-b169-4bbf-81a6-a3d63223f92e",
+ "detail_id": "bb6945e6587b7fd9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/01e5875a-b169-4bbf-81a6-a3d63223f92e/ruger-10-22-competition-lyddaemper-ammo-og-mere",
+ "title": "Ruger 10/22 Competition + Lyddæmper, Ammo og mere.",
+ "price_dkk": 12000,
+ "weapon_type": "Salonriffel",
+ "brand": "Ruger",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": "3600",
+ "by": "Frederikssund",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/01e5875a-b169-4bbf-81a6-a3d63223f92e/0.webp",
+ "image_count": 4,
+ "lat": 55.83658956,
+ "lon": 12.09380321,
+ "description": "Jeg sælger denne flotte Ruger 10/22 Competition, den er i meget god stand.\n\nDer medfølger:\n\nLyddæmper fra A-Tec, en A-Tec Wave Carbon.\n2 stk 25-skuds magasiner\n\n750 stk .22 LR patroner + en rest\n- 500 stk SK Long Range\n- 200 stk SK Semi-Auto\n- 50 + 30-ish SK Rifle Match\n\nSælges samlet.\n\nKræver Jagttegn.",
+ "images": [
+  {
+   "full": "/images/01e5875a-b169-4bbf-81a6-a3d63223f92e/0.webp",
+   "thumb": "/thumbs/01e5875a-b169-4bbf-81a6-a3d63223f92e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/01e5875a-b169-4bbf-81a6-a3d63223f92e/1.webp",
+   "thumb": "/thumbs/01e5875a-b169-4bbf-81a6-a3d63223f92e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/01e5875a-b169-4bbf-81a6-a3d63223f92e/2.webp",
+   "thumb": "/thumbs/01e5875a-b169-4bbf-81a6-a3d63223f92e/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/01e5875a-b169-4bbf-81a6-a3d63223f92e/3.webp",
+   "thumb": "/thumbs/01e5875a-b169-4bbf-81a6-a3d63223f92e/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "44a414a0-b05d-4f7e-8d9d-a2d832a19dd9",
+ "detail_id": "c0e512b790868c6d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/winchester-salonriffel-22-lr-halvautonatisk",
+ "title": "Winchester salonriffel 22 LR Halvautonatisk",
+ "price_dkk": 2200,
+ "weapon_type": "Salonriffel",
+ "brand": "Winchester",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": "7000",
+ "by": "Fredericia",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/0.webp",
+ "image_count": 3,
+ "lat": 55.57485304,
+ "lon": 9.65659006,
+ "description": "Rigtig fin halvautomatisk Winchester model 490. Riflen er halvautomatisk og skyder godt. Jeg har brugt den til regulering. Kikkerten er en Kina Swarovski i 4-20x56 der er knivskarp og uden ridser. Der er gevind i løbet til lyddæmper. Der er 5 skuds magasin.",
+ "images": [
+  {
+   "full": "/images/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/0.webp",
+   "thumb": "/thumbs/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/1.webp",
+   "thumb": "/thumbs/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/2.webp",
+   "thumb": "/thumbs/44a414a0-b05d-4f7e-8d9d-a2d832a19dd9/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

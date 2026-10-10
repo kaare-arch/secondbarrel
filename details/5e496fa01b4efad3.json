@@ -1,0 +1,67 @@
+{
+ "id": "52a6c819-4436-4555-9610-d9dd16a5f680",
+ "detail_id": "5e496fa01b4efad3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/52a6c819-4436-4555-9610-d9dd16a5f680/jagtgevaer-fra-marocchi-italien",
+ "title": "Jagtgevær fra Marocchi(Italien)",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-08",
+ "age_days": 2,
+ "postnummer": "7330",
+ "by": "Brande",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/0.webp",
+ "image_count": 7,
+ "lat": 55.93341595,
+ "lon": 9.0912202,
+ "description": "Dejligt og fuldt funktionel jagtgevær. God kvalitet, single aftrækker, faste chokes, men skyder virkelig godt som den er. Meget billigt.",
+ "images": [
+  {
+   "full": "/images/52a6c819-4436-4555-9610-d9dd16a5f680/0.webp",
+   "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52a6c819-4436-4555-9610-d9dd16a5f680/1.webp",
+   "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52a6c819-4436-4555-9610-d9dd16a5f680/2.webp",
+   "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52a6c819-4436-4555-9610-d9dd16a5f680/3.webp",
+   "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52a6c819-4436-4555-9610-d9dd16a5f680/4.webp",
+   "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52a6c819-4436-4555-9610-d9dd16a5f680/5.webp",
+   "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/52a6c819-4436-4555-9610-d9dd16a5f680/6.webp",
+   "thumb": "/thumbs/52a6c819-4436-4555-9610-d9dd16a5f680/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

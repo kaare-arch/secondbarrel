@@ -1,0 +1,39 @@
+{
+ "id": "7c64c388-c95d-4180-bef2-ef115987a54e",
+ "detail_id": "8b79157ece699776",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7c64c388-c95d-4180-bef2-ef115987a54e/voere-halvautomatisk-salonriffel",
+ "title": "Voere halvautomatisk salonriffel",
+ "price_dkk": 1800,
+ "weapon_type": "Salonriffel",
+ "brand": "Voere",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/7c64c388-c95d-4180-bef2-ef115987a54e/0.webp",
+ "image_count": 2,
+ "lat": null,
+ "lon": null,
+ "description": "Pæn og velholdt halvautomatisk salonriffel kaliber 22Lr. 10 skuds magasin\nVoere er Østrigsk og er kendt for god kvalitet\nMonteret med Simmoms 4x32 kikkert",
+ "images": [
+  {
+   "full": "/images/7c64c388-c95d-4180-bef2-ef115987a54e/0.webp",
+   "thumb": "/thumbs/7c64c388-c95d-4180-bef2-ef115987a54e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7c64c388-c95d-4180-bef2-ef115987a54e/1.webp",
+   "thumb": "/thumbs/7c64c388-c95d-4180-bef2-ef115987a54e/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

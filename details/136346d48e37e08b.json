@@ -1,0 +1,37 @@
+{
+ "id": "ea9d005c-c038-441e-b342-33cee9ef959a",
+ "detail_id": "136346d48e37e08b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ea9d005c-c038-441e-b342-33cee9ef959a/hawken-kaliber-50-forlader",
+ "title": "Hawken kaliber .50 forlader",
+ "price_dkk": 1700,
+ "weapon_type": "Jagtriffel",
+ "brand": "Thompson/Center",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ea9d005c-c038-441e-b342-33cee9ef959a/0.webp",
+ "image_count": 2,
+ "lat": null,
+ "lon": null,
+ "description": "En velholdt og mekanisk velfungerende percussions forlade riffel i kaliber .50\nDen er lavet af Thompson Center USA, som er kendt for god kvalitet, altså ikke en billig italiener.\nDer følger kugletang og lidt ladegrej med.",
+ "images": [
+  {
+   "full": "/images/ea9d005c-c038-441e-b342-33cee9ef959a/0.webp",
+   "thumb": "/thumbs/ea9d005c-c038-441e-b342-33cee9ef959a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ea9d005c-c038-441e-b342-33cee9ef959a/1.webp",
+   "thumb": "/thumbs/ea9d005c-c038-441e-b342-33cee9ef959a/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

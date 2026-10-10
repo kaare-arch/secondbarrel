@@ -1,0 +1,45 @@
+{
+ "id": "c265d247-c374-46a5-8695-34b777dfd29d",
+ "detail_id": "41784cd15404fe01",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c265d247-c374-46a5-8695-34b777dfd29d/toz-salonriffel-kal-22-lr",
+ "title": "Toz Salonriffel kal 22 Lr.",
+ "price_dkk": 800,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-10-10",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "Slidt",
+ "thumb": "/thumbs/c265d247-c374-46a5-8695-34b777dfd29d/0.webp",
+ "image_count": 3,
+ "lat": null,
+ "lon": null,
+ "description": "Russisk Toz salonriffel kal. 22 Lr. 5 skuds magasin \nDe var ikke kønne men de skød som regel godt de Russiske salonrifler.\nDen er udstyret med hvad der formodes være den originale russiske sigtekikkert",
+ "images": [
+  {
+   "full": "/images/c265d247-c374-46a5-8695-34b777dfd29d/0.webp",
+   "thumb": "/thumbs/c265d247-c374-46a5-8695-34b777dfd29d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c265d247-c374-46a5-8695-34b777dfd29d/1.webp",
+   "thumb": "/thumbs/c265d247-c374-46a5-8695-34b777dfd29d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c265d247-c374-46a5-8695-34b777dfd29d/2.webp",
+   "thumb": "/thumbs/c265d247-c374-46a5-8695-34b777dfd29d/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

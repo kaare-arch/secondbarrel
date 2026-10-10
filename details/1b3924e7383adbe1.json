@@ -1,0 +1,51 @@
+{
+ "id": "5e7f4a75-c485-4fdb-be27-076cdd60941e",
+ "detail_id": "1b3924e7383adbe1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5e7f4a75-c485-4fdb-be27-076cdd60941e/sauer-200-kaliber-6-5-x55",
+ "title": "Sauer 200 kaliber 6,5 x55",
+ "price_dkk": 11000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-10-10",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5e7f4a75-c485-4fdb-be27-076cdd60941e/0.webp",
+ "image_count": 4,
+ "lat": null,
+ "lon": null,
+ "description": "Meget flot Sauer 200 kaliber 6,5 x55  Med mulighed for skift af løb/kaliber\nNybruneret og 100% i orden. Træet er ret pænt uden nævneværdige brugsmærker.\nZeiss Diavari-Z   3-12  Monteret i EAW svingmontage\nNy Sonic Paradox 45 lyddæmper",
+ "images": [
+  {
+   "full": "/images/5e7f4a75-c485-4fdb-be27-076cdd60941e/0.webp",
+   "thumb": "/thumbs/5e7f4a75-c485-4fdb-be27-076cdd60941e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e7f4a75-c485-4fdb-be27-076cdd60941e/1.webp",
+   "thumb": "/thumbs/5e7f4a75-c485-4fdb-be27-076cdd60941e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e7f4a75-c485-4fdb-be27-076cdd60941e/2.webp",
+   "thumb": "/thumbs/5e7f4a75-c485-4fdb-be27-076cdd60941e/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e7f4a75-c485-4fdb-be27-076cdd60941e/3.webp",
+   "thumb": "/thumbs/5e7f4a75-c485-4fdb-be27-076cdd60941e/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

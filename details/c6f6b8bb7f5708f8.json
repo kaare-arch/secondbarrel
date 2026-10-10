@@ -1,0 +1,37 @@
+{
+ "id": "59b114b0-4966-4ecc-9def-34003999872d",
+ "detail_id": "c6f6b8bb7f5708f8",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/59b114b0-4966-4ecc-9def-34003999872d/winchester-model-1892-kaliber-44-40",
+ "title": "Winchester model 1892 kaliber 44-40",
+ "price_dkk": 2100,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "Slidt",
+ "thumb": "/thumbs/59b114b0-4966-4ecc-9def-34003999872d/0.webp",
+ "image_count": 2,
+ "lat": null,
+ "lon": null,
+ "description": "En lidt medtaget men sjælden model 1892 i kaliber 44-40 \nDen er ca fra år 1910 og er noget anløbet i løb og kammer.\nDen kan skyde, men den er ikke præcis pga. løbets tilstand.",
+ "images": [
+  {
+   "full": "/images/59b114b0-4966-4ecc-9def-34003999872d/0.webp",
+   "thumb": "/thumbs/59b114b0-4966-4ecc-9def-34003999872d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/59b114b0-4966-4ecc-9def-34003999872d/1.webp",
+   "thumb": "/thumbs/59b114b0-4966-4ecc-9def-34003999872d/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

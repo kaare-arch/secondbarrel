@@ -1,0 +1,51 @@
+{
+ "id": "1c076162-a09f-4c32-bec8-60a3fec63331",
+ "detail_id": "14e4b9cfd94b0141",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1c076162-a09f-4c32-bec8-60a3fec63331/winchester-9422-mag",
+ "title": "Winchester 9422 mag",
+ "price_dkk": 3000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-08",
+ "age_days": 2,
+ "postnummer": "9690",
+ "by": "Fjerritslev",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1c076162-a09f-4c32-bec8-60a3fec63331/0.webp",
+ "image_count": 4,
+ "lat": 57.08331334,
+ "lon": 9.21990612,
+ "description": "Winchester 9422 Magnum,  med 11 skuds rørmagasin,  produceret i 1991, ikke brugt meget , der medfølger ca. 200 patroner, lidt overfladerust på venstre side af løb,  kun visuelt, mekanisk ok, modtager bud over 3000.-, eller den kan indgå i byttehandel, med riffel cal 30.06, eller håndkikkert 8x42, eller sigtekikkert",
+ "images": [
+  {
+   "full": "/images/1c076162-a09f-4c32-bec8-60a3fec63331/0.webp",
+   "thumb": "/thumbs/1c076162-a09f-4c32-bec8-60a3fec63331/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c076162-a09f-4c32-bec8-60a3fec63331/1.webp",
+   "thumb": "/thumbs/1c076162-a09f-4c32-bec8-60a3fec63331/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c076162-a09f-4c32-bec8-60a3fec63331/2.webp",
+   "thumb": "/thumbs/1c076162-a09f-4c32-bec8-60a3fec63331/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1c076162-a09f-4c32-bec8-60a3fec63331/3.webp",
+   "thumb": "/thumbs/1c076162-a09f-4c32-bec8-60a3fec63331/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

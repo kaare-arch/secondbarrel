@@ -1,0 +1,37 @@
+{
+ "id": "6b9984bc-98da-4ca4-b79a-0cb27e655004",
+ "detail_id": "29b8c4426584f059",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6b9984bc-98da-4ca4-b79a-0cb27e655004/b825-browning",
+ "title": "B825 browning",
+ "price_dkk": 25500,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": "4720",
+ "by": "Præstø",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/6b9984bc-98da-4ca4-b79a-0cb27e655004/0.webp",
+ "image_count": 2,
+ "lat": 55.09676321,
+ "lon": 12.01502847,
+ "description": "B825 brugt meget lidt sidste år \nKøbt hos våbensmeden \n Der medfølger kasse, Chokes, nøgle.",
+ "images": [
+  {
+   "full": "/images/6b9984bc-98da-4ca4-b79a-0cb27e655004/0.webp",
+   "thumb": "/thumbs/6b9984bc-98da-4ca4-b79a-0cb27e655004/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6b9984bc-98da-4ca4-b79a-0cb27e655004/1.webp",
+   "thumb": "/thumbs/6b9984bc-98da-4ca4-b79a-0cb27e655004/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

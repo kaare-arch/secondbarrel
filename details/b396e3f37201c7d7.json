@@ -1,0 +1,45 @@
+{
+ "id": "569220b9-78c1-400f-96e1-5325ba4e57d1",
+ "detail_id": "b396e3f37201c7d7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/569220b9-78c1-400f-96e1-5325ba4e57d1/anschutz-1386-22-lr",
+ "title": "Anschütz 1386 22 LR",
+ "price_dkk": 500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Anschütz",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-09",
+ "age_days": 1,
+ "postnummer": "4270",
+ "by": "Høng",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/569220b9-78c1-400f-96e1-5325ba4e57d1/0.webp",
+ "image_count": 3,
+ "lat": 55.50308551,
+ "lon": 11.30548124,
+ "description": "Super fin salonriffel med nogle år på banen men ellers rigtig flot. \n medfølger en kikkert  \nMontager \nScandium 3-9x40AO\nHar I ikke skudt i nogle år\n\nHandel og tilladelse:\n\n* Gyldigt jagttegn skal fremvises.\n* Vi gennemgår ansøgningen om våbentilladelse sammen, så vi sikrer, at alle oplysninger bliver udfyldt korrekt.\n* Købesummen betales inden ansøgningen indsendes.",
+ "images": [
+  {
+   "full": "/images/569220b9-78c1-400f-96e1-5325ba4e57d1/0.webp",
+   "thumb": "/thumbs/569220b9-78c1-400f-96e1-5325ba4e57d1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/569220b9-78c1-400f-96e1-5325ba4e57d1/1.webp",
+   "thumb": "/thumbs/569220b9-78c1-400f-96e1-5325ba4e57d1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/569220b9-78c1-400f-96e1-5325ba4e57d1/2.webp",
+   "thumb": "/thumbs/569220b9-78c1-400f-96e1-5325ba4e57d1/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "18be9a02-cfd5-471f-bba4-bc341b9a2df8",
+ "detail_id": "cbf69a6a4a4efcf3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/18be9a02-cfd5-471f-bba4-bc341b9a2df8/beretta-682-lux",
+ "title": "Beretta 682 Lux",
+ "price_dkk": 23800,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-08",
+ "age_days": 2,
+ "postnummer": "5800",
+ "by": "Nyborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/18be9a02-cfd5-471f-bba4-bc341b9a2df8/0.webp",
+ "image_count": 6,
+ "lat": 55.34895451,
+ "lon": 10.74962749,
+ "description": "Beretta 682 i den sjældne udgave L, L for Lux.\nBoret halv/halv.",
+ "images": [
+  {
+   "full": "/images/18be9a02-cfd5-471f-bba4-bc341b9a2df8/0.webp",
+   "thumb": "/thumbs/18be9a02-cfd5-471f-bba4-bc341b9a2df8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18be9a02-cfd5-471f-bba4-bc341b9a2df8/1.webp",
+   "thumb": "/thumbs/18be9a02-cfd5-471f-bba4-bc341b9a2df8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18be9a02-cfd5-471f-bba4-bc341b9a2df8/2.webp",
+   "thumb": "/thumbs/18be9a02-cfd5-471f-bba4-bc341b9a2df8/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18be9a02-cfd5-471f-bba4-bc341b9a2df8/3.webp",
+   "thumb": "/thumbs/18be9a02-cfd5-471f-bba4-bc341b9a2df8/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18be9a02-cfd5-471f-bba4-bc341b9a2df8/4.webp",
+   "thumb": "/thumbs/18be9a02-cfd5-471f-bba4-bc341b9a2df8/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18be9a02-cfd5-471f-bba4-bc341b9a2df8/5.webp",
+   "thumb": "/thumbs/18be9a02-cfd5-471f-bba4-bc341b9a2df8/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
