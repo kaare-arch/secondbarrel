@@ -17,10 +17,29 @@
  "postnummer": null,
  "by": null,
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/a0388606-94df-4df0-8f6a-8c076e18f6cf/0.webp",
+ "image_count": 3,
  "lat": null,
  "lon": null,
  "description": "Kommisionshandel\nSauer 100 kaliber 30-06\n\nOBS UDEN OPTIK",
- "images": []
+ "images": [
+  {
+   "full": "/images/a0388606-94df-4df0-8f6a-8c076e18f6cf/0.webp",
+   "thumb": "/thumbs/a0388606-94df-4df0-8f6a-8c076e18f6cf/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a0388606-94df-4df0-8f6a-8c076e18f6cf/1.webp",
+   "thumb": "/thumbs/a0388606-94df-4df0-8f6a-8c076e18f6cf/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a0388606-94df-4df0-8f6a-8c076e18f6cf/2.webp",
+   "thumb": "/thumbs/a0388606-94df-4df0-8f6a-8c076e18f6cf/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

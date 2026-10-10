@@ -17,10 +17,29 @@
  "postnummer": "5884",
  "by": "Gudme",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/2f1cbc08-aa88-42b6-bdbb-7c33db7e6f87/0.webp",
+ "image_count": 3,
  "lat": 55.1496317,
  "lon": 10.7120614,
  "description": "Flot SKB kaliber 12/70 med bred sigteskinne og hjælpekorn  (originalt) 71 cm løb og 36cm skæfte - et haglgevær af ypperste kvalitet og med en fin balance samt flotte graveringer - singletrigger og ejector",
- "images": []
+ "images": [
+  {
+   "full": "/images/2f1cbc08-aa88-42b6-bdbb-7c33db7e6f87/0.webp",
+   "thumb": "/thumbs/2f1cbc08-aa88-42b6-bdbb-7c33db7e6f87/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f1cbc08-aa88-42b6-bdbb-7c33db7e6f87/1.webp",
+   "thumb": "/thumbs/2f1cbc08-aa88-42b6-bdbb-7c33db7e6f87/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f1cbc08-aa88-42b6-bdbb-7c33db7e6f87/2.webp",
+   "thumb": "/thumbs/2f1cbc08-aa88-42b6-bdbb-7c33db7e6f87/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

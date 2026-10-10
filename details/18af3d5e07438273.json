@@ -17,10 +17,17 @@
  "postnummer": null,
  "by": null,
  "stand_gg": "Næsten som ny",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/7b49aa36-fecf-485d-80d0-410adb2edc56/0.webp",
+ "image_count": 1,
  "lat": null,
  "lon": null,
  "description": "Flot og velholdt Franci Horizon kaliber 270win\nMonteret med Scandium X6 3-18X56\nDer medfølger hel til en Nielsen Sonic Paradox lyddæmper.\nRiflen har skudt under 300skud og står som ny",
- "images": []
+ "images": [
+  {
+   "full": "/images/7b49aa36-fecf-485d-80d0-410adb2edc56/0.webp",
+   "thumb": "/thumbs/7b49aa36-fecf-485d-80d0-410adb2edc56/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

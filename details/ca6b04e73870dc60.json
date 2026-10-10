@@ -17,10 +17,29 @@
  "postnummer": "6541",
  "by": "Bevtoft",
  "stand_gg": "Næsten som ny",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/0.webp",
+ "image_count": 3,
  "lat": 55.19588025,
  "lon": 9.19750089,
  "description": "Pæn bbf tikka 512 i 7*57r/12-70 med originale montage og tasco kikker",
- "images": []
+ "images": [
+  {
+   "full": "/images/70695235-4e15-4d1a-b71f-22d7995b1d60/0.webp",
+   "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/70695235-4e15-4d1a-b71f-22d7995b1d60/1.webp",
+   "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/70695235-4e15-4d1a-b71f-22d7995b1d60/2.webp",
+   "thumb": "/thumbs/70695235-4e15-4d1a-b71f-22d7995b1d60/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

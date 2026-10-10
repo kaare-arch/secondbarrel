@@ -17,10 +17,23 @@
  "postnummer": "6710",
  "by": "Esbjerg V",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/d876940d-e89c-4877-adbf-ee7e6b3c8c1d/0.webp",
+ "image_count": 2,
  "lat": 55.56107856,
  "lon": 8.35680928,
  "description": "Jagtriffel   CZ 557 308 Win  \nsyntetisk skæfte , uden aftagelig  magasin , med eller uden optik Clarity 3-12x50\nCZ. pris 8500 dkk med optik. , 5000 uden optik \nDet var på,jagt ikke så mange gange  da jeg har også polsk jagttegn og mest gå på jagt i PL hvor jeg har andet riffel \nAlt dokumentation følge med",
- "images": []
+ "images": [
+  {
+   "full": "/images/d876940d-e89c-4877-adbf-ee7e6b3c8c1d/0.webp",
+   "thumb": "/thumbs/d876940d-e89c-4877-adbf-ee7e6b3c8c1d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d876940d-e89c-4877-adbf-ee7e6b3c8c1d/1.webp",
+   "thumb": "/thumbs/d876940d-e89c-4877-adbf-ee7e6b3c8c1d/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

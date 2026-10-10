@@ -17,10 +17,23 @@
  "postnummer": "9210",
  "by": "Aalborg SØ",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/6f4fa2f5-fb6a-4e2d-8f7e-f1180a18d483/0.webp",
+ "image_count": 2,
  "lat": 56.9991663,
  "lon": 9.93295578,
  "description": "Riflen er købt i Jægeren og Lystfiskeren i Aalborg 2023.\nDet er en kaliber 30.06, så passer perfekt til alt vildt lige fra ræv, rådyr, dådyr, krondyr, vildsvin og den store elg.\nJeg har været utrolig glad for den som min første riffel, og sælger kun da jeg går fra at have 3 rifler til kun at have en.  \nKikkerten er med belyst sigte med en rød belyst prik i midten af sigtekornet. \nLyddæmper fra Schultz & Larsen, Ny pris: 1.795 kr. \nKikkerten fra Walter 3-12 Ny pris: 3.995 kr. \n\nSalmet pris for det hele 6.900 ,-.\nPrisen er fast.",
- "images": []
+ "images": [
+  {
+   "full": "/images/6f4fa2f5-fb6a-4e2d-8f7e-f1180a18d483/0.webp",
+   "thumb": "/thumbs/6f4fa2f5-fb6a-4e2d-8f7e-f1180a18d483/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6f4fa2f5-fb6a-4e2d-8f7e-f1180a18d483/1.webp",
+   "thumb": "/thumbs/6f4fa2f5-fb6a-4e2d-8f7e-f1180a18d483/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

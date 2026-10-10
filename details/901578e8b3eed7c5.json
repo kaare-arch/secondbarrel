@@ -15,10 +15,29 @@
  "postnummer": "5600",
  "by": "Faaborg",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/06e8b63d-3810-40db-baa8-463e640fd65b/0.webp",
+ "image_count": 3,
  "lat": 55.1212673,
  "lon": 10.31643929,
  "description": "Belgisk Haglgevær cal 16 sortkrudt\ngeværet er slidt med lidt slør, geværet er funktionsdueligt.\nJagttegn eller samlertilladelse skal forevises ved overtagelse.",
- "images": []
+ "images": [
+  {
+   "full": "/images/06e8b63d-3810-40db-baa8-463e640fd65b/0.webp",
+   "thumb": "/thumbs/06e8b63d-3810-40db-baa8-463e640fd65b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06e8b63d-3810-40db-baa8-463e640fd65b/1.webp",
+   "thumb": "/thumbs/06e8b63d-3810-40db-baa8-463e640fd65b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06e8b63d-3810-40db-baa8-463e640fd65b/2.webp",
+   "thumb": "/thumbs/06e8b63d-3810-40db-baa8-463e640fd65b/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

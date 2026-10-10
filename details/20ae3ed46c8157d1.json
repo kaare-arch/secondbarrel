@@ -17,10 +17,59 @@
  "postnummer": "5600",
  "by": "Faaborg",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/0.webp",
+ "image_count": 8,
  "lat": 55.1212673,
  "lon": 10.31643929,
  "description": "Mauser Lås Gew 98 med pibe i cal 6,5x55 \nsat til salg for familiemedlem. \nRiffeltilladelse eller SKV skal forevises ved overtagelse",
- "images": []
+ "images": [
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/0.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/1.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/2.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/3.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/4.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/5.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/6.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/caf7dc77-1356-46ef-a8f7-703b1119d50c/7.webp",
+   "thumb": "/thumbs/caf7dc77-1356-46ef-a8f7-703b1119d50c/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

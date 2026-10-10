@@ -15,10 +15,29 @@
  "postnummer": "4180",
  "by": "Sorø",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/0.webp",
+ "image_count": 3,
  "lat": 55.40880423,
  "lon": 11.55727004,
  "description": "Dobbeltriffel cal 450 Bpe. God renoveret stand. Holland and Holland.",
- "images": []
+ "images": [
+  {
+   "full": "/images/6d24cd65-c24a-473e-8f79-6998130fdb31/0.webp",
+   "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d24cd65-c24a-473e-8f79-6998130fdb31/1.webp",
+   "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6d24cd65-c24a-473e-8f79-6998130fdb31/2.webp",
+   "thumb": "/thumbs/6d24cd65-c24a-473e-8f79-6998130fdb31/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

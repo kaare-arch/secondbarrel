@@ -15,10 +15,29 @@
  "postnummer": "5540",
  "by": "Ullerslev",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/ab261607-b608-4ac3-86a0-5263326e4b8e/0.webp",
+ "image_count": 3,
  "lat": 55.3853962,
  "lon": 10.67264449,
  "description": "Flot og velholdt gevær kontakt på [tlf fjernet]",
- "images": []
+ "images": [
+  {
+   "full": "/images/ab261607-b608-4ac3-86a0-5263326e4b8e/0.webp",
+   "thumb": "/thumbs/ab261607-b608-4ac3-86a0-5263326e4b8e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ab261607-b608-4ac3-86a0-5263326e4b8e/1.webp",
+   "thumb": "/thumbs/ab261607-b608-4ac3-86a0-5263326e4b8e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ab261607-b608-4ac3-86a0-5263326e4b8e/2.webp",
+   "thumb": "/thumbs/ab261607-b608-4ac3-86a0-5263326e4b8e/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

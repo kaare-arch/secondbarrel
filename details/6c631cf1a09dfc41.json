@@ -18,10 +18,29 @@
  "postnummer": "2665",
  "by": "Vallensbæk Strand",
  "stand_gg": "Næsten som ny",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/0.webp",
+ "image_count": 3,
  "lat": 55.61962618,
  "lon": 12.3884378,
  "description": "Kort Schultz Larsen magasin, passer blandt andet til 243win, 308win, 22-250rem",
- "images": []
+ "images": [
+  {
+   "full": "/images/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/0.webp",
+   "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/1.webp",
+   "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/2.webp",
+   "thumb": "/thumbs/7b6400d3-30e0-43a8-84c9-f48f9dbd7c0c/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

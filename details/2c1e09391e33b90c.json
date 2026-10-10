@@ -17,10 +17,41 @@
  "postnummer": "8870",
  "by": "Langå",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/0.webp",
+ "image_count": 5,
  "lat": 56.3806496,
  "lon": 9.90941177,
  "description": "Pæn og velholdt Carl Gustav 6,5x55 sælges til 500kr kikkert sigte 3x9x40 kan monteres til en mere pris på 350kr",
- "images": []
+ "images": [
+  {
+   "full": "/images/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/0.webp",
+   "thumb": "/thumbs/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/1.webp",
+   "thumb": "/thumbs/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/2.webp",
+   "thumb": "/thumbs/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/3.webp",
+   "thumb": "/thumbs/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/4.webp",
+   "thumb": "/thumbs/ecbde5da-2c08-492d-978a-2e3afa9c2a9e/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

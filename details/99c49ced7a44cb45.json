@@ -15,10 +15,29 @@
  "postnummer": "9440",
  "by": "Aabybro",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/0.webp",
+ "image_count": 3,
  "lat": 57.16281999,
  "lon": 9.76743307,
  "description": "Fint kombivåben, der kan medfølge 40 patroner for kun 1500,-",
- "images": []
+ "images": [
+  {
+   "full": "/images/79fa8403-52df-4dc6-aa03-051c45ddde53/0.webp",
+   "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79fa8403-52df-4dc6-aa03-051c45ddde53/1.webp",
+   "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/79fa8403-52df-4dc6-aa03-051c45ddde53/2.webp",
+   "thumb": "/thumbs/79fa8403-52df-4dc6-aa03-051c45ddde53/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

@@ -17,10 +17,47 @@
  "postnummer": "5953",
  "by": "Tranekær",
  "stand_gg": "Næsten som ny",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/0.webp",
+ "image_count": 6,
  "lat": 54.96442775,
  "lon": 10.81258311,
  "description": "Italiensk kvalitets haglgevær Silma model 70 lux Cal. 12-89, 76 cm. Har kun skudt 38 skud og fremtræder derfor som ny, helt uden brugsspor. Der medfølger etui, ekstra trangboringer og rensestok",
- "images": []
+ "images": [
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/0.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/1.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/2.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/3.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/4.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd35f2a1-c218-4701-b599-dce41177f0dc/5.webp",
+   "thumb": "/thumbs/dd35f2a1-c218-4701-b599-dce41177f0dc/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

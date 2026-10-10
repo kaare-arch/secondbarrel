@@ -15,10 +15,29 @@
  "postnummer": "6870",
  "by": "Ølgod",
  "stand_gg": "Næsten som ny",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/41bb841f-bf4c-4cf6-9b55-f77f8d4272e0/0.webp",
+ "image_count": 3,
  "lat": 55.79347704,
  "lon": 8.61815877,
  "description": "M03 extreme system med 7 mm rem mag, 17 mm pibe med sigtemidler.(65 cm).\nInkl magasin.",
- "images": []
+ "images": [
+  {
+   "full": "/images/41bb841f-bf4c-4cf6-9b55-f77f8d4272e0/0.webp",
+   "thumb": "/thumbs/41bb841f-bf4c-4cf6-9b55-f77f8d4272e0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/41bb841f-bf4c-4cf6-9b55-f77f8d4272e0/1.webp",
+   "thumb": "/thumbs/41bb841f-bf4c-4cf6-9b55-f77f8d4272e0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/41bb841f-bf4c-4cf6-9b55-f77f8d4272e0/2.webp",
+   "thumb": "/thumbs/41bb841f-bf4c-4cf6-9b55-f77f8d4272e0/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

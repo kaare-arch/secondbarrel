@@ -17,10 +17,29 @@
  "postnummer": "7400",
  "by": "Herning",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/d75a24ac-83d9-44ee-a710-c35ff3e50a78/0.webp",
+ "image_count": 3,
  "lat": 56.11911505,
  "lon": 8.98775376,
  "description": "Blaser R93 9.3x62 Riffelpibe",
- "images": []
+ "images": [
+  {
+   "full": "/images/d75a24ac-83d9-44ee-a710-c35ff3e50a78/0.webp",
+   "thumb": "/thumbs/d75a24ac-83d9-44ee-a710-c35ff3e50a78/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d75a24ac-83d9-44ee-a710-c35ff3e50a78/1.webp",
+   "thumb": "/thumbs/d75a24ac-83d9-44ee-a710-c35ff3e50a78/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d75a24ac-83d9-44ee-a710-c35ff3e50a78/2.webp",
+   "thumb": "/thumbs/d75a24ac-83d9-44ee-a710-c35ff3e50a78/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

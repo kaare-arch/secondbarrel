@@ -17,10 +17,29 @@
  "postnummer": "5700",
  "by": "Svendborg",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/ecae5599-ffe4-40b1-97b8-c3acd2b4c11e/0.webp",
+ "image_count": 3,
  "lat": 54.98699919,
  "lon": 10.57527981,
  "description": "Geværet er pænt efter alder og det er fra før 1940 og der sidder et emblem på for et vundet mesterskab i 1942.\nJagttegn kræves",
- "images": []
+ "images": [
+  {
+   "full": "/images/ecae5599-ffe4-40b1-97b8-c3acd2b4c11e/0.webp",
+   "thumb": "/thumbs/ecae5599-ffe4-40b1-97b8-c3acd2b4c11e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecae5599-ffe4-40b1-97b8-c3acd2b4c11e/1.webp",
+   "thumb": "/thumbs/ecae5599-ffe4-40b1-97b8-c3acd2b4c11e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ecae5599-ffe4-40b1-97b8-c3acd2b4c11e/2.webp",
+   "thumb": "/thumbs/ecae5599-ffe4-40b1-97b8-c3acd2b4c11e/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

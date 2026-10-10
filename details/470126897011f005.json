@@ -15,10 +15,29 @@
  "postnummer": "3480",
  "by": "Fredensborg",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/0.webp",
+ "image_count": 3,
  "lat": 55.97086354,
  "lon": 12.40200836,
  "description": "SCHULTZ og LARSEN veksel pibe til model 97DL:-\n1 stk S&L kal 7x57 ackley improved, 65cm pibe uden gevind 17mm kron",
- "images": []
+ "images": [
+  {
+   "full": "/images/c541c4b8-0f51-477a-a4dc-c58d35537f77/0.webp",
+   "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c541c4b8-0f51-477a-a4dc-c58d35537f77/1.webp",
+   "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c541c4b8-0f51-477a-a4dc-c58d35537f77/2.webp",
+   "thumb": "/thumbs/c541c4b8-0f51-477a-a4dc-c58d35537f77/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

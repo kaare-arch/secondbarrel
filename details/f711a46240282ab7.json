@@ -17,10 +17,59 @@
  "postnummer": "8600",
  "by": "Silkeborg",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/0.webp",
+ "image_count": 8,
  "lat": 56.17147071,
  "lon": 9.4900253,
  "description": "Fin halvautomat i 12 / 89 \n\nHar lidt udfordringer med at repetere nr. 2 hagl når jeg har været på banen har ikke fået kigget på hvorfor da\njeg har købt en 940 jm pro.",
- "images": []
+ "images": [
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/0.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/1.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/2.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/3.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/4.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/5.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/6.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ff17dd35-701c-4c37-b08b-360084af50d1/7.webp",
+   "thumb": "/thumbs/ff17dd35-701c-4c37-b08b-360084af50d1/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

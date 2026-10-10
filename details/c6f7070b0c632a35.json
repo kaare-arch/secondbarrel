@@ -17,10 +17,35 @@
  "postnummer": "4230",
  "by": "Skælskør",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/0.webp",
+ "image_count": 4,
  "lat": 55.23824003,
  "lon": 11.33872913,
  "description": "Velholdt men med brugs spor. Er monteret med baser til S&L kikkert montage.",
- "images": []
+ "images": [
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/0.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/1.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/2.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d409dcf-d993-4059-809a-fe9955090eff/3.webp",
+   "thumb": "/thumbs/7d409dcf-d993-4059-809a-fe9955090eff/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

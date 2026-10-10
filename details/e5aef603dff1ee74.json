@@ -15,10 +15,29 @@
  "postnummer": "6360",
  "by": "Tinglev",
  "stand_gg": "Slidt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/90a26fa2-a479-44d3-8b98-e1a3be212f88/0.webp",
+ "image_count": 3,
  "lat": 54.90310802,
  "lon": 9.20354055,
  "description": "Ældre jagtgevær, trænger til en kærlig hånd.\nSavage arms, Stevens model 94, series M cal. 16\nevt. bytte med andet våben.",
- "images": []
+ "images": [
+  {
+   "full": "/images/90a26fa2-a479-44d3-8b98-e1a3be212f88/0.webp",
+   "thumb": "/thumbs/90a26fa2-a479-44d3-8b98-e1a3be212f88/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/90a26fa2-a479-44d3-8b98-e1a3be212f88/1.webp",
+   "thumb": "/thumbs/90a26fa2-a479-44d3-8b98-e1a3be212f88/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/90a26fa2-a479-44d3-8b98-e1a3be212f88/2.webp",
+   "thumb": "/thumbs/90a26fa2-a479-44d3-8b98-e1a3be212f88/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

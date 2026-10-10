@@ -17,10 +17,29 @@
  "postnummer": "6760",
  "by": "Ribe",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/11124bf4-0c35-4404-b3e8-ae1c085ce66d/0.webp",
+ "image_count": 3,
  "lat": 55.30372309,
  "lon": 8.77710386,
  "description": "Miroku ældre gevær med brugs  mærke, har ikke skudt mange skud, et gevær med mange gode jagt år endnu.\n12/70 tranboring forløb 17,9 bagløb 17,5   \nKun salg mod fremvisning af gyldig jagttegn.\nJeg kan kontaktes på [tlf fjernet]",
- "images": []
+ "images": [
+  {
+   "full": "/images/11124bf4-0c35-4404-b3e8-ae1c085ce66d/0.webp",
+   "thumb": "/thumbs/11124bf4-0c35-4404-b3e8-ae1c085ce66d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11124bf4-0c35-4404-b3e8-ae1c085ce66d/1.webp",
+   "thumb": "/thumbs/11124bf4-0c35-4404-b3e8-ae1c085ce66d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/11124bf4-0c35-4404-b3e8-ae1c085ce66d/2.webp",
+   "thumb": "/thumbs/11124bf4-0c35-4404-b3e8-ae1c085ce66d/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

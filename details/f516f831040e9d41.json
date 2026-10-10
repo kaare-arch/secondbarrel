@@ -17,10 +17,29 @@
  "postnummer": "5000",
  "by": "Odense C",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/9f0223b2-0f2e-4396-80af-f93bbdf3c5f1/0.webp",
+ "image_count": 3,
  "lat": 55.40946975,
  "lon": 10.40417837,
  "description": "Rigtig fin AYA i kaliber 16-70 \nMed et utroligt flot stykke skæftetræ.\nGeværet er uden slør og går super fint i låsen.",
- "images": []
+ "images": [
+  {
+   "full": "/images/9f0223b2-0f2e-4396-80af-f93bbdf3c5f1/0.webp",
+   "thumb": "/thumbs/9f0223b2-0f2e-4396-80af-f93bbdf3c5f1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9f0223b2-0f2e-4396-80af-f93bbdf3c5f1/1.webp",
+   "thumb": "/thumbs/9f0223b2-0f2e-4396-80af-f93bbdf3c5f1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9f0223b2-0f2e-4396-80af-f93bbdf3c5f1/2.webp",
+   "thumb": "/thumbs/9f0223b2-0f2e-4396-80af-f93bbdf3c5f1/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

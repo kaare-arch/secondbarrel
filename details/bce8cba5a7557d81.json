@@ -17,10 +17,35 @@
  "postnummer": "4180",
  "by": "Sorø",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/b2e80cff-2fe8-4661-858f-6ee176ab6558/0.webp",
+ "image_count": 4,
  "lat": 55.40880423,
  "lon": 11.55727004,
  "description": "Pænt Simson Suhl 12/70 Boret 1/2-3/4 Længde aftrækker ca.38cm  med 2 Aftrækker",
- "images": []
+ "images": [
+  {
+   "full": "/images/b2e80cff-2fe8-4661-858f-6ee176ab6558/0.webp",
+   "thumb": "/thumbs/b2e80cff-2fe8-4661-858f-6ee176ab6558/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b2e80cff-2fe8-4661-858f-6ee176ab6558/1.webp",
+   "thumb": "/thumbs/b2e80cff-2fe8-4661-858f-6ee176ab6558/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b2e80cff-2fe8-4661-858f-6ee176ab6558/2.webp",
+   "thumb": "/thumbs/b2e80cff-2fe8-4661-858f-6ee176ab6558/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b2e80cff-2fe8-4661-858f-6ee176ab6558/3.webp",
+   "thumb": "/thumbs/b2e80cff-2fe8-4661-858f-6ee176ab6558/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

@@ -17,10 +17,29 @@
  "postnummer": "9460",
  "by": "Brovst",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/0.webp",
+ "image_count": 3,
  "lat": 57.11409455,
  "lon": 9.52916425,
  "description": "Velholdt S/S Spansk cal 12/70.Canones Eibar. Sælges kun pga. Jagtophør.\nBlanke løb , intakt brunering, velfungerende uden slør.  1800,-\nOverskud af jagt-ammunition kan eventuelt tilkøbes",
- "images": []
+ "images": [
+  {
+   "full": "/images/60052a8d-2983-424f-b981-24f686c61824/0.webp",
+   "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60052a8d-2983-424f-b981-24f686c61824/1.webp",
+   "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/60052a8d-2983-424f-b981-24f686c61824/2.webp",
+   "thumb": "/thumbs/60052a8d-2983-424f-b981-24f686c61824/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

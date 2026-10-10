@@ -15,10 +15,17 @@
  "postnummer": "4894",
  "by": "Øster Ulslev",
  "stand_gg": "Ny",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/25ffe8fa-bba7-4308-a0ac-6f111b4f26e4/0.webp",
+ "image_count": 1,
  "lat": 54.68680743,
  "lon": 11.60788029,
  "description": "Ny matchpibe i kaliber 6xc. Aldrig taget i brug. Lyddæmper og nyt diesæt medfølger",
- "images": []
+ "images": [
+  {
+   "full": "/images/25ffe8fa-bba7-4308-a0ac-6f111b4f26e4/0.webp",
+   "thumb": "/thumbs/25ffe8fa-bba7-4308-a0ac-6f111b4f26e4/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

@@ -17,10 +17,29 @@
  "postnummer": "7190",
  "by": "Billund",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/aa135b78-d173-4732-b4b7-221502d602d8/0.webp",
+ "image_count": 3,
  "lat": 55.73792043,
  "lon": 9.10071489,
  "description": "kombi våben  bruno med ekstra havnløb kaliber 12x70 kuleløb   7x57r",
- "images": []
+ "images": [
+  {
+   "full": "/images/aa135b78-d173-4732-b4b7-221502d602d8/0.webp",
+   "thumb": "/thumbs/aa135b78-d173-4732-b4b7-221502d602d8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa135b78-d173-4732-b4b7-221502d602d8/1.webp",
+   "thumb": "/thumbs/aa135b78-d173-4732-b4b7-221502d602d8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa135b78-d173-4732-b4b7-221502d602d8/2.webp",
+   "thumb": "/thumbs/aa135b78-d173-4732-b4b7-221502d602d8/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

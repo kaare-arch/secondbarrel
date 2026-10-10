@@ -17,10 +17,29 @@
  "postnummer": "8930",
  "by": "Randers NØ",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/0.webp",
+ "image_count": 3,
  "lat": 56.50133804,
  "lon": 10.1684307,
  "description": "Med special fremstillet skæfte – originalt skæfte medfølger.\nBR Reflex Lyddæmper\nWeaver CV16  - 4-16 x 42, med modlysblænde.\nPris: 3500 kr.",
- "images": []
+ "images": [
+  {
+   "full": "/images/747f207d-d2cf-4e72-96bc-edba5ab4e655/0.webp",
+   "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/747f207d-d2cf-4e72-96bc-edba5ab4e655/1.webp",
+   "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/747f207d-d2cf-4e72-96bc-edba5ab4e655/2.webp",
+   "thumb": "/thumbs/747f207d-d2cf-4e72-96bc-edba5ab4e655/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }

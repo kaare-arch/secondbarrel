@@ -15,10 +15,29 @@
  "postnummer": "8752",
  "by": "Østbirk",
  "stand_gg": "God, men brugt",
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/32112ad4-12d4-4693-9a64-9f865983386f/0.webp",
+ "image_count": 3,
  "lat": 55.96885636,
  "lon": 9.75712583,
  "description": "Har siddet på min Browning Citori, som jeg ikke har mere.\nDet ser ud som nyt.",
- "images": []
+ "images": [
+  {
+   "full": "/images/32112ad4-12d4-4693-9a64-9f865983386f/0.webp",
+   "thumb": "/thumbs/32112ad4-12d4-4693-9a64-9f865983386f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/32112ad4-12d4-4693-9a64-9f865983386f/1.webp",
+   "thumb": "/thumbs/32112ad4-12d4-4693-9a64-9f865983386f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/32112ad4-12d4-4693-9a64-9f865983386f/2.webp",
+   "thumb": "/thumbs/32112ad4-12d4-4693-9a64-9f865983386f/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
 }
