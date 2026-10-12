@@ -1,0 +1,63 @@
+{
+ "id": "c7c18c1b-14f3-407b-938f-157fcd8cb812",
+ "detail_id": "ff487106e640503e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c7c18c1b-14f3-407b-938f-157fcd8cb812/antonio-zoli-1900-6-5x55",
+ "title": "Antonio Zoli 1900 6,5x55",
+ "price_dkk": 9500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Zoli",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-11",
+ "age_days": 1,
+ "postnummer": "3450",
+ "by": "Allerød",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c7c18c1b-14f3-407b-938f-157fcd8cb812/0.webp",
+ "image_count": 6,
+ "lat": 55.86605512,
+ "lon": 12.33661891,
+ "description": "Antonio Zoli (Italiensk licens produceret Husquarna). Velskydene lækker riffel med Freyr & Devik dæmper, Leupold kikkert VX.R 3-9x50 Firedot (lys). \nDer medfølger en masse ammunition,  jagt ammo (både blyfri og med bly) samt en masse spidsskarp.",
+ "images": [
+  {
+   "full": "/images/c7c18c1b-14f3-407b-938f-157fcd8cb812/0.webp",
+   "thumb": "/thumbs/c7c18c1b-14f3-407b-938f-157fcd8cb812/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7c18c1b-14f3-407b-938f-157fcd8cb812/1.webp",
+   "thumb": "/thumbs/c7c18c1b-14f3-407b-938f-157fcd8cb812/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7c18c1b-14f3-407b-938f-157fcd8cb812/2.webp",
+   "thumb": "/thumbs/c7c18c1b-14f3-407b-938f-157fcd8cb812/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7c18c1b-14f3-407b-938f-157fcd8cb812/3.webp",
+   "thumb": "/thumbs/c7c18c1b-14f3-407b-938f-157fcd8cb812/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7c18c1b-14f3-407b-938f-157fcd8cb812/4.webp",
+   "thumb": "/thumbs/c7c18c1b-14f3-407b-938f-157fcd8cb812/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c7c18c1b-14f3-407b-938f-157fcd8cb812/5.webp",
+   "thumb": "/thumbs/c7c18c1b-14f3-407b-938f-157fcd8cb812/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

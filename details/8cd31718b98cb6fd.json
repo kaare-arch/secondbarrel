@@ -1,0 +1,55 @@
+{
+ "id": "09774d55-cdfe-46f2-983d-1e90f051f923",
+ "detail_id": "8cd31718b98cb6fd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/09774d55-cdfe-46f2-983d-1e90f051f923/beretta-692-sporting",
+ "title": "Beretta 692 sporting",
+ "price_dkk": 20000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-11",
+ "age_days": 1,
+ "postnummer": "9362",
+ "by": "Gandrup",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/09774d55-cdfe-46f2-983d-1e90f051f923/0.webp",
+ "image_count": 5,
+ "lat": 57.05355371,
+ "lon": 10.19776645,
+ "description": "81 cm løb 3 chokes kuffert balance klodser og værktøj.",
+ "images": [
+  {
+   "full": "/images/09774d55-cdfe-46f2-983d-1e90f051f923/0.webp",
+   "thumb": "/thumbs/09774d55-cdfe-46f2-983d-1e90f051f923/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/09774d55-cdfe-46f2-983d-1e90f051f923/1.webp",
+   "thumb": "/thumbs/09774d55-cdfe-46f2-983d-1e90f051f923/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/09774d55-cdfe-46f2-983d-1e90f051f923/2.webp",
+   "thumb": "/thumbs/09774d55-cdfe-46f2-983d-1e90f051f923/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/09774d55-cdfe-46f2-983d-1e90f051f923/3.webp",
+   "thumb": "/thumbs/09774d55-cdfe-46f2-983d-1e90f051f923/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/09774d55-cdfe-46f2-983d-1e90f051f923/4.webp",
+   "thumb": "/thumbs/09774d55-cdfe-46f2-983d-1e90f051f923/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

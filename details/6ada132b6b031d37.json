@@ -1,0 +1,26 @@
+{
+ "id": "iversen-import.dk/parker-hale-kal-3006.html",
+ "detail_id": "6ada132b6b031d37",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/parker-hale-kal-3006.html",
+ "title": "Parker Hale kal.3006",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": 55.20399665,
+ "lon": 9.49012437,
+ "description": null,
+ "images": []
+}

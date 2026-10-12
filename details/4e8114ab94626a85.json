@@ -1,0 +1,57 @@
+{
+ "id": "8658c93c-79a3-4b31-adb5-6d6074d59342",
+ "detail_id": "4e8114ab94626a85",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8658c93c-79a3-4b31-adb5-6d6074d59342/webley-and-scott",
+ "title": "Webley and Scott",
+ "price_dkk": 6500,
+ "weapon_type": "Haglgevær",
+ "brand": "Webley & Scott",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-11",
+ "age_days": 1,
+ "postnummer": "6705",
+ "by": "Esbjerg Ø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/8658c93c-79a3-4b31-adb5-6d6074d59342/0.webp",
+ "image_count": 5,
+ "lat": 55.49118771,
+ "lon": 8.50669241,
+ "description": "Rigtig fin over/ under cal. 12, med chokes stram i låsen og med engelsk skæfte, skæftet har været sendt til skæftemager og fået fjernet lakken, og fået masser af skæfte olie, så den står flot.\nPris 6500kr.",
+ "images": [
+  {
+   "full": "/images/8658c93c-79a3-4b31-adb5-6d6074d59342/0.webp",
+   "thumb": "/thumbs/8658c93c-79a3-4b31-adb5-6d6074d59342/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8658c93c-79a3-4b31-adb5-6d6074d59342/1.webp",
+   "thumb": "/thumbs/8658c93c-79a3-4b31-adb5-6d6074d59342/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8658c93c-79a3-4b31-adb5-6d6074d59342/2.webp",
+   "thumb": "/thumbs/8658c93c-79a3-4b31-adb5-6d6074d59342/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8658c93c-79a3-4b31-adb5-6d6074d59342/3.webp",
+   "thumb": "/thumbs/8658c93c-79a3-4b31-adb5-6d6074d59342/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8658c93c-79a3-4b31-adb5-6d6074d59342/4.webp",
+   "thumb": "/thumbs/8658c93c-79a3-4b31-adb5-6d6074d59342/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

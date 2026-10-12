@@ -1,0 +1,37 @@
+{
+ "id": "65a58d31-244a-4260-b431-3ea6bc6d2d9a",
+ "detail_id": "c124538d9afdf094",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/65a58d31-244a-4260-b431-3ea6bc6d2d9a/haglgevaer",
+ "title": "Haglgevær",
+ "price_dkk": 4500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-11",
+ "age_days": 1,
+ "postnummer": "7000",
+ "by": "Fredericia",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/65a58d31-244a-4260-b431-3ea6bc6d2d9a/0.webp",
+ "image_count": 2,
+ "lat": 55.57485304,
+ "lon": 9.65659006,
+ "description": "Remintgton 105\nLøbslængde 76\nIncl 3 chokes",
+ "images": [
+  {
+   "full": "/images/65a58d31-244a-4260-b431-3ea6bc6d2d9a/0.webp",
+   "thumb": "/thumbs/65a58d31-244a-4260-b431-3ea6bc6d2d9a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/65a58d31-244a-4260-b431-3ea6bc6d2d9a/1.webp",
+   "thumb": "/thumbs/65a58d31-244a-4260-b431-3ea6bc6d2d9a/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

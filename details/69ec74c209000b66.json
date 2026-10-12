@@ -1,0 +1,26 @@
+{
+ "id": "iversen-import.dk/husqarna-riffel-kal-3006.html",
+ "detail_id": "69ec74c209000b66",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/husqarna-riffel-kal-3006.html",
+ "title": "Husqarna riffel kal. 3006",
+ "price_dkk": 4000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Husqvarna",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": 55.20399665,
+ "lon": 9.49012437,
+ "description": null,
+ "images": []
+}
