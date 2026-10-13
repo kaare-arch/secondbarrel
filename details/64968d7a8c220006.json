@@ -1,0 +1,37 @@
+{
+ "id": "1f3c2ed9-5d05-45f6-8ed6-da3ca5003358",
+ "detail_id": "64968d7a8c220006",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1f3c2ed9-5d05-45f6-8ed6-da3ca5003358/midland-gun-saelges",
+ "title": "Midland gun sælges",
+ "price_dkk": 2500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-12",
+ "age_days": 1,
+ "postnummer": "8983",
+ "by": "Gjerlev J",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1f3c2ed9-5d05-45f6-8ed6-da3ca5003358/0.webp",
+ "image_count": 2,
+ "lat": 56.58244324,
+ "lon": 10.10165114,
+ "description": "Jagtriffel midland Cal 6,5*55 med jaguar kikkert 3,5 - 10 * 45\nVelholdt",
+ "images": [
+  {
+   "full": "/images/1f3c2ed9-5d05-45f6-8ed6-da3ca5003358/0.webp",
+   "thumb": "/thumbs/1f3c2ed9-5d05-45f6-8ed6-da3ca5003358/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1f3c2ed9-5d05-45f6-8ed6-da3ca5003358/1.webp",
+   "thumb": "/thumbs/1f3c2ed9-5d05-45f6-8ed6-da3ca5003358/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

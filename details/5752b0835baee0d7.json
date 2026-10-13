@@ -1,0 +1,39 @@
+{
+ "id": "a2c1f4bc-eff6-44cc-8641-a64fcef757a9",
+ "detail_id": "5752b0835baee0d7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a2c1f4bc-eff6-44cc-8641-a64fcef757a9/smith-wesson-mp15",
+ "title": "Smith & Wesson MP15",
+ "price_dkk": 7000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Smith & Wesson",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-12",
+ "age_days": 1,
+ "postnummer": "4632",
+ "by": "Bjæverskov",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a2c1f4bc-eff6-44cc-8641-a64fcef757a9/0.webp",
+ "image_count": 2,
+ "lat": 55.44838852,
+ "lon": 12.02691725,
+ "description": "Rigtig sjov 22lr inkl. sig Sauer rødpunktssigte, 25 skuds magasin og lyddæmper. Med sub sonic patroner, siger den ingenting.",
+ "images": [
+  {
+   "full": "/images/a2c1f4bc-eff6-44cc-8641-a64fcef757a9/0.webp",
+   "thumb": "/thumbs/a2c1f4bc-eff6-44cc-8641-a64fcef757a9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a2c1f4bc-eff6-44cc-8641-a64fcef757a9/1.webp",
+   "thumb": "/thumbs/a2c1f4bc-eff6-44cc-8641-a64fcef757a9/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
