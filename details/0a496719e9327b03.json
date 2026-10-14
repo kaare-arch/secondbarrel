@@ -1,0 +1,37 @@
+{
+ "id": "9c9af9ed-87e3-4f73-b4c0-eb75e2a36b1b",
+ "detail_id": "0a496719e9327b03",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9c9af9ed-87e3-4f73-b4c0-eb75e2a36b1b/midland-243w-riffel",
+ "title": "Midland 243W riffel",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-13",
+ "age_days": 1,
+ "postnummer": "6230",
+ "by": "Rødekro",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/9c9af9ed-87e3-4f73-b4c0-eb75e2a36b1b/0.webp",
+ "image_count": 2,
+ "lat": 55.07437317,
+ "lon": 9.28037618,
+ "description": "Sælges hermed denne fine Midland 243w.\nIndvendig magasin.\nMed 1\" montageringe Mont.\nSako Blade Ammunition kan tilkøbes.\n100Stk Gen. Ladnings Hylster kan tilkøbes.\nDen har næsten ikke skudt.",
+ "images": [
+  {
+   "full": "/images/9c9af9ed-87e3-4f73-b4c0-eb75e2a36b1b/0.webp",
+   "thumb": "/thumbs/9c9af9ed-87e3-4f73-b4c0-eb75e2a36b1b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9c9af9ed-87e3-4f73-b4c0-eb75e2a36b1b/1.webp",
+   "thumb": "/thumbs/9c9af9ed-87e3-4f73-b4c0-eb75e2a36b1b/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
