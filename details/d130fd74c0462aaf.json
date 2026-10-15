@@ -1,0 +1,51 @@
+{
+ "id": "be63f3c8-754c-4929-a30e-afbf2eec4142",
+ "detail_id": "d130fd74c0462aaf",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/be63f3c8-754c-4929-a30e-afbf2eec4142/beretta-white-onyx-686-12-76",
+ "title": "Beretta White Onyx 686 12/76",
+ "price_dkk": 12500,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-14",
+ "age_days": 1,
+ "postnummer": "2300",
+ "by": "København S",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/be63f3c8-754c-4929-a30e-afbf2eec4142/0.webp",
+ "image_count": 4,
+ "lat": 55.65453771,
+ "lon": 12.6050411,
+ "description": "Beretta White Onyx 686 O/U til salg\nKaliber 12/76 \nI god stand men er blevet skudt med \n\nPibelængden er 71 cm \nSkæftelængde er 43,5 cm (skæftet går til højre)\nPrisen kan snakkes eller ombyttes",
+ "images": [
+  {
+   "full": "/images/be63f3c8-754c-4929-a30e-afbf2eec4142/0.webp",
+   "thumb": "/thumbs/be63f3c8-754c-4929-a30e-afbf2eec4142/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/be63f3c8-754c-4929-a30e-afbf2eec4142/1.webp",
+   "thumb": "/thumbs/be63f3c8-754c-4929-a30e-afbf2eec4142/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/be63f3c8-754c-4929-a30e-afbf2eec4142/2.webp",
+   "thumb": "/thumbs/be63f3c8-754c-4929-a30e-afbf2eec4142/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/be63f3c8-754c-4929-a30e-afbf2eec4142/3.webp",
+   "thumb": "/thumbs/be63f3c8-754c-4929-a30e-afbf2eec4142/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

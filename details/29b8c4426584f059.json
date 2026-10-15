@@ -8,10 +8,12 @@
  "price_dkk": 25500,
  "weapon_type": "Haglgevær",
  "brand": "Browning",
- "calibers": [],
+ "calibers": [
+  "20/76"
+ ],
  "is_dealer": false,
  "listed_date": "2026-10-09",
- "age_days": 5,
+ "age_days": 6,
  "postnummer": "4720",
  "by": "Præstø",
  "stand_gg": "Næsten som ny",
@@ -19,7 +21,7 @@
  "image_count": 2,
  "lat": 55.09676321,
  "lon": 12.01502847,
- "description": "B825 brugt meget lidt sidste år.\n76 cm løb \nKøbt hos våbensmeden \n Der medfølger kasse, Chokes, nøgle.",
+ "description": "B825 brugt sidste år, skyder super\nGodt.\n76cm løb\nKøbt hos våbensmeden \n Der medfølger kasse, Chokes, nøgle. \n\nEr interesseret i bytte med kaliber 20/76",
  "images": [
   {
    "full": "/images/6b9984bc-98da-4ca4-b79a-0cb27e655004/0.webp",
