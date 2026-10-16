@@ -1,0 +1,58 @@
+{
+ "id": "63d6e4e5-8e9b-44a8-bb06-730a2dd98a43",
+ "detail_id": "59569cf8ecce4c80",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/sauer-202-med-2-piber",
+ "title": "Sauer 202 med 2 piber",
+ "price_dkk": 14999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "6,5x55",
+  "9,3x62"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-10-15",
+ "age_days": 1,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Sauer 202 Riffel\n\nMed 2 piber : \nKaliber 6,5x55 & 9,3x62.\n\nMed Zeiss Diavari V 3-12x56 T* optik. \nEAW Svingmontage. \n\nAftageligt magasin. \n\nFornuftig brugt stand.",
+ "images": [
+  {
+   "full": "/images/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/0.webp",
+   "thumb": "/thumbs/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/1.webp",
+   "thumb": "/thumbs/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/2.webp",
+   "thumb": "/thumbs/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/3.webp",
+   "thumb": "/thumbs/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/4.webp",
+   "thumb": "/thumbs/63d6e4e5-8e9b-44a8-bb06-730a2dd98a43/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

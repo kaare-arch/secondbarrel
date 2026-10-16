@@ -1,0 +1,45 @@
+{
+ "id": "17d16cd1-113b-4a66-b0e8-cd01da7b0356",
+ "detail_id": "d794a26c034afc85",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/17d16cd1-113b-4a66-b0e8-cd01da7b0356/miroku-mk70-20-76",
+ "title": "Miroku mk70 20/76",
+ "price_dkk": 11000,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-15",
+ "age_days": 1,
+ "postnummer": "5610",
+ "by": "Assens",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/17d16cd1-113b-4a66-b0e8-cd01da7b0356/0.webp",
+ "image_count": 3,
+ "lat": 55.29666398,
+ "lon": 9.95188834,
+ "description": "Pæn næsten ny Miroku mk70 kaliber 20/76\nDer er ekstra choker og nøgle der til\nVåbnet har skudt ca. 200skud\nVåbnet afhentes på adressen mod forevisning af gyldigt jagttegn og betales med MP",
+ "images": [
+  {
+   "full": "/images/17d16cd1-113b-4a66-b0e8-cd01da7b0356/0.webp",
+   "thumb": "/thumbs/17d16cd1-113b-4a66-b0e8-cd01da7b0356/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/17d16cd1-113b-4a66-b0e8-cd01da7b0356/1.webp",
+   "thumb": "/thumbs/17d16cd1-113b-4a66-b0e8-cd01da7b0356/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/17d16cd1-113b-4a66-b0e8-cd01da7b0356/2.webp",
+   "thumb": "/thumbs/17d16cd1-113b-4a66-b0e8-cd01da7b0356/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

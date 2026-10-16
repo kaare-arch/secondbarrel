@@ -1,0 +1,37 @@
+{
+ "id": "3c036570-01d0-4f66-90be-6ee766d2cc04",
+ "detail_id": "3af138eb956493df",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3c036570-01d0-4f66-90be-6ee766d2cc04/fuldskaeftet-carl-gustav-med-kuffert",
+ "title": "Fuldskæftet Carl Gustav med kuffert",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-15",
+ "age_days": 1,
+ "postnummer": "3390",
+ "by": "Hundested",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3c036570-01d0-4f66-90be-6ee766d2cc04/0.webp",
+ "image_count": 2,
+ "lat": 55.96955957,
+ "lon": 11.91239734,
+ "description": "Grundet jagtophør sælges ældre men meget velskydende og velholdt jagtriffel med kuffert sælges. Den er monteret med parallakse sigtekikkert. ( justerbar ) + div. patroner.",
+ "images": [
+  {
+   "full": "/images/3c036570-01d0-4f66-90be-6ee766d2cc04/0.webp",
+   "thumb": "/thumbs/3c036570-01d0-4f66-90be-6ee766d2cc04/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3c036570-01d0-4f66-90be-6ee766d2cc04/1.webp",
+   "thumb": "/thumbs/3c036570-01d0-4f66-90be-6ee766d2cc04/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
