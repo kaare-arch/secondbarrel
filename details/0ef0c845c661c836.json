@@ -1,0 +1,57 @@
+{
+ "id": "e536552c-0496-44fc-bab3-ae63fa712cf8",
+ "detail_id": "0ef0c845c661c836",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e536552c-0496-44fc-bab3-ae63fa712cf8/gebruder-merkel-suhl-16-70",
+ "title": "Gebruder Merkel suhl 16/70",
+ "price_dkk": 7800,
+ "weapon_type": "Haglgevær",
+ "brand": "Merkel",
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-16",
+ "age_days": 1,
+ "postnummer": "7870",
+ "by": "Roslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/e536552c-0496-44fc-bab3-ae63fa712cf8/0.webp",
+ "image_count": 5,
+ "lat": 56.71912666,
+ "lon": 9.02645185,
+ "description": "Flot over og under i kal 16/70 med ejektor og to aftrækker. 37 cm til foreste aftrækker. \nGod solid gevær fra 5 måned 58. \nLidt brugspor men fremstår pæn.\nDer medfølger 64 stk str 5 stål patroner \n25 stk tungsten patroner i str 5\nOg 19 stk bismuth patroner i str 4.\nRing for spørgsmål.",
+ "images": [
+  {
+   "full": "/images/e536552c-0496-44fc-bab3-ae63fa712cf8/0.webp",
+   "thumb": "/thumbs/e536552c-0496-44fc-bab3-ae63fa712cf8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e536552c-0496-44fc-bab3-ae63fa712cf8/1.webp",
+   "thumb": "/thumbs/e536552c-0496-44fc-bab3-ae63fa712cf8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e536552c-0496-44fc-bab3-ae63fa712cf8/2.webp",
+   "thumb": "/thumbs/e536552c-0496-44fc-bab3-ae63fa712cf8/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e536552c-0496-44fc-bab3-ae63fa712cf8/3.webp",
+   "thumb": "/thumbs/e536552c-0496-44fc-bab3-ae63fa712cf8/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e536552c-0496-44fc-bab3-ae63fa712cf8/4.webp",
+   "thumb": "/thumbs/e536552c-0496-44fc-bab3-ae63fa712cf8/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

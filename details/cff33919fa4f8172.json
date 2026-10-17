@@ -1,0 +1,51 @@
+{
+ "id": "cbe09b19-3f05-41e0-8247-d37fb3d61eea",
+ "detail_id": "cff33919fa4f8172",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/cbe09b19-3f05-41e0-8247-d37fb3d61eea/fin-side-by-side-f-dumoulin-kal-12-70",
+ "title": "Fin side by side - F. Dumoulin kal. 12/70",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-16",
+ "age_days": 1,
+ "postnummer": "6780",
+ "by": "Skærbæk",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/cbe09b19-3f05-41e0-8247-d37fb3d61eea/0.webp",
+ "image_count": 4,
+ "lat": 55.17737454,
+ "lon": 8.79090789,
+ "description": "Regulært jagtgevær, går rigtig fint i låsen mv. \nMærke: F.Dumoulin \nKal: 12/70 \nKræver naturligvis jagttegn \n\nStår i 6780 Skærbæk",
+ "images": [
+  {
+   "full": "/images/cbe09b19-3f05-41e0-8247-d37fb3d61eea/0.webp",
+   "thumb": "/thumbs/cbe09b19-3f05-41e0-8247-d37fb3d61eea/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cbe09b19-3f05-41e0-8247-d37fb3d61eea/1.webp",
+   "thumb": "/thumbs/cbe09b19-3f05-41e0-8247-d37fb3d61eea/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cbe09b19-3f05-41e0-8247-d37fb3d61eea/2.webp",
+   "thumb": "/thumbs/cbe09b19-3f05-41e0-8247-d37fb3d61eea/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cbe09b19-3f05-41e0-8247-d37fb3d61eea/3.webp",
+   "thumb": "/thumbs/cbe09b19-3f05-41e0-8247-d37fb3d61eea/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "c0e0729d-15dc-48fc-ae71-fdd4d7dfd991",
+ "detail_id": "15de03ae6be66f9f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/whitworth-30-06",
+ "title": "Whitworth 30.06",
+ "price_dkk": 1200,
+ "weapon_type": "Jagtriffel",
+ "brand": "Whitworth",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-16",
+ "age_days": 1,
+ "postnummer": "3400",
+ "by": "Hillerød",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/0.webp",
+ "image_count": 4,
+ "lat": 55.92123871,
+ "lon": 12.28696917,
+ "description": "Fin velskydene riffel med kikkert (kender ikke mærke). Der kan medfølge lidt amm til både jagt og træning.",
+ "images": [
+  {
+   "full": "/images/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/0.webp",
+   "thumb": "/thumbs/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/1.webp",
+   "thumb": "/thumbs/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/2.webp",
+   "thumb": "/thumbs/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/3.webp",
+   "thumb": "/thumbs/c0e0729d-15dc-48fc-ae71-fdd4d7dfd991/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

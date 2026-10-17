@@ -1,0 +1,37 @@
+{
+ "id": "fe751b67-dc3b-4d60-9737-4967e4bf00a5",
+ "detail_id": "f60fb85a4af8138a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/fe751b67-dc3b-4d60-9737-4967e4bf00a5/pumpgun",
+ "title": "Pumpgun",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": "Kral",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-16",
+ "age_days": 1,
+ "postnummer": "4943",
+ "by": "Torrig L",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/fe751b67-dc3b-4d60-9737-4967e4bf00a5/0.webp",
+ "image_count": 2,
+ "lat": 54.90522487,
+ "lon": 11.32872192,
+ "description": "Pumpgun fra Kral, skyder rigtigt godt, nem at bruge.",
+ "images": [
+  {
+   "full": "/images/fe751b67-dc3b-4d60-9737-4967e4bf00a5/0.webp",
+   "thumb": "/thumbs/fe751b67-dc3b-4d60-9737-4967e4bf00a5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fe751b67-dc3b-4d60-9737-4967e4bf00a5/1.webp",
+   "thumb": "/thumbs/fe751b67-dc3b-4d60-9737-4967e4bf00a5/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

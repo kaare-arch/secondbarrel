@@ -1,0 +1,39 @@
+{
+ "id": "7d2b11bf-cc13-4b6a-8b25-4a11e7a98f90",
+ "detail_id": "730558d68246a341",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7d2b11bf-cc13-4b6a-8b25-4a11e7a98f90/merkel-helix-speedster",
+ "title": "Merkel Helix Speedster",
+ "price_dkk": 19500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Merkel",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-16",
+ "age_days": 1,
+ "postnummer": "9280",
+ "by": "Storvorde",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/7d2b11bf-cc13-4b6a-8b25-4a11e7a98f90/0.webp",
+ "image_count": 2,
+ "lat": 56.94614847,
+ "lon": 10.21024951,
+ "description": "Merkel Helix Speedster i perfekt stand  sælges. \n\n.308 win. 56 cm pibe. M15x1 gevind. \n\nRiflen er hysterisk velholdt og har skudt få skud. Kun en ejer.  \n\nMedfølger:\n- 2 x 5 skuds magasin\n- 2 x 3 skuds magasin\n- mundingsbremse\n- originale faste sigtemidler (monteres nemt)",
+ "images": [
+  {
+   "full": "/images/7d2b11bf-cc13-4b6a-8b25-4a11e7a98f90/0.webp",
+   "thumb": "/thumbs/7d2b11bf-cc13-4b6a-8b25-4a11e7a98f90/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d2b11bf-cc13-4b6a-8b25-4a11e7a98f90/1.webp",
+   "thumb": "/thumbs/7d2b11bf-cc13-4b6a-8b25-4a11e7a98f90/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

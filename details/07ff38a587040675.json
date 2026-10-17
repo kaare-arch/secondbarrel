@@ -5,15 +5,16 @@
  "source_label": "Gul og Gratis",
  "url": "https://www.guloggratis.dk/annonce/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/varberg-717-6-5x55",
  "title": "Varberg 717 6,5x55",
- "price_dkk": 4499,
+ "price_dkk": 3000,
  "weapon_type": "Jagtriffel",
  "brand": null,
  "calibers": [
-  "6,5x55"
+  "6,5x55",
+  "9,3x62"
  ],
  "is_dealer": false,
  "listed_date": "2026-10-05",
- "age_days": 11,
+ "age_days": 12,
  "postnummer": "9575",
  "by": "Terndrup",
  "stand_gg": "God, men brugt",
@@ -21,7 +22,7 @@
  "image_count": 8,
  "lat": 56.81450196,
  "lon": 10.04422607,
- "description": "Fin Varberg 717 6,5x55 med tasco titan 3-12x52 kikkert uden lys, lækkert rulle magasin og rigtig godt aftræk. Eventuelt bytte med halvautomat. Uden kikkert er prisen 3000",
+ "description": "Fin Varberg 717 6,5x55 med weaver3-9x40 kikkert uden lys,lækkert rulle magasin og rigtig godt aftræk. Eventuelt bytte med halvautomat eller veksel pibe til Schultz & larsen gerne 9,3x62.",
  "images": [
   {
    "full": "/images/e9457d5f-f63a-413b-ae7a-e2c3299bf1f3/0.webp",

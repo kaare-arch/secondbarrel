@@ -1,0 +1,51 @@
+{
+ "id": "dd996733-e993-4e80-bf6a-77a4c83d4be5",
+ "detail_id": "e1f284bd745025c0",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/dd996733-e993-4e80-bf6a-77a4c83d4be5/kort-og-slankt-haglgevaer",
+ "title": "Kort og slankt haglgevær.",
+ "price_dkk": 3200,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-16",
+ "age_days": 1,
+ "postnummer": "5000",
+ "by": "Odense C",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/dd996733-e993-4e80-bf6a-77a4c83d4be5/0.webp",
+ "image_count": 4,
+ "lat": 55.40946975,
+ "lon": 10.40417837,
+ "description": "FAIR haglgevær kal. 12-76\nDen hurtige til hundefolket, eller til i skoven.\nMed fiberoptisk sigte\nEjektor\nSingletrigger\nKun 100 cm",
+ "images": [
+  {
+   "full": "/images/dd996733-e993-4e80-bf6a-77a4c83d4be5/0.webp",
+   "thumb": "/thumbs/dd996733-e993-4e80-bf6a-77a4c83d4be5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd996733-e993-4e80-bf6a-77a4c83d4be5/1.webp",
+   "thumb": "/thumbs/dd996733-e993-4e80-bf6a-77a4c83d4be5/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd996733-e993-4e80-bf6a-77a4c83d4be5/2.webp",
+   "thumb": "/thumbs/dd996733-e993-4e80-bf6a-77a4c83d4be5/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd996733-e993-4e80-bf6a-77a4c83d4be5/3.webp",
+   "thumb": "/thumbs/dd996733-e993-4e80-bf6a-77a4c83d4be5/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
