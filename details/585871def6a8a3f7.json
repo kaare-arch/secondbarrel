@@ -1,0 +1,51 @@
+{
+ "id": "fa668786-f595-4970-9ec7-3c19442e4e17",
+ "detail_id": "585871def6a8a3f7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/fa668786-f595-4970-9ec7-3c19442e4e17/tikka-t3x-308",
+ "title": "Tikka t3x 308",
+ "price_dkk": 7500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-17",
+ "age_days": 1,
+ "postnummer": "6240",
+ "by": "Løgumkloster",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/fa668786-f595-4970-9ec7-3c19442e4e17/0.webp",
+ "image_count": 4,
+ "lat": 55.06237954,
+ "lon": 8.96415413,
+ "description": "Meget velholdt Tikka T3x i kaliber .308 Win sælges. Købt fra ny i 2018 (kun én ejer). Riflen fremstår i rigtig flot stand og skyder ekstremt præcist.\nAlt dette følger med i prisen:\n• Original montage til kikkert\n• Schultz & Larsen lyddæmper\n• Mundingsbremse\n• 5-skuds magasin\nKikkert følger ikke med. \nSalg kræver fremvisning af gyldigt jagttegn samt politiets våbentilladelse før udlevering",
+ "images": [
+  {
+   "full": "/images/fa668786-f595-4970-9ec7-3c19442e4e17/0.webp",
+   "thumb": "/thumbs/fa668786-f595-4970-9ec7-3c19442e4e17/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fa668786-f595-4970-9ec7-3c19442e4e17/1.webp",
+   "thumb": "/thumbs/fa668786-f595-4970-9ec7-3c19442e4e17/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fa668786-f595-4970-9ec7-3c19442e4e17/2.webp",
+   "thumb": "/thumbs/fa668786-f595-4970-9ec7-3c19442e4e17/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fa668786-f595-4970-9ec7-3c19442e4e17/3.webp",
+   "thumb": "/thumbs/fa668786-f595-4970-9ec7-3c19442e4e17/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

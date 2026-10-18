@@ -1,0 +1,57 @@
+{
+ "id": "ce19ebcc-e11b-4bec-a530-9f8aa2c44631",
+ "detail_id": "a0c3b88611411469",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/miroku-mk-38-sport",
+ "title": "Miroku MK 38 sport",
+ "price_dkk": 14000,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-17",
+ "age_days": 1,
+ "postnummer": "9300",
+ "by": "Sæby",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/0.webp",
+ "image_count": 5,
+ "lat": 57.33243505,
+ "lon": 10.46020515,
+ "description": "B.C Miroku MK 38 sport 12/76 løbslængde 76 cm\nRigtig pænt og velholdt/velfungerende haglgevær, som jeg har været super glad for. sælges kun fordi jeg har opgraderet til anden af samme mærke \nOmregistrering ved afhentning",
+ "images": [
+  {
+   "full": "/images/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/0.webp",
+   "thumb": "/thumbs/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/1.webp",
+   "thumb": "/thumbs/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/2.webp",
+   "thumb": "/thumbs/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/3.webp",
+   "thumb": "/thumbs/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/4.webp",
+   "thumb": "/thumbs/ce19ebcc-e11b-4bec-a530-9f8aa2c44631/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
