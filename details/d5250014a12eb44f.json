@@ -1,0 +1,49 @@
+{
+ "id": "b61f114e-5911-46bd-9e70-f5a1caf61df1",
+ "detail_id": "d5250014a12eb44f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b61f114e-5911-46bd-9e70-f5a1caf61df1/browning-b-25",
+ "title": "Browning b 25",
+ "price_dkk": 7200,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-18",
+ "age_days": 1,
+ "postnummer": "9640",
+ "by": "Farsø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b61f114e-5911-46bd-9e70-f5a1caf61df1/0.webp",
+ "image_count": 4,
+ "lat": 56.78956936,
+ "lon": 9.29587574,
+ "description": "Browning sælges ejektor 70cm løb.  Stadig lak på skæfte jagttegn og omregistreing skal gøres ved afhentning",
+ "images": [
+  {
+   "full": "/images/b61f114e-5911-46bd-9e70-f5a1caf61df1/0.webp",
+   "thumb": "/thumbs/b61f114e-5911-46bd-9e70-f5a1caf61df1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61f114e-5911-46bd-9e70-f5a1caf61df1/1.webp",
+   "thumb": "/thumbs/b61f114e-5911-46bd-9e70-f5a1caf61df1/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61f114e-5911-46bd-9e70-f5a1caf61df1/2.webp",
+   "thumb": "/thumbs/b61f114e-5911-46bd-9e70-f5a1caf61df1/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b61f114e-5911-46bd-9e70-f5a1caf61df1/3.webp",
+   "thumb": "/thumbs/b61f114e-5911-46bd-9e70-f5a1caf61df1/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
