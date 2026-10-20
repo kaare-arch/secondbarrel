@@ -1,0 +1,39 @@
+{
+ "id": "d39a3535-e22d-4de8-bc47-681a585f88a1",
+ "detail_id": "9e2c49f2c38abe18",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d39a3535-e22d-4de8-bc47-681a585f88a1/beretta-a400-xplor-unico-12-89",
+ "title": "Beretta A400 xplor unico 12/89",
+ "price_dkk": 12000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/89"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-19",
+ "age_days": 1,
+ "postnummer": "8541",
+ "by": "Skødstrup",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/d39a3535-e22d-4de8-bc47-681a585f88a1/0.webp",
+ "image_count": 2,
+ "lat": 56.27207744,
+ "lon": 10.32071454,
+ "description": "Super flot A400 stort set ikke er brugt og står derfor om ny. \nDer medfølger kuffter og ekstra chokes plus diverse ekstra ting.",
+ "images": [
+  {
+   "full": "/images/d39a3535-e22d-4de8-bc47-681a585f88a1/0.webp",
+   "thumb": "/thumbs/d39a3535-e22d-4de8-bc47-681a585f88a1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d39a3535-e22d-4de8-bc47-681a585f88a1/1.webp",
+   "thumb": "/thumbs/d39a3535-e22d-4de8-bc47-681a585f88a1/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

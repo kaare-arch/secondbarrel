@@ -1,0 +1,37 @@
+{
+ "id": "ab632f35-bc7f-4278-abdf-3e8db48e6454",
+ "detail_id": "bf2b753a311d1fd5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ab632f35-bc7f-4278-abdf-3e8db48e6454/naesten-ikke-brugt-o-u",
+ "title": "Næsten ikke brugt O/U",
+ "price_dkk": 7500,
+ "weapon_type": "Haglgevær",
+ "brand": "Fabarm",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-19",
+ "age_days": 1,
+ "postnummer": "5683",
+ "by": "Haarby",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ab632f35-bc7f-4278-abdf-3e8db48e6454/0.webp",
+ "image_count": 2,
+ "lat": 55.20982524,
+ "lon": 10.14719155,
+ "description": "Fabarm Alpha ,er som ny ,med  71 cm løb,boring 1/4-1/2.\nKr 7500- Kræver jagttegn,sammen med anden Identifikation med billed",
+ "images": [
+  {
+   "full": "/images/ab632f35-bc7f-4278-abdf-3e8db48e6454/0.webp",
+   "thumb": "/thumbs/ab632f35-bc7f-4278-abdf-3e8db48e6454/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ab632f35-bc7f-4278-abdf-3e8db48e6454/1.webp",
+   "thumb": "/thumbs/ab632f35-bc7f-4278-abdf-3e8db48e6454/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

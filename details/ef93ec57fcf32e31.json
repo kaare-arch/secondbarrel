@@ -1,0 +1,57 @@
+{
+ "id": "36b18db6-3cac-4658-a0ab-570ec21d7d9c",
+ "detail_id": "ef93ec57fcf32e31",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/36b18db6-3cac-4658-a0ab-570ec21d7d9c/velholdt-jagtgevaer",
+ "title": "Velholdt jagtgevær",
+ "price_dkk": 2750,
+ "weapon_type": "Haglgevær",
+ "brand": "Husqvarna",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-10",
+ "age_days": 10,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/36b18db6-3cac-4658-a0ab-570ec21d7d9c/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Super velholdt og flot Husqvarna\nJagtgevær kal. 12.70 med ejector.\nGeværet er efterset og serviceret hos Pamhule Jagt før salg.\nTotallængde 114 cm løbslængde 71 cm pibelængde 39 cm fra aftrækker til bagkappe 36 cm vægt 3,4 kg.",
+ "images": [
+  {
+   "full": "/images/36b18db6-3cac-4658-a0ab-570ec21d7d9c/0.webp",
+   "thumb": "/thumbs/36b18db6-3cac-4658-a0ab-570ec21d7d9c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/36b18db6-3cac-4658-a0ab-570ec21d7d9c/1.webp",
+   "thumb": "/thumbs/36b18db6-3cac-4658-a0ab-570ec21d7d9c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/36b18db6-3cac-4658-a0ab-570ec21d7d9c/2.webp",
+   "thumb": "/thumbs/36b18db6-3cac-4658-a0ab-570ec21d7d9c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/36b18db6-3cac-4658-a0ab-570ec21d7d9c/3.webp",
+   "thumb": "/thumbs/36b18db6-3cac-4658-a0ab-570ec21d7d9c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/36b18db6-3cac-4658-a0ab-570ec21d7d9c/4.webp",
+   "thumb": "/thumbs/36b18db6-3cac-4658-a0ab-570ec21d7d9c/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

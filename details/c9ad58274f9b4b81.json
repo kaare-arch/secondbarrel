@@ -1,0 +1,37 @@
+{
+ "id": "8cbf2e1e-1008-4f9e-b54d-1610ecc0a083",
+ "detail_id": "c9ad58274f9b4b81",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8cbf2e1e-1008-4f9e-b54d-1610ecc0a083/9-mm-alfa-combat-pistol",
+ "title": "9 mm Alfa Combat pistol",
+ "price_dkk": 3999,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-19",
+ "age_days": 1,
+ "postnummer": "9000",
+ "by": "Aalborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/8cbf2e1e-1008-4f9e-b54d-1610ecc0a083/0.webp",
+ "image_count": 2,
+ "lat": 57.04071943,
+ "lon": 9.89137823,
+ "description": "Velskydende og velholdt 9 mm pistol, der ligger godt i hånden. Tjekkisk Alfa Proj med et magasin. CZ75 magasiner passer også i den, da de har samarbejdet en smule i deres pistol modeller. Alfa er også kendt for revolvere til sportsskydning.\nLækker let pistol med polymerframe.\nSkriv kun hvis du er medlem af skytteklub og har SKV.",
+ "images": [
+  {
+   "full": "/images/8cbf2e1e-1008-4f9e-b54d-1610ecc0a083/0.webp",
+   "thumb": "/thumbs/8cbf2e1e-1008-4f9e-b54d-1610ecc0a083/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8cbf2e1e-1008-4f9e-b54d-1610ecc0a083/1.webp",
+   "thumb": "/thumbs/8cbf2e1e-1008-4f9e-b54d-1610ecc0a083/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

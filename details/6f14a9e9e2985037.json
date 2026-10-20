@@ -1,0 +1,33 @@
+{
+ "id": "da2023c3-360b-4b70-8b6a-2fd7d6d507c4",
+ "detail_id": "6f14a9e9e2985037",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/da2023c3-360b-4b70-8b6a-2fd7d6d507c4/schultz-larsen-pibe-i-30-06",
+ "title": "Schultz & Larsen pibe i 30-06",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-19",
+ "age_days": 1,
+ "postnummer": "4683",
+ "by": "Rønnede",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/da2023c3-360b-4b70-8b6a-2fd7d6d507c4/0.webp",
+ "image_count": 1,
+ "lat": 55.23758668,
+ "lon": 12.02277028,
+ "description": "Piben har skudt under 300 skud i sin levetid og er i rigtig god stand",
+ "images": [
+  {
+   "full": "/images/da2023c3-360b-4b70-8b6a-2fd7d6d507c4/0.webp",
+   "thumb": "/thumbs/da2023c3-360b-4b70-8b6a-2fd7d6d507c4/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

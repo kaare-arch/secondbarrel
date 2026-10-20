@@ -1,0 +1,45 @@
+{
+ "id": "55fa970f-5a9b-4cba-8ac6-0f63997cd787",
+ "detail_id": "81f43a8ca48edbc4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/55fa970f-5a9b-4cba-8ac6-0f63997cd787/17hmr-links-ny-savage-93r",
+ "title": "17HMR links NY Savage 93R",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-19",
+ "age_days": 1,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": null,
+ "thumb": "/thumbs/55fa970f-5a9b-4cba-8ac6-0f63997cd787/0.webp",
+ "image_count": 3,
+ "lat": 54.9813044,
+ "lon": 9.43042383,
+ "description": "17HMR i links \nSuper lækker handy lille sag med 19mm match pipe. Aldrig brugt, og fremstår som ny. Justerbart aftræk og aftageligt magasin. Klargjort til montage af kikkert. \nOBS lyddæmper medfølger ikke.",
+ "images": [
+  {
+   "full": "/images/55fa970f-5a9b-4cba-8ac6-0f63997cd787/0.webp",
+   "thumb": "/thumbs/55fa970f-5a9b-4cba-8ac6-0f63997cd787/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/55fa970f-5a9b-4cba-8ac6-0f63997cd787/1.webp",
+   "thumb": "/thumbs/55fa970f-5a9b-4cba-8ac6-0f63997cd787/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/55fa970f-5a9b-4cba-8ac6-0f63997cd787/2.webp",
+   "thumb": "/thumbs/55fa970f-5a9b-4cba-8ac6-0f63997cd787/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
