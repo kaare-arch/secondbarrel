@@ -1,0 +1,39 @@
+{
+ "id": "a414f5e6-48ad-4933-a91f-531538c41c73",
+ "detail_id": "227e5d3e298ab4bd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a414f5e6-48ad-4933-a91f-531538c41c73/remington-223",
+ "title": "Remington 223.",
+ "price_dkk": 4500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-20",
+ "age_days": 1,
+ "postnummer": "6705",
+ "by": "Esbjerg Ø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a414f5e6-48ad-4933-a91f-531538c41c73/0.webp",
+ "image_count": 2,
+ "lat": 55.49118771,
+ "lon": 8.50669241,
+ "description": "Remington 700 Bdl Varmint cal.  223 R mont. Med Leupold M 8 - 6 x 42 sigte FCH DOT rifelgang står skarp olieret",
+ "images": [
+  {
+   "full": "/images/a414f5e6-48ad-4933-a91f-531538c41c73/0.webp",
+   "thumb": "/thumbs/a414f5e6-48ad-4933-a91f-531538c41c73/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a414f5e6-48ad-4933-a91f-531538c41c73/1.webp",
+   "thumb": "/thumbs/a414f5e6-48ad-4933-a91f-531538c41c73/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

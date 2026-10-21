@@ -1,0 +1,75 @@
+{
+ "id": "467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5",
+ "detail_id": "0c60f43035e071f0",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/perazzi-mx2000-s-jagtgevaer-over-under",
+ "title": "Perazzi MX2000 S jagtgevær over/under",
+ "price_dkk": 60000,
+ "weapon_type": "Haglgevær",
+ "brand": "Perazzi",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-20",
+ "age_days": 1,
+ "postnummer": "9400",
+ "by": "Nørresundby",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/0.webp",
+ "image_count": 8,
+ "lat": 57.08253657,
+ "lon": 9.92260209,
+ "description": "Perazzi MX2000 S over/under\nSC3 træ\nChokes i begge løb\n76 løb\nKal 12\nSkinne 7/11\nChokes 7 stk.",
+ "images": [
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/0.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/1.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/2.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/3.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/4.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/5.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/6.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/7.webp",
+   "thumb": "/thumbs/467e6ec1-0b8d-4ae7-9fc9-a3cbf5abb2e5/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
