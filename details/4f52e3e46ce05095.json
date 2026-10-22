@@ -1,0 +1,43 @@
+{
+ "id": "1582db63-abe0-462e-a0f7-cb55a1f72f45",
+ "detail_id": "4f52e3e46ce05095",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1582db63-abe0-462e-a0f7-cb55a1f72f45/uberti-sa-cal-45lc",
+ "title": "Uberti SA cal. 45LC",
+ "price_dkk": 3850,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-21",
+ "age_days": 1,
+ "postnummer": "6710",
+ "by": "Esbjerg V",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1582db63-abe0-462e-a0f7-cb55a1f72f45/0.webp",
+ "image_count": 3,
+ "lat": 55.56107856,
+ "lon": 8.35680928,
+ "description": "Sortkrudts tromlerevolver i god stand dog med brugsspor. Fungerer rigtig fint. Der medfølger et uoriginalt bæltehylster.\nJeg har også end del ammunition, som kan købes separat.",
+ "images": [
+  {
+   "full": "/images/1582db63-abe0-462e-a0f7-cb55a1f72f45/0.webp",
+   "thumb": "/thumbs/1582db63-abe0-462e-a0f7-cb55a1f72f45/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1582db63-abe0-462e-a0f7-cb55a1f72f45/1.webp",
+   "thumb": "/thumbs/1582db63-abe0-462e-a0f7-cb55a1f72f45/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1582db63-abe0-462e-a0f7-cb55a1f72f45/2.webp",
+   "thumb": "/thumbs/1582db63-abe0-462e-a0f7-cb55a1f72f45/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

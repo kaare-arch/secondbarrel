@@ -1,0 +1,37 @@
+{
+ "id": "jafi.dk/products/12025-tikka-t3-300wsm",
+ "detail_id": "9628fc46d7118c05",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/12025-tikka-t3-300wsm",
+ "title": "Tikka T3 Riffel - Kal. 300 WSM",
+ "price_dkk": 9000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/12025-tikka-t3-300wsm/0.webp",
+ "image_count": 2,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Klassisk Tikka T3 i rigtig god stand i den langtrækkende kaliber 300 Winchester Short Magnum. Riflen er en standard jagtmodel med 64 cm pibe som passer til magnum-kaliberen, 3-skuds magasin og et sprødt single-stage aftræk som kendetegner Tikka. Kaliber: 300 Winchester Short Magnum Løb: 64 cm Skæftelængde: 35,5 cm Skæfte: Træ - Pistolgreb Sikring: Topunkts Aftræk: Single Stage Magasin: 3-skuds Optik: Nej Tilhørende kuffert: Nej ID: 12025 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/12025-tikka-t3-300wsm/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12025-tikka-t3-300wsm/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12025-tikka-t3-300wsm/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12025-tikka-t3-300wsm/1.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

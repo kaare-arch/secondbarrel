@@ -1,0 +1,55 @@
+{
+ "id": "6b3840bf-f0d7-4103-b67f-e79dc5b755fe",
+ "detail_id": "e6c73c4be79f306d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/carl-gustav-6-5-55",
+ "title": "Carl Gustav 6.5×55",
+ "price_dkk": 3200,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-21",
+ "age_days": 1,
+ "postnummer": "6670",
+ "by": "Holsted",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/0.webp",
+ "image_count": 5,
+ "lat": 55.51123399,
+ "lon": 8.90149179,
+ "description": "Carl Gustav riffel sælges med kobber ammunition, håndkikkert, rem \nEt fint begynder sæt til en nyjæger",
+ "images": [
+  {
+   "full": "/images/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/0.webp",
+   "thumb": "/thumbs/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/1.webp",
+   "thumb": "/thumbs/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/2.webp",
+   "thumb": "/thumbs/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/3.webp",
+   "thumb": "/thumbs/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/4.webp",
+   "thumb": "/thumbs/6b3840bf-f0d7-4103-b67f-e79dc5b755fe/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

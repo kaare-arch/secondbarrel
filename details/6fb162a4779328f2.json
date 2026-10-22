@@ -1,0 +1,63 @@
+{
+ "id": "2f0ce1ee-7c54-434b-b555-8eb91e69258b",
+ "detail_id": "6fb162a4779328f2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2f0ce1ee-7c54-434b-b555-8eb91e69258b/remington-model-1917",
+ "title": "Remington model 1917",
+ "price_dkk": 1900,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-05-08",
+ "age_days": 167,
+ "postnummer": "6600",
+ "by": "Vejen",
+ "stand_gg": null,
+ "thumb": "/thumbs/2f0ce1ee-7c54-434b-b555-8eb91e69258b/0.webp",
+ "image_count": 6,
+ "lat": 55.4784284,
+ "lon": 9.11204215,
+ "description": "Kaliber 30.06. Monteret med Leopold vx-1 3-9 x 40mm.  Inkl. foderal",
+ "images": [
+  {
+   "full": "/images/2f0ce1ee-7c54-434b-b555-8eb91e69258b/0.webp",
+   "thumb": "/thumbs/2f0ce1ee-7c54-434b-b555-8eb91e69258b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f0ce1ee-7c54-434b-b555-8eb91e69258b/1.webp",
+   "thumb": "/thumbs/2f0ce1ee-7c54-434b-b555-8eb91e69258b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f0ce1ee-7c54-434b-b555-8eb91e69258b/2.webp",
+   "thumb": "/thumbs/2f0ce1ee-7c54-434b-b555-8eb91e69258b/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f0ce1ee-7c54-434b-b555-8eb91e69258b/3.webp",
+   "thumb": "/thumbs/2f0ce1ee-7c54-434b-b555-8eb91e69258b/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f0ce1ee-7c54-434b-b555-8eb91e69258b/4.webp",
+   "thumb": "/thumbs/2f0ce1ee-7c54-434b-b555-8eb91e69258b/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f0ce1ee-7c54-434b-b555-8eb91e69258b/5.webp",
+   "thumb": "/thumbs/2f0ce1ee-7c54-434b-b555-8eb91e69258b/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
