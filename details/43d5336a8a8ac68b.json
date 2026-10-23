@@ -1,0 +1,51 @@
+{
+ "id": "jafi.dk/products/12847-webley-scott",
+ "detail_id": "43d5336a8a8ac68b",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/12847-webley-scott",
+ "title": "Webley & Scott Boxlock Haglgevær - Kal. 16/70 - S/S",
+ "price_dkk": 14999,
+ "weapon_type": "Haglgevær",
+ "brand": "Webley & Scott",
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/12847-webley-scott/0.webp",
+ "image_count": 4,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Side-by-side fra Birmingham i rigtig fin stand. Bøssen står med meget af den originale flammehærdning tilbage på baskulen. Skæftet er flot oliebehandlet med satin-finish. Grundet de mindre dimensioner er den oplagt som skovbøsse og til skytter af mindre statur. Kaliber: 16/70 Løbs længde: 66 cm Skæftelængde: 35,5 cm Skæfte: Træ - Engelsk Skæfte Sikring: Automatisk Ejector: Ja Chokes: Nej - Boret 1/4 og 1/4 Aftræk: Dobbelt Vægt: 2,65 kg Tilhørende kuffert: Nej Internt bognr.: 12847 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/12847-webley-scott/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12847-webley-scott/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12847-webley-scott/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12847-webley-scott/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12847-webley-scott/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12847-webley-scott/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12847-webley-scott/3.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12847-webley-scott/3.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

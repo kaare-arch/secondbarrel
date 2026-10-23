@@ -1,0 +1,55 @@
+{
+ "id": "8c30c398-d36b-413e-8cc0-cd4b063613ee",
+ "detail_id": "e8a9bf7734d417c9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8c30c398-d36b-413e-8cc0-cd4b063613ee/blaser-k95",
+ "title": "Blaser K95",
+ "price_dkk": 38500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": "8950",
+ "by": "Ørsted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/8c30c398-d36b-413e-8cc0-cd4b063613ee/0.webp",
+ "image_count": 5,
+ "lat": 56.52136442,
+ "lon": 10.31404039,
+ "description": "Kaliber 6,5 mm Creedmoor.\nLeupold kikkert med elektronisk vaterpas.\nInkl. original Blaser rem og futetal.\n40 jagtpatroner samt 180 øvelsespatroner medfølger.\nSælges grundet sygdom.",
+ "images": [
+  {
+   "full": "/images/8c30c398-d36b-413e-8cc0-cd4b063613ee/0.webp",
+   "thumb": "/thumbs/8c30c398-d36b-413e-8cc0-cd4b063613ee/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8c30c398-d36b-413e-8cc0-cd4b063613ee/1.webp",
+   "thumb": "/thumbs/8c30c398-d36b-413e-8cc0-cd4b063613ee/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8c30c398-d36b-413e-8cc0-cd4b063613ee/2.webp",
+   "thumb": "/thumbs/8c30c398-d36b-413e-8cc0-cd4b063613ee/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8c30c398-d36b-413e-8cc0-cd4b063613ee/3.webp",
+   "thumb": "/thumbs/8c30c398-d36b-413e-8cc0-cd4b063613ee/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8c30c398-d36b-413e-8cc0-cd4b063613ee/4.webp",
+   "thumb": "/thumbs/8c30c398-d36b-413e-8cc0-cd4b063613ee/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

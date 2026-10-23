@@ -1,0 +1,55 @@
+{
+ "id": "02138ddd-9e9c-4dec-9aa0-099d1a15f101",
+ "detail_id": "48c3832428a141b1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/02138ddd-9e9c-4dec-9aa0-099d1a15f101/browning-b25-a1-trap",
+ "title": "Browning B25 A1 Trap",
+ "price_dkk": 20000,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": "9240",
+ "by": "Nibe",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/02138ddd-9e9c-4dec-9aa0-099d1a15f101/0.webp",
+ "image_count": 5,
+ "lat": 56.97662743,
+ "lon": 9.47764363,
+ "description": "Rigtig fin B25\n76 cm løb \n12 mm sigteskinne \nBoring 1/4 og 1/2 \nÅrgang 1973 (så ny den ikke har bolt gennem forskæftet)",
+ "images": [
+  {
+   "full": "/images/02138ddd-9e9c-4dec-9aa0-099d1a15f101/0.webp",
+   "thumb": "/thumbs/02138ddd-9e9c-4dec-9aa0-099d1a15f101/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/02138ddd-9e9c-4dec-9aa0-099d1a15f101/1.webp",
+   "thumb": "/thumbs/02138ddd-9e9c-4dec-9aa0-099d1a15f101/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/02138ddd-9e9c-4dec-9aa0-099d1a15f101/2.webp",
+   "thumb": "/thumbs/02138ddd-9e9c-4dec-9aa0-099d1a15f101/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/02138ddd-9e9c-4dec-9aa0-099d1a15f101/3.webp",
+   "thumb": "/thumbs/02138ddd-9e9c-4dec-9aa0-099d1a15f101/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/02138ddd-9e9c-4dec-9aa0-099d1a15f101/4.webp",
+   "thumb": "/thumbs/02138ddd-9e9c-4dec-9aa0-099d1a15f101/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

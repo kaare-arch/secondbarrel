@@ -1,0 +1,57 @@
+{
+ "id": "jafi.dk/products/p107-caesar-g",
+ "detail_id": "6ddf7e34e7cbc29b",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/p107-caesar-g",
+ "title": "Caesar Guerini Tempio Limited Haglgevær - Kal. 12/76 - O/U",
+ "price_dkk": 29800,
+ "weapon_type": "Haglgevær",
+ "brand": "Caesar Guerini",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/p107-caesar-g/0.webp",
+ "image_count": 5,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Flot jagtmodel fra Guerini med stålgrå baskule, flot udsmykket med vildtmotiver i guld. Prince of Wales skæfte med afrundet knop understreger geværets slanke og elegange linjer. Der er monteret rembøjler, hvilket gør geværet ganske velegnet for hundeføreren. Kaliber: 12/76 Løbs længde: 71 cm Skæftelængde: 37,5 cm Skæfte: Træ - Prince of Wales Sikring: Automatisk Ejector: Ja Chokes: Ja Aftræk: Enkelt Vægt: 3,2 kg Tilhørende kuffert: Nej Internt bognr.: P107 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/p107-caesar-g/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p107-caesar-g/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/p107-caesar-g/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p107-caesar-g/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/p107-caesar-g/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p107-caesar-g/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/p107-caesar-g/3.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p107-caesar-g/3.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/p107-caesar-g/4.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p107-caesar-g/4.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": "f12e9593-1c8b-4173-871b-a69fe1ec71b1",
+ "detail_id": "8b26f5814f06996d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f12e9593-1c8b-4173-871b-a69fe1ec71b1/saur-80-med-kikert-og-kuffert",
+ "title": "Saur 80 med kikert og kuffert",
+ "price_dkk": 16000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": "2450",
+ "by": "København SV",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f12e9593-1c8b-4173-871b-a69fe1ec71b1/0.webp",
+ "image_count": 2,
+ "lat": 55.64438323,
+ "lon": 12.52488646,
+ "description": "Flot riffel med en god kikkert sælges.",
+ "images": [
+  {
+   "full": "/images/f12e9593-1c8b-4173-871b-a69fe1ec71b1/0.webp",
+   "thumb": "/thumbs/f12e9593-1c8b-4173-871b-a69fe1ec71b1/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f12e9593-1c8b-4173-871b-a69fe1ec71b1/1.webp",
+   "thumb": "/thumbs/f12e9593-1c8b-4173-871b-a69fe1ec71b1/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

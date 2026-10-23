@@ -1,0 +1,55 @@
+{
+ "id": "18cc4ba7-de72-45b6-8cc1-3eae387667db",
+ "detail_id": "b723b0f09e90dccb",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/18cc4ba7-de72-45b6-8cc1-3eae387667db/sako-riffel",
+ "title": "SAKO Riffel",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": "2920",
+ "by": "Charlottenlund",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/18cc4ba7-de72-45b6-8cc1-3eae387667db/0.webp",
+ "image_count": 5,
+ "lat": 55.75534263,
+ "lon": 12.57482427,
+ "description": "Super velholdt klassisk jagtriffel fra finske SAKO L579 med en Tysk Karl Kaps sigtekikkert, Harkila rem og svensk Stalon lyddæmper. Virkelig velskydende og stram i låsen.  Har lige været skilt ad og samlet hos våbensmeden.",
+ "images": [
+  {
+   "full": "/images/18cc4ba7-de72-45b6-8cc1-3eae387667db/0.webp",
+   "thumb": "/thumbs/18cc4ba7-de72-45b6-8cc1-3eae387667db/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18cc4ba7-de72-45b6-8cc1-3eae387667db/1.webp",
+   "thumb": "/thumbs/18cc4ba7-de72-45b6-8cc1-3eae387667db/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18cc4ba7-de72-45b6-8cc1-3eae387667db/2.webp",
+   "thumb": "/thumbs/18cc4ba7-de72-45b6-8cc1-3eae387667db/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18cc4ba7-de72-45b6-8cc1-3eae387667db/3.webp",
+   "thumb": "/thumbs/18cc4ba7-de72-45b6-8cc1-3eae387667db/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/18cc4ba7-de72-45b6-8cc1-3eae387667db/4.webp",
+   "thumb": "/thumbs/18cc4ba7-de72-45b6-8cc1-3eae387667db/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

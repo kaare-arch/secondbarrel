@@ -1,0 +1,43 @@
+{
+ "id": "3a0291f7-d14e-4d07-935c-a39df5b25b09",
+ "detail_id": "186d76ced411dba7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3a0291f7-d14e-4d07-935c-a39df5b25b09/ruger-american-300-blk",
+ "title": "Ruger American 300 blk.",
+ "price_dkk": 9995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Ruger",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": "5500",
+ "by": "Middelfart",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/3a0291f7-d14e-4d07-935c-a39df5b25b09/0.webp",
+ "image_count": 3,
+ "lat": 55.49543203,
+ "lon": 9.79559492,
+ "description": "300 blackout\nMDT oryx olive green\nMdt mag\nSig Romeo rødpunkt",
+ "images": [
+  {
+   "full": "/images/3a0291f7-d14e-4d07-935c-a39df5b25b09/0.webp",
+   "thumb": "/thumbs/3a0291f7-d14e-4d07-935c-a39df5b25b09/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a0291f7-d14e-4d07-935c-a39df5b25b09/1.webp",
+   "thumb": "/thumbs/3a0291f7-d14e-4d07-935c-a39df5b25b09/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3a0291f7-d14e-4d07-935c-a39df5b25b09/4.webp",
+   "thumb": "/thumbs/3a0291f7-d14e-4d07-935c-a39df5b25b09/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

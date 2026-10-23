@@ -1,0 +1,57 @@
+{
+ "id": "7ea8d133-7ac3-4f26-81ae-e4d3461a6fee",
+ "detail_id": "8a6a92c90c2f8045",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/beretta-silver-pigeon-1",
+ "title": "Beretta silver pigeon 1",
+ "price_dkk": 11000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": "7500",
+ "by": "Holstebro",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/0.webp",
+ "image_count": 5,
+ "lat": 56.34794414,
+ "lon": 8.58519299,
+ "description": "Beretta silver pigeon 1 12/76 76cm. med 5. Chokes  der med følger kuffert og remholdere som er helt nye, haglgeværet har været brugt meget lidt og ligner et nyt Max 100 skud kvittering haves.\n\nOBS. Sælge kun ved fremvisning gyldigt jagttegn",
+ "images": [
+  {
+   "full": "/images/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/0.webp",
+   "thumb": "/thumbs/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/1.webp",
+   "thumb": "/thumbs/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/2.webp",
+   "thumb": "/thumbs/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/3.webp",
+   "thumb": "/thumbs/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/4.webp",
+   "thumb": "/thumbs/7ea8d133-7ac3-4f26-81ae-e4d3461a6fee/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

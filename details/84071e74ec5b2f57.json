@@ -1,0 +1,33 @@
+{
+ "id": "jafi.dk/products/10741-remington-700",
+ "detail_id": "84071e74ec5b2f57",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/10741-remington-700",
+ "title": "Remington 700 Riffel - Kal. 308 Win",
+ "price_dkk": 3000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/10741-remington-700/0.webp",
+ "image_count": 1,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Remington 700 rustfri i flot stand. Sort syntetskæfte og baser monteret",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/10741-remington-700/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/10741-remington-700/0.webp",
+   "width": 1024,
+   "height": 1024
+  }
+ ]
+}

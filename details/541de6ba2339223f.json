@@ -1,0 +1,63 @@
+{
+ "id": "3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b",
+ "detail_id": "541de6ba2339223f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/beretta-ultralight-gold",
+ "title": "Beretta Ultralight Gold",
+ "price_dkk": 13999,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/0.webp",
+ "image_count": 6,
+ "lat": null,
+ "lon": null,
+ "description": "Beretta Ultralight Gold O/U\n\nKaliber 12/70.\n\nMed ejektor, singletrigger, løbsvælger og automatsikring. \n\n67cm løb. \n\nBoring 1/4-3/4.\n\nFlot opgraderet engelsk skæfte. \nRigtig fin brugt stand. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/0.webp",
+   "thumb": "/thumbs/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/1.webp",
+   "thumb": "/thumbs/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/2.webp",
+   "thumb": "/thumbs/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/3.webp",
+   "thumb": "/thumbs/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/4.webp",
+   "thumb": "/thumbs/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/5.webp",
+   "thumb": "/thumbs/3ad90b71-6d35-4e9b-ae4b-43bce7ac9f1b/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

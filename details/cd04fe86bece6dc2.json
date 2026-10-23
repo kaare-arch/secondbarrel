@@ -1,0 +1,45 @@
+{
+ "id": "c211bc9c-db24-478e-9d72-868c0336963d",
+ "detail_id": "cd04fe86bece6dc2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c211bc9c-db24-478e-9d72-868c0336963d/browning-x-bolt-varmint-super-eclipse",
+ "title": "Browning x bolt varmint super eclipse",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Browning",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-22",
+ "age_days": 1,
+ "postnummer": "5500",
+ "by": "Middelfart",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/c211bc9c-db24-478e-9d72-868c0336963d/0.webp",
+ "image_count": 3,
+ "lat": 55.49543203,
+ "lon": 9.79559492,
+ "description": "Browning 6.5 x 55\nVarmint thumbhole skæfte \nGod velskydende riffel.",
+ "images": [
+  {
+   "full": "/images/c211bc9c-db24-478e-9d72-868c0336963d/0.webp",
+   "thumb": "/thumbs/c211bc9c-db24-478e-9d72-868c0336963d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c211bc9c-db24-478e-9d72-868c0336963d/1.webp",
+   "thumb": "/thumbs/c211bc9c-db24-478e-9d72-868c0336963d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c211bc9c-db24-478e-9d72-868c0336963d/2.webp",
+   "thumb": "/thumbs/c211bc9c-db24-478e-9d72-868c0336963d/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
