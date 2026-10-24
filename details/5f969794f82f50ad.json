@@ -1,0 +1,63 @@
+{
+ "id": "42973274-5149-45b8-8a50-a23292adfc29",
+ "detail_id": "5f969794f82f50ad",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/42973274-5149-45b8-8a50-a23292adfc29/sarasqueta-haglgevaer",
+ "title": "SARASQUETA Haglgevær",
+ "price_dkk": 1200,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-23",
+ "age_days": 1,
+ "postnummer": "8500",
+ "by": "Grenaa",
+ "stand_gg": "Ny",
+ "thumb": "/thumbs/42973274-5149-45b8-8a50-a23292adfc29/0.webp",
+ "image_count": 6,
+ "lat": 56.42794759,
+ "lon": 10.84475511,
+ "description": "12/70 \nFELIX SARASQUETA - Pioneer\nPænt klassisk haglgevær til en fornuftig pris \n\nFast pris",
+ "images": [
+  {
+   "full": "/images/42973274-5149-45b8-8a50-a23292adfc29/0.webp",
+   "thumb": "/thumbs/42973274-5149-45b8-8a50-a23292adfc29/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/42973274-5149-45b8-8a50-a23292adfc29/1.webp",
+   "thumb": "/thumbs/42973274-5149-45b8-8a50-a23292adfc29/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/42973274-5149-45b8-8a50-a23292adfc29/2.webp",
+   "thumb": "/thumbs/42973274-5149-45b8-8a50-a23292adfc29/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/42973274-5149-45b8-8a50-a23292adfc29/3.webp",
+   "thumb": "/thumbs/42973274-5149-45b8-8a50-a23292adfc29/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/42973274-5149-45b8-8a50-a23292adfc29/4.webp",
+   "thumb": "/thumbs/42973274-5149-45b8-8a50-a23292adfc29/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/42973274-5149-45b8-8a50-a23292adfc29/5.webp",
+   "thumb": "/thumbs/42973274-5149-45b8-8a50-a23292adfc29/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

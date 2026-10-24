@@ -1,0 +1,43 @@
+{
+ "id": "6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8",
+ "detail_id": "5c047494e3d5bcb5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/her-er-den-saa",
+ "title": "HER ER DEN SÅ",
+ "price_dkk": 3000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-23",
+ "age_days": 1,
+ "postnummer": "5492",
+ "by": "Vissenbjerg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/0.webp",
+ "image_count": 3,
+ "lat": 55.39228422,
+ "lon": 10.13229762,
+ "description": "Riflen for dig der går efter Råvildt-Ræv-mårhund.\nMidland 243 med indvendigt magasin, Sonic 45 lyddæmper og Jaguar 1,5-6*44\nEn pæn og præcis-skydende riffel.\nDer medfølger lidt trænings-jagt ammunition.\nDepositum ved køb 500kr rest og overdragelse ved fremvisning af våbentilladelse.",
+ "images": [
+  {
+   "full": "/images/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/0.webp",
+   "thumb": "/thumbs/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/1.webp",
+   "thumb": "/thumbs/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/2.webp",
+   "thumb": "/thumbs/6385f40a-a876-4c6b-b0ea-55b2ec0d0fd8/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
