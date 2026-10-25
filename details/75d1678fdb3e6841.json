@@ -1,0 +1,63 @@
+{
+ "id": "8dc3beca-1f27-48a3-86db-7cdc9c1bdecf",
+ "detail_id": "75d1678fdb3e6841",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/husqvarna-1640-jagtriffel-kaliber-6-5x55",
+ "title": "Husqvarna 1640 jagtriffel kaliber 6,5x55",
+ "price_dkk": 2400,
+ "weapon_type": "Jagtriffel",
+ "brand": "Husqvarna",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-13",
+ "age_days": 12,
+ "postnummer": "7600",
+ "by": "Struer",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/0.webp",
+ "image_count": 6,
+ "lat": 56.45291193,
+ "lon": 8.54722904,
+ "description": "Særdeles velskydende og velholdt jagtriffel sælges. Timney aftræk og riflen er bedded. Stålbaser og korn og kærv er bevaret.\nIlagt nyt skæfte af bøssemager, der har gjort et smukt stykke arbejde.\nSælges uden kikkert og rem.",
+ "images": [
+  {
+   "full": "/images/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/0.webp",
+   "thumb": "/thumbs/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/1.webp",
+   "thumb": "/thumbs/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/2.webp",
+   "thumb": "/thumbs/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/3.webp",
+   "thumb": "/thumbs/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/4.webp",
+   "thumb": "/thumbs/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/5.webp",
+   "thumb": "/thumbs/8dc3beca-1f27-48a3-86db-7cdc9c1bdecf/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

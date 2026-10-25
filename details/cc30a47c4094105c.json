@@ -1,0 +1,45 @@
+{
+ "id": "9e5330fd-85b6-470a-8db2-6231d20c8f01",
+ "detail_id": "cc30a47c4094105c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9e5330fd-85b6-470a-8db2-6231d20c8f01/heym-sr-21-308-win-med-kikkert",
+ "title": "Heym SR-21 308 win med kikkert",
+ "price_dkk": 9495,
+ "weapon_type": "Jagtriffel",
+ "brand": "Heym",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-24",
+ "age_days": 1,
+ "postnummer": "3200",
+ "by": "Helsinge",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/9e5330fd-85b6-470a-8db2-6231d20c8f01/0.webp",
+ "image_count": 3,
+ "lat": 56.01099572,
+ "lon": 12.1715219,
+ "description": "Heym SR-21 i kaliber 308 Winchester sælges med Steiner Ranger 2,5-10x50 kikkert samlet.",
+ "images": [
+  {
+   "full": "/images/9e5330fd-85b6-470a-8db2-6231d20c8f01/0.webp",
+   "thumb": "/thumbs/9e5330fd-85b6-470a-8db2-6231d20c8f01/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9e5330fd-85b6-470a-8db2-6231d20c8f01/1.webp",
+   "thumb": "/thumbs/9e5330fd-85b6-470a-8db2-6231d20c8f01/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9e5330fd-85b6-470a-8db2-6231d20c8f01/2.webp",
+   "thumb": "/thumbs/9e5330fd-85b6-470a-8db2-6231d20c8f01/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

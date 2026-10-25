@@ -1,0 +1,37 @@
+{
+ "id": "67ffa5f2-5d65-46d9-b2eb-352ba5869826",
+ "detail_id": "7a2940e15454d98a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/67ffa5f2-5d65-46d9-b2eb-352ba5869826/miroku-700",
+ "title": "Miroku 700",
+ "price_dkk": 4400,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-24",
+ "age_days": 1,
+ "postnummer": "8722",
+ "by": "Hedensted",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/67ffa5f2-5d65-46d9-b2eb-352ba5869826/0.webp",
+ "image_count": 2,
+ "lat": 55.76508387,
+ "lon": 9.71130088,
+ "description": "Fin miroku 700 sælges. Bøssen er rigtig fin og uden væsentlige fejl og mangler",
+ "images": [
+  {
+   "full": "/images/67ffa5f2-5d65-46d9-b2eb-352ba5869826/0.webp",
+   "thumb": "/thumbs/67ffa5f2-5d65-46d9-b2eb-352ba5869826/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/67ffa5f2-5d65-46d9-b2eb-352ba5869826/1.webp",
+   "thumb": "/thumbs/67ffa5f2-5d65-46d9-b2eb-352ba5869826/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": "4ac0363a-9814-41d4-bed6-6a22ec23c338",
+ "detail_id": "04c92a0e0863a938",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4ac0363a-9814-41d4-bed6-6a22ec23c338/weatherby-mark-xxii",
+ "title": "Weatherby Mark XXII",
+ "price_dkk": 1500,
+ "weapon_type": "Salonriffel",
+ "brand": "Weatherby",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-24",
+ "age_days": 1,
+ "postnummer": "4632",
+ "by": "Bjæverskov",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/4ac0363a-9814-41d4-bed6-6a22ec23c338/0.webp",
+ "image_count": 2,
+ "lat": 55.44838852,
+ "lon": 12.02691725,
+ "description": "Fin ældre halvautomatisk salonriffel inkl. kikkert sælges",
+ "images": [
+  {
+   "full": "/images/4ac0363a-9814-41d4-bed6-6a22ec23c338/0.webp",
+   "thumb": "/thumbs/4ac0363a-9814-41d4-bed6-6a22ec23c338/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4ac0363a-9814-41d4-bed6-6a22ec23c338/1.webp",
+   "thumb": "/thumbs/4ac0363a-9814-41d4-bed6-6a22ec23c338/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

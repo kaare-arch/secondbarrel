@@ -1,0 +1,45 @@
+{
+ "id": "57dc3822-6673-4cdc-ad12-8f3c7979ca4d",
+ "detail_id": "91ba4f725673425a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/heym-sr-21-6-5x55-med-kikkert",
+ "title": "Heym SR-21 6,5x55 med kikkert",
+ "price_dkk": 9795,
+ "weapon_type": "Jagtriffel",
+ "brand": "Heym",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-24",
+ "age_days": 1,
+ "postnummer": "3200",
+ "by": "Helsinge",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/0.webp",
+ "image_count": 3,
+ "lat": 56.01099572,
+ "lon": 12.1715219,
+ "description": "Heym SR-21 6,5x55 med Steiner Ranger 3-12x56 sælges.",
+ "images": [
+  {
+   "full": "/images/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/0.webp",
+   "thumb": "/thumbs/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/1.webp",
+   "thumb": "/thumbs/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/2.webp",
+   "thumb": "/thumbs/57dc3822-6673-4cdc-ad12-8f3c7979ca4d/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

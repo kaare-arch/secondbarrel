@@ -1,0 +1,67 @@
+{
+ "id": "96ce0b72-ce63-4c51-a824-c5e86298c461",
+ "detail_id": "e1abde1693c6cce7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/96ce0b72-ce63-4c51-a824-c5e86298c461/techni-mec-marcheno",
+ "title": "Techni Mec Marcheno",
+ "price_dkk": 7000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-24",
+ "age_days": 1,
+ "postnummer": "6000",
+ "by": "Kolding",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/0.webp",
+ "image_count": 7,
+ "lat": 55.51102382,
+ "lon": 9.44363216,
+ "description": "Meget velholdt haglbøsse, rene løb.\nEngelsk skæfte\n+ 250 patroner, haglstr. 3-4-5\nLøbslængde 67,5 cm, kolbe 37 cm.",
+ "images": [
+  {
+   "full": "/images/96ce0b72-ce63-4c51-a824-c5e86298c461/0.webp",
+   "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96ce0b72-ce63-4c51-a824-c5e86298c461/1.webp",
+   "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96ce0b72-ce63-4c51-a824-c5e86298c461/2.webp",
+   "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96ce0b72-ce63-4c51-a824-c5e86298c461/3.webp",
+   "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96ce0b72-ce63-4c51-a824-c5e86298c461/4.webp",
+   "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96ce0b72-ce63-4c51-a824-c5e86298c461/5.webp",
+   "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/96ce0b72-ce63-4c51-a824-c5e86298c461/6.webp",
+   "thumb": "/thumbs/96ce0b72-ce63-4c51-a824-c5e86298c461/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

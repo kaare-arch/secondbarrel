@@ -1,0 +1,55 @@
+{
+ "id": "80bf39be-5d8d-44f5-858b-11da27c92fe5",
+ "detail_id": "4c0e4bd2017cd69d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/80bf39be-5d8d-44f5-858b-11da27c92fe5/winchester-wildcat",
+ "title": "Winchester Wildcat",
+ "price_dkk": 4500,
+ "weapon_type": "Salonriffel",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-24",
+ "age_days": 1,
+ "postnummer": "9310",
+ "by": "Vodskov",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/80bf39be-5d8d-44f5-858b-11da27c92fe5/0.webp",
+ "image_count": 5,
+ "lat": 57.10195914,
+ "lon": 10.08812266,
+ "description": "Lækker,let, lynhurtig og velskydende 1/2 automatisk salonriffel.  Der medfølger kikkert, lyddæmper, hurtiglader samt ekstra magasin til 25 skud. Skudt Max 200 skud. Det helt rette våben til regulering osv.",
+ "images": [
+  {
+   "full": "/images/80bf39be-5d8d-44f5-858b-11da27c92fe5/0.webp",
+   "thumb": "/thumbs/80bf39be-5d8d-44f5-858b-11da27c92fe5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/80bf39be-5d8d-44f5-858b-11da27c92fe5/1.webp",
+   "thumb": "/thumbs/80bf39be-5d8d-44f5-858b-11da27c92fe5/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/80bf39be-5d8d-44f5-858b-11da27c92fe5/2.webp",
+   "thumb": "/thumbs/80bf39be-5d8d-44f5-858b-11da27c92fe5/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/80bf39be-5d8d-44f5-858b-11da27c92fe5/3.webp",
+   "thumb": "/thumbs/80bf39be-5d8d-44f5-858b-11da27c92fe5/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/80bf39be-5d8d-44f5-858b-11da27c92fe5/4.webp",
+   "thumb": "/thumbs/80bf39be-5d8d-44f5-858b-11da27c92fe5/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
