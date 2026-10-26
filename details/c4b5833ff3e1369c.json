@@ -1,0 +1,43 @@
+{
+ "id": "a6ebd3de-6fa8-4652-b392-65620c8abc5c",
+ "detail_id": "c4b5833ff3e1369c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a6ebd3de-6fa8-4652-b392-65620c8abc5c/steyr-mannlicher-8x68s",
+ "title": "Steyr Mannlicher 8x68s",
+ "price_dkk": 6500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Steyr Mannlicher",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-25",
+ "age_days": 0,
+ "postnummer": "4593",
+ "by": "Eskebjerg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a6ebd3de-6fa8-4652-b392-65620c8abc5c/0.webp",
+ "image_count": 3,
+ "lat": 55.70817478,
+ "lon": 11.2778357,
+ "description": "Flot stand der følger 2 magasiner med samt over 180 bly holdige skud samt læderrem. Original Steyr svingmontage med 30 mm ringe (kikkert følger ikke med)",
+ "images": [
+  {
+   "full": "/images/a6ebd3de-6fa8-4652-b392-65620c8abc5c/0.webp",
+   "thumb": "/thumbs/a6ebd3de-6fa8-4652-b392-65620c8abc5c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a6ebd3de-6fa8-4652-b392-65620c8abc5c/1.webp",
+   "thumb": "/thumbs/a6ebd3de-6fa8-4652-b392-65620c8abc5c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a6ebd3de-6fa8-4652-b392-65620c8abc5c/2.webp",
+   "thumb": "/thumbs/a6ebd3de-6fa8-4652-b392-65620c8abc5c/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

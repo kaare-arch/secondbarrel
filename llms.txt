@@ -1,16 +1,16 @@
 # SecondBarrel
 
-> Dansk oversigt over brugte, lovlige civile skydevåben til salg - jagtrifler, haglgeværer, kombinationsvåben, salonrifler, pistoler og revolvere. Samler annoncer fra Gul og Gratis og danske forhandlere ét sted (3713 annoncer, opdateret 25. okt. 2026 kl. 02:20; opdateres hver nat). SecondBarrel sælger intet selv og er ikke en forhandler - hver annonce linker videre til den oprindelige kilde.
+> Dansk oversigt over brugte, lovlige civile skydevåben til salg - jagtrifler, haglgeværer, kombinationsvåben, salonrifler, pistoler og revolvere. Samler annoncer fra Gul og Gratis og danske forhandlere ét sted (3717 annoncer, opdateret 26. okt. 2026 kl. 01:25; opdateres hver nat). SecondBarrel sælger intet selv og er ikke en forhandler - hver annonce linker videre til den oprindelige kilde.
 
 Forsiden (https://secondbarrel.com/) kræver JavaScript. Brug i stedet listesiderne eller JSON-feeds nedenfor for at gennemgå udbuddet, fx "alle over/under-haglgeværer under 10.000 kr.". Priser er sælgernes udbudspriser, ikke handelspriser.
 
 ## Alle annoncer pr. type (statisk HTML, ingen JavaScript)
 
-- [Brugte jagtrifler](https://secondbarrel.com/jagtrifler/): 1261 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/jagtrifler.json
+- [Brugte jagtrifler](https://secondbarrel.com/jagtrifler/): 1264 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/jagtrifler.json
 - [Brugte haglgeværer](https://secondbarrel.com/haglgevaer/): 676 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/haglgevaer.json
-- [Brugte kombinationsvåben](https://secondbarrel.com/kombivaaben/): 141 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/kombivaaben.json
+- [Brugte kombinationsvåben](https://secondbarrel.com/kombivaaben/): 140 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/kombivaaben.json
 - [Brugte salonrifler](https://secondbarrel.com/salonrifler/): 109 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/salonrifler.json
-- [Brugte pistoler](https://secondbarrel.com/pistoler/): 899 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/pistoler.json
+- [Brugte pistoler](https://secondbarrel.com/pistoler/): 901 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/pistoler.json
 - [Brugte revolvere](https://secondbarrel.com/revolvere/): 627 annoncer i én tabel sorteret efter pris (titel, pris, kaliber, mærke, stand, sælger, sted) · JSON: https://secondbarrel.com/feed/revolvere.json
 
 ## Data
