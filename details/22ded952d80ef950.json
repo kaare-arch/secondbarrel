@@ -1,0 +1,43 @@
+{
+ "id": "0a9948c3-3bf0-412d-ad69-09632eba5a82",
+ "detail_id": "22ded952d80ef950",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0a9948c3-3bf0-412d-ad69-09632eba5a82/riffel-tikka",
+ "title": "Riffel Tikka",
+ "price_dkk": 10000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-26",
+ "age_days": 0,
+ "postnummer": "8530",
+ "by": "Hjortshøj",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/0a9948c3-3bf0-412d-ad69-09632eba5a82/0.webp",
+ "image_count": 3,
+ "lat": 56.29464717,
+ "lon": 10.20502083,
+ "description": "Sælger min tikka t3 riffel, da jeg har fået en anden.\nDer er også lyd dæmper på. Sl hardcore twister\nDen har zwizz duralyt  3-12x 50 kikkert med lys.",
+ "images": [
+  {
+   "full": "/images/0a9948c3-3bf0-412d-ad69-09632eba5a82/0.webp",
+   "thumb": "/thumbs/0a9948c3-3bf0-412d-ad69-09632eba5a82/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0a9948c3-3bf0-412d-ad69-09632eba5a82/1.webp",
+   "thumb": "/thumbs/0a9948c3-3bf0-412d-ad69-09632eba5a82/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0a9948c3-3bf0-412d-ad69-09632eba5a82/2.webp",
+   "thumb": "/thumbs/0a9948c3-3bf0-412d-ad69-09632eba5a82/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

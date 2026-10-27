@@ -1,0 +1,43 @@
+{
+ "id": "793053a8-5bfd-4249-a91e-d2dd706b6201",
+ "detail_id": "42a23d122028e034",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/793053a8-5bfd-4249-a91e-d2dd706b6201/webley-tempest",
+ "title": "WEBLEY TEMPEST",
+ "price_dkk": 3000,
+ "weapon_type": "Pistol",
+ "brand": "Webley & Scott",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-25",
+ "age_days": 1,
+ "postnummer": "4660",
+ "by": "Store Heddinge",
+ "stand_gg": null,
+ "thumb": "/thumbs/793053a8-5bfd-4249-a91e-d2dd706b6201/0.webp",
+ "image_count": 3,
+ "lat": 55.3143901,
+ "lon": 12.39204391,
+ "description": "Super flot Webley Tempest luftpistol (4.5/177) trods alderen.\nPistolen er lavet i England, dvs. den er fra den tid - inden produktionen blev flyttet til Tyrkiet.\nPistolen ligger godt i hånden, og er vel skydende. Den er blevet renset ved hver skydning, og fejler absolut intet.\nDet er et guldfund for en samler.",
+ "images": [
+  {
+   "full": "/images/793053a8-5bfd-4249-a91e-d2dd706b6201/0.webp",
+   "thumb": "/thumbs/793053a8-5bfd-4249-a91e-d2dd706b6201/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/793053a8-5bfd-4249-a91e-d2dd706b6201/1.webp",
+   "thumb": "/thumbs/793053a8-5bfd-4249-a91e-d2dd706b6201/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/793053a8-5bfd-4249-a91e-d2dd706b6201/2.webp",
+   "thumb": "/thumbs/793053a8-5bfd-4249-a91e-d2dd706b6201/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

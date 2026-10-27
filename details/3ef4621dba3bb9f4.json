@@ -1,0 +1,45 @@
+{
+ "id": "0abf57d6-c647-4a4b-88fb-fb658f47b9ed",
+ "detail_id": "3ef4621dba3bb9f4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/aya-guldmann-ambassador",
+ "title": "Aya guldmann ambassador",
+ "price_dkk": 7500,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-25",
+ "age_days": 1,
+ "postnummer": "4593",
+ "by": "Eskebjerg",
+ "stand_gg": null,
+ "thumb": "/thumbs/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/0.webp",
+ "image_count": 3,
+ "lat": 55.70817478,
+ "lon": 11.2778357,
+ "description": "Aya guldmann ambassador \nFlot og stram side by side \n12/70 66 cm",
+ "images": [
+  {
+   "full": "/images/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/0.webp",
+   "thumb": "/thumbs/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/1.webp",
+   "thumb": "/thumbs/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/2.webp",
+   "thumb": "/thumbs/0abf57d6-c647-4a4b-88fb-fb658f47b9ed/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

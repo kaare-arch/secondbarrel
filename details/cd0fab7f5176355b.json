@@ -1,0 +1,37 @@
+{
+ "id": "ee99b71f-8718-4da9-bc7b-6417eb4a6d47",
+ "detail_id": "cd0fab7f5176355b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ee99b71f-8718-4da9-bc7b-6417eb4a6d47/schultz-larsen-100dl-maaske-dks-flotteste",
+ "title": "SCHULTZ&LARSEN 100DL Måske DKS flotteste",
+ "price_dkk": 17500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-26",
+ "age_days": 0,
+ "postnummer": "7500",
+ "by": "Holstebro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ee99b71f-8718-4da9-bc7b-6417eb4a6d47/0.webp",
+ "image_count": 2,
+ "lat": 56.34794414,
+ "lon": 8.58519299,
+ "description": "yderst velholdt , står meget flot i træet",
+ "images": [
+  {
+   "full": "/images/ee99b71f-8718-4da9-bc7b-6417eb4a6d47/0.webp",
+   "thumb": "/thumbs/ee99b71f-8718-4da9-bc7b-6417eb4a6d47/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ee99b71f-8718-4da9-bc7b-6417eb4a6d47/1.webp",
+   "thumb": "/thumbs/ee99b71f-8718-4da9-bc7b-6417eb4a6d47/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

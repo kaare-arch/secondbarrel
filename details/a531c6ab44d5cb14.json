@@ -1,0 +1,37 @@
+{
+ "id": "9ea6e9ad-b3b6-45d4-b1c2-d85703d58947",
+ "detail_id": "a531c6ab44d5cb14",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9ea6e9ad-b3b6-45d4-b1c2-d85703d58947/marlin-model-336-cal-30-30-leveraction",
+ "title": "Marlin model 336 cal 30-30 leveraction",
+ "price_dkk": 4800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Marlin",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-26",
+ "age_days": 0,
+ "postnummer": "4200",
+ "by": "Slagelse",
+ "stand_gg": null,
+ "thumb": "/thumbs/9ea6e9ad-b3b6-45d4-b1c2-d85703d58947/0.webp",
+ "image_count": 2,
+ "lat": 55.40887585,
+ "lon": 11.37133987,
+ "description": "Jagt riffel mrk marlin model 336 new haven  leveraction 6+1 med kikkert Sterling 4x32 .med 60 stk jagt ammunition, pæn og velholdt \nSælges",
+ "images": [
+  {
+   "full": "/images/9ea6e9ad-b3b6-45d4-b1c2-d85703d58947/0.webp",
+   "thumb": "/thumbs/9ea6e9ad-b3b6-45d4-b1c2-d85703d58947/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9ea6e9ad-b3b6-45d4-b1c2-d85703d58947/2.webp",
+   "thumb": "/thumbs/9ea6e9ad-b3b6-45d4-b1c2-d85703d58947/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "5da88db2-7fab-4f6d-bf29-a736f4e2e44a",
+ "detail_id": "e14f6ef3ff3d63d8",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/pumpgun-maverick-som-ny",
+ "title": "Pumpgun Maverick som ny",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Mossberg",
+ "calibers": [
+  "12 (ukendt kammer)"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-26",
+ "age_days": 0,
+ "postnummer": "8370",
+ "by": "Hadsten",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/0.webp",
+ "image_count": 7,
+ "lat": 56.33866468,
+ "lon": 10.0289852,
+ "description": "Har haft den fra ny men aldrig brugt den til jagt. Skudt Max 50 skud. \nTekniske specifikationer fra nettet. \n\n    •    Producent: O.F. Mossberg & Sons (produceret på deres fabrik Maverick Arms i Eagle Pass, Texas, USA).\n    •    Model: Maverick Model 88 \n    •    Kaliber (Gauge): 12 GA. (Kaliber 12).\n    •    Kammerstørrelse: Våbnet er kamret til både 2 ¾\" og 3\" (Magnum)",
+ "images": [
+  {
+   "full": "/images/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/0.webp",
+   "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/1.webp",
+   "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/2.webp",
+   "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/3.webp",
+   "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/4.webp",
+   "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/5.webp",
+   "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/6.webp",
+   "thumb": "/thumbs/5da88db2-7fab-4f6d-bf29-a736f4e2e44a/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

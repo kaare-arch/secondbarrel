@@ -1,0 +1,57 @@
+{
+ "id": "06178857-fbb7-47e6-b059-3652ff7d5b34",
+ "detail_id": "f7fc48c57b66b3d8",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/06178857-fbb7-47e6-b059-3652ff7d5b34/gebruder-merkel-over-under",
+ "title": "Gebruder merkel over/under",
+ "price_dkk": 4500,
+ "weapon_type": "Haglgevær",
+ "brand": "Merkel",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-26",
+ "age_days": 0,
+ "postnummer": "4200",
+ "by": "Slagelse",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/06178857-fbb7-47e6-b059-3652ff7d5b34/0.webp",
+ "image_count": 5,
+ "lat": 55.40887585,
+ "lon": 11.37133987,
+ "description": "Jagtgevær Gebruder Merkel 12/70 o/u med flotte graveringer og lavet  af bohler stahl sælges",
+ "images": [
+  {
+   "full": "/images/06178857-fbb7-47e6-b059-3652ff7d5b34/0.webp",
+   "thumb": "/thumbs/06178857-fbb7-47e6-b059-3652ff7d5b34/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06178857-fbb7-47e6-b059-3652ff7d5b34/1.webp",
+   "thumb": "/thumbs/06178857-fbb7-47e6-b059-3652ff7d5b34/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06178857-fbb7-47e6-b059-3652ff7d5b34/3.webp",
+   "thumb": "/thumbs/06178857-fbb7-47e6-b059-3652ff7d5b34/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06178857-fbb7-47e6-b059-3652ff7d5b34/4.webp",
+   "thumb": "/thumbs/06178857-fbb7-47e6-b059-3652ff7d5b34/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/06178857-fbb7-47e6-b059-3652ff7d5b34/5.webp",
+   "thumb": "/thumbs/06178857-fbb7-47e6-b059-3652ff7d5b34/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
