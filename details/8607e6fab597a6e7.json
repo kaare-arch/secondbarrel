@@ -1,0 +1,37 @@
+{
+ "id": "9067ef95-279f-47e4-9ea0-5cff84ad5f0d",
+ "detail_id": "8607e6fab597a6e7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9067ef95-279f-47e4-9ea0-5cff84ad5f0d/jagt-riffel",
+ "title": "Jagt riffel",
+ "price_dkk": 10500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-27",
+ "age_days": 0,
+ "postnummer": "6064",
+ "by": "Jordrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9067ef95-279f-47e4-9ea0-5cff84ad5f0d/0.webp",
+ "image_count": 2,
+ "lat": 55.55380577,
+ "lon": 9.3183142,
+ "description": "Fin riffel fra 2011",
+ "images": [
+  {
+   "full": "/images/9067ef95-279f-47e4-9ea0-5cff84ad5f0d/0.webp",
+   "thumb": "/thumbs/9067ef95-279f-47e4-9ea0-5cff84ad5f0d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9067ef95-279f-47e4-9ea0-5cff84ad5f0d/1.webp",
+   "thumb": "/thumbs/9067ef95-279f-47e4-9ea0-5cff84ad5f0d/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

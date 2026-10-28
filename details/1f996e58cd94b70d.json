@@ -1,0 +1,55 @@
+{
+ "id": "54689eae-9dac-4e33-9e6f-0613725f9002",
+ "detail_id": "1f996e58cd94b70d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/54689eae-9dac-4e33-9e6f-0613725f9002/fin-gammel-immanuel-meffert-fra-suhl",
+ "title": "Fin gammel Immanuel Meffert fra Suhl",
+ "price_dkk": 4500,
+ "weapon_type": "Haglgevær",
+ "brand": "Hubertus (Suhl)",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-27",
+ "age_days": 0,
+ "postnummer": "2840",
+ "by": "Holte",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/54689eae-9dac-4e33-9e6f-0613725f9002/0.webp",
+ "image_count": 5,
+ "lat": 55.81684549,
+ "lon": 12.48640452,
+ "description": "Immanuel Meffert produceret i Suhr af tysk højkvalitetsstål. Fin stand og ingen slør. \nSkæftet har mærker efter brug.",
+ "images": [
+  {
+   "full": "/images/54689eae-9dac-4e33-9e6f-0613725f9002/0.webp",
+   "thumb": "/thumbs/54689eae-9dac-4e33-9e6f-0613725f9002/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/54689eae-9dac-4e33-9e6f-0613725f9002/1.webp",
+   "thumb": "/thumbs/54689eae-9dac-4e33-9e6f-0613725f9002/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/54689eae-9dac-4e33-9e6f-0613725f9002/2.webp",
+   "thumb": "/thumbs/54689eae-9dac-4e33-9e6f-0613725f9002/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/54689eae-9dac-4e33-9e6f-0613725f9002/3.webp",
+   "thumb": "/thumbs/54689eae-9dac-4e33-9e6f-0613725f9002/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/54689eae-9dac-4e33-9e6f-0613725f9002/4.webp",
+   "thumb": "/thumbs/54689eae-9dac-4e33-9e6f-0613725f9002/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

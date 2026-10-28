@@ -1,0 +1,55 @@
+{
+ "id": "66c4d7a8-d940-417c-a38e-00fe0148613d",
+ "detail_id": "db0600257f7c7634",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/66c4d7a8-d940-417c-a38e-00fe0148613d/original-tysk-forladerpistol-i-kaliber-15-mm",
+ "title": "Original tysk forladerpistol i kaliber 15 mm.",
+ "price_dkk": 3900,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-15",
+ "age_days": 12,
+ "postnummer": "9400",
+ "by": "Nørresundby",
+ "stand_gg": null,
+ "thumb": "/thumbs/66c4d7a8-d940-417c-a38e-00fe0148613d/0.webp",
+ "image_count": 5,
+ "lat": 57.08253657,
+ "lon": 9.92260209,
+ "description": "Original tysk forladerpistol i kaliber 15 mm.\nGlatløbet. Ren og pæn i løbet. Fungerer mekanisk godt. Fremstår meget velholdt.\n(Kan frit erhverves. Kræver ikke nogen form for våbentilladelse. Skal ikke i våbenskab).",
+ "images": [
+  {
+   "full": "/images/66c4d7a8-d940-417c-a38e-00fe0148613d/0.webp",
+   "thumb": "/thumbs/66c4d7a8-d940-417c-a38e-00fe0148613d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/66c4d7a8-d940-417c-a38e-00fe0148613d/1.webp",
+   "thumb": "/thumbs/66c4d7a8-d940-417c-a38e-00fe0148613d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/66c4d7a8-d940-417c-a38e-00fe0148613d/2.webp",
+   "thumb": "/thumbs/66c4d7a8-d940-417c-a38e-00fe0148613d/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/66c4d7a8-d940-417c-a38e-00fe0148613d/3.webp",
+   "thumb": "/thumbs/66c4d7a8-d940-417c-a38e-00fe0148613d/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/66c4d7a8-d940-417c-a38e-00fe0148613d/4.webp",
+   "thumb": "/thumbs/66c4d7a8-d940-417c-a38e-00fe0148613d/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

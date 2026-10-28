@@ -1,0 +1,57 @@
+{
+ "id": "63d150b7-da77-4cfa-8b4f-2fa94b67175c",
+ "detail_id": "9cf9f3f750188a85",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/63d150b7-da77-4cfa-8b4f-2fa94b67175c/f-dumoulin-cie-16-70",
+ "title": "F. Dumoulin & Cie 16/70",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-27",
+ "age_days": 0,
+ "postnummer": "2840",
+ "by": "Holte",
+ "stand_gg": "Slidt",
+ "thumb": "/thumbs/63d150b7-da77-4cfa-8b4f-2fa94b67175c/0.webp",
+ "image_count": 5,
+ "lat": 55.81684549,
+ "lon": 12.48640452,
+ "description": "Godt brugt, men ingen slør.",
+ "images": [
+  {
+   "full": "/images/63d150b7-da77-4cfa-8b4f-2fa94b67175c/0.webp",
+   "thumb": "/thumbs/63d150b7-da77-4cfa-8b4f-2fa94b67175c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d150b7-da77-4cfa-8b4f-2fa94b67175c/1.webp",
+   "thumb": "/thumbs/63d150b7-da77-4cfa-8b4f-2fa94b67175c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d150b7-da77-4cfa-8b4f-2fa94b67175c/2.webp",
+   "thumb": "/thumbs/63d150b7-da77-4cfa-8b4f-2fa94b67175c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d150b7-da77-4cfa-8b4f-2fa94b67175c/3.webp",
+   "thumb": "/thumbs/63d150b7-da77-4cfa-8b4f-2fa94b67175c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/63d150b7-da77-4cfa-8b4f-2fa94b67175c/4.webp",
+   "thumb": "/thumbs/63d150b7-da77-4cfa-8b4f-2fa94b67175c/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
