@@ -1,0 +1,58 @@
+{
+ "id": "b6cf681f-8cff-4a7c-a5b4-1b83fa059000",
+ "detail_id": "0c97101be069a56a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/sauer-drilling-12-70-7x65r",
+ "title": "Sauer drilling 12/70 - 7x65R",
+ "price_dkk": 7500,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Sauer",
+ "calibers": [
+  "12/70",
+  "7x65R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-28",
+ "age_days": 0,
+ "postnummer": "6000",
+ "by": "Kolding",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/0.webp",
+ "image_count": 5,
+ "lat": 55.51102382,
+ "lon": 9.44363216,
+ "description": "Pæn brugs drilling Sauer, med sving montage underdele. Seperat kuglespænder på kolbehalsen og sikring på siden. Bredt forskæfte.\nDen leveres uden optiske sigtemidler men den kan leveres med enten Docter eller Meopta rødpunkt sigte til 9500,-",
+ "images": [
+  {
+   "full": "/images/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/0.webp",
+   "thumb": "/thumbs/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/1.webp",
+   "thumb": "/thumbs/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/2.webp",
+   "thumb": "/thumbs/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/3.webp",
+   "thumb": "/thumbs/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/4.webp",
+   "thumb": "/thumbs/b6cf681f-8cff-4a7c-a5b4-1b83fa059000/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

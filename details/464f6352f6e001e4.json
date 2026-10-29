@@ -1,0 +1,31 @@
+{
+ "id": "ddd6c591-154d-403e-b132-2812b1db5063",
+ "detail_id": "464f6352f6e001e4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ddd6c591-154d-403e-b132-2812b1db5063/miroku-800w",
+ "title": "Miroku 800W",
+ "price_dkk": 12500,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-28",
+ "age_days": 0,
+ "postnummer": "8722",
+ "by": "Hedensted",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ddd6c591-154d-403e-b132-2812b1db5063/0.webp",
+ "image_count": 1,
+ "lat": 55.76508387,
+ "lon": 9.71130088,
+ "description": "Rigtig fin miroku trapbøsse som den på billede sælges. Data på bøssen er de samme som på billedet.",
+ "images": [
+  {
+   "full": "/images/ddd6c591-154d-403e-b132-2812b1db5063/0.webp",
+   "thumb": "/thumbs/ddd6c591-154d-403e-b132-2812b1db5063/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "d47f9c9e-eede-4775-a340-68c7c68a52b0",
+ "detail_id": "88eb9fad1f919de3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d47f9c9e-eede-4775-a340-68c7c68a52b0/akkar-halvautomat",
+ "title": "Akkar halvautomat",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": "Akkar",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-28",
+ "age_days": 0,
+ "postnummer": "4230",
+ "by": "Skælskør",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/0.webp",
+ "image_count": 7,
+ "lat": 55.23824003,
+ "lon": 11.33872913,
+ "description": "12/76 ikke brugt meget",
+ "images": [
+  {
+   "full": "/images/d47f9c9e-eede-4775-a340-68c7c68a52b0/0.webp",
+   "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d47f9c9e-eede-4775-a340-68c7c68a52b0/1.webp",
+   "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d47f9c9e-eede-4775-a340-68c7c68a52b0/2.webp",
+   "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d47f9c9e-eede-4775-a340-68c7c68a52b0/3.webp",
+   "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d47f9c9e-eede-4775-a340-68c7c68a52b0/0.webp",
+   "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d47f9c9e-eede-4775-a340-68c7c68a52b0/5.webp",
+   "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d47f9c9e-eede-4775-a340-68c7c68a52b0/1.webp",
+   "thumb": "/thumbs/d47f9c9e-eede-4775-a340-68c7c68a52b0/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

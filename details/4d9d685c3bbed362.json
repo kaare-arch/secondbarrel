@@ -1,0 +1,33 @@
+{
+ "id": "be26de44-ad1a-469d-b821-4d589cf516c2",
+ "detail_id": "4d9d685c3bbed362",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/be26de44-ad1a-469d-b821-4d589cf516c2/high-standard-pistol-22lr",
+ "title": "High-Standard Pistol .22lr",
+ "price_dkk": 2000,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-28",
+ "age_days": 0,
+ "postnummer": "5892",
+ "by": "Gudbjerg Sydfyn",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/be26de44-ad1a-469d-b821-4d589cf516c2/0.webp",
+ "image_count": 1,
+ "lat": 55.15512414,
+ "lon": 10.63638217,
+ "description": "High-Standard Pistol .22lr\n\nPibelængde 14 cm. Totallængde 24,5 cm. Vægt 1.298 gram.\n\nKan overdrages efter godkendt og erhvervet politi- og SKV tilladelse.\n\nFlere billeder kommer på i morgen.",
+ "images": [
+  {
+   "full": "/images/be26de44-ad1a-469d-b821-4d589cf516c2/0.webp",
+   "thumb": "/thumbs/be26de44-ad1a-469d-b821-4d589cf516c2/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -4,14 +4,16 @@
  "source": "gg",
  "source_label": "Gul og Gratis",
  "url": "https://www.guloggratis.dk/annonce/58792ebe-a375-4087-a34a-9b3afe2cd640/blaser-r8-black-edition-6-5-prc",
- "title": "Blaser R8 Black Edition 8,5x55 Blaser",
+ "title": "Blaser R8 Black Edition",
  "price_dkk": 44706,
  "weapon_type": "Jagtriffel",
  "brand": "Blaser",
- "calibers": [],
+ "calibers": [
+  "6,5 Creedmoor"
+ ],
  "is_dealer": false,
  "listed_date": "2026-06-19",
- "age_days": 130,
+ "age_days": 131,
  "postnummer": "7000",
  "by": "Fredericia",
  "stand_gg": "Næsten som ny",
@@ -19,7 +21,7 @@
  "image_count": 8,
  "lat": 55.57485304,
  "lon": 9.65659006,
- "description": "Blaser R8 Black Edition kaliber 6,5 mm PRC med guld farvet aftræk og ægte Ebony træ fra Afrika for enden af forskæfte.\nPris 74.510,-kr. jf. Blaser foto udklip sælges for 44.706,-kr excl. kikkert og montage svarende til en rabat på 40%\nLøbet er fra november 2025. Evt. andet kaliber efter nærmere aftale. Jeg har ekstra løb under bestilling kaliber 8,5x55 Blaser hvis det har din interesse.\nKan også købes uden:\n- løb minus 10.000,-kr\n- komplet lås minus 5.000,-kr",
+ "description": "Blaser R8 Black Edition med guld farvet aftræk og ægte Ebony træ fra Afrika for enden af forskæfte.\nPris 74.510,-kr. jf. Blaser fotoudklip sælges for 44.706,-kr excl. kikkert og montage svarende til en rabat på 40%\nEt styk valgfri løb efter nærmere aftale:\n- 6,5 PRC, er på lager\n- 338 Blaser Magnum, er på lager\n- 6,5 Creedmoor, er under bestilling\n- 8,5x55 Blaser, er under bestilling\nKan også købes uden:\n- løb minus 10.000,-kr\n- komplet lås minus 5.000,-kr",
  "images": [
   {
    "full": "/images/58792ebe-a375-4087-a34a-9b3afe2cd640/0.webp",

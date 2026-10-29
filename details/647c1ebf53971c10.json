@@ -1,0 +1,73 @@
+{
+ "id": "7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78",
+ "detail_id": "647c1ebf53971c10",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/brno-22-hornady",
+ "title": "Brno 22 hornady",
+ "price_dkk": 1000,
+ "weapon_type": "Salonriffel",
+ "brand": "CZ",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-28",
+ "age_days": 0,
+ "postnummer": "4230",
+ "by": "Skælskør",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/0.webp",
+ "image_count": 8,
+ "lat": 55.23824003,
+ "lon": 11.33872913,
+ "description": "Salonriffel, skyder hvirkelig godt, speciel kaliber, 22hornady med zeiss kikkertsigte",
+ "images": [
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/0.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/0.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/2.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/2.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/4.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/4.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/6.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/7.webp",
+   "thumb": "/thumbs/7ee7726d-0cf6-4d98-8d5e-d1a8b763ff78/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
