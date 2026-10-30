@@ -1,0 +1,45 @@
+{
+ "id": "jafi.dk/products/12216-gebr-merkel",
+ "detail_id": "8f07e139410abb2f",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/12216-gebr-merkel",
+ "title": "Gebrüder Merkel Haglgevær - Kal. 20/70 - S/S",
+ "price_dkk": 6999,
+ "weapon_type": "Haglgevær",
+ "brand": "Merkel",
+ "calibers": [
+  "20/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/12216-gebr-merkel/0.webp",
+ "image_count": 3,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Klassisk, tysk gevær i kaliber 20/70 med ejektor fra 1984. Geværet fremstår i fornuftig stand med brugsmærker på skæfte. Mekanisk helt ok. Kaliber: 20/70 Løbs længde: 68 cm Skæftelængde: 37 cm Skæfte: Træ - Pistolgreb og kindpude Sikring: Automatisk Ejector: Ja Chokes: Nej - Boret 1/2 og 3/4 Aftræk: Dobbelt Tilhørende kuffert: Nej Internt bognr.: 12216 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/12216-gebr-merkel/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12216-gebr-merkel/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12216-gebr-merkel/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12216-gebr-merkel/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/12216-gebr-merkel/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/12216-gebr-merkel/2.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "4ce9c1ea-a70b-4a62-9c27-687ea03b5210",
+ "detail_id": "21bd2894eca17302",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4ce9c1ea-a70b-4a62-9c27-687ea03b5210/issc-mk22-22lr",
+ "title": "ISSC MK22 22LR",
+ "price_dkk": 5500,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-29",
+ "age_days": 0,
+ "postnummer": "7441",
+ "by": "Bording",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/4ce9c1ea-a70b-4a62-9c27-687ea03b5210/0.webp",
+ "image_count": 1,
+ "lat": 56.15035869,
+ "lon": 9.25469883,
+ "description": "Hey sælger denne ISSC MK22 følger 500 stk CCI standard med ved hurtig handel",
+ "images": [
+  {
+   "full": "/images/4ce9c1ea-a70b-4a62-9c27-687ea03b5210/0.webp",
+   "thumb": "/thumbs/4ce9c1ea-a70b-4a62-9c27-687ea03b5210/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

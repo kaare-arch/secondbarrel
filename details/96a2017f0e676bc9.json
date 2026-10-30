@@ -1,0 +1,45 @@
+{
+ "id": "7d5d8858-e2fc-49ef-b92d-b77fc51e6820",
+ "detail_id": "96a2017f0e676bc9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/anschutz-salonriffel-22lr",
+ "title": "Anschütz salonriffel 22LR",
+ "price_dkk": 2900,
+ "weapon_type": "Salonriffel",
+ "brand": "Anschütz",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-29",
+ "age_days": 0,
+ "postnummer": "9440",
+ "by": "Aabybro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/0.webp",
+ "image_count": 3,
+ "lat": 57.16281999,
+ "lon": 9.76743307,
+ "description": "Har denne fine salonriffel kaliber 22lr i overskud. Den er i rigtig fin stand. Der medfølger to kasser ammunition, kikkert, lyddæmper, 10skuds - og 5 skuds megasin.",
+ "images": [
+  {
+   "full": "/images/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/0.webp",
+   "thumb": "/thumbs/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/1.webp",
+   "thumb": "/thumbs/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/2.webp",
+   "thumb": "/thumbs/7d5d8858-e2fc-49ef-b92d-b77fc51e6820/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

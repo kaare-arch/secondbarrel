@@ -1,0 +1,51 @@
+{
+ "id": "47f1f0e1-0c93-4dee-95bb-1c029a36bebc",
+ "detail_id": "4cea651e93effde3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/tikka-m55-oprydningspris",
+ "title": "Tikka M55 oprydningspris.",
+ "price_dkk": 3000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-10-29",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/0.webp",
+ "image_count": 4,
+ "lat": null,
+ "lon": null,
+ "description": "Tikka M55\n\nKaliber 308win. \n\nInkl. EAW Svingmontage 30mm. \n\nMed aftageligt magasin og gevind til lyddæmper. \n\nHar brugsspor, men mekanisk ok. \n\nOprydningspris.",
+ "images": [
+  {
+   "full": "/images/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/0.webp",
+   "thumb": "/thumbs/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/1.webp",
+   "thumb": "/thumbs/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/2.webp",
+   "thumb": "/thumbs/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/3.webp",
+   "thumb": "/thumbs/47f1f0e1-0c93-4dee-95bb-1c029a36bebc/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "e62eaa0b-8be0-4487-b458-97d712be5dff",
+ "detail_id": "e36a9c3ced9e63a1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e62eaa0b-8be0-4487-b458-97d712be5dff/parker-hale-30-06",
+ "title": "Parker Hale 30.06",
+ "price_dkk": 1000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-29",
+ "age_days": 0,
+ "postnummer": "6720",
+ "by": "Fanø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/e62eaa0b-8be0-4487-b458-97d712be5dff/0.webp",
+ "image_count": 3,
+ "lat": 55.40607728,
+ "lon": 8.42104862,
+ "description": "Brugt Parker Hale 30.06 med 4x32 kikkertsigte i foret hylster, ca. 50 stk blød og ca. 60 stk spids ammunition medfølger.",
+ "images": [
+  {
+   "full": "/images/e62eaa0b-8be0-4487-b458-97d712be5dff/0.webp",
+   "thumb": "/thumbs/e62eaa0b-8be0-4487-b458-97d712be5dff/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e62eaa0b-8be0-4487-b458-97d712be5dff/1.webp",
+   "thumb": "/thumbs/e62eaa0b-8be0-4487-b458-97d712be5dff/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/e62eaa0b-8be0-4487-b458-97d712be5dff/2.webp",
+   "thumb": "/thumbs/e62eaa0b-8be0-4487-b458-97d712be5dff/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

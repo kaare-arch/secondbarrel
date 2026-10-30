@@ -1,0 +1,51 @@
+{
+ "id": "d55d8f34-f695-48e4-a776-54110b21034d",
+ "detail_id": "386da7e34bf7b4be",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d55d8f34-f695-48e4-a776-54110b21034d/blaser-r8-luxus",
+ "title": "Blaser R8 Luxus",
+ "price_dkk": 39995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-29",
+ "age_days": 0,
+ "postnummer": "6920",
+ "by": "Videbæk",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/d55d8f34-f695-48e4-a776-54110b21034d/0.webp",
+ "image_count": 4,
+ "lat": 56.08052418,
+ "lon": 8.66992988,
+ "description": "Blaser R8 Luxus .308W med Krondyr/Gemser.\n17 mm Flutet atache pibe med gevind. Skyder meget præcis.\nRiflen er mega flot og ikke brugt særlig meget, kun ganske få mindre ubetydelige brugsmærker.\nHenvendelse [tlf fjernet]\nPrisen er uden kikkert og montage.",
+ "images": [
+  {
+   "full": "/images/d55d8f34-f695-48e4-a776-54110b21034d/0.webp",
+   "thumb": "/thumbs/d55d8f34-f695-48e4-a776-54110b21034d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d55d8f34-f695-48e4-a776-54110b21034d/1.webp",
+   "thumb": "/thumbs/d55d8f34-f695-48e4-a776-54110b21034d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d55d8f34-f695-48e4-a776-54110b21034d/2.webp",
+   "thumb": "/thumbs/d55d8f34-f695-48e4-a776-54110b21034d/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d55d8f34-f695-48e4-a776-54110b21034d/3.webp",
+   "thumb": "/thumbs/d55d8f34-f695-48e4-a776-54110b21034d/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "ca15bd76-81c7-4869-b75d-769d2b1e201f",
+ "detail_id": "047045c2fce4d493",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ca15bd76-81c7-4869-b75d-769d2b1e201f/glock-21-gen-4-45-auto",
+ "title": "Glock 21 Gen 4 – .45 Auto",
+ "price_dkk": 5000,
+ "weapon_type": "Pistol",
+ "brand": "Glock",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-29",
+ "age_days": 0,
+ "postnummer": "4672",
+ "by": "Klippinge",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ca15bd76-81c7-4869-b75d-769d2b1e201f/0.webp",
+ "image_count": 4,
+ "lat": 55.37980409,
+ "lon": 12.35667358,
+ "description": "Glock 21 Gen 4 – .45 Auto\nFabrikat: Glock\nModel: 21, generation 4\nKaliber: .45 Auto\nSort polymergreb og sort slæde\nTo magasiner vist på billederne\nOriginal kasse medfølger",
+ "images": [
+  {
+   "full": "/images/ca15bd76-81c7-4869-b75d-769d2b1e201f/0.webp",
+   "thumb": "/thumbs/ca15bd76-81c7-4869-b75d-769d2b1e201f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ca15bd76-81c7-4869-b75d-769d2b1e201f/1.webp",
+   "thumb": "/thumbs/ca15bd76-81c7-4869-b75d-769d2b1e201f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ca15bd76-81c7-4869-b75d-769d2b1e201f/2.webp",
+   "thumb": "/thumbs/ca15bd76-81c7-4869-b75d-769d2b1e201f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ca15bd76-81c7-4869-b75d-769d2b1e201f/3.webp",
+   "thumb": "/thumbs/ca15bd76-81c7-4869-b75d-769d2b1e201f/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

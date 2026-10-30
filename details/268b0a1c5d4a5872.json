@@ -1,0 +1,51 @@
+{
+ "id": "jafi.dk/products/p103-kettner-grulla",
+ "detail_id": "268b0a1c5d4a5872",
+ "source": "jafi.dk",
+ "source_label": "JAFI",
+ "url": "https://www.jafi.dk/products/p103-kettner-grulla",
+ "title": "Grulla/Kettner San Remo Haglgevær - Kal. 16/70 - S/S",
+ "price_dkk": 24800,
+ "weapon_type": "Haglgevær",
+ "brand": "Grulla",
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2023-11-07",
+ "age_days": null,
+ "postnummer": "8800",
+ "by": "Viborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/jafi.dk/products/p103-kettner-grulla/0.webp",
+ "image_count": 4,
+ "lat": 56.41681148,
+ "lon": 9.36897659,
+ "description": "Grulla/Kettner San Remo er et klassisk spanskproduceret, side-by-side haglgevær i kaliber 16/70, fremstillet af Grulla Armas for Kettner. Geværet har et elegant engelsk træskæfte med netskæringer og en flot graveret låsekasse med dekorative mønstre. De 71 cm lange løb har faste boringer på 1/4 og 3/4. Geværet er udstyret med dobbelt aftræk, automatisk sikring og ejector. Med en vægt på 2,95 kg og en skæftelængde på 37,5 cm får du et traditionelt jagtgevær med klassiske detaljer og et flot håndværksmæssigt udtryk. Kaliber: 16/70 Løbs længde: 71 cm Skæftelængde: 37,50 cm Skæfte: Træ - Engelsk skæfte Sikring: Automatisk Ejector: Ja Chokes: Nej - Boret 1/4 & 3/4 Aftræk: Dobbelt Vægt: 2,95 kg Tilhørende kuffert: Nej Andet: Rembøjler Internt bognr.: P103 Købet af våbnet er betinget af, at du som køber har et gyldigt jagttegn. Ring gerne til os på [tlf fjernet], hvis du har spørgsmål eller brug for vejledning.",
+ "images": [
+  {
+   "full": "/images/jafi.dk/products/p103-kettner-grulla/0.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p103-kettner-grulla/0.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/p103-kettner-grulla/1.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p103-kettner-grulla/1.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/p103-kettner-grulla/2.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p103-kettner-grulla/2.webp",
+   "width": 1600,
+   "height": 1600
+  },
+  {
+   "full": "/images/jafi.dk/products/p103-kettner-grulla/3.jpg",
+   "thumb": "/thumbs/jafi.dk/products/p103-kettner-grulla/3.webp",
+   "width": 1600,
+   "height": 1600
+  }
+ ]
+}

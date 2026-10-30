@@ -1,0 +1,39 @@
+{
+ "id": "8fe35af9-0b16-45b7-86dc-464f2a3a6554",
+ "detail_id": "62ae4c373973b802",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8fe35af9-0b16-45b7-86dc-464f2a3a6554/tikka-m595-kaliber-308",
+ "title": "Tikka M595 kaliber 308",
+ "price_dkk": 5500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-29",
+ "age_days": 0,
+ "postnummer": "4160",
+ "by": "Herlufmagle",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/8fe35af9-0b16-45b7-86dc-464f2a3a6554/0.webp",
+ "image_count": 2,
+ "lat": 55.32910688,
+ "lon": 11.77284465,
+ "description": "Fin riffel i en god kaliber, er monteret med Busnell Elite 3200 2,5-10. Sælges på vegne af pensioneret jæger.",
+ "images": [
+  {
+   "full": "/images/8fe35af9-0b16-45b7-86dc-464f2a3a6554/0.webp",
+   "thumb": "/thumbs/8fe35af9-0b16-45b7-86dc-464f2a3a6554/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8fe35af9-0b16-45b7-86dc-464f2a3a6554/1.webp",
+   "thumb": "/thumbs/8fe35af9-0b16-45b7-86dc-464f2a3a6554/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
