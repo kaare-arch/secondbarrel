@@ -1,0 +1,33 @@
+{
+ "id": "2f0e969a-032b-43ea-884b-3f03c4e80e4c",
+ "detail_id": "53dd8e808cc5f47a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2f0e969a-032b-43ea-884b-3f03c4e80e4c/troy-pump-223-rem",
+ "title": "Troy pump 223 Rem",
+ "price_dkk": 10500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-30",
+ "age_days": 0,
+ "postnummer": "7441",
+ "by": "Bording",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/2f0e969a-032b-43ea-884b-3f03c4e80e4c/0.webp",
+ "image_count": 1,
+ "lat": 56.15035869,
+ "lon": 9.25469883,
+ "description": "Kan søges på jagt og SKV. Kan ses og prøve nær Silkeborg området",
+ "images": [
+  {
+   "full": "/images/2f0e969a-032b-43ea-884b-3f03c4e80e4c/0.webp",
+   "thumb": "/thumbs/2f0e969a-032b-43ea-884b-3f03c4e80e4c/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
