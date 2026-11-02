@@ -1,0 +1,55 @@
+{
+ "id": "5fd6d9c8-d357-4222-91d8-63d0c92c1309",
+ "detail_id": "54f1064ec1ce6d86",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5fd6d9c8-d357-4222-91d8-63d0c92c1309/jagt-haglgevaer",
+ "title": "Jagt haglgevær",
+ "price_dkk": 1499,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-01",
+ "age_days": 0,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5fd6d9c8-d357-4222-91d8-63d0c92c1309/0.webp",
+ "image_count": 5,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Haglgevær med graveringer  - fin stand - renseudstyr medfølger - kræver jagttegn for at går på jagt.   Sælges, da jeg ikke går på jagt længere. Har en del jagttøj.",
+ "images": [
+  {
+   "full": "/images/5fd6d9c8-d357-4222-91d8-63d0c92c1309/0.webp",
+   "thumb": "/thumbs/5fd6d9c8-d357-4222-91d8-63d0c92c1309/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fd6d9c8-d357-4222-91d8-63d0c92c1309/1.webp",
+   "thumb": "/thumbs/5fd6d9c8-d357-4222-91d8-63d0c92c1309/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fd6d9c8-d357-4222-91d8-63d0c92c1309/2.webp",
+   "thumb": "/thumbs/5fd6d9c8-d357-4222-91d8-63d0c92c1309/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fd6d9c8-d357-4222-91d8-63d0c92c1309/3.webp",
+   "thumb": "/thumbs/5fd6d9c8-d357-4222-91d8-63d0c92c1309/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5fd6d9c8-d357-4222-91d8-63d0c92c1309/4.webp",
+   "thumb": "/thumbs/5fd6d9c8-d357-4222-91d8-63d0c92c1309/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

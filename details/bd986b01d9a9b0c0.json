@@ -1,0 +1,49 @@
+{
+ "id": "93d77ef2-ec17-4189-adc3-b86bde25e47e",
+ "detail_id": "bd986b01d9a9b0c0",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/93d77ef2-ec17-4189-adc3-b86bde25e47e/h-k-mr308-20",
+ "title": "H&K MR308 20’",
+ "price_dkk": 35000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Heckler & Koch",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-31",
+ "age_days": 1,
+ "postnummer": "7441",
+ "by": "Bording",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/93d77ef2-ec17-4189-adc3-b86bde25e47e/0.webp",
+ "image_count": 4,
+ "lat": 56.15035869,
+ "lon": 9.25469883,
+ "description": "Sælger denne H&K da jeg ikke få den brugt så meget mere, har skudt Max 500 skud. Kan ses og prøves nær Bording. Følger en Sightline N455 og bipods med.",
+ "images": [
+  {
+   "full": "/images/93d77ef2-ec17-4189-adc3-b86bde25e47e/0.webp",
+   "thumb": "/thumbs/93d77ef2-ec17-4189-adc3-b86bde25e47e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/93d77ef2-ec17-4189-adc3-b86bde25e47e/1.webp",
+   "thumb": "/thumbs/93d77ef2-ec17-4189-adc3-b86bde25e47e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/93d77ef2-ec17-4189-adc3-b86bde25e47e/2.webp",
+   "thumb": "/thumbs/93d77ef2-ec17-4189-adc3-b86bde25e47e/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/93d77ef2-ec17-4189-adc3-b86bde25e47e/3.webp",
+   "thumb": "/thumbs/93d77ef2-ec17-4189-adc3-b86bde25e47e/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

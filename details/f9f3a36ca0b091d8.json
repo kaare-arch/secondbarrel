@@ -1,0 +1,43 @@
+{
+ "id": "cb92d336-f6a0-4d07-9c1a-9ca5bb75de89",
+ "detail_id": "f9f3a36ca0b091d8",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/husqvarna-jagtgevaer",
+ "title": "Husqvarna jagtgevær",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Husqvarna",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-31",
+ "age_days": 1,
+ "postnummer": "9541",
+ "by": "Suldrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/0.webp",
+ "image_count": 3,
+ "lat": 56.84292865,
+ "lon": 9.68119202,
+ "description": "Husqvarna jagtgevær, fint gevær til strandjagt eller til kragejagt. Geværet har fået noget grønt camouflage så det ikke giver genskin. Geværet er lidt slidt men har mange skud i sig endnu, har bare ikke plads i skabet mere.",
+ "images": [
+  {
+   "full": "/images/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/0.webp",
+   "thumb": "/thumbs/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/1.webp",
+   "thumb": "/thumbs/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/2.webp",
+   "thumb": "/thumbs/cb92d336-f6a0-4d07-9c1a-9ca5bb75de89/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "03742a70-cd33-4996-bd10-d04912114b42",
+ "detail_id": "d966a61b68fee3e6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/03742a70-cd33-4996-bd10-d04912114b42/triggertech-bergara",
+ "title": "Triggertech Bergara",
+ "price_dkk": 1600,
+ "weapon_type": "Jagtriffel",
+ "brand": "Bergara",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-10-31",
+ "age_days": 1,
+ "postnummer": "9541",
+ "by": "Suldrup",
+ "stand_gg": "Ny",
+ "thumb": "/thumbs/03742a70-cd33-4996-bd10-d04912114b42/0.webp",
+ "image_count": 3,
+ "lat": 56.84292865,
+ "lon": 9.68119202,
+ "description": "Jeg har dette sprit nye triggertech fuld justerbare aftræk. \nDet passer på alle Bergara rifflerne. \nDet sidder på Bergara premiere elevate modellen fra fabrikken.",
+ "images": [
+  {
+   "full": "/images/03742a70-cd33-4996-bd10-d04912114b42/0.webp",
+   "thumb": "/thumbs/03742a70-cd33-4996-bd10-d04912114b42/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/03742a70-cd33-4996-bd10-d04912114b42/1.webp",
+   "thumb": "/thumbs/03742a70-cd33-4996-bd10-d04912114b42/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/03742a70-cd33-4996-bd10-d04912114b42/2.webp",
+   "thumb": "/thumbs/03742a70-cd33-4996-bd10-d04912114b42/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

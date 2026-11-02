@@ -4,21 +4,30 @@
  "source": "brasholt.nu",
  "source_label": "Brasholt",
  "url": "https://brasholt.nu/product/miroku-500-s-s-1-4-1-2/",
- "title": "MIROKU 500 S/S 1/4-1/2",
+ "title": "MIROKU 500 S/S 12/70  1/4-1/2",
  "price_dkk": 3999,
  "weapon_type": "Haglgevær",
  "brand": "Miroku",
- "calibers": [],
+ "calibers": [
+  "12/70"
+ ],
  "is_dealer": true,
  "listed_date": null,
  "age_days": null,
  "postnummer": "9800",
  "by": "Hjørring",
  "stand_gg": null,
- "thumb": null,
- "image_count": 0,
+ "thumb": "/thumbs/brasholt.nu/product/miroku-500-s-s-1-4-1-2/0.webp",
+ "image_count": 1,
  "lat": 57.45677529,
  "lon": 10.00194327,
  "description": null,
- "images": []
+ "images": [
+  {
+   "full": "/images/brasholt.nu/product/miroku-500-s-s-1-4-1-2/0.jpg",
+   "thumb": "/thumbs/brasholt.nu/product/miroku-500-s-s-1-4-1-2/0.webp",
+   "width": 765,
+   "height": 766
+  }
+ ]
 }

@@ -8,10 +8,12 @@
  "price_dkk": 6500,
  "weapon_type": "Jagtriffel",
  "brand": null,
- "calibers": [],
+ "calibers": [
+  ".308 Win"
+ ],
  "is_dealer": false,
  "listed_date": "2026-10-29",
- "age_days": 1,
+ "age_days": 3,
  "postnummer": "4293",
  "by": "Dianalund",
  "stand_gg": "God, men brugt",
@@ -19,7 +21,7 @@
  "image_count": 7,
  "lat": 55.53579978,
  "lon": 11.48228398,
- "description": "Riffel med Freyer & Devik lyddæmper",
+ "description": "Riffel med Freyer & Devik lyddæmper \nCal 308 win",
  "images": [
   {
    "full": "/images/6c051fd6-295f-4a99-847b-a303e2719ffe/0.webp",

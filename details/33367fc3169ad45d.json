@@ -1,0 +1,37 @@
+{
+ "id": "a001520d-2041-4d2c-b19e-2bf9dc8c95db",
+ "detail_id": "33367fc3169ad45d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a001520d-2041-4d2c-b19e-2bf9dc8c95db/browning-b525-sl",
+ "title": "Browning B525 SL",
+ "price_dkk": 14500,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-01",
+ "age_days": 0,
+ "postnummer": "4060",
+ "by": "Kirke Såby",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/a001520d-2041-4d2c-b19e-2bf9dc8c95db/0.webp",
+ "image_count": 2,
+ "lat": 55.65438247,
+ "lon": 11.87373529,
+ "description": "Super fint haglgevær men matcher ikke helt med det jeg går på jagt med så for ikke brugt det. Der medfølger kuffert og chokes. Den kan justere kindpuden så kan også bruges af links skytter. Har stort set ikke skudt noget.",
+ "images": [
+  {
+   "full": "/images/a001520d-2041-4d2c-b19e-2bf9dc8c95db/0.webp",
+   "thumb": "/thumbs/a001520d-2041-4d2c-b19e-2bf9dc8c95db/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a001520d-2041-4d2c-b19e-2bf9dc8c95db/2.webp",
+   "thumb": "/thumbs/a001520d-2041-4d2c-b19e-2bf9dc8c95db/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

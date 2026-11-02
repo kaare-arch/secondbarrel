@@ -8,10 +8,12 @@
  "price_dkk": 10000,
  "weapon_type": "Haglgevær",
  "brand": null,
- "calibers": [],
+ "calibers": [
+  "12/70"
+ ],
  "is_dealer": false,
  "listed_date": "2026-07-23",
- "age_days": 100,
+ "age_days": 102,
  "postnummer": "9240",
  "by": "Nibe",
  "stand_gg": "Næsten som ny",
@@ -19,7 +21,7 @@
  "image_count": 1,
  "lat": 56.97662743,
  "lon": 9.47764363,
- "description": "Flot s/s med engelsk skæfte.\nNæsten ikke brugt.\nVirkelig lækker bøsse der bare ligger godt.\nEvt bytte med jolle.",
+ "description": "Flot s/s med engelsk skæfte.\nNæsten ikke brugt.\nVirkelig lækker bøsse der bare ligger godt. i cal.12/70 og med 71 cm løb\nEvt bytte med jolle.",
  "images": [
   {
    "full": "/images/5d09db64-0a48-45d1-9aa8-316f3fbd91ee/0.webp",

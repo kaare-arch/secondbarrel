@@ -1,0 +1,63 @@
+{
+ "id": "f38b95de-7cca-4112-8e2d-d6d3f7a12204",
+ "detail_id": "522f0832aeef88ed",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f38b95de-7cca-4112-8e2d-d6d3f7a12204/carl-gustav-eaw-svingmontage",
+ "title": "Carl Gustav EAW svingmontage",
+ "price_dkk": 1500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-10-31",
+ "age_days": 1,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f38b95de-7cca-4112-8e2d-d6d3f7a12204/6.webp",
+ "image_count": 6,
+ "lat": 54.9813044,
+ "lon": 9.43042383,
+ "description": "30-06\nMed Welter Optics 3-12x56\nEAW muligt tilkøb. Eller særskilt salg. 1500\nSkade på skæfte \n\nVåbentilladelse kræves\n\nLås mangler",
+ "images": [
+  {
+   "full": "/images/f38b95de-7cca-4112-8e2d-d6d3f7a12204/6.webp",
+   "thumb": "/thumbs/f38b95de-7cca-4112-8e2d-d6d3f7a12204/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f38b95de-7cca-4112-8e2d-d6d3f7a12204/7.webp",
+   "thumb": "/thumbs/f38b95de-7cca-4112-8e2d-d6d3f7a12204/7.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f38b95de-7cca-4112-8e2d-d6d3f7a12204/2.webp",
+   "thumb": "/thumbs/f38b95de-7cca-4112-8e2d-d6d3f7a12204/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f38b95de-7cca-4112-8e2d-d6d3f7a12204/3.webp",
+   "thumb": "/thumbs/f38b95de-7cca-4112-8e2d-d6d3f7a12204/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f38b95de-7cca-4112-8e2d-d6d3f7a12204/4.webp",
+   "thumb": "/thumbs/f38b95de-7cca-4112-8e2d-d6d3f7a12204/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f38b95de-7cca-4112-8e2d-d6d3f7a12204/5.webp",
+   "thumb": "/thumbs/f38b95de-7cca-4112-8e2d-d6d3f7a12204/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
