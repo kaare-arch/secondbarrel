@@ -1,0 +1,33 @@
+{
+ "id": "a82f600e-62ea-411a-ae67-639f9f1851d8",
+ "detail_id": "5e564904bfcd62ba",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a82f600e-62ea-411a-ae67-639f9f1851d8/high-standart-22lr",
+ "title": "High standart 22LR",
+ "price_dkk": 1500,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-02",
+ "age_days": 0,
+ "postnummer": "5750",
+ "by": "Ringe",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a82f600e-62ea-411a-ae67-639f9f1851d8/0.webp",
+ "image_count": 1,
+ "lat": 55.2209888,
+ "lon": 10.42313811,
+ "description": "Sælger denne pistol. Der skal selvfølgelig tilladelse vises inden overdragelse.",
+ "images": [
+  {
+   "full": "/images/a82f600e-62ea-411a-ae67-639f9f1851d8/0.webp",
+   "thumb": "/thumbs/a82f600e-62ea-411a-ae67-639f9f1851d8/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

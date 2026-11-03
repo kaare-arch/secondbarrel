@@ -1,0 +1,51 @@
+{
+ "id": "2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c",
+ "detail_id": "0cea5fe0a192026c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/sako-salonriffel",
+ "title": "Sako Salonriffel",
+ "price_dkk": 1000,
+ "weapon_type": "Salonriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-02",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/0.webp",
+ "image_count": 4,
+ "lat": null,
+ "lon": null,
+ "description": "Sako salonriffel. \n\nModel : P54\n\nKaliber 22LR.\n\nMed aftageligt magasin. \n\nMed Sterling 3-9x20 optik. \n\nBrugt sæt.",
+ "images": [
+  {
+   "full": "/images/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/0.webp",
+   "thumb": "/thumbs/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/1.webp",
+   "thumb": "/thumbs/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/2.webp",
+   "thumb": "/thumbs/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/3.webp",
+   "thumb": "/thumbs/2e13c7a4-45c7-4cb0-ab5b-5e259fcc248c/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

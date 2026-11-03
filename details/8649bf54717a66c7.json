@@ -1,0 +1,51 @@
+{
+ "id": "88ddca46-5c9a-4347-839c-30a175c51aac",
+ "detail_id": "8649bf54717a66c7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/88ddca46-5c9a-4347-839c-30a175c51aac/jagtgevaer-i-god-stand-maerke-ukendt",
+ "title": "jagtgevær i god stand , mærke ukendt",
+ "price_dkk": 995,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-02",
+ "age_days": 0,
+ "postnummer": "9700",
+ "by": "Brønderslev",
+ "stand_gg": null,
+ "thumb": "/thumbs/88ddca46-5c9a-4347-839c-30a175c51aac/0.webp",
+ "image_count": 4,
+ "lat": 57.28432949,
+ "lon": 9.88277134,
+ "description": "jagtgevær i god stand ss 16/70 mærke ukendt",
+ "images": [
+  {
+   "full": "/images/88ddca46-5c9a-4347-839c-30a175c51aac/0.webp",
+   "thumb": "/thumbs/88ddca46-5c9a-4347-839c-30a175c51aac/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/88ddca46-5c9a-4347-839c-30a175c51aac/1.webp",
+   "thumb": "/thumbs/88ddca46-5c9a-4347-839c-30a175c51aac/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/88ddca46-5c9a-4347-839c-30a175c51aac/2.webp",
+   "thumb": "/thumbs/88ddca46-5c9a-4347-839c-30a175c51aac/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/88ddca46-5c9a-4347-839c-30a175c51aac/3.webp",
+   "thumb": "/thumbs/88ddca46-5c9a-4347-839c-30a175c51aac/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

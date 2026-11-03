@@ -1,0 +1,57 @@
+{
+ "id": "a32617e1-1d03-440b-a23b-f484dc4776f9",
+ "detail_id": "3f643e155d6cc808",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a32617e1-1d03-440b-a23b-f484dc4776f9/husqvarna-96-riffel",
+ "title": "Husqvarna 96 Riffel",
+ "price_dkk": 1999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Husqvarna",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-02",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/a32617e1-1d03-440b-a23b-f484dc4776f9/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Husqvarna 96 Riffel \n\nKaliber 6,5x55.\n\nInkl. Baser. \n\nSuper flot og velholdt. \n\nSparsomt brugt ! \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/a32617e1-1d03-440b-a23b-f484dc4776f9/0.webp",
+   "thumb": "/thumbs/a32617e1-1d03-440b-a23b-f484dc4776f9/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a32617e1-1d03-440b-a23b-f484dc4776f9/1.webp",
+   "thumb": "/thumbs/a32617e1-1d03-440b-a23b-f484dc4776f9/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a32617e1-1d03-440b-a23b-f484dc4776f9/2.webp",
+   "thumb": "/thumbs/a32617e1-1d03-440b-a23b-f484dc4776f9/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a32617e1-1d03-440b-a23b-f484dc4776f9/3.webp",
+   "thumb": "/thumbs/a32617e1-1d03-440b-a23b-f484dc4776f9/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a32617e1-1d03-440b-a23b-f484dc4776f9/4.webp",
+   "thumb": "/thumbs/a32617e1-1d03-440b-a23b-f484dc4776f9/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
