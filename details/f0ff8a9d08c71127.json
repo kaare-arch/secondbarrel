@@ -1,0 +1,49 @@
+{
+ "id": "1250ed7c-b464-4236-afe5-a21ecf049364",
+ "detail_id": "f0ff8a9d08c71127",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1250ed7c-b464-4236-afe5-a21ecf049364/perazzi-sc3",
+ "title": "Perazzi SC3",
+ "price_dkk": 55000,
+ "weapon_type": "Haglgevær",
+ "brand": "Perazzi",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-03",
+ "age_days": 0,
+ "postnummer": "7830",
+ "by": "Vinderup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1250ed7c-b464-4236-afe5-a21ecf049364/0.webp",
+ "image_count": 4,
+ "lat": 56.46905999,
+ "lon": 8.81719612,
+ "description": "Perazzi SC3 fra år 1971 i god stand. \n\n- Opgraderet skæftetræ og baskyle\n- Orginal kuffert\n- Ekstra bladfjedre og slagstifte\n- 71 cm løb \n\nHar fået en gennemgang af bøssemager, og opbevares altid med klikpatroner.",
+ "images": [
+  {
+   "full": "/images/1250ed7c-b464-4236-afe5-a21ecf049364/0.webp",
+   "thumb": "/thumbs/1250ed7c-b464-4236-afe5-a21ecf049364/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1250ed7c-b464-4236-afe5-a21ecf049364/1.webp",
+   "thumb": "/thumbs/1250ed7c-b464-4236-afe5-a21ecf049364/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1250ed7c-b464-4236-afe5-a21ecf049364/2.webp",
+   "thumb": "/thumbs/1250ed7c-b464-4236-afe5-a21ecf049364/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1250ed7c-b464-4236-afe5-a21ecf049364/3.webp",
+   "thumb": "/thumbs/1250ed7c-b464-4236-afe5-a21ecf049364/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

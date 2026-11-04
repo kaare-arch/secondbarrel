@@ -1,0 +1,57 @@
+{
+ "id": "f4e2d2d2-1605-47d4-8a33-7c98ee845665",
+ "detail_id": "182a5319efe0863f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f4e2d2d2-1605-47d4-8a33-7c98ee845665/aya-hunters-gun-20-76",
+ "title": "AYA Hunters Gun 20/76",
+ "price_dkk": 6000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-03",
+ "age_days": 0,
+ "postnummer": "5792",
+ "by": "Årslev",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f4e2d2d2-1605-47d4-8a33-7c98ee845665/0.webp",
+ "image_count": 5,
+ "lat": 55.2906707,
+ "lon": 10.3936597,
+ "description": "Lille fint gevær dobbelt trigger ingen ejector \nNetop servicet og cylinder boret så 100% til stålhagl\n36,5 til forreste aftrækker\nStår rigtig fin",
+ "images": [
+  {
+   "full": "/images/f4e2d2d2-1605-47d4-8a33-7c98ee845665/0.webp",
+   "thumb": "/thumbs/f4e2d2d2-1605-47d4-8a33-7c98ee845665/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f4e2d2d2-1605-47d4-8a33-7c98ee845665/1.webp",
+   "thumb": "/thumbs/f4e2d2d2-1605-47d4-8a33-7c98ee845665/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f4e2d2d2-1605-47d4-8a33-7c98ee845665/2.webp",
+   "thumb": "/thumbs/f4e2d2d2-1605-47d4-8a33-7c98ee845665/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f4e2d2d2-1605-47d4-8a33-7c98ee845665/3.webp",
+   "thumb": "/thumbs/f4e2d2d2-1605-47d4-8a33-7c98ee845665/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f4e2d2d2-1605-47d4-8a33-7c98ee845665/4.webp",
+   "thumb": "/thumbs/f4e2d2d2-1605-47d4-8a33-7c98ee845665/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
