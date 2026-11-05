@@ -1,0 +1,55 @@
+{
+ "id": "7b4d6dab-cc5b-4b89-83a0-15b63cab8d70",
+ "detail_id": "a42064762469012c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/lauren-3-magnum",
+ "title": "Lauren 3” magnum",
+ "price_dkk": 7999,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "8920",
+ "by": "Randers NV",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/0.webp",
+ "image_count": 5,
+ "lat": 56.48050883,
+ "lon": 9.88044731,
+ "description": "Meget fin og velholdt jagtgevær med chok",
+ "images": [
+  {
+   "full": "/images/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/0.webp",
+   "thumb": "/thumbs/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/1.webp",
+   "thumb": "/thumbs/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/2.webp",
+   "thumb": "/thumbs/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/3.webp",
+   "thumb": "/thumbs/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/4.webp",
+   "thumb": "/thumbs/7b4d6dab-cc5b-4b89-83a0-15b63cab8d70/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

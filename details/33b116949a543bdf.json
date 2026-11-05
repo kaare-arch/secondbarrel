@@ -1,0 +1,39 @@
+{
+ "id": "15f60992-6625-42a2-be72-69af06c052c5",
+ "detail_id": "33b116949a543bdf",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/15f60992-6625-42a2-be72-69af06c052c5/tikka-6-5-creedmoor",
+ "title": "Tikka 6,5 creedmoor",
+ "price_dkk": 13000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  "6,5 Creedmoor"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "2740",
+ "by": "Skovlunde",
+ "stand_gg": "Ny",
+ "thumb": "/thumbs/15f60992-6625-42a2-be72-69af06c052c5/0.webp",
+ "image_count": 2,
+ "lat": 55.71528471,
+ "lon": 12.39724634,
+ "description": "Helt ny tikka ace hunter 6,5 creedmoor den har aldrig skudt et skud den er taget ud af æsken og sat i skab der er original rem med til obs den er uden kikkert ved hurtig handel kan den godt blive siddende ved en tillægs pris på 4000 med sphur montage",
+ "images": [
+  {
+   "full": "/images/15f60992-6625-42a2-be72-69af06c052c5/0.webp",
+   "thumb": "/thumbs/15f60992-6625-42a2-be72-69af06c052c5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/15f60992-6625-42a2-be72-69af06c052c5/1.webp",
+   "thumb": "/thumbs/15f60992-6625-42a2-be72-69af06c052c5/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

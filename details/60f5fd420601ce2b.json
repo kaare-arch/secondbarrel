@@ -1,0 +1,37 @@
+{
+ "id": "780ed55a-6d3b-4ab1-a32a-910b4f8c198a",
+ "detail_id": "60f5fd420601ce2b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/780ed55a-6d3b-4ab1-a32a-910b4f8c198a/ruger-sfar-20",
+ "title": "Ruger SFAR 20”",
+ "price_dkk": 15500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Ruger",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "1920",
+ "by": "Frederiksberg C",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/780ed55a-6d3b-4ab1-a32a-910b4f8c198a/0.webp",
+ "image_count": 2,
+ "lat": 55.68036477,
+ "lon": 12.54975215,
+ "description": "Fin stand med lidt brugsspor \nSilent steal lyddæmper og org mundingsbremse medfølger samt picanttiny rails \nInkl . 4 stk 10 skuds magasiner ex. Optik \nEr åben for bud",
+ "images": [
+  {
+   "full": "/images/780ed55a-6d3b-4ab1-a32a-910b4f8c198a/0.webp",
+   "thumb": "/thumbs/780ed55a-6d3b-4ab1-a32a-910b4f8c198a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/780ed55a-6d3b-4ab1-a32a-910b4f8c198a/1.webp",
+   "thumb": "/thumbs/780ed55a-6d3b-4ab1-a32a-910b4f8c198a/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

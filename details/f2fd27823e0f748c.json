@@ -1,0 +1,39 @@
+{
+ "id": "2f00e8d2-6e4e-483b-bfb1-c172cd5f482b",
+ "detail_id": "f2fd27823e0f748c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2f00e8d2-6e4e-483b-bfb1-c172cd5f482b/cz-salon-riffel",
+ "title": "Cz salon riffel",
+ "price_dkk": 8000,
+ "weapon_type": "Salonriffel",
+ "brand": "CZ",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "2740",
+ "by": "Skovlunde",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/2f00e8d2-6e4e-483b-bfb1-c172cd5f482b/0.webp",
+ "image_count": 2,
+ "lat": 55.71528471,
+ "lon": 12.39724634,
+ "description": "Sælger denne cz 455 22lr den er lagt i et MDT skæfte den er som ny og har kun skudt 150 skud",
+ "images": [
+  {
+   "full": "/images/2f00e8d2-6e4e-483b-bfb1-c172cd5f482b/0.webp",
+   "thumb": "/thumbs/2f00e8d2-6e4e-483b-bfb1-c172cd5f482b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2f00e8d2-6e4e-483b-bfb1-c172cd5f482b/1.webp",
+   "thumb": "/thumbs/2f00e8d2-6e4e-483b-bfb1-c172cd5f482b/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

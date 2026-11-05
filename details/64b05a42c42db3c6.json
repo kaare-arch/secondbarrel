@@ -1,0 +1,37 @@
+{
+ "id": "eb9035a8-276f-43f5-97f0-0702454ddd80",
+ "detail_id": "64b05a42c42db3c6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/eb9035a8-276f-43f5-97f0-0702454ddd80/ruger-10-22-backpacker",
+ "title": "Ruger 10/22 backpacker",
+ "price_dkk": 6500,
+ "weapon_type": "Salonriffel",
+ "brand": "Ruger",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "1920",
+ "by": "Frederiksberg C",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/eb9035a8-276f-43f5-97f0-0702454ddd80/0.webp",
+ "image_count": 2,
+ "lat": 55.68036477,
+ "lon": 12.54975215,
+ "description": "Næsten ny skudt ca 40 skud .\n4 x 10 skuds magasiner medfølger samt ace ultra dæmper",
+ "images": [
+  {
+   "full": "/images/eb9035a8-276f-43f5-97f0-0702454ddd80/0.webp",
+   "thumb": "/thumbs/eb9035a8-276f-43f5-97f0-0702454ddd80/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/eb9035a8-276f-43f5-97f0-0702454ddd80/1.webp",
+   "thumb": "/thumbs/eb9035a8-276f-43f5-97f0-0702454ddd80/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

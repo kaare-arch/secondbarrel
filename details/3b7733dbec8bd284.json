@@ -1,0 +1,51 @@
+{
+ "id": "b5680b46-caa5-475e-939b-35f1c304a7ca",
+ "detail_id": "3b7733dbec8bd284",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b5680b46-caa5-475e-939b-35f1c304a7ca/parker-hale-30-06-jagtriffel",
+ "title": "Parker Hale 30.06 jagtriffel",
+ "price_dkk": 1000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "6683",
+ "by": "Føvling",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b5680b46-caa5-475e-939b-35f1c304a7ca/0.webp",
+ "image_count": 4,
+ "lat": 55.43560842,
+ "lon": 8.91001913,
+ "description": "Flot klassisk Parker Hale i cal.30.06 med Mauser-lås og Jaguar kikkert, se billeder for stand m.m. \nSolidt kram, fremstillet efter WW2 på overskuds Mauser K98 låse. \n\nSælges pga. helbred/flytning.\n\nKun fremvisning mod gyldigt jagttegn/billed ID og sendes ikke!!",
+ "images": [
+  {
+   "full": "/images/b5680b46-caa5-475e-939b-35f1c304a7ca/0.webp",
+   "thumb": "/thumbs/b5680b46-caa5-475e-939b-35f1c304a7ca/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b5680b46-caa5-475e-939b-35f1c304a7ca/1.webp",
+   "thumb": "/thumbs/b5680b46-caa5-475e-939b-35f1c304a7ca/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b5680b46-caa5-475e-939b-35f1c304a7ca/2.webp",
+   "thumb": "/thumbs/b5680b46-caa5-475e-939b-35f1c304a7ca/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b5680b46-caa5-475e-939b-35f1c304a7ca/3.webp",
+   "thumb": "/thumbs/b5680b46-caa5-475e-939b-35f1c304a7ca/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

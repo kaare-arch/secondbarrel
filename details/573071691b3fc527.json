@@ -1,0 +1,31 @@
+{
+ "id": "20ca8000-be7a-4d9d-a60a-dd84659b598e",
+ "detail_id": "573071691b3fc527",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/20ca8000-be7a-4d9d-a60a-dd84659b598e/schultz-larsen",
+ "title": "Schultz & Larsen",
+ "price_dkk": 10000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "2970",
+ "by": "Hørsholm",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/20ca8000-be7a-4d9d-a60a-dd84659b598e/0.webp",
+ "image_count": 1,
+ "lat": 55.88126977,
+ "lon": 12.4388378,
+ "description": "Schultz & Larsen i kal. .458 win mag med ekstra træ",
+ "images": [
+  {
+   "full": "/images/20ca8000-be7a-4d9d-a60a-dd84659b598e/0.webp",
+   "thumb": "/thumbs/20ca8000-be7a-4d9d-a60a-dd84659b598e/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

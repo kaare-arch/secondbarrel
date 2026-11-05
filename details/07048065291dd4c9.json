@@ -1,0 +1,37 @@
+{
+ "id": "4d13075d-db35-4ca7-a520-80c39e3fbcae",
+ "detail_id": "07048065291dd4c9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4d13075d-db35-4ca7-a520-80c39e3fbcae/billig-pumpgun",
+ "title": "billig pumpgun",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Remington",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "4262",
+ "by": "Sandved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/4d13075d-db35-4ca7-a520-80c39e3fbcae/0.webp",
+ "image_count": 2,
+ "lat": 55.25079677,
+ "lon": 11.528121,
+ "description": "Remington 870 magnum , ikke brugt i mange år , ikke slidt overhovedet , svare kun på sms [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/4d13075d-db35-4ca7-a520-80c39e3fbcae/0.webp",
+   "thumb": "/thumbs/4d13075d-db35-4ca7-a520-80c39e3fbcae/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4d13075d-db35-4ca7-a520-80c39e3fbcae/1.webp",
+   "thumb": "/thumbs/4d13075d-db35-4ca7-a520-80c39e3fbcae/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

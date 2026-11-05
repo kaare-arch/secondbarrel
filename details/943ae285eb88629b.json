@@ -1,0 +1,51 @@
+{
+ "id": "86a17b1e-afda-41c0-9f38-e34b1006f35a",
+ "detail_id": "943ae285eb88629b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/86a17b1e-afda-41c0-9f38-e34b1006f35a/stevens-model-58",
+ "title": "Stevens model 58",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "7990",
+ "by": "Øster Assels",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/86a17b1e-afda-41c0-9f38-e34b1006f35a/0.webp",
+ "image_count": 4,
+ "lat": 56.70333146,
+ "lon": 8.69094496,
+ "description": "Sælger dette specielle haglgevær, til dig som vil have det naboen ikke har, super fint Stevens model 58 haglgevær 12/70 med repeter, aftageligt magasin og justerbar choke. \n\nSælges ved fremvisning af gyldigt jagttegn, besidder skifte klares inden den forlader adressen",
+ "images": [
+  {
+   "full": "/images/86a17b1e-afda-41c0-9f38-e34b1006f35a/0.webp",
+   "thumb": "/thumbs/86a17b1e-afda-41c0-9f38-e34b1006f35a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86a17b1e-afda-41c0-9f38-e34b1006f35a/1.webp",
+   "thumb": "/thumbs/86a17b1e-afda-41c0-9f38-e34b1006f35a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86a17b1e-afda-41c0-9f38-e34b1006f35a/2.webp",
+   "thumb": "/thumbs/86a17b1e-afda-41c0-9f38-e34b1006f35a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/86a17b1e-afda-41c0-9f38-e34b1006f35a/3.webp",
+   "thumb": "/thumbs/86a17b1e-afda-41c0-9f38-e34b1006f35a/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

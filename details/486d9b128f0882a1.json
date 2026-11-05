@@ -1,0 +1,39 @@
+{
+ "id": "07903ba6-facf-484d-9126-8354ac6e795c",
+ "detail_id": "486d9b128f0882a1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/07903ba6-facf-484d-9126-8354ac6e795c/f-dumoulin-hanegevaer-12-70",
+ "title": "F dumoulin hanegevær 12/70",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-04",
+ "age_days": 0,
+ "postnummer": "7990",
+ "by": "Øster Assels",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/07903ba6-facf-484d-9126-8354ac6e795c/0.webp",
+ "image_count": 2,
+ "lat": 56.70333146,
+ "lon": 8.69094496,
+ "description": "Sælger denne fine f dumoulin haglbøsse da jeg ikke får den brugt. \nMen super fint side by side med et par år på bagen og lidt brugsspor på sidebenet men ikke noget der hæmmer jagtlysten. \n\nSælges ved fremvisning af gyldigt jagttegn, besidder skifte klares inden den forlader adressen.",
+ "images": [
+  {
+   "full": "/images/07903ba6-facf-484d-9126-8354ac6e795c/0.webp",
+   "thumb": "/thumbs/07903ba6-facf-484d-9126-8354ac6e795c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/07903ba6-facf-484d-9126-8354ac6e795c/1.webp",
+   "thumb": "/thumbs/07903ba6-facf-484d-9126-8354ac6e795c/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
