@@ -1,0 +1,37 @@
+{
+ "id": "5322e801-eb7c-4e8b-b108-271c3df60a8e",
+ "detail_id": "ea0d1f0335d4eea6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5322e801-eb7c-4e8b-b108-271c3df60a8e/beretta-s56e-jagtgevaer",
+ "title": "Beretta s56e jagtgevær",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-05",
+ "age_days": 0,
+ "postnummer": "7620",
+ "by": "Lemvig",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5322e801-eb7c-4e8b-b108-271c3df60a8e/0.webp",
+ "image_count": 2,
+ "lat": 56.51847102,
+ "lon": 8.38720164,
+ "description": "Virkelig flot og velholdt jagtgevær",
+ "images": [
+  {
+   "full": "/images/5322e801-eb7c-4e8b-b108-271c3df60a8e/0.webp",
+   "thumb": "/thumbs/5322e801-eb7c-4e8b-b108-271c3df60a8e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5322e801-eb7c-4e8b-b108-271c3df60a8e/1.webp",
+   "thumb": "/thumbs/5322e801-eb7c-4e8b-b108-271c3df60a8e/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

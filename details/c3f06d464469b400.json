@@ -1,0 +1,57 @@
+{
+ "id": "9dea9f3d-6994-499a-9952-3413c891e900",
+ "detail_id": "c3f06d464469b400",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9dea9f3d-6994-499a-9952-3413c891e900/schultz-larsen-classic-dl",
+ "title": "Schultz & Larsen Classic DL",
+ "price_dkk": 7999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Schultz & Larsen",
+ "calibers": [
+  "7x64"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-05",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/9dea9f3d-6994-499a-9952-3413c891e900/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Schultz & Larsen Classic DL\n\nKaliber 7x64\n\nInkl. Original picatinny rail. \n\nMulighed for vekselpibe. \n\nAftageligt 3 skuds magasin. \n\nSkudt ganske få skud. ( under 100 ) \n\nSuper stand. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/9dea9f3d-6994-499a-9952-3413c891e900/0.webp",
+   "thumb": "/thumbs/9dea9f3d-6994-499a-9952-3413c891e900/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9dea9f3d-6994-499a-9952-3413c891e900/1.webp",
+   "thumb": "/thumbs/9dea9f3d-6994-499a-9952-3413c891e900/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9dea9f3d-6994-499a-9952-3413c891e900/2.webp",
+   "thumb": "/thumbs/9dea9f3d-6994-499a-9952-3413c891e900/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9dea9f3d-6994-499a-9952-3413c891e900/3.webp",
+   "thumb": "/thumbs/9dea9f3d-6994-499a-9952-3413c891e900/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9dea9f3d-6994-499a-9952-3413c891e900/4.webp",
+   "thumb": "/thumbs/9dea9f3d-6994-499a-9952-3413c891e900/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
