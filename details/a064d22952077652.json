@@ -1,0 +1,51 @@
+{
+ "id": "beb06a74-25bd-4e83-b758-3dfe2353dab2",
+ "detail_id": "a064d22952077652",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/beb06a74-25bd-4e83-b758-3dfe2353dab2/midland-riffel-sig-sauer-optik",
+ "title": "Midland Riffel + Sig Sauer optik",
+ "price_dkk": 2499,
+ "weapon_type": "Jagtriffel",
+ "brand": "SIG Sauer",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-06",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/beb06a74-25bd-4e83-b758-3dfe2353dab2/0.webp",
+ "image_count": 4,
+ "lat": null,
+ "lon": null,
+ "description": "Midland Riffel.\n\nKaliber 30-06.\n\nInkl. Sig Sauer Sierra 4,5-14x50\nLys virker ikke i kikkert, men er ellers helt ok. \n\nPæn brugt stand. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/beb06a74-25bd-4e83-b758-3dfe2353dab2/0.webp",
+   "thumb": "/thumbs/beb06a74-25bd-4e83-b758-3dfe2353dab2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/beb06a74-25bd-4e83-b758-3dfe2353dab2/1.webp",
+   "thumb": "/thumbs/beb06a74-25bd-4e83-b758-3dfe2353dab2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/beb06a74-25bd-4e83-b758-3dfe2353dab2/2.webp",
+   "thumb": "/thumbs/beb06a74-25bd-4e83-b758-3dfe2353dab2/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/beb06a74-25bd-4e83-b758-3dfe2353dab2/3.webp",
+   "thumb": "/thumbs/beb06a74-25bd-4e83-b758-3dfe2353dab2/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

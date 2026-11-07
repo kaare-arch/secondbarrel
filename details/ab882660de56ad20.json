@@ -1,0 +1,67 @@
+{
+ "id": "27d58308-5806-48f5-a7bc-631d0afc55da",
+ "detail_id": "ab882660de56ad20",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/27d58308-5806-48f5-a7bc-631d0afc55da/diverse-haandvaaben-mm",
+ "title": "Diverse håndvåben mm",
+ "price_dkk": 10000,
+ "weapon_type": "Pistol",
+ "brand": "Smith & Wesson",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-06",
+ "age_days": 0,
+ "postnummer": "9610",
+ "by": "Nørager",
+ "stand_gg": null,
+ "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/0.webp",
+ "image_count": 7,
+ "lat": 56.74794316,
+ "lon": 9.63042311,
+ "description": "Er desværre nød til at sælge ud af godterierne her hjemme. S&W M14 , High standart sharpshoote r, Weinrauch HW9/9-ST (ja det er den der blev brugt i et bankrøveri i Skørping). Våbenskab 2 nøgler, 2x pistol kasser, Normalpris 13500kr. Samlet jule tilbud 10000kr.",
+ "images": [
+  {
+   "full": "/images/27d58308-5806-48f5-a7bc-631d0afc55da/0.webp",
+   "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/27d58308-5806-48f5-a7bc-631d0afc55da/1.webp",
+   "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/27d58308-5806-48f5-a7bc-631d0afc55da/2.webp",
+   "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/27d58308-5806-48f5-a7bc-631d0afc55da/3.webp",
+   "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/27d58308-5806-48f5-a7bc-631d0afc55da/4.webp",
+   "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/27d58308-5806-48f5-a7bc-631d0afc55da/5.webp",
+   "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/27d58308-5806-48f5-a7bc-631d0afc55da/6.webp",
+   "thumb": "/thumbs/27d58308-5806-48f5-a7bc-631d0afc55da/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

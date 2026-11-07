@@ -1,0 +1,63 @@
+{
+ "id": "dd3adfd3-8136-4cb5-8e9f-92dd6da18d49",
+ "detail_id": "e9dbfc97c6c79db9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/beretta-halvautomat",
+ "title": "Beretta Halvautomat",
+ "price_dkk": 3999,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-06",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/0.webp",
+ "image_count": 6,
+ "lat": null,
+ "lon": null,
+ "description": "Beretta Halvautomat\n\nModel : A302\n\nKaliber 12/70.\n\n71cm løb.\n\nPæn brugt stand. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/0.webp",
+   "thumb": "/thumbs/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/1.webp",
+   "thumb": "/thumbs/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/2.webp",
+   "thumb": "/thumbs/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/3.webp",
+   "thumb": "/thumbs/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/4.webp",
+   "thumb": "/thumbs/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/5.webp",
+   "thumb": "/thumbs/dd3adfd3-8136-4cb5-8e9f-92dd6da18d49/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

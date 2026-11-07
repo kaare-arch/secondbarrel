@@ -1,0 +1,43 @@
+{
+ "id": "29f8abe4-5474-4b06-be85-5ff94eea4d12",
+ "detail_id": "4bb5f868d4b212dd",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/29f8abe4-5474-4b06-be85-5ff94eea4d12/h-k-usp-45-acp",
+ "title": "H&K USP 45 ACP",
+ "price_dkk": 8000,
+ "weapon_type": "Pistol",
+ "brand": "Heckler & Koch",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-06",
+ "age_days": 0,
+ "postnummer": "7441",
+ "by": "Bording",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/29f8abe4-5474-4b06-be85-5ff94eea4d12/0.webp",
+ "image_count": 3,
+ "lat": 56.15035869,
+ "lon": 9.25469883,
+ "description": "Sælger denne pistol har ikke skyd så meget igen. Ved hurtigt handle kan der følge 100 skud med i købet. Ring eller skriv på [tlf fjernet].",
+ "images": [
+  {
+   "full": "/images/29f8abe4-5474-4b06-be85-5ff94eea4d12/0.webp",
+   "thumb": "/thumbs/29f8abe4-5474-4b06-be85-5ff94eea4d12/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/29f8abe4-5474-4b06-be85-5ff94eea4d12/1.webp",
+   "thumb": "/thumbs/29f8abe4-5474-4b06-be85-5ff94eea4d12/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/29f8abe4-5474-4b06-be85-5ff94eea4d12/2.webp",
+   "thumb": "/thumbs/29f8abe4-5474-4b06-be85-5ff94eea4d12/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
