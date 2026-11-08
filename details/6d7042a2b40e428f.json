@@ -1,0 +1,37 @@
+{
+ "id": "3ff4bc18-e721-4d2e-9a48-c62a4b6b323a",
+ "detail_id": "6d7042a2b40e428f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3ff4bc18-e721-4d2e-9a48-c62a4b6b323a/winchester-model-94",
+ "title": "Winchester model 94",
+ "price_dkk": 4000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-07",
+ "age_days": 0,
+ "postnummer": "6630",
+ "by": "Rødding",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3ff4bc18-e721-4d2e-9a48-c62a4b6b323a/0.webp",
+ "image_count": 2,
+ "lat": 55.38472069,
+ "lon": 9.14057169,
+ "description": "Kal 30-30 win. Med picatinny skinne med mulighed for at sætte et rød punkt på",
+ "images": [
+  {
+   "full": "/images/3ff4bc18-e721-4d2e-9a48-c62a4b6b323a/0.webp",
+   "thumb": "/thumbs/3ff4bc18-e721-4d2e-9a48-c62a4b6b323a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3ff4bc18-e721-4d2e-9a48-c62a4b6b323a/1.webp",
+   "thumb": "/thumbs/3ff4bc18-e721-4d2e-9a48-c62a4b6b323a/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
