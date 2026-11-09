@@ -1,0 +1,39 @@
+{
+ "id": "2d1f5c0b-26d2-4edd-b2c0-a55919b4f6aa",
+ "detail_id": "ed765b582f23610b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2d1f5c0b-26d2-4edd-b2c0-a55919b4f6aa/mauser-m18-long-range-308",
+ "title": "Mauser M18 Long Range .308",
+ "price_dkk": 17000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-08",
+ "age_days": 0,
+ "postnummer": "3720",
+ "by": "Aakirkeby",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/2d1f5c0b-26d2-4edd-b2c0-a55919b4f6aa/0.webp",
+ "image_count": 2,
+ "lat": 55.07147061,
+ "lon": 14.92562941,
+ "description": "Mauser M18 Long Range i kaliber .308 \nOryx skæfte med justerbar kindpude og skulder \nGevind 18/1\n\nHar skudt rundt regnet 70 skud\nSælges for at gøre plads til nyt legetøj\nKikkert og støtteben følger ikke med",
+ "images": [
+  {
+   "full": "/images/2d1f5c0b-26d2-4edd-b2c0-a55919b4f6aa/0.webp",
+   "thumb": "/thumbs/2d1f5c0b-26d2-4edd-b2c0-a55919b4f6aa/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2d1f5c0b-26d2-4edd-b2c0-a55919b4f6aa/1.webp",
+   "thumb": "/thumbs/2d1f5c0b-26d2-4edd-b2c0-a55919b4f6aa/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

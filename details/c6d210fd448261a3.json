@@ -1,0 +1,39 @@
+{
+ "id": "55c0e6db-25fc-42a6-a7d8-e49eec52db95",
+ "detail_id": "c6d210fd448261a3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/55c0e6db-25fc-42a6-a7d8-e49eec52db95/bsa-jagtriffel",
+ "title": "BSA Jagtriffel",
+ "price_dkk": 1200,
+ "weapon_type": "Jagtriffel",
+ "brand": "BSA",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-08",
+ "age_days": 0,
+ "postnummer": "4400",
+ "by": "Kalundborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/55c0e6db-25fc-42a6-a7d8-e49eec52db95/0.webp",
+ "image_count": 2,
+ "lat": 55.67771845,
+ "lon": 11.16811565,
+ "description": "Fuldskæftet BSA Jagtriffel model CF2 cal. 30-06 brugt i god stand med kikkert 4x40 fast forstørrelse, der medfølger over 100 stk. trænings ammunition. Våbentilladelse er påkrævet, kr. 500,- i depositum ved handel, resten når tilladelse er i hus.",
+ "images": [
+  {
+   "full": "/images/55c0e6db-25fc-42a6-a7d8-e49eec52db95/0.webp",
+   "thumb": "/thumbs/55c0e6db-25fc-42a6-a7d8-e49eec52db95/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/55c0e6db-25fc-42a6-a7d8-e49eec52db95/1.webp",
+   "thumb": "/thumbs/55c0e6db-25fc-42a6-a7d8-e49eec52db95/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

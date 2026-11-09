@@ -1,0 +1,49 @@
+{
+ "id": "fec28639-c230-4059-b9b9-f80d6b9f5afc",
+ "detail_id": "a01793f59c042227",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/fec28639-c230-4059-b9b9-f80d6b9f5afc/gammel-pinfire-gevaer",
+ "title": "Gammel Pinfire gevær.",
+ "price_dkk": 800,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-08",
+ "age_days": 0,
+ "postnummer": "7830",
+ "by": "Vinderup",
+ "stand_gg": "Slidt",
+ "thumb": "/thumbs/fec28639-c230-4059-b9b9-f80d6b9f5afc/0.webp",
+ "image_count": 4,
+ "lat": 56.46905999,
+ "lon": 8.81719612,
+ "description": "Ældre Pinfire haglgevær af ukendt mærke. \nSælges kun mod forevisning af jagtkort eller samler tilladelse.\nVed interesse kan jeg kontaktes på mobil [tlf fjernet].",
+ "images": [
+  {
+   "full": "/images/fec28639-c230-4059-b9b9-f80d6b9f5afc/0.webp",
+   "thumb": "/thumbs/fec28639-c230-4059-b9b9-f80d6b9f5afc/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fec28639-c230-4059-b9b9-f80d6b9f5afc/1.webp",
+   "thumb": "/thumbs/fec28639-c230-4059-b9b9-f80d6b9f5afc/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fec28639-c230-4059-b9b9-f80d6b9f5afc/2.webp",
+   "thumb": "/thumbs/fec28639-c230-4059-b9b9-f80d6b9f5afc/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fec28639-c230-4059-b9b9-f80d6b9f5afc/3.webp",
+   "thumb": "/thumbs/fec28639-c230-4059-b9b9-f80d6b9f5afc/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

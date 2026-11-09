@@ -1,0 +1,69 @@
+{
+ "id": "38f5b720-03d1-41cc-b8f0-b6d581a1aa87",
+ "detail_id": "fa35177c5ee6a35b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/mossberg-jagtriffel-308-win-med-roedpunktsigte",
+ "title": "Mossberg Jagtriffel 308 WIN med Rødpunktsigte",
+ "price_dkk": 2800,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mossberg",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-08",
+ "age_days": 0,
+ "postnummer": "6400",
+ "by": "Sønderborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/0.webp",
+ "image_count": 7,
+ "lat": 54.9535844,
+ "lon": 9.69069026,
+ "description": "Jeg sælger min gode solide jagtriffel grundet, jeg kun vil have 1 riffel og et haglgevær.",
+ "images": [
+  {
+   "full": "/images/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/0.webp",
+   "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/1.webp",
+   "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/2.webp",
+   "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/3.webp",
+   "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/4.webp",
+   "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/5.webp",
+   "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/6.webp",
+   "thumb": "/thumbs/38f5b720-03d1-41cc-b8f0-b6d581a1aa87/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
