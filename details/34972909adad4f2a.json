@@ -1,0 +1,57 @@
+{
+ "id": "ef2e632c-813e-4615-8f2a-4e14593acf3c",
+ "detail_id": "34972909adad4f2a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ef2e632c-813e-4615-8f2a-4e14593acf3c/sauer-202-jaguar-custom-308-w",
+ "title": "Sauer 202 Jaguar Custom 308 W",
+ "price_dkk": 19500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-09",
+ "age_days": 0,
+ "postnummer": "5771",
+ "by": "Stenstrup",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/ef2e632c-813e-4615-8f2a-4e14593acf3c/0.webp",
+ "image_count": 5,
+ "lat": 55.12556284,
+ "lon": 10.52352287,
+ "description": "Flot riffel med Schmidt og Bender 3-12 x 50. Fremstår som ny, ingen synlige brugsspor og ingen gevind i løb. Måske ikke skudt 100 skud, jeg har aldrig selv jaget med den. Købt brugt af ældre mand der ikke jagede mere.",
+ "images": [
+  {
+   "full": "/images/ef2e632c-813e-4615-8f2a-4e14593acf3c/0.webp",
+   "thumb": "/thumbs/ef2e632c-813e-4615-8f2a-4e14593acf3c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef2e632c-813e-4615-8f2a-4e14593acf3c/1.webp",
+   "thumb": "/thumbs/ef2e632c-813e-4615-8f2a-4e14593acf3c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef2e632c-813e-4615-8f2a-4e14593acf3c/2.webp",
+   "thumb": "/thumbs/ef2e632c-813e-4615-8f2a-4e14593acf3c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef2e632c-813e-4615-8f2a-4e14593acf3c/3.webp",
+   "thumb": "/thumbs/ef2e632c-813e-4615-8f2a-4e14593acf3c/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ef2e632c-813e-4615-8f2a-4e14593acf3c/4.webp",
+   "thumb": "/thumbs/ef2e632c-813e-4615-8f2a-4e14593acf3c/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

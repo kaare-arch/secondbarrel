@@ -1,0 +1,39 @@
+{
+ "id": "50101a4a-b920-4209-9e97-0eea8bb858a8",
+ "detail_id": "97e7112448b063be",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/50101a4a-b920-4209-9e97-0eea8bb858a8/remington-700-338-lapua-magnum",
+ "title": "Remington 700 - 338 Lapua Magnum",
+ "price_dkk": 30000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".338 Lapua"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-09",
+ "age_days": 0,
+ "postnummer": "8530",
+ "by": "Hjortshøj",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/50101a4a-b920-4209-9e97-0eea8bb858a8/0.webp",
+ "image_count": 2,
+ "lat": 56.29464717,
+ "lon": 10.20502083,
+ "description": "Remington 700 XCR i GRS Skæfte\n\n40 mm matchpibe, som har skudt mindre end 200 skud. IOR Recon 4-28 optik i Spuhr montage, Sako mundingsbremse. Riffelstigning på 1/10, så den stabilisere nemt 300 grains projektiler. Har lysten til PRS, men ikke tiden. Riflen giver en god og billig adgangsbillet hertil. Optik og montage koster over DKK 20.000. Der kan tilkøbes lidt ammo, ladet på 285 ELD-M i Lapua hylstre",
+ "images": [
+  {
+   "full": "/images/50101a4a-b920-4209-9e97-0eea8bb858a8/0.webp",
+   "thumb": "/thumbs/50101a4a-b920-4209-9e97-0eea8bb858a8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/50101a4a-b920-4209-9e97-0eea8bb858a8/1.webp",
+   "thumb": "/thumbs/50101a4a-b920-4209-9e97-0eea8bb858a8/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
