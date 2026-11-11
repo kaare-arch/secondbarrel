@@ -1,0 +1,63 @@
+{
+ "id": "1eda2a75-8716-4d39-b55d-a36ab0691cdb",
+ "detail_id": "9ec5dc54bf4ce9db",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1eda2a75-8716-4d39-b55d-a36ab0691cdb/sauer-202-match-aftraek-6-5x55",
+ "title": "Sauer 202 match aftræk-6.5x55",
+ "price_dkk": 13500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-10",
+ "age_days": 0,
+ "postnummer": "6900",
+ "by": "Skjern",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1eda2a75-8716-4d39-b55d-a36ab0691cdb/0.webp",
+ "image_count": 6,
+ "lat": 55.99089672,
+ "lon": 8.5388741,
+ "description": "Sauer 202 \nBred forskæfte(repareret for en revne)\nJusterbart bagskæfte \nMatch aftræk.\n60cm pibe 22mm m18x1\n6.5x55\nMdt elite mundingsbremse \nSonic 45 lyddæmper \n5 skuds magasin\n10 skud magasin(ørene skal lige justeres) \nOriginal Sauer værktøj \nSauer manual.\n100 spidskarp s&b 9.1g \nJagt mundingsbremse \nHg firearms picatinny skinne 20moa",
+ "images": [
+  {
+   "full": "/images/1eda2a75-8716-4d39-b55d-a36ab0691cdb/0.webp",
+   "thumb": "/thumbs/1eda2a75-8716-4d39-b55d-a36ab0691cdb/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1eda2a75-8716-4d39-b55d-a36ab0691cdb/1.webp",
+   "thumb": "/thumbs/1eda2a75-8716-4d39-b55d-a36ab0691cdb/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1eda2a75-8716-4d39-b55d-a36ab0691cdb/2.webp",
+   "thumb": "/thumbs/1eda2a75-8716-4d39-b55d-a36ab0691cdb/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1eda2a75-8716-4d39-b55d-a36ab0691cdb/3.webp",
+   "thumb": "/thumbs/1eda2a75-8716-4d39-b55d-a36ab0691cdb/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1eda2a75-8716-4d39-b55d-a36ab0691cdb/4.webp",
+   "thumb": "/thumbs/1eda2a75-8716-4d39-b55d-a36ab0691cdb/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1eda2a75-8716-4d39-b55d-a36ab0691cdb/5.webp",
+   "thumb": "/thumbs/1eda2a75-8716-4d39-b55d-a36ab0691cdb/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

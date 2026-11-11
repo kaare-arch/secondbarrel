@@ -1,0 +1,39 @@
+{
+ "id": "235eb8fa-cd44-4b56-8d21-89ec583b3772",
+ "detail_id": "ced3cd9b8c5721c1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/235eb8fa-cd44-4b56-8d21-89ec583b3772/blaser-7x64-fluted-pibe",
+ "title": "Blaser R8 7x64 fluted pibe",
+ "price_dkk": 14000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  "7x64"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-09",
+ "age_days": 1,
+ "postnummer": "7451",
+ "by": "Sunds",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/235eb8fa-cd44-4b56-8d21-89ec583b3772/0.webp",
+ "image_count": 2,
+ "lat": 56.22960774,
+ "lon": 9.02585964,
+ "description": "Blaser R8 riffelpibe i kaliber 7×64 med fluted (rillet) pibeprofil og M15×1 mundingsgevind.\nSpecifikationer:\nFabrikat: Blaser\nKaliber: 7×64\nPibeprofil: Fluted\nMundingsgevind: M15×1\nPibelængde: 58 cm\nStand: Som ny\n3 kasser RWS hit medfølger.\n2 kasser JCP sniper medfølger.",
+ "images": [
+  {
+   "full": "/images/235eb8fa-cd44-4b56-8d21-89ec583b3772/0.webp",
+   "thumb": "/thumbs/235eb8fa-cd44-4b56-8d21-89ec583b3772/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/235eb8fa-cd44-4b56-8d21-89ec583b3772/1.webp",
+   "thumb": "/thumbs/235eb8fa-cd44-4b56-8d21-89ec583b3772/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "a97bc075-6b8d-4769-a41b-990ace481d06",
+ "detail_id": "2e96b9d229032965",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a97bc075-6b8d-4769-a41b-990ace481d06/tikka-690-lux",
+ "title": "Tikka 690 Lux",
+ "price_dkk": 7495,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-10",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a97bc075-6b8d-4769-a41b-990ace481d06/0.webp",
+ "image_count": 3,
+ "lat": null,
+ "lon": null,
+ "description": "Flot og velholdt Tikka 690 Lux\nKaliber 6,5x55\nm. weaver stål baser",
+ "images": [
+  {
+   "full": "/images/a97bc075-6b8d-4769-a41b-990ace481d06/0.webp",
+   "thumb": "/thumbs/a97bc075-6b8d-4769-a41b-990ace481d06/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a97bc075-6b8d-4769-a41b-990ace481d06/1.webp",
+   "thumb": "/thumbs/a97bc075-6b8d-4769-a41b-990ace481d06/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a97bc075-6b8d-4769-a41b-990ace481d06/2.webp",
+   "thumb": "/thumbs/a97bc075-6b8d-4769-a41b-990ace481d06/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

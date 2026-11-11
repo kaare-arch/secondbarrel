@@ -1,0 +1,31 @@
+{
+ "id": "nkjagt.dk/vare/19903-browning-b725-sport",
+ "detail_id": "359a381c4343db62",
+ "source": "nkjagt.dk",
+ "source_label": "NK Jagt",
+ "url": "https://www.nkjagt.dk/vare/19903-browning-b725-sport",
+ "title": "Browning B725 SPORT",
+ "price_dkk": 16995,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "8380",
+ "by": "Trige",
+ "stand_gg": null,
+ "thumb": "/thumbs/nkjagt.dk/vare/19903-browning-b725-sport/0.webp",
+ "image_count": 1,
+ "lat": 56.27022295,
+ "lon": 10.16086107,
+ "description": null,
+ "images": [
+  {
+   "full": "/images/nkjagt.dk/vare/19903-browning-b725-sport/0.png",
+   "thumb": "/thumbs/nkjagt.dk/vare/19903-browning-b725-sport/0.webp",
+   "width": 580,
+   "height": 773
+  }
+ ]
+}
