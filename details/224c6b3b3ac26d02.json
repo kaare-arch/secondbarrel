@@ -1,0 +1,45 @@
+{
+ "id": "9690ab97-7092-4ea3-97bb-8ce7ba55a933",
+ "detail_id": "224c6b3b3ac26d02",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9690ab97-7092-4ea3-97bb-8ce7ba55a933/interarms-mark-x",
+ "title": "Interarms Mark X",
+ "price_dkk": 2000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Interarms",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-11",
+ "age_days": 2,
+ "postnummer": "7120",
+ "by": "Vejle Øst",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9690ab97-7092-4ea3-97bb-8ce7ba55a933/0.webp",
+ "image_count": 3,
+ "lat": 55.72791464,
+ "lon": 9.6446567,
+ "description": "En god riffel med masser låsesystem i kaliber 30.06\nDer er monteret Bushnell Banner kikkert sigte i 3x9x50\nMekanisk i perfekt stand",
+ "images": [
+  {
+   "full": "/images/9690ab97-7092-4ea3-97bb-8ce7ba55a933/0.webp",
+   "thumb": "/thumbs/9690ab97-7092-4ea3-97bb-8ce7ba55a933/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9690ab97-7092-4ea3-97bb-8ce7ba55a933/1.webp",
+   "thumb": "/thumbs/9690ab97-7092-4ea3-97bb-8ce7ba55a933/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9690ab97-7092-4ea3-97bb-8ce7ba55a933/2.webp",
+   "thumb": "/thumbs/9690ab97-7092-4ea3-97bb-8ce7ba55a933/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "afd0b280-c91a-487e-b0ec-fded2c617fdb",
+ "detail_id": "2ff0ab798d8edbbe",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/afd0b280-c91a-487e-b0ec-fded2c617fdb/carl-gustav-6-5x55-med-simmons-3-9-kikkert",
+ "title": "Carl Gustav 6,5x55 med Simmons 3-9 kikkert",
+ "price_dkk": 3000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-13",
+ "age_days": 0,
+ "postnummer": "6933",
+ "by": "Kibæk",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/afd0b280-c91a-487e-b0ec-fded2c617fdb/0.webp",
+ "image_count": 2,
+ "lat": 55.94883412,
+ "lon": 8.92947696,
+ "description": "Fin stand og funktion",
+ "images": [
+  {
+   "full": "/images/afd0b280-c91a-487e-b0ec-fded2c617fdb/0.webp",
+   "thumb": "/thumbs/afd0b280-c91a-487e-b0ec-fded2c617fdb/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/afd0b280-c91a-487e-b0ec-fded2c617fdb/1.webp",
+   "thumb": "/thumbs/afd0b280-c91a-487e-b0ec-fded2c617fdb/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

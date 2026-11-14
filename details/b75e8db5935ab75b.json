@@ -1,0 +1,37 @@
+{
+ "id": "709e826f-5f60-4705-b6d5-02a376a0de7c",
+ "detail_id": "b75e8db5935ab75b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/709e826f-5f60-4705-b6d5-02a376a0de7c/grs-sporter-til-blaser-r8",
+ "title": "GRS Sporter til Blaser R8",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "4684",
+ "by": "Holmegaard",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/709e826f-5f60-4705-b6d5-02a376a0de7c/0.webp",
+ "image_count": 2,
+ "lat": 55.25979308,
+ "lon": 11.86408266,
+ "description": "Skæfte til Blaser R8 professionel. Jeg har været glad for at bruge det ifbm feltskydning, men fungerer også godt på især anstandsjagt.",
+ "images": [
+  {
+   "full": "/images/709e826f-5f60-4705-b6d5-02a376a0de7c/0.webp",
+   "thumb": "/thumbs/709e826f-5f60-4705-b6d5-02a376a0de7c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/709e826f-5f60-4705-b6d5-02a376a0de7c/1.webp",
+   "thumb": "/thumbs/709e826f-5f60-4705-b6d5-02a376a0de7c/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "394116d2-241d-4fc0-8d14-a354d3b9ab6d",
+ "detail_id": "6196211b6aa2455b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/394116d2-241d-4fc0-8d14-a354d3b9ab6d/lille-pistol-cal-22-agern",
+ "title": "Lille pistol cal. 22 (agern).",
+ "price_dkk": 500,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "7840",
+ "by": "Højslev",
+ "stand_gg": "Slidt",
+ "thumb": "/thumbs/394116d2-241d-4fc0-8d14-a354d3b9ab6d/0.webp",
+ "image_count": 2,
+ "lat": 56.55956367,
+ "lon": 9.15680195,
+ "description": "Lille pistol  cal. 22 lidt rustarret.",
+ "images": [
+  {
+   "full": "/images/394116d2-241d-4fc0-8d14-a354d3b9ab6d/0.webp",
+   "thumb": "/thumbs/394116d2-241d-4fc0-8d14-a354d3b9ab6d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/394116d2-241d-4fc0-8d14-a354d3b9ab6d/1.webp",
+   "thumb": "/thumbs/394116d2-241d-4fc0-8d14-a354d3b9ab6d/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "398e80a0-a8e2-41db-a097-3ed9e490f936",
+ "detail_id": "8d48f0a6bf72b9ee",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/398e80a0-a8e2-41db-a097-3ed9e490f936/tikka-t3x-223-med-zeiss-3-12x56",
+ "title": "Tikka T3x .223 med ZEISS 3-12x56",
+ "price_dkk": 16000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "4270",
+ "by": "Høng",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/398e80a0-a8e2-41db-a097-3ed9e490f936/0.webp",
+ "image_count": 4,
+ "lat": 55.50308551,
+ "lon": 11.30548124,
+ "description": "Tikka t3x .223 \npicatinny rail\nZEISS v4 3-12x56 AVS\nMontager\nStalon X lyddæmper \n\nPerfekt sæt jeg tog min riffelprøve med denne, har skudt meget lidt på bane og jagt, nemmest ingen rekyl \n\nJeg har noget ammo der kan købes med hvis det har interesse.",
+ "images": [
+  {
+   "full": "/images/398e80a0-a8e2-41db-a097-3ed9e490f936/0.webp",
+   "thumb": "/thumbs/398e80a0-a8e2-41db-a097-3ed9e490f936/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/398e80a0-a8e2-41db-a097-3ed9e490f936/1.webp",
+   "thumb": "/thumbs/398e80a0-a8e2-41db-a097-3ed9e490f936/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/398e80a0-a8e2-41db-a097-3ed9e490f936/2.webp",
+   "thumb": "/thumbs/398e80a0-a8e2-41db-a097-3ed9e490f936/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/398e80a0-a8e2-41db-a097-3ed9e490f936/3.webp",
+   "thumb": "/thumbs/398e80a0-a8e2-41db-a097-3ed9e490f936/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

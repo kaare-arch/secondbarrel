@@ -1,0 +1,46 @@
+{
+ "id": "3690e428-d36b-4ee7-b17a-d10f2cd9aeb2",
+ "detail_id": "406d8cb542a9061f",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/heym-bochbuchflinte",
+ "title": "Heym bochbuchflinte",
+ "price_dkk": 2900,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Heym",
+ "calibers": [
+  "16/70",
+  ".243 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "4760",
+ "by": "Vordingborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/0.webp",
+ "image_count": 3,
+ "lat": 55.04017051,
+ "lon": 11.89862831,
+ "description": "Model 22s. Kaliber 243 Winchester/16/70. Monteret med aftageligt\" Sight Mark\" sigte med rød dot.",
+ "images": [
+  {
+   "full": "/images/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/0.webp",
+   "thumb": "/thumbs/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/1.webp",
+   "thumb": "/thumbs/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/2.webp",
+   "thumb": "/thumbs/3690e428-d36b-4ee7-b17a-d10f2cd9aeb2/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

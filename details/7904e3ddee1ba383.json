@@ -1,0 +1,63 @@
+{
+ "id": "ac761b89-e90d-40f5-9c56-000346b9dce4",
+ "detail_id": "7904e3ddee1ba383",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/ac761b89-e90d-40f5-9c56-000346b9dce4/simson-suhl-thuringen-12-70",
+ "title": "Simson Suhl (Thüringen) 12/70",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Simson",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-11",
+ "age_days": 2,
+ "postnummer": "4420",
+ "by": "Regstrup",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/ac761b89-e90d-40f5-9c56-000346b9dce4/0.webp",
+ "image_count": 6,
+ "lat": 55.66048124,
+ "lon": 11.60711139,
+ "description": "Simson Suhl (Thüringen) \nS/S\nKaliber 12/70\nDobbelt aftræk\nejektor\n\nVirker som den skal.\nSælges kun ved fremvisning af gyldig jagttegn.",
+ "images": [
+  {
+   "full": "/images/ac761b89-e90d-40f5-9c56-000346b9dce4/0.webp",
+   "thumb": "/thumbs/ac761b89-e90d-40f5-9c56-000346b9dce4/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ac761b89-e90d-40f5-9c56-000346b9dce4/1.webp",
+   "thumb": "/thumbs/ac761b89-e90d-40f5-9c56-000346b9dce4/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ac761b89-e90d-40f5-9c56-000346b9dce4/2.webp",
+   "thumb": "/thumbs/ac761b89-e90d-40f5-9c56-000346b9dce4/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ac761b89-e90d-40f5-9c56-000346b9dce4/3.webp",
+   "thumb": "/thumbs/ac761b89-e90d-40f5-9c56-000346b9dce4/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ac761b89-e90d-40f5-9c56-000346b9dce4/4.webp",
+   "thumb": "/thumbs/ac761b89-e90d-40f5-9c56-000346b9dce4/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/ac761b89-e90d-40f5-9c56-000346b9dce4/5.webp",
+   "thumb": "/thumbs/ac761b89-e90d-40f5-9c56-000346b9dce4/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

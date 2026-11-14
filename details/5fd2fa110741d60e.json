@@ -1,0 +1,69 @@
+{
+ "id": "c10561b6-66d5-4e12-a524-e639c4167f92",
+ "detail_id": "5fd2fa110741d60e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c10561b6-66d5-4e12-a524-e639c4167f92/baikal-mp-155-12-89-synthetic-camo",
+ "title": "Baikal MP-155 12/89 synthetic CAMO",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [
+  "12/89"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "8543",
+ "by": "Hornslet",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/0.webp",
+ "image_count": 7,
+ "lat": 56.33260256,
+ "lon": 10.29717181,
+ "description": "Fin halvautomatisk jagtgevær der skyder rigtigt godt  med 2 ekstra chokes \nPlomberet til 2 skud, kræver jagttegn og den skal omregistreres",
+ "images": [
+  {
+   "full": "/images/c10561b6-66d5-4e12-a524-e639c4167f92/0.webp",
+   "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c10561b6-66d5-4e12-a524-e639c4167f92/1.webp",
+   "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c10561b6-66d5-4e12-a524-e639c4167f92/2.webp",
+   "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c10561b6-66d5-4e12-a524-e639c4167f92/3.webp",
+   "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c10561b6-66d5-4e12-a524-e639c4167f92/4.webp",
+   "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c10561b6-66d5-4e12-a524-e639c4167f92/5.webp",
+   "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c10561b6-66d5-4e12-a524-e639c4167f92/6.webp",
+   "thumb": "/thumbs/c10561b6-66d5-4e12-a524-e639c4167f92/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "c773de8e-dada-4161-b08f-7ccfd9465a8c",
+ "detail_id": "96ef1d0d53d707c2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c773de8e-dada-4161-b08f-7ccfd9465a8c/simpson-suhl",
+ "title": "Simpson Suhl",
+ "price_dkk": 2900,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "4760",
+ "by": "Vordingborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/c773de8e-dada-4161-b08f-7ccfd9465a8c/0.webp",
+ "image_count": 3,
+ "lat": 55.04017051,
+ "lon": 11.89862831,
+ "description": "Luksus udgave med ejektor, engelsk skæfte.39,5 cm. Blanke løb. 71 cm. Meget velholdt.",
+ "images": [
+  {
+   "full": "/images/c773de8e-dada-4161-b08f-7ccfd9465a8c/0.webp",
+   "thumb": "/thumbs/c773de8e-dada-4161-b08f-7ccfd9465a8c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c773de8e-dada-4161-b08f-7ccfd9465a8c/1.webp",
+   "thumb": "/thumbs/c773de8e-dada-4161-b08f-7ccfd9465a8c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c773de8e-dada-4161-b08f-7ccfd9465a8c/2.webp",
+   "thumb": "/thumbs/c773de8e-dada-4161-b08f-7ccfd9465a8c/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

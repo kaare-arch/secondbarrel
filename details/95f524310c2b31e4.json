@@ -1,0 +1,51 @@
+{
+ "id": "83457bd6-f78b-4e9d-922c-4743f853bebf",
+ "detail_id": "95f524310c2b31e4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/83457bd6-f78b-4e9d-922c-4743f853bebf/tikka-riffel",
+ "title": "Tikka riffel",
+ "price_dkk": 25000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-13",
+ "age_days": 0,
+ "postnummer": "8600",
+ "by": "Silkeborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/83457bd6-f78b-4e9d-922c-4743f853bebf/0.webp",
+ "image_count": 4,
+ "lat": 56.17147071,
+ "lon": 9.4900253,
+ "description": "Tikka riffel med Steiner kikkert 5x25-56 og bolt horn skifte fra GRS I kaliber 308 er god til langdistance skydningkan også bruges til jagt og et god støtteben",
+ "images": [
+  {
+   "full": "/images/83457bd6-f78b-4e9d-922c-4743f853bebf/0.webp",
+   "thumb": "/thumbs/83457bd6-f78b-4e9d-922c-4743f853bebf/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/83457bd6-f78b-4e9d-922c-4743f853bebf/1.webp",
+   "thumb": "/thumbs/83457bd6-f78b-4e9d-922c-4743f853bebf/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/83457bd6-f78b-4e9d-922c-4743f853bebf/2.webp",
+   "thumb": "/thumbs/83457bd6-f78b-4e9d-922c-4743f853bebf/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/83457bd6-f78b-4e9d-922c-4743f853bebf/3.webp",
+   "thumb": "/thumbs/83457bd6-f78b-4e9d-922c-4743f853bebf/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

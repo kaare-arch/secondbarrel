@@ -1,0 +1,51 @@
+{
+ "id": "5616e472-42f2-425c-955b-f86a42bfe955",
+ "detail_id": "eaaab21ede8a55bf",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5616e472-42f2-425c-955b-f86a42bfe955/baikal-ij-58",
+ "title": "Baikal ij 58",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-13",
+ "age_days": 0,
+ "postnummer": "7200",
+ "by": "Grindsted",
+ "stand_gg": null,
+ "thumb": "/thumbs/5616e472-42f2-425c-955b-f86a42bfe955/0.webp",
+ "image_count": 4,
+ "lat": 55.75986358,
+ "lon": 8.89887879,
+ "description": "Baikal ij 58,kaliber 16-70. \nBlanke løb indvendig. \nEr boret 1/2 og 1/2.(ændret trangboring på bagløb hos østjysk våbenhandel).\nStram lås.\nDer medfølger 2 ks flugtskydnings patroner,og 2 ks jagt patroner. \nJagttegn og omregistrering inden man forlader adressen, er en selvfølge.",
+ "images": [
+  {
+   "full": "/images/5616e472-42f2-425c-955b-f86a42bfe955/0.webp",
+   "thumb": "/thumbs/5616e472-42f2-425c-955b-f86a42bfe955/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5616e472-42f2-425c-955b-f86a42bfe955/1.webp",
+   "thumb": "/thumbs/5616e472-42f2-425c-955b-f86a42bfe955/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5616e472-42f2-425c-955b-f86a42bfe955/2.webp",
+   "thumb": "/thumbs/5616e472-42f2-425c-955b-f86a42bfe955/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5616e472-42f2-425c-955b-f86a42bfe955/3.webp",
+   "thumb": "/thumbs/5616e472-42f2-425c-955b-f86a42bfe955/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

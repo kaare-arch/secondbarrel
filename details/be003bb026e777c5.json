@@ -1,0 +1,75 @@
+{
+ "id": "b11781dd-097a-4032-a44c-d64cf9766b40",
+ "detail_id": "be003bb026e777c5",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b11781dd-097a-4032-a44c-d64cf9766b40/w-j-jeffery-co-ltd-kaliber-16-70",
+ "title": "W. J. Jeffery & Co Ltd. Kaliber 16/70",
+ "price_dkk": 5000,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-13",
+ "age_days": 0,
+ "postnummer": "2400",
+ "by": "København NV",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/0.webp",
+ "image_count": 8,
+ "lat": 55.71256101,
+ "lon": 12.52876704,
+ "description": "Superfin og velbalanceret klassisk London gevær fra 1922 med ejektorer og fint dekoreret boxlås. Engelsk skæfte med fint og skarpt mønster. Stram lås, ejektorer virker og den er meget lidt brugt, hvilket også ses af skæftets træskæringer. Den står stort set som da den blev bygget. Den er oprindeligt 16/65, men kammeret er modificeret til 70 mm for at aflaste ved brug af moderne patroner. Super fin og behagelig kaliber og meget velbalanceret bøsse. Kun seriøse henvendelser tak.",
+ "images": [
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/0.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/1.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/2.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/3.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/4.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/5.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/6.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b11781dd-097a-4032-a44c-d64cf9766b40/7.webp",
+   "thumb": "/thumbs/b11781dd-097a-4032-a44c-d64cf9766b40/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

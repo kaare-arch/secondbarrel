@@ -1,0 +1,67 @@
+{
+ "id": "b973a7f5-875e-4a44-916b-f6e1eeac03f3",
+ "detail_id": "afcc9eca733c60ba",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b973a7f5-875e-4a44-916b-f6e1eeac03f3/bettinsoli-diamond-x-grade",
+ "title": "Bettinsoli Diamond X-grade",
+ "price_dkk": 7000,
+ "weapon_type": "Haglgevær",
+ "brand": "Bettinsoli",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-13",
+ "age_days": 0,
+ "postnummer": "8960",
+ "by": "Randers SØ",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/0.webp",
+ "image_count": 7,
+ "lat": 56.42891405,
+ "lon": 10.17690051,
+ "description": "Flot velholdt Bettinsoli \nSkudt under 1000skud. \nVed afhentning fremvises jagttegn og våbnet omregistreres.",
+ "images": [
+  {
+   "full": "/images/b973a7f5-875e-4a44-916b-f6e1eeac03f3/0.webp",
+   "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b973a7f5-875e-4a44-916b-f6e1eeac03f3/1.webp",
+   "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b973a7f5-875e-4a44-916b-f6e1eeac03f3/2.webp",
+   "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b973a7f5-875e-4a44-916b-f6e1eeac03f3/3.webp",
+   "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b973a7f5-875e-4a44-916b-f6e1eeac03f3/4.webp",
+   "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b973a7f5-875e-4a44-916b-f6e1eeac03f3/5.webp",
+   "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b973a7f5-875e-4a44-916b-f6e1eeac03f3/6.webp",
+   "thumb": "/thumbs/b973a7f5-875e-4a44-916b-f6e1eeac03f3/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

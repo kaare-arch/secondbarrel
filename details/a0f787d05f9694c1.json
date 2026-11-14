@@ -1,0 +1,43 @@
+{
+ "id": "5ae4711b-98e1-4043-ae60-2d9ec12446b0",
+ "detail_id": "a0f787d05f9694c1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5ae4711b-98e1-4043-ae60-2d9ec12446b0/varberger-links-jagtriffel",
+ "title": "Varberger Links jagtriffel",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "8305",
+ "by": "Samsø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5ae4711b-98e1-4043-ae60-2d9ec12446b0/0.webp",
+ "image_count": 3,
+ "lat": 55.80308366,
+ "lon": 10.58611812,
+ "description": "Varberger riffel i fin stand med ny Vortex kikkert samt ny lyddæmper. Ej indskudt med lyddæmper. Riflen har afgivet Max 50 skud. \nBemærk: Links",
+ "images": [
+  {
+   "full": "/images/5ae4711b-98e1-4043-ae60-2d9ec12446b0/0.webp",
+   "thumb": "/thumbs/5ae4711b-98e1-4043-ae60-2d9ec12446b0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5ae4711b-98e1-4043-ae60-2d9ec12446b0/1.webp",
+   "thumb": "/thumbs/5ae4711b-98e1-4043-ae60-2d9ec12446b0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5ae4711b-98e1-4043-ae60-2d9ec12446b0/2.webp",
+   "thumb": "/thumbs/5ae4711b-98e1-4043-ae60-2d9ec12446b0/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

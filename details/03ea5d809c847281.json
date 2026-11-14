@@ -1,0 +1,31 @@
+{
+ "id": "7a573da9-0d26-4b60-8d03-05c9d766376d",
+ "detail_id": "03ea5d809c847281",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7a573da9-0d26-4b60-8d03-05c9d766376d/jagtgevaer-af-mrk-scirocco-lu-mar",
+ "title": "Jagtgevær af mrk. Scirocco Lu-Mar",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Lu-Mar",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-11",
+ "age_days": 2,
+ "postnummer": "2620",
+ "by": "Albertslund",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/7a573da9-0d26-4b60-8d03-05c9d766376d/0.webp",
+ "image_count": 1,
+ "lat": 55.6869516,
+ "lon": 12.34477556,
+ "description": "Brugt jagtgevær i pæn stand. \nOver/under",
+ "images": [
+  {
+   "full": "/images/7a573da9-0d26-4b60-8d03-05c9d766376d/0.webp",
+   "thumb": "/thumbs/7a573da9-0d26-4b60-8d03-05c9d766376d/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

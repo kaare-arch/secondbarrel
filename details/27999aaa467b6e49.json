@@ -1,0 +1,33 @@
+{
+ "id": "e4d33325-7142-4249-838e-08b211702d0f",
+ "detail_id": "27999aaa467b6e49",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/e4d33325-7142-4249-838e-08b211702d0f/ruger-cal-22",
+ "title": "Ruger cal 22",
+ "price_dkk": 2500,
+ "weapon_type": "Pistol",
+ "brand": "Ruger",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-12",
+ "age_days": 1,
+ "postnummer": "7300",
+ "by": "Jelling",
+ "stand_gg": null,
+ "thumb": "/thumbs/e4d33325-7142-4249-838e-08b211702d0f/0.webp",
+ "image_count": 1,
+ "lat": 55.76853547,
+ "lon": 9.43589642,
+ "description": "Mark 1-2-3-4 købes",
+ "images": [
+  {
+   "full": "/images/e4d33325-7142-4249-838e-08b211702d0f/0.webp",
+   "thumb": "/thumbs/e4d33325-7142-4249-838e-08b211702d0f/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

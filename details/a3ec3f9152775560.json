@@ -1,0 +1,69 @@
+{
+ "id": "f538ab02-7d7b-4aab-81b0-dab6c5759ae8",
+ "detail_id": "a3ec3f9152775560",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/sarasqueta-12-70",
+ "title": "Sarasqueta 12/70",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-11",
+ "age_days": 2,
+ "postnummer": "9330",
+ "by": "Dronninglund",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/0.webp",
+ "image_count": 7,
+ "lat": 57.21127809,
+ "lon": 10.31020366,
+ "description": "Har ikke været bruge de sidste 25 år. Blanke løb, ingen slør, automatisk sikring, almindelige brugsspor. Fremvises kun til personer med gyldigt jagttegn.",
+ "images": [
+  {
+   "full": "/images/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/0.webp",
+   "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/1.webp",
+   "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/2.webp",
+   "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/3.webp",
+   "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/4.webp",
+   "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/5.webp",
+   "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/6.webp",
+   "thumb": "/thumbs/f538ab02-7d7b-4aab-81b0-dab6c5759ae8/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

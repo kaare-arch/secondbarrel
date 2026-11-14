@@ -1,0 +1,45 @@
+{
+ "id": "c1adedb7-c72b-4ef2-bde2-8d1487e98539",
+ "detail_id": "63baa5dda8d1ce44",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c1adedb7-c72b-4ef2-bde2-8d1487e98539/parker-hale-kaliber-243",
+ "title": "Parker Hale Kaliber 243",
+ "price_dkk": 5000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Parker-Hale",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-13",
+ "age_days": 0,
+ "postnummer": "5750",
+ "by": "Ringe",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/c1adedb7-c72b-4ef2-bde2-8d1487e98539/0.webp",
+ "image_count": 3,
+ "lat": 55.2209888,
+ "lon": 10.42313811,
+ "description": "En god riffel til rådyr, ræv, og gæs monteret med en helt ny kikkert med meget lysindfald  den er indskudt og klar til brug og der medfølger 60 jagtpatroner med plast spids så fuldt lovligt",
+ "images": [
+  {
+   "full": "/images/c1adedb7-c72b-4ef2-bde2-8d1487e98539/0.webp",
+   "thumb": "/thumbs/c1adedb7-c72b-4ef2-bde2-8d1487e98539/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1adedb7-c72b-4ef2-bde2-8d1487e98539/1.webp",
+   "thumb": "/thumbs/c1adedb7-c72b-4ef2-bde2-8d1487e98539/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1adedb7-c72b-4ef2-bde2-8d1487e98539/2.webp",
+   "thumb": "/thumbs/c1adedb7-c72b-4ef2-bde2-8d1487e98539/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
