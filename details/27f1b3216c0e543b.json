@@ -8,10 +8,12 @@
  "price_dkk": 17500,
  "weapon_type": "Haglgevær",
  "brand": "Miroku",
- "calibers": [],
+ "calibers": [
+  "12/70"
+ ],
  "is_dealer": false,
  "listed_date": "2026-11-06",
- "age_days": 7,
+ "age_days": 12,
  "postnummer": "6240",
  "by": "Løgumkloster",
  "stand_gg": "Næsten som ny",
@@ -19,7 +21,7 @@
  "image_count": 6,
  "lat": 55.06237954,
  "lon": 8.96415413,
- "description": "Miroku 3800, original kuffert inkl. papirer, klikpatroner og ekstra bagkappe medfølger.\n\nFremstår i perfekt stand og har ikke skudt meget.\n\nLøbslængde: 76 cm\nAfstand fra bagkappe til aftrækker: 36,5 cm (med den anden bagkappe ca. 35 cm)\nFuld/Fuld.\n\nUnikt gevær, der skal ses.\n\nSeriøse bud modtages\n\nVåbnet omregistreres ved evt. handel.",
+ "description": "Miroku 3800, original kuffert inkl. papirer, klikpatroner og ekstra bagkappe medfølger.\n\nFremstår i perfekt stand og har ikke skudt meget.\n\nLøbslængde: 76 cm\nAfstand fra bagkappe til aftrækker: 36,5 cm (med den anden bagkappe ca. 35 cm)\nFuld/Fuld.\n12/70\n\nUnikt gevær, der skal ses.\n\nSeriøse bud modtages\n\nVåbnet omregistreres ved evt. handel.",
  "images": [
   {
    "full": "/images/b2f08728-a3d0-4347-ab14-f1becc27219f/1.webp",

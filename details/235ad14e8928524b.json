@@ -1,0 +1,45 @@
+{
+ "id": "176b097f-0c18-4617-8252-5b21a5926d48",
+ "detail_id": "235ad14e8928524b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/176b097f-0c18-4617-8252-5b21a5926d48/haglgevaer",
+ "title": "Haglgevær",
+ "price_dkk": 25000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "20/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-15",
+ "age_days": 3,
+ "postnummer": "4850",
+ "by": "Stubbekøbing",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/176b097f-0c18-4617-8252-5b21a5926d48/0.webp",
+ "image_count": 3,
+ "lat": 54.86515744,
+ "lon": 12.03151803,
+ "description": "Aya goldmann ambassadør 20/70\n68.5 cm løb 38.5 cm fra første aftrækker og koble den har stået i skabet i 4 år skriv eller ring vis du vil ha flere billeder [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/176b097f-0c18-4617-8252-5b21a5926d48/0.webp",
+   "thumb": "/thumbs/176b097f-0c18-4617-8252-5b21a5926d48/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/176b097f-0c18-4617-8252-5b21a5926d48/1.webp",
+   "thumb": "/thumbs/176b097f-0c18-4617-8252-5b21a5926d48/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/176b097f-0c18-4617-8252-5b21a5926d48/2.webp",
+   "thumb": "/thumbs/176b097f-0c18-4617-8252-5b21a5926d48/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

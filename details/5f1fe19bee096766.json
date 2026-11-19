@@ -1,0 +1,55 @@
+{
+ "id": "1e9a4fd0-0459-44e0-b38f-5c00a35c2184",
+ "detail_id": "5f1fe19bee096766",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/sig-sauer-ssg-3000",
+ "title": "SIG Sauer SSG 3000",
+ "price_dkk": 19000,
+ "weapon_type": "Jagtriffel",
+ "brand": "SIG Sauer",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-17",
+ "age_days": 1,
+ "postnummer": "2300",
+ "by": "København S",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/0.webp",
+ "image_count": 5,
+ "lat": 55.65453771,
+ "lon": 12.6050411,
+ "description": "Sauer SSG riffel i Vision chassis og med Schultz & Larsen 65cm matchpibe. Riflen er den samme som Sauer 200 str, dog med den forskel at denne er født med picatinny rail fræset ind i låsestolen. Vision chassiset har kolbe der kan foldes samt justerbar bagkappe og skæfteryg. Sælges med A-TEC PRS 2 lyddæmper og 10 skuds magasin. Ypperlig riffel til PRS og langdistanceskydning. Piben har skudt ca 500 skud.",
+ "images": [
+  {
+   "full": "/images/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/0.webp",
+   "thumb": "/thumbs/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/1.webp",
+   "thumb": "/thumbs/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/2.webp",
+   "thumb": "/thumbs/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/3.webp",
+   "thumb": "/thumbs/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/4.webp",
+   "thumb": "/thumbs/1e9a4fd0-0459-44e0-b38f-5c00a35c2184/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "31f183e9-c739-4ef2-9288-944ed5ff00bd",
+ "detail_id": "8f446a924d8ce995",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/31f183e9-c739-4ef2-9288-944ed5ff00bd/akkar-churchill-206-12-76",
+ "title": "Akkar Churchill 206 12/76",
+ "price_dkk": 3500,
+ "weapon_type": "Haglgevær",
+ "brand": "Akkar",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-14",
+ "age_days": 4,
+ "postnummer": "4070",
+ "by": "Kirke Hyllinge",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/31f183e9-c739-4ef2-9288-944ed5ff00bd/0.webp",
+ "image_count": 5,
+ "lat": 55.70497209,
+ "lon": 11.91387963,
+ "description": "Dejligt  gevær med automatisk sikring uden Ejektor og med 5 stk Choks og plast box til geværet kun brugt på skydebanen",
+ "images": [
+  {
+   "full": "/images/31f183e9-c739-4ef2-9288-944ed5ff00bd/0.webp",
+   "thumb": "/thumbs/31f183e9-c739-4ef2-9288-944ed5ff00bd/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/31f183e9-c739-4ef2-9288-944ed5ff00bd/1.webp",
+   "thumb": "/thumbs/31f183e9-c739-4ef2-9288-944ed5ff00bd/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/31f183e9-c739-4ef2-9288-944ed5ff00bd/2.webp",
+   "thumb": "/thumbs/31f183e9-c739-4ef2-9288-944ed5ff00bd/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/31f183e9-c739-4ef2-9288-944ed5ff00bd/3.webp",
+   "thumb": "/thumbs/31f183e9-c739-4ef2-9288-944ed5ff00bd/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/31f183e9-c739-4ef2-9288-944ed5ff00bd/4.webp",
+   "thumb": "/thumbs/31f183e9-c739-4ef2-9288-944ed5ff00bd/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

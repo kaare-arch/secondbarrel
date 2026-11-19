@@ -1,0 +1,33 @@
+{
+ "id": "jagtliv.dk/vare/aya-guldmann-kal-12-70",
+ "detail_id": "e6bed712074e60d8",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/aya-guldmann-kal-12-70/",
+ "title": "Super, AYA, kal. 12/70",
+ "price_dkk": 27500,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/jagtliv.dk/vare/aya-guldmann-kal-12-70/0.webp",
+ "image_count": 1,
+ "lat": null,
+ "lon": null,
+ "description": "Jagttegn og eventuel relevant tilladelse kræves for besiddelse af jagtvåben. Speciallevering af våben koster 499,-. Kontakt os venligst for mere information.",
+ "images": [
+  {
+   "full": "/images/jagtliv.dk/vare/aya-guldmann-kal-12-70/0.jpg",
+   "thumb": "/thumbs/jagtliv.dk/vare/aya-guldmann-kal-12-70/0.webp",
+   "width": 1080,
+   "height": 1080
+  }
+ ]
+}

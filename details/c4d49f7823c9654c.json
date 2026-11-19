@@ -1,0 +1,57 @@
+{
+ "id": "d5d15098-5797-4ad6-84c1-905a4c2c3e4a",
+ "detail_id": "c4d49f7823c9654c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/sako-riffel",
+ "title": "Sako Riffel",
+ "price_dkk": 5999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  ".243 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-14",
+ "age_days": 4,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Sako Riffel \nModel A2.\n\nKaliber 243win. \n\nInkl. Welter 2,5-10x50 m. lys optik. \n\nOriginal Sako montage. \n\nGevind til lyddæmper ( 1/2-20 ) \n\nRigtig pæn stand ! \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/0.webp",
+   "thumb": "/thumbs/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/1.webp",
+   "thumb": "/thumbs/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/2.webp",
+   "thumb": "/thumbs/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/3.webp",
+   "thumb": "/thumbs/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/4.webp",
+   "thumb": "/thumbs/d5d15098-5797-4ad6-84c1-905a4c2c3e4a/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

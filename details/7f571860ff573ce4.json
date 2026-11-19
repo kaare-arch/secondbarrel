@@ -1,0 +1,43 @@
+{
+ "id": "3bf7b8bb-29fa-4367-9efc-8180f71c3ea8",
+ "detail_id": "7f571860ff573ce4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/historisk-vaaben-fransk-st-etienne",
+ "title": "Historisk våben Fransk St. Etienne",
+ "price_dkk": 4000,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-15",
+ "age_days": 3,
+ "postnummer": "8400",
+ "by": "Ebeltoft",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/0.webp",
+ "image_count": 3,
+ "lat": 56.26575172,
+ "lon": 10.73316474,
+ "description": "Model 7/15, 8x50 lebel. Den er original og nummer ens, med lade clip. Teknisk pæn og med patina der fortæller historie.\nDen kan erhverves som jagtriffel eller SKV gennem skytteforening.\nKan beses i Silkeborgområdet, onsdag eftermiddag/aften, eller lørdag formiddag.",
+ "images": [
+  {
+   "full": "/images/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/0.webp",
+   "thumb": "/thumbs/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/1.webp",
+   "thumb": "/thumbs/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/2.webp",
+   "thumb": "/thumbs/3bf7b8bb-29fa-4367-9efc-8180f71c3ea8/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "mbjagt.dk/shop/tikka-t3x-tactical-308w",
+ "detail_id": "4646c1626dfbf0aa",
+ "source": "mbjagt.dk",
+ "source_label": "MB Jagt",
+ "url": "https://mbjagt.dk/shop/tikka-t3x-tactical-308w/",
+ "title": "Tikka T3x Tactical, 308W",
+ "price_dkk": 17995,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "9500",
+ "by": "Hobro",
+ "stand_gg": null,
+ "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/0.webp",
+ "image_count": 8,
+ "lat": 56.63884509,
+ "lon": 9.70994296,
+ "description": "Tikka T3x Tactical, kaliber 308WBrugt Tikka T3x Tactical jagtriffel i kaliber 308 win. Denne riffel har et skæfte i aluminium, der er foldbart. Piben måler 48 cm, og riflens totale længde er 101 cm. Den har et aftageligt 10 skuds magasin. Riflen er monteret med en Bushnell Elite 6500 sigtekikkert i størrelsen 4,5-30x50.",
+ "images": [
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/0.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/0.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/1.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/1.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/2.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/2.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/3.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/3.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/4.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/4.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/5.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/5.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/6.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/6.webp",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "full": "/images/mbjagt.dk/shop/tikka-t3x-tactical-308w/7.jpg",
+   "thumb": "/thumbs/mbjagt.dk/shop/tikka-t3x-tactical-308w/7.webp",
+   "width": 1024,
+   "height": 683
+  }
+ ]
+}

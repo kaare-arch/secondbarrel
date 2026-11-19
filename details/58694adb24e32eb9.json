@@ -1,0 +1,33 @@
+{
+ "id": "jagtliv.dk/vare/browning-525-game-demo-kal-12-76-2",
+ "detail_id": "58694adb24e32eb9",
+ "source": "jagtliv.dk",
+ "source_label": "Jagtliv",
+ "url": "https://jagtliv.dk/vare/browning-525-game-demo-kal-12-76-2/",
+ "title": "Browning 525 Game (demo), kal. 12/76",
+ "price_dkk": 16500,
+ "weapon_type": "Haglgevær",
+ "brand": "Browning",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/jagtliv.dk/vare/browning-525-game-demo-kal-12-76-2/0.webp",
+ "image_count": 1,
+ "lat": null,
+ "lon": null,
+ "description": "Jagttegn og eventuel relevant tilladelse kræves for besiddelse af jagtvåben. Speciallevering af våben koster 499,-. Kontakt os venligst for mere information.",
+ "images": [
+  {
+   "full": "/images/jagtliv.dk/vare/browning-525-game-demo-kal-12-76-2/0.jpg",
+   "thumb": "/thumbs/jagtliv.dk/vare/browning-525-game-demo-kal-12-76-2/0.webp",
+   "width": 1080,
+   "height": 1080
+  }
+ ]
+}

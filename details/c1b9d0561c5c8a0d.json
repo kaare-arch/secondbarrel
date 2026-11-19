@@ -8,10 +8,12 @@
  "price_dkk": 9500,
  "weapon_type": "Haglgevær",
  "brand": "Browning",
- "calibers": [],
+ "calibers": [
+  "12/70"
+ ],
  "is_dealer": false,
  "listed_date": "2026-11-12",
- "age_days": 1,
+ "age_days": 6,
  "postnummer": "6240",
  "by": "Løgumkloster",
  "stand_gg": "Næsten som ny",
@@ -19,7 +21,7 @@
  "image_count": 6,
  "lat": 55.06237954,
  "lon": 8.96415413,
- "description": "Browning Ultra plus \n\nFremstår i perfekt stand uden skader eller lignende.\nMekanisk fremstår geværet meget stramt i låsen og er ikke skudt meget.\n\n76 cm løb\n38,5 cm fra bagkappe til aftrækker.\nBoret 1/2 - 3/4\n\nMeget fint gevær!\n\nVåbnet omregistreres ved evt. handel.",
+ "description": "Browning Ultra plus \n\nFremstår i perfekt stand uden skader eller lignende.\nMekanisk fremstår geværet meget stramt i låsen og er ikke skudt meget.\n\n76 cm løb\n38,5 cm fra bagkappe til aftrækker.\nBoret 1/2 - 3/4\n12/70\n\nMeget fint gevær!\n\nVåbnet omregistreres ved evt. handel.",
  "images": [
   {
    "full": "/images/5f641a09-1179-4b80-ac3f-a137a235eb84/0.webp",

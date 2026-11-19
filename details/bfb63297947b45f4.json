@@ -1,0 +1,51 @@
+{
+ "id": "b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db",
+ "detail_id": "bfb63297947b45f4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/tikka-tx1-17hmr",
+ "title": "Tikka tx1 17hmr.",
+ "price_dkk": 6000,
+ "weapon_type": "Salonriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-15",
+ "age_days": 3,
+ "postnummer": "4060",
+ "by": "Kirke Såby",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/0.webp",
+ "image_count": 4,
+ "lat": 55.65438247,
+ "lon": 11.87373529,
+ "description": "Fin riffel med leopould kigget 3-9 x40. Sælges da jeg ikke får den brugt mere.",
+ "images": [
+  {
+   "full": "/images/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/0.webp",
+   "thumb": "/thumbs/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/1.webp",
+   "thumb": "/thumbs/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/2.webp",
+   "thumb": "/thumbs/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/3.webp",
+   "thumb": "/thumbs/b3b5fe23-76da-43b1-a4c8-d1d2c4b8e2db/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
