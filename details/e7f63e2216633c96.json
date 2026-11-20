@@ -1,0 +1,57 @@
+{
+ "id": "6228520e-e050-4ad7-9d42-4ddbcdac3ff7",
+ "detail_id": "e7f63e2216633c96",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/remington-halvautomatisk-salonriffel",
+ "title": "Remington halvautomatisk salonriffel",
+ "price_dkk": 1900,
+ "weapon_type": "Salonriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-06-11",
+ "age_days": 162,
+ "postnummer": "3450",
+ "by": "Allerød",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/0.webp",
+ "image_count": 5,
+ "lat": 55.86605512,
+ "lon": 12.33661891,
+ "description": "Hurtigtskydende halvautomatisk Remington Speedmaster 552 salonriffel, 15 skuds rørmagasin under løbet (.22LR), Welter kikkert 4x32. Intet krav til kun at bruge til regulering. Jeg accepterer rimelige bud!",
+ "images": [
+  {
+   "full": "/images/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/0.webp",
+   "thumb": "/thumbs/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/1.webp",
+   "thumb": "/thumbs/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/2.webp",
+   "thumb": "/thumbs/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/3.webp",
+   "thumb": "/thumbs/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/4.webp",
+   "thumb": "/thumbs/6228520e-e050-4ad7-9d42-4ddbcdac3ff7/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
