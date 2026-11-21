@@ -1,0 +1,43 @@
+{
+ "id": "615e7d15-88c2-46ac-8c5e-5f064f42dd25",
+ "detail_id": "b649b53de756e851",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/615e7d15-88c2-46ac-8c5e-5f064f42dd25/windchester-model-94-30-30-win",
+ "title": "Windchester Model 94 30-30 Win",
+ "price_dkk": 3500,
+ "weapon_type": "Jagtriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-20",
+ "age_days": 0,
+ "postnummer": "7441",
+ "by": "Bording",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/615e7d15-88c2-46ac-8c5e-5f064f42dd25/0.webp",
+ "image_count": 3,
+ "lat": 56.15035869,
+ "lon": 9.25469883,
+ "description": "Sælger denne super sjove riffel kan både søges på jeg eller SKV.",
+ "images": [
+  {
+   "full": "/images/615e7d15-88c2-46ac-8c5e-5f064f42dd25/0.webp",
+   "thumb": "/thumbs/615e7d15-88c2-46ac-8c5e-5f064f42dd25/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/615e7d15-88c2-46ac-8c5e-5f064f42dd25/1.webp",
+   "thumb": "/thumbs/615e7d15-88c2-46ac-8c5e-5f064f42dd25/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/615e7d15-88c2-46ac-8c5e-5f064f42dd25/2.webp",
+   "thumb": "/thumbs/615e7d15-88c2-46ac-8c5e-5f064f42dd25/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

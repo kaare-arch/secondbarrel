@@ -1,0 +1,43 @@
+{
+ "id": "05f7b6e6-30dc-4523-a6e7-afa9331aa047",
+ "detail_id": "d73fca19dabbd78e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/05f7b6e6-30dc-4523-a6e7-afa9331aa047/special-skeet",
+ "title": "special skeet",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-20",
+ "age_days": 0,
+ "postnummer": "4262",
+ "by": "Sandved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/05f7b6e6-30dc-4523-a6e7-afa9331aa047/0.webp",
+ "image_count": 3,
+ "lat": 55.25079677,
+ "lon": 11.528121,
+ "description": "Flot og velholdt Miruko special skeet , ikke brugt i 20 år løbslængde 69 cm med faste chokes .\nved køb skal jagttegn og billede legitimation fremvises , svare på sms [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/05f7b6e6-30dc-4523-a6e7-afa9331aa047/0.webp",
+   "thumb": "/thumbs/05f7b6e6-30dc-4523-a6e7-afa9331aa047/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/05f7b6e6-30dc-4523-a6e7-afa9331aa047/1.webp",
+   "thumb": "/thumbs/05f7b6e6-30dc-4523-a6e7-afa9331aa047/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/05f7b6e6-30dc-4523-a6e7-afa9331aa047/2.webp",
+   "thumb": "/thumbs/05f7b6e6-30dc-4523-a6e7-afa9331aa047/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

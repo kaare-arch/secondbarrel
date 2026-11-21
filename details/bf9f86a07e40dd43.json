@@ -1,0 +1,43 @@
+{
+ "id": "9abffacc-f1b9-40d6-ac60-5d8048c6b53c",
+ "detail_id": "bf9f86a07e40dd43",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/lever-action-45-70",
+ "title": "Lever-action 45-70",
+ "price_dkk": 8000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Marlin",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-20",
+ "age_days": 0,
+ "postnummer": "7540",
+ "by": "Haderup",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/0.webp",
+ "image_count": 3,
+ "lat": 56.32444075,
+ "lon": 8.9740962,
+ "description": "Her sælges en stort set ny Marlin Mod 1895GS 45-70 GOVT.  Lever-action som kun har skudt 12 skud.",
+ "images": [
+  {
+   "full": "/images/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/0.webp",
+   "thumb": "/thumbs/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/1.webp",
+   "thumb": "/thumbs/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/2.webp",
+   "thumb": "/thumbs/9abffacc-f1b9-40d6-ac60-5d8048c6b53c/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

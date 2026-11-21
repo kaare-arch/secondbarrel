@@ -1,0 +1,49 @@
+{
+ "id": "418c486b-c85f-4e49-87ca-4e80a138a120",
+ "detail_id": "3c55cd03e7e878a2",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/418c486b-c85f-4e49-87ca-4e80a138a120/s-w-m-p9-m2-0-9mm",
+ "title": "S&W M&P9 M2.0 9MM",
+ "price_dkk": 8000,
+ "weapon_type": "Pistol",
+ "brand": "Smith & Wesson",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-20",
+ "age_days": 0,
+ "postnummer": "7441",
+ "by": "Bording",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/418c486b-c85f-4e49-87ca-4e80a138a120/0.webp",
+ "image_count": 4,
+ "lat": 56.15035869,
+ "lon": 9.25469883,
+ "description": "Sælger denne pistol, der følger 2 mags skyde og fungerer fint. Kan ses og prøve nær Bording området.",
+ "images": [
+  {
+   "full": "/images/418c486b-c85f-4e49-87ca-4e80a138a120/0.webp",
+   "thumb": "/thumbs/418c486b-c85f-4e49-87ca-4e80a138a120/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/418c486b-c85f-4e49-87ca-4e80a138a120/1.webp",
+   "thumb": "/thumbs/418c486b-c85f-4e49-87ca-4e80a138a120/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/418c486b-c85f-4e49-87ca-4e80a138a120/2.webp",
+   "thumb": "/thumbs/418c486b-c85f-4e49-87ca-4e80a138a120/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/418c486b-c85f-4e49-87ca-4e80a138a120/3.webp",
+   "thumb": "/thumbs/418c486b-c85f-4e49-87ca-4e80a138a120/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

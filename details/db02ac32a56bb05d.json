@@ -1,0 +1,61 @@
+{
+ "id": "471bc0af-9129-4465-a1c6-a13df9734a3f",
+ "detail_id": "db02ac32a56bb05d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/471bc0af-9129-4465-a1c6-a13df9734a3f/miroku-800",
+ "title": "miroku 800",
+ "price_dkk": 4500,
+ "weapon_type": "Haglgevær",
+ "brand": "Miroku",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-20",
+ "age_days": 0,
+ "postnummer": "4300",
+ "by": "Holbæk",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/471bc0af-9129-4465-a1c6-a13df9734a3f/0.webp",
+ "image_count": 6,
+ "lat": 55.69140735,
+ "lon": 11.68585053,
+ "description": "flot ældre miroku 800 med 71 cm løb der er boret 1/2-3/4 med smal jagtskinne og\npistolskæfte der måler 36 cm",
+ "images": [
+  {
+   "full": "/images/471bc0af-9129-4465-a1c6-a13df9734a3f/0.webp",
+   "thumb": "/thumbs/471bc0af-9129-4465-a1c6-a13df9734a3f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/471bc0af-9129-4465-a1c6-a13df9734a3f/1.webp",
+   "thumb": "/thumbs/471bc0af-9129-4465-a1c6-a13df9734a3f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/471bc0af-9129-4465-a1c6-a13df9734a3f/2.webp",
+   "thumb": "/thumbs/471bc0af-9129-4465-a1c6-a13df9734a3f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/471bc0af-9129-4465-a1c6-a13df9734a3f/3.webp",
+   "thumb": "/thumbs/471bc0af-9129-4465-a1c6-a13df9734a3f/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/471bc0af-9129-4465-a1c6-a13df9734a3f/4.webp",
+   "thumb": "/thumbs/471bc0af-9129-4465-a1c6-a13df9734a3f/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/471bc0af-9129-4465-a1c6-a13df9734a3f/5.webp",
+   "thumb": "/thumbs/471bc0af-9129-4465-a1c6-a13df9734a3f/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

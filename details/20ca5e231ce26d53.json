@@ -1,0 +1,45 @@
+{
+ "id": "hubertushuset.com/products/0715-savage-precision-6-5cm-demo",
+ "detail_id": "20ca5e231ce26d53",
+ "source": "hubertushuset.com",
+ "source_label": "Hubertushuset",
+ "url": "https://hubertushuset.com/products/0715-savage-precision-6-5cm-demo",
+ "title": "0715-Savage Precision 6,5CM DEMO",
+ "price_dkk": 11000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Savage",
+ "calibers": [
+  "6,5 Creedmoor"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-19",
+ "age_days": null,
+ "postnummer": "4100",
+ "by": "Ringsted",
+ "stand_gg": null,
+ "thumb": "/thumbs/hubertushuset.com/products/0715-savage-precision-6-5cm-demo/0.webp",
+ "image_count": 3,
+ "lat": 55.43053197,
+ "lon": 11.82805925,
+ "description": "Et markant chassisdesign adskiller denne Savage Precision i 6,5 Creedmoor fra den traditionelle jagtriffel. Det separate pistolgreb, kolben med kindstøtte og skinnen over låsestolen giver riflen et moderne udtryk med fokus på skydestillingen og muligheden for at montere optik efter eget valg. Pistolgrebet har en stejl vinkel og en struktureret overflade, som giver hånden en tydelig grebsflade. Kolbens kindstøtte danner anlæg for kinden bag sigtekikkerten, mens den brede bagkappe giver kontakt mod skulderen. Det er detaljer, der er relevante, når riflen skal ligge ensartet fra skud til skud. Den monterede skinne over låsestolen er udgangspunktet for en kommende kikkertmontage. Riflen er vist uden sigtekikkert, så optikken kan vælges særskilt frem for at være fastlagt af en eksisterende opsætning. Valg af ringe og montage skal passe til både skinnen og den ønskede kikkert. Denne Savage Precision sælges som demo og er til dig, der søger en riffel i 6,5 Creedmoor med en anderledes skæfteopbygning end et almindeligt jagtskæfte.",
+ "images": [
+  {
+   "full": "/images/hubertushuset.com/products/0715-savage-precision-6-5cm-demo/0.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/0715-savage-precision-6-5cm-demo/0.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/0715-savage-precision-6-5cm-demo/1.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/0715-savage-precision-6-5cm-demo/1.webp",
+   "width": 800,
+   "height": 800
+  },
+  {
+   "full": "/images/hubertushuset.com/products/0715-savage-precision-6-5cm-demo/2.jpg",
+   "thumb": "/thumbs/hubertushuset.com/products/0715-savage-precision-6-5cm-demo/2.webp",
+   "width": 800,
+   "height": 800
+  }
+ ]
+}

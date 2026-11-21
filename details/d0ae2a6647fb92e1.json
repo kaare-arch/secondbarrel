@@ -1,0 +1,43 @@
+{
+ "id": "74a12a19-d7c5-4d1d-9dbf-01164aadd5c0",
+ "detail_id": "d0ae2a6647fb92e1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/halvautomat-winchester-sx3",
+ "title": "Halvautomat Winchester SX3",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-20",
+ "age_days": 0,
+ "postnummer": "6705",
+ "by": "Esbjerg Ø",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/0.webp",
+ "image_count": 3,
+ "lat": 55.49118771,
+ "lon": 8.50669241,
+ "description": "Min halvautomat skal videre efter 8 års stilstand i skabet:) det er en Winchester SX3 med kunststofskæfte. skyder rigtig godt og er i hvert fald ikke slidt op.\nperfekt til fjorden, marsken, prammen eller lign. \n[tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/0.webp",
+   "thumb": "/thumbs/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/1.webp",
+   "thumb": "/thumbs/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/2.webp",
+   "thumb": "/thumbs/74a12a19-d7c5-4d1d-9dbf-01164aadd5c0/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

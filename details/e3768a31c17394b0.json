@@ -1,0 +1,51 @@
+{
+ "id": "5e066c14-e112-4894-90f9-cac2747ef8b8",
+ "detail_id": "e3768a31c17394b0",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5e066c14-e112-4894-90f9-cac2747ef8b8/aya-aguirre-aranzaral",
+ "title": "Aya-aguirre & aranzaral",
+ "price_dkk": 1500,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "16/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-20",
+ "age_days": 0,
+ "postnummer": "2680",
+ "by": "Solrød Strand",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/5e066c14-e112-4894-90f9-cac2747ef8b8/0.webp",
+ "image_count": 4,
+ "lat": 55.52998438,
+ "lon": 12.20134648,
+ "description": "God side-by-side, kal. 16/70\n\nDen går godt og stramt og ingen slør i låsetøjet.\n\nDer medfølger en god håndfuld 5 hagl, lille håndfuld 3 halg, næsten en kasse 1 halg og tre kasser 7 halg ( er ikke vist på billedet) \n\n\nVed slag, skal der fremvises et gyldigt jagttegn.",
+ "images": [
+  {
+   "full": "/images/5e066c14-e112-4894-90f9-cac2747ef8b8/0.webp",
+   "thumb": "/thumbs/5e066c14-e112-4894-90f9-cac2747ef8b8/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e066c14-e112-4894-90f9-cac2747ef8b8/1.webp",
+   "thumb": "/thumbs/5e066c14-e112-4894-90f9-cac2747ef8b8/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e066c14-e112-4894-90f9-cac2747ef8b8/2.webp",
+   "thumb": "/thumbs/5e066c14-e112-4894-90f9-cac2747ef8b8/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e066c14-e112-4894-90f9-cac2747ef8b8/3.webp",
+   "thumb": "/thumbs/5e066c14-e112-4894-90f9-cac2747ef8b8/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
