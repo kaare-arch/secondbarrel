@@ -1,0 +1,75 @@
+{
+ "id": "c4ffae27-c4f9-4abc-ab81-7d95f007ccd7",
+ "detail_id": "2b499e986999f1d6",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/aya-super-prince-12-70",
+ "title": "AYA Super Prince 12/70",
+ "price_dkk": 1000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-21",
+ "age_days": 0,
+ "postnummer": "3070",
+ "by": "Snekkersten",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/0.webp",
+ "image_count": 8,
+ "lat": 56.01105642,
+ "lon": 12.57698891,
+ "description": "Flot side by side haglbøsse. \nDer er tale om et mindre gevær med målene: \nLøb 64 cm. \nTotallængde 108 cm. \nAftrækker til bagkappe 36cm. \nDen er i meget pæn stand og har lækker mekanik der føles godt. \nDen er arvet af en bekendt og desværre for lille til mig (jeg er 192).",
+ "images": [
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/0.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/1.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/0.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/1.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/4.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/5.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/6.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/7.webp",
+   "thumb": "/thumbs/c4ffae27-c4f9-4abc-ab81-7d95f007ccd7/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

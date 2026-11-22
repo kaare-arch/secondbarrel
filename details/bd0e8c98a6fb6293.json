@@ -1,0 +1,51 @@
+{
+ "id": "b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d",
+ "detail_id": "bd0e8c98a6fb6293",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/sako-s20-precision-6-5-creedmoor",
+ "title": "SAKO S20 PRECISION -6,5 creedmoor",
+ "price_dkk": 12000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sako",
+ "calibers": [
+  "6,5 Creedmoor"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-21",
+ "age_days": 0,
+ "postnummer": "2650",
+ "by": "Hvidovre",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/0.webp",
+ "image_count": 4,
+ "lat": 55.63196911,
+ "lon": 12.46971814,
+ "description": "Syn og skam bare at lade den stå i skabet.  \nMed ekstra 10 skud magasin\nOriginal SAKO kuffert + værktøj medfølger \nFå brugsspor",
+ "images": [
+  {
+   "full": "/images/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/0.webp",
+   "thumb": "/thumbs/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/1.webp",
+   "thumb": "/thumbs/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/2.webp",
+   "thumb": "/thumbs/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/3.webp",
+   "thumb": "/thumbs/b7bd43d5-ddcc-4784-a0c1-6e4ee7709e9d/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

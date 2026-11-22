@@ -1,0 +1,67 @@
+{
+ "id": "853e691b-61e7-4bfd-997a-3ce2a04727f3",
+ "detail_id": "d1ff55e7e2e577b3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/853e691b-61e7-4bfd-997a-3ce2a04727f3/blaser-system",
+ "title": "Blaser system",
+ "price_dkk": 15000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-21",
+ "age_days": 0,
+ "postnummer": "6200",
+ "by": "Aabenraa",
+ "stand_gg": null,
+ "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/0.webp",
+ "image_count": 7,
+ "lat": 54.9813044,
+ "lon": 9.43042383,
+ "description": "Flot system uden pibe \nMed bundstykke med standard hoved\nAftrækkerhus \nKolbe Black/black\nSystem \nDet sorte læderbånd med rød tråd kan trækkes af. \nBemærk uden pibe",
+ "images": [
+  {
+   "full": "/images/853e691b-61e7-4bfd-997a-3ce2a04727f3/0.webp",
+   "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/853e691b-61e7-4bfd-997a-3ce2a04727f3/1.webp",
+   "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/853e691b-61e7-4bfd-997a-3ce2a04727f3/2.webp",
+   "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/853e691b-61e7-4bfd-997a-3ce2a04727f3/3.webp",
+   "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/853e691b-61e7-4bfd-997a-3ce2a04727f3/4.webp",
+   "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/853e691b-61e7-4bfd-997a-3ce2a04727f3/5.webp",
+   "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/853e691b-61e7-4bfd-997a-3ce2a04727f3/6.webp",
+   "thumb": "/thumbs/853e691b-61e7-4bfd-997a-3ce2a04727f3/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

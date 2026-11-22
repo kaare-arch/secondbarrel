@@ -1,0 +1,61 @@
+{
+ "id": "51c31086-f2fb-4eec-ba4a-617b3158274e",
+ "detail_id": "62fce2ea3d79899e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/51c31086-f2fb-4eec-ba4a-617b3158274e/skb-5000-nypris-45-000-kr",
+ "title": "SKB 5000 nypris 45.000 kr",
+ "price_dkk": 16500,
+ "weapon_type": "Haglgevær",
+ "brand": "SKB",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-21",
+ "age_days": 0,
+ "postnummer": "8600",
+ "by": "Silkeborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/51c31086-f2fb-4eec-ba4a-617b3158274e/0.webp",
+ "image_count": 6,
+ "lat": 56.17147071,
+ "lon": 9.4900253,
+ "description": "Super flot SKB sælges da den ikke bruges. \nHåndgraveret sideplader\nChokes\nEkstra komplet aftrækkerhus\nKuffert\n76 cm løb\n39 cm lang bagskæfte \nIngen ridser. Den har skudt 500 skud ca.",
+ "images": [
+  {
+   "full": "/images/51c31086-f2fb-4eec-ba4a-617b3158274e/0.webp",
+   "thumb": "/thumbs/51c31086-f2fb-4eec-ba4a-617b3158274e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51c31086-f2fb-4eec-ba4a-617b3158274e/1.webp",
+   "thumb": "/thumbs/51c31086-f2fb-4eec-ba4a-617b3158274e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51c31086-f2fb-4eec-ba4a-617b3158274e/2.webp",
+   "thumb": "/thumbs/51c31086-f2fb-4eec-ba4a-617b3158274e/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51c31086-f2fb-4eec-ba4a-617b3158274e/3.webp",
+   "thumb": "/thumbs/51c31086-f2fb-4eec-ba4a-617b3158274e/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51c31086-f2fb-4eec-ba4a-617b3158274e/4.webp",
+   "thumb": "/thumbs/51c31086-f2fb-4eec-ba4a-617b3158274e/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/51c31086-f2fb-4eec-ba4a-617b3158274e/5.webp",
+   "thumb": "/thumbs/51c31086-f2fb-4eec-ba4a-617b3158274e/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

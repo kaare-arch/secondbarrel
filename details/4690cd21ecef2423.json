@@ -1,0 +1,67 @@
+{
+ "id": "9a69e283-1112-418e-9039-b21499af8edd",
+ "detail_id": "4690cd21ecef2423",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9a69e283-1112-418e-9039-b21499af8edd/beretta-al391-urika-ii",
+ "title": "Beretta AL391 Urika II",
+ "price_dkk": 6000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-21",
+ "age_days": 0,
+ "postnummer": "9000",
+ "by": "Aalborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/0.webp",
+ "image_count": 7,
+ "lat": 57.04071943,
+ "lon": 9.89137823,
+ "description": "Et styks Beretta AL391 Urika II.\nHer får du altså den optimerede Urika model, med “selvrensende” gas stempel.\n\nBrugt meget lidt, og primært på skydebane samt enkelte ande jagter ved fjorden.\n\nPris 6000kr.\n9000 Aalborg",
+ "images": [
+  {
+   "full": "/images/9a69e283-1112-418e-9039-b21499af8edd/0.webp",
+   "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a69e283-1112-418e-9039-b21499af8edd/1.webp",
+   "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a69e283-1112-418e-9039-b21499af8edd/2.webp",
+   "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a69e283-1112-418e-9039-b21499af8edd/3.webp",
+   "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a69e283-1112-418e-9039-b21499af8edd/4.webp",
+   "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a69e283-1112-418e-9039-b21499af8edd/5.webp",
+   "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9a69e283-1112-418e-9039-b21499af8edd/6.webp",
+   "thumb": "/thumbs/9a69e283-1112-418e-9039-b21499af8edd/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

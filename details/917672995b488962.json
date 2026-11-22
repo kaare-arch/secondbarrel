@@ -1,0 +1,45 @@
+{
+ "id": "2d803c6c-871f-4ca4-a8e9-916e0e8b6eea",
+ "detail_id": "917672995b488962",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/remington-700-30-06",
+ "title": "Remington 700 - 30-06",
+ "price_dkk": 8000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Remington",
+ "calibers": [
+  ".30-06"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-21",
+ "age_days": 0,
+ "postnummer": "8680",
+ "by": "Ry",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/0.webp",
+ "image_count": 3,
+ "lat": 56.08481116,
+ "lon": 9.71786836,
+ "description": "Remington riffel kaliber 30-06. \nGSR skæfte\nMillertt kikkert 6-25x56\nTransport taske\nLyddæmper",
+ "images": [
+  {
+   "full": "/images/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/0.webp",
+   "thumb": "/thumbs/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/1.webp",
+   "thumb": "/thumbs/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/2.webp",
+   "thumb": "/thumbs/2d803c6c-871f-4ca4-a8e9-916e0e8b6eea/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
