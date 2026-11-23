@@ -1,0 +1,43 @@
+{
+ "id": "746b8b20-610c-4e05-91dc-15a99ce5cdf2",
+ "detail_id": "2d9623e39cfc31d3",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/746b8b20-610c-4e05-91dc-15a99ce5cdf2/hagelgevaer",
+ "title": "Hagelgevær",
+ "price_dkk": 695,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "6710",
+ "by": "Esbjerg V",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/746b8b20-610c-4e05-91dc-15a99ce5cdf2/0.webp",
+ "image_count": 3,
+ "lat": 55.56107856,
+ "lon": 8.35680928,
+ "description": "Ældre belgisk jagtgevær  side - by - side",
+ "images": [
+  {
+   "full": "/images/746b8b20-610c-4e05-91dc-15a99ce5cdf2/0.webp",
+   "thumb": "/thumbs/746b8b20-610c-4e05-91dc-15a99ce5cdf2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/746b8b20-610c-4e05-91dc-15a99ce5cdf2/1.webp",
+   "thumb": "/thumbs/746b8b20-610c-4e05-91dc-15a99ce5cdf2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/746b8b20-610c-4e05-91dc-15a99ce5cdf2/2.webp",
+   "thumb": "/thumbs/746b8b20-610c-4e05-91dc-15a99ce5cdf2/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

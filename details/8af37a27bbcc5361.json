@@ -1,0 +1,45 @@
+{
+ "id": "14df7a6d-1ef5-4267-9a3b-ccf03c1697ef",
+ "detail_id": "8af37a27bbcc5361",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/tikka-t1x-med-zeiss-kikkert",
+ "title": "Tikka t1x med Zeiss kikkert",
+ "price_dkk": 7500,
+ "weapon_type": "Salonriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "6623",
+ "by": "Vorbasse",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/0.webp",
+ "image_count": 3,
+ "lat": 55.63499139,
+ "lon": 9.09958348,
+ "description": "Super fin salonriffel brugt meget lidt, optilock montage Zeiss kikkert og 17hmr jeg har haft den fra ny",
+ "images": [
+  {
+   "full": "/images/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/0.webp",
+   "thumb": "/thumbs/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/1.webp",
+   "thumb": "/thumbs/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/2.webp",
+   "thumb": "/thumbs/14df7a6d-1ef5-4267-9a3b-ccf03c1697ef/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "5e94a0b3-5775-4a68-bd8b-bf2514a70130",
+ "detail_id": "d002270373b4e23b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5e94a0b3-5775-4a68-bd8b-bf2514a70130/beretta-es100",
+ "title": "Beretta ES100",
+ "price_dkk": 6000,
+ "weapon_type": "Haglgevær",
+ "brand": "Beretta",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "7130",
+ "by": "Juelsminde",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/0.webp",
+ "image_count": 8,
+ "lat": 55.76517236,
+ "lon": 9.9563685,
+ "description": "Flot stand, jeg har ejet den fra kun skudt få gange på flugtskydningsbane og enkelte par gange på jagt. Medfølger totalt 5 org Beretta chokes (500kr stk fra ny, 4stk aldrig brugt)",
+ "images": [
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/0.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/1.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/2.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/3.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/4.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/5.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/6.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e94a0b3-5775-4a68-bd8b-bf2514a70130/7.webp",
+   "thumb": "/thumbs/5e94a0b3-5775-4a68-bd8b-bf2514a70130/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

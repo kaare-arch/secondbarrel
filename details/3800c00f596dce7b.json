@@ -1,0 +1,51 @@
+{
+ "id": "04036b93-7073-47d2-acb1-043acb7755d7",
+ "detail_id": "3800c00f596dce7b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/04036b93-7073-47d2-acb1-043acb7755d7/carl-gustav-fulskaeftet-jagt-riffel",
+ "title": "Carl Gustav fulskæftet jagt riffel",
+ "price_dkk": 2200,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [
+  "6,5x55"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "6800",
+ "by": "Varde",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/04036b93-7073-47d2-acb1-043acb7755d7/0.webp",
+ "image_count": 4,
+ "lat": 55.65607154,
+ "lon": 8.52854473,
+ "description": "Carl Gustav 6,5x55 jagt riffel, som ny \nSælges da jeg ikke får den brugt,",
+ "images": [
+  {
+   "full": "/images/04036b93-7073-47d2-acb1-043acb7755d7/0.webp",
+   "thumb": "/thumbs/04036b93-7073-47d2-acb1-043acb7755d7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/04036b93-7073-47d2-acb1-043acb7755d7/1.webp",
+   "thumb": "/thumbs/04036b93-7073-47d2-acb1-043acb7755d7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/04036b93-7073-47d2-acb1-043acb7755d7/2.webp",
+   "thumb": "/thumbs/04036b93-7073-47d2-acb1-043acb7755d7/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/04036b93-7073-47d2-acb1-043acb7755d7/3.webp",
+   "thumb": "/thumbs/04036b93-7073-47d2-acb1-043acb7755d7/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

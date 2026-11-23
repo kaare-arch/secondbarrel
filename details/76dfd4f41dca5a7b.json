@@ -1,0 +1,51 @@
+{
+ "id": "fee64fa8-6eaf-4625-9ea6-76b227618837",
+ "detail_id": "76dfd4f41dca5a7b",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/fee64fa8-6eaf-4625-9ea6-76b227618837/blaser-f16-game-12-76-76cm",
+ "title": "Blaser F16 Game 12/76 76cm",
+ "price_dkk": 20000,
+ "weapon_type": "Haglgevær",
+ "brand": "Blaser",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "9530",
+ "by": "Støvring",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/fee64fa8-6eaf-4625-9ea6-76b227618837/0.webp",
+ "image_count": 4,
+ "lat": 56.89267972,
+ "lon": 9.80945918,
+ "description": "Blaser F16 Game 12/76 76cm\nVelholdt \n20000 kr",
+ "images": [
+  {
+   "full": "/images/fee64fa8-6eaf-4625-9ea6-76b227618837/0.webp",
+   "thumb": "/thumbs/fee64fa8-6eaf-4625-9ea6-76b227618837/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fee64fa8-6eaf-4625-9ea6-76b227618837/1.webp",
+   "thumb": "/thumbs/fee64fa8-6eaf-4625-9ea6-76b227618837/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fee64fa8-6eaf-4625-9ea6-76b227618837/2.webp",
+   "thumb": "/thumbs/fee64fa8-6eaf-4625-9ea6-76b227618837/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/fee64fa8-6eaf-4625-9ea6-76b227618837/3.webp",
+   "thumb": "/thumbs/fee64fa8-6eaf-4625-9ea6-76b227618837/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

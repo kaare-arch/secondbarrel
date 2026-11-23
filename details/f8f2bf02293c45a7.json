@@ -1,0 +1,55 @@
+{
+ "id": "2440f7b5-602a-448e-97af-bf3962d99499",
+ "detail_id": "f8f2bf02293c45a7",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/2440f7b5-602a-448e-97af-bf3962d99499/sauer-202-i-7mm-rem-mag",
+ "title": "Sauer 202 i 7mm Rem Mag",
+ "price_dkk": 12000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Sauer",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "3140",
+ "by": "Ålsgårde",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/2440f7b5-602a-448e-97af-bf3962d99499/0.webp",
+ "image_count": 5,
+ "lat": 56.06799415,
+ "lon": 12.51154216,
+ "description": "Klargjort til lyddæmper 15mm \n\nHausken lyddæmper .30\n\nÆldre drivjagtskikkert medfølger u. Lys\n\nBly ammunition\n\nKan ses i Ålsgårde.",
+ "images": [
+  {
+   "full": "/images/2440f7b5-602a-448e-97af-bf3962d99499/0.webp",
+   "thumb": "/thumbs/2440f7b5-602a-448e-97af-bf3962d99499/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2440f7b5-602a-448e-97af-bf3962d99499/1.webp",
+   "thumb": "/thumbs/2440f7b5-602a-448e-97af-bf3962d99499/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2440f7b5-602a-448e-97af-bf3962d99499/2.webp",
+   "thumb": "/thumbs/2440f7b5-602a-448e-97af-bf3962d99499/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2440f7b5-602a-448e-97af-bf3962d99499/3.webp",
+   "thumb": "/thumbs/2440f7b5-602a-448e-97af-bf3962d99499/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/2440f7b5-602a-448e-97af-bf3962d99499/4.webp",
+   "thumb": "/thumbs/2440f7b5-602a-448e-97af-bf3962d99499/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "d0dfe79b-22cf-4f72-9358-c51f746da50a",
+ "detail_id": "ec1c949416ceb986",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d0dfe79b-22cf-4f72-9358-c51f746da50a/blaser-r8-ultimate-med-zeiss-kikkerter",
+ "title": "Blaser R8 Ultimate med Zeiss kikkerter",
+ "price_dkk": 55000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Blaser",
+ "calibers": [
+  ".300 Win Mag"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "9530",
+ "by": "Støvring",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/d0dfe79b-22cf-4f72-9358-c51f746da50a/0.webp",
+ "image_count": 2,
+ "lat": 56.89267972,
+ "lon": 9.80945918,
+ "description": "Blaser R8 Ultimate med justerbar kolbekam og pibe .300 win mag.\nZeiss Victory V8 1,8-14x50\nZeiss Conquest V6 1,1-6x24\nTo originale Blaser saddelmontager\nBundstykker magnum og standard\nDiverse tilhørende\n55000 kr",
+ "images": [
+  {
+   "full": "/images/d0dfe79b-22cf-4f72-9358-c51f746da50a/0.webp",
+   "thumb": "/thumbs/d0dfe79b-22cf-4f72-9358-c51f746da50a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d0dfe79b-22cf-4f72-9358-c51f746da50a/1.webp",
+   "thumb": "/thumbs/d0dfe79b-22cf-4f72-9358-c51f746da50a/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

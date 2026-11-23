@@ -1,0 +1,75 @@
+{
+ "id": "9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe",
+ "detail_id": "3f3898a1548cd0ce",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/nyjaegersaet-vaabenskab-og-haglgevaer",
+ "title": "Nyjægersæt våbenskab og haglgevær",
+ "price_dkk": 4000,
+ "weapon_type": "Haglgevær",
+ "brand": "Dan Arms",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "2670",
+ "by": "Greve",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/0.webp",
+ "image_count": 8,
+ "lat": 55.5948863,
+ "lon": 12.27952593,
+ "description": "Nyjæger? Så sælger jeg lige nu et brugt haglgevær af mærket Danarms og et våbensskab med plads til 5 eller 7 våben.\n\nHaglgeværet er kaliber 12/70 med udskiftelige chokes.\nVåbenskabet er Skafor Blå godkendt",
+ "images": [
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/0.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/1.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/2.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/3.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/4.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/5.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/6.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/7.webp",
+   "thumb": "/thumbs/9eb0313c-c6bb-4ba7-bb7b-d181ef2152fe/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

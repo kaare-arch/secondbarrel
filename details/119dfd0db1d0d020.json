@@ -1,0 +1,49 @@
+{
+ "id": "91a6a8c8-7f46-4b10-92d3-6854aba09d0e",
+ "detail_id": "119dfd0db1d0d020",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/baikal-s-s",
+ "title": "Baikal s/s",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": "Baikal",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "6040",
+ "by": "Egtved",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/0.webp",
+ "image_count": 4,
+ "lat": 55.61664144,
+ "lon": 9.29089234,
+ "description": "Sælges da den bare står i våbenskabet og samler støv",
+ "images": [
+  {
+   "full": "/images/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/0.webp",
+   "thumb": "/thumbs/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/1.webp",
+   "thumb": "/thumbs/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/2.webp",
+   "thumb": "/thumbs/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/3.webp",
+   "thumb": "/thumbs/91a6a8c8-7f46-4b10-92d3-6854aba09d0e/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

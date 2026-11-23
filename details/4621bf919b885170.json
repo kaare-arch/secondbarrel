@@ -1,0 +1,51 @@
+{
+ "id": "8aa60d92-d893-40c1-96b5-c33db63da83c",
+ "detail_id": "4621bf919b885170",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8aa60d92-d893-40c1-96b5-c33db63da83c/haglgevaer-husqvarna-12-70",
+ "title": "Haglgevær Husqvarna 12/70",
+ "price_dkk": 3000,
+ "weapon_type": "Haglgevær",
+ "brand": "Husqvarna",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "7800",
+ "by": "Skive",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/8aa60d92-d893-40c1-96b5-c33db63da83c/0.webp",
+ "image_count": 4,
+ "lat": 56.46317549,
+ "lon": 8.99505562,
+ "description": "O/u med ejektor og løbsvælger.\nDer er ingen slør og rust. Test til 1400kg",
+ "images": [
+  {
+   "full": "/images/8aa60d92-d893-40c1-96b5-c33db63da83c/0.webp",
+   "thumb": "/thumbs/8aa60d92-d893-40c1-96b5-c33db63da83c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8aa60d92-d893-40c1-96b5-c33db63da83c/1.webp",
+   "thumb": "/thumbs/8aa60d92-d893-40c1-96b5-c33db63da83c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8aa60d92-d893-40c1-96b5-c33db63da83c/2.webp",
+   "thumb": "/thumbs/8aa60d92-d893-40c1-96b5-c33db63da83c/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8aa60d92-d893-40c1-96b5-c33db63da83c/3.webp",
+   "thumb": "/thumbs/8aa60d92-d893-40c1-96b5-c33db63da83c/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

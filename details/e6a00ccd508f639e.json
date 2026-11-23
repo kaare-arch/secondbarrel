@@ -1,0 +1,55 @@
+{
+ "id": "64ef346f-f403-42c7-97a0-84e12baf9517",
+ "detail_id": "e6a00ccd508f639e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/64ef346f-f403-42c7-97a0-84e12baf9517/taurus-pt-99-af-9-mm",
+ "title": "Taurus PT 99 AF 9 mm",
+ "price_dkk": 3600,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-22",
+ "age_days": 0,
+ "postnummer": "6700",
+ "by": "Esbjerg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/64ef346f-f403-42c7-97a0-84e12baf9517/0.webp",
+ "image_count": 5,
+ "lat": 55.46435394,
+ "lon": 8.47091415,
+ "description": "Alder ukendt, 3 magasiner og kuffert medfølger.\nSkyder absolut fejlfrit. \nKan ses i Måde ved Esbjerg Skyttekreds efter aftale. \nKan kun købes med SKV.",
+ "images": [
+  {
+   "full": "/images/64ef346f-f403-42c7-97a0-84e12baf9517/0.webp",
+   "thumb": "/thumbs/64ef346f-f403-42c7-97a0-84e12baf9517/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/64ef346f-f403-42c7-97a0-84e12baf9517/1.webp",
+   "thumb": "/thumbs/64ef346f-f403-42c7-97a0-84e12baf9517/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/64ef346f-f403-42c7-97a0-84e12baf9517/2.webp",
+   "thumb": "/thumbs/64ef346f-f403-42c7-97a0-84e12baf9517/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/64ef346f-f403-42c7-97a0-84e12baf9517/3.webp",
+   "thumb": "/thumbs/64ef346f-f403-42c7-97a0-84e12baf9517/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/64ef346f-f403-42c7-97a0-84e12baf9517/4.webp",
+   "thumb": "/thumbs/64ef346f-f403-42c7-97a0-84e12baf9517/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
