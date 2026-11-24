@@ -1,0 +1,57 @@
+{
+ "id": "aa774572-8b51-48d0-b2a1-495e16a4ed70",
+ "detail_id": "6cc0705d180123fa",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/aa774572-8b51-48d0-b2a1-495e16a4ed70/savage-93-17hmr",
+ "title": "Savage 93, 17hmr.",
+ "price_dkk": 3000,
+ "weapon_type": "Salonriffel",
+ "brand": "Savage",
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-23",
+ "age_days": 0,
+ "postnummer": "9670",
+ "by": "Løgstør",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/aa774572-8b51-48d0-b2a1-495e16a4ed70/0.webp",
+ "image_count": 5,
+ "lat": 56.93787962,
+ "lon": 9.32490792,
+ "description": "Savage 93, 17hmr m. lyddæmper og kikkert\nKikkert: Barska 2-7x42\nRiflen har aftageligt 5-skudsmagasin og AccuTrigger, hvor man klemmer midterstykket i aftrækkeren ind, og lige efter kommer aftrækket meget præcist.\nMeget velskydende og præcis riffel.",
+ "images": [
+  {
+   "full": "/images/aa774572-8b51-48d0-b2a1-495e16a4ed70/0.webp",
+   "thumb": "/thumbs/aa774572-8b51-48d0-b2a1-495e16a4ed70/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa774572-8b51-48d0-b2a1-495e16a4ed70/1.webp",
+   "thumb": "/thumbs/aa774572-8b51-48d0-b2a1-495e16a4ed70/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa774572-8b51-48d0-b2a1-495e16a4ed70/2.webp",
+   "thumb": "/thumbs/aa774572-8b51-48d0-b2a1-495e16a4ed70/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa774572-8b51-48d0-b2a1-495e16a4ed70/3.webp",
+   "thumb": "/thumbs/aa774572-8b51-48d0-b2a1-495e16a4ed70/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/aa774572-8b51-48d0-b2a1-495e16a4ed70/4.webp",
+   "thumb": "/thumbs/aa774572-8b51-48d0-b2a1-495e16a4ed70/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

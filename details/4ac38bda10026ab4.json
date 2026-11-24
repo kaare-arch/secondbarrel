@@ -1,0 +1,45 @@
+{
+ "id": "347d0c83-0946-4023-9158-8861d9a0138e",
+ "detail_id": "4ac38bda10026ab4",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/347d0c83-0946-4023-9158-8861d9a0138e/ruger-10-22-archangle",
+ "title": "Ruger 10/22 Archangle",
+ "price_dkk": 6700,
+ "weapon_type": "Salonriffel",
+ "brand": "Ruger",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-23",
+ "age_days": 0,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/347d0c83-0946-4023-9158-8861d9a0138e/0.webp",
+ "image_count": 3,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Ruger 10/22 halvauto salonriffel, Cal. 22lr. I Archangle ar skæfte, der medfølger 10,15,25 og 110 skudsmagasin, sonic 22 dæmper, original skæfte, Bsa rødpunkt sigte, sort frontgreb og sort bagskæfte, det sandfarvet bagskæfte medfølger også.\nM14 gevind.\nPris ca 6700kr eller kom med et bud.",
+ "images": [
+  {
+   "full": "/images/347d0c83-0946-4023-9158-8861d9a0138e/0.webp",
+   "thumb": "/thumbs/347d0c83-0946-4023-9158-8861d9a0138e/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/347d0c83-0946-4023-9158-8861d9a0138e/1.webp",
+   "thumb": "/thumbs/347d0c83-0946-4023-9158-8861d9a0138e/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/347d0c83-0946-4023-9158-8861d9a0138e/2.webp",
+   "thumb": "/thumbs/347d0c83-0946-4023-9158-8861d9a0138e/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

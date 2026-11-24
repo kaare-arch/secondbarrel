@@ -1,0 +1,43 @@
+{
+ "id": "41ded82a-7d6f-49a0-88e7-69073fb03c1f",
+ "detail_id": "1e3986c5bbac38ca",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/41ded82a-7d6f-49a0-88e7-69073fb03c1f/aftraekker-mekanisme-til-walter-gsp",
+ "title": "Aftrækker mekanisme til Walter gsp",
+ "price_dkk": 700,
+ "weapon_type": "Pistol",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-23",
+ "age_days": 0,
+ "postnummer": "9900",
+ "by": "Frederikshavn",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/41ded82a-7d6f-49a0-88e7-69073fb03c1f/0.webp",
+ "image_count": 3,
+ "lat": 57.42465984,
+ "lon": 10.4353151,
+ "description": "Har sån en aftrækker mekanisme til en Walter gsp og en rekyl fjeder aftrækket er på 1000gram. Virker som den skal give et bud",
+ "images": [
+  {
+   "full": "/images/41ded82a-7d6f-49a0-88e7-69073fb03c1f/0.webp",
+   "thumb": "/thumbs/41ded82a-7d6f-49a0-88e7-69073fb03c1f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/41ded82a-7d6f-49a0-88e7-69073fb03c1f/1.webp",
+   "thumb": "/thumbs/41ded82a-7d6f-49a0-88e7-69073fb03c1f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/41ded82a-7d6f-49a0-88e7-69073fb03c1f/2.webp",
+   "thumb": "/thumbs/41ded82a-7d6f-49a0-88e7-69073fb03c1f/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

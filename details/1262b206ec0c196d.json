@@ -1,0 +1,26 @@
+{
+ "id": "iversen-import.dk/brno-zh301-12-70-o-u.html",
+ "detail_id": "1262b206ec0c196d",
+ "source": "iversen-import.dk",
+ "source_label": "Iversen Import",
+ "url": "https://www.iversen-import.dk/brno-zh301-12-70-o-u.html",
+ "title": "BRNO  ZH301 12/70 O/U",
+ "price_dkk": 2500,
+ "weapon_type": "Haglgevær",
+ "brand": "CZ",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": true,
+ "listed_date": null,
+ "age_days": null,
+ "postnummer": "6100",
+ "by": "Haderslev",
+ "stand_gg": null,
+ "thumb": null,
+ "image_count": 0,
+ "lat": 55.20399665,
+ "lon": 9.49012437,
+ "description": null,
+ "images": []
+}

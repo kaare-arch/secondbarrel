@@ -1,0 +1,51 @@
+{
+ "id": "cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2",
+ "detail_id": "6deaf72fb9d21101",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/dobbelt-riffel-saelges-9-3x74r",
+ "title": "Dobbelt riffel sælges 9,3x74R",
+ "price_dkk": 9000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Valmet",
+ "calibers": [
+  "9,3x74R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-23",
+ "age_days": 0,
+ "postnummer": "8500",
+ "by": "Grenaa",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/0.webp",
+ "image_count": 4,
+ "lat": 56.42794759,
+ "lon": 10.84475511,
+ "description": "Valmet 412 med ældre Bushnell 1,5-4 kikkert, samt Doctor holosight. Begge i aftagelig montage. Skyder eminent.",
+ "images": [
+  {
+   "full": "/images/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/0.webp",
+   "thumb": "/thumbs/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/1.webp",
+   "thumb": "/thumbs/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/2.webp",
+   "thumb": "/thumbs/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/3.webp",
+   "thumb": "/thumbs/cf7ceabc-8cc6-4973-8ba5-7c0eef4b99e2/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "1d14553b-a83d-49df-9cde-0c4ed6624315",
+ "detail_id": "659e28e345cade8d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1d14553b-a83d-49df-9cde-0c4ed6624315/carl-gustav-m96-38",
+ "title": "Carl Gustav M96/38",
+ "price_dkk": 6000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Carl Gustaf",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-23",
+ "age_days": 0,
+ "postnummer": "7451",
+ "by": "Sunds",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/1d14553b-a83d-49df-9cde-0c4ed6624315/0.webp",
+ "image_count": 6,
+ "lat": 56.22960774,
+ "lon": 9.02585964,
+ "description": "Flot klassisk militærriffel i urørt tilstand  udover dens tid som tjeneste riffel. Riflen er akkurat og stram i låsen. Prisen kan der snakkes om inden for rimelighed",
+ "images": [
+  {
+   "full": "/images/1d14553b-a83d-49df-9cde-0c4ed6624315/0.webp",
+   "thumb": "/thumbs/1d14553b-a83d-49df-9cde-0c4ed6624315/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1d14553b-a83d-49df-9cde-0c4ed6624315/1.webp",
+   "thumb": "/thumbs/1d14553b-a83d-49df-9cde-0c4ed6624315/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1d14553b-a83d-49df-9cde-0c4ed6624315/2.webp",
+   "thumb": "/thumbs/1d14553b-a83d-49df-9cde-0c4ed6624315/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1d14553b-a83d-49df-9cde-0c4ed6624315/3.webp",
+   "thumb": "/thumbs/1d14553b-a83d-49df-9cde-0c4ed6624315/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1d14553b-a83d-49df-9cde-0c4ed6624315/4.webp",
+   "thumb": "/thumbs/1d14553b-a83d-49df-9cde-0c4ed6624315/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1d14553b-a83d-49df-9cde-0c4ed6624315/5.webp",
+   "thumb": "/thumbs/1d14553b-a83d-49df-9cde-0c4ed6624315/5.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
