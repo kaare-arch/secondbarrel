@@ -1,0 +1,69 @@
+{
+ "id": "8ada0979-d9c5-4e6a-80a2-d76ba3661762",
+ "detail_id": "affad42a4c276eb9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8ada0979-d9c5-4e6a-80a2-d76ba3661762/aya-guldmann-amabassador",
+ "title": "AYA - GULDMANN AMABASSADOR",
+ "price_dkk": 9000,
+ "weapon_type": "Haglgevær",
+ "brand": "AyA",
+ "calibers": [
+  "12/70"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-24",
+ "age_days": 0,
+ "postnummer": "3200",
+ "by": "Helsinge",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/0.webp",
+ "image_count": 7,
+ "lat": 56.01099572,
+ "lon": 12.1715219,
+ "description": "Rigtig flot AYA Ambassador i 12/70.\n68 cm løb - 1/4 & 1/4 boring.\nSkæftet er blevet kortet af, men original træstykke følger med til evt genforlængelse.",
+ "images": [
+  {
+   "full": "/images/8ada0979-d9c5-4e6a-80a2-d76ba3661762/0.webp",
+   "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ada0979-d9c5-4e6a-80a2-d76ba3661762/1.webp",
+   "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ada0979-d9c5-4e6a-80a2-d76ba3661762/2.webp",
+   "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ada0979-d9c5-4e6a-80a2-d76ba3661762/3.webp",
+   "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ada0979-d9c5-4e6a-80a2-d76ba3661762/4.webp",
+   "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ada0979-d9c5-4e6a-80a2-d76ba3661762/5.webp",
+   "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8ada0979-d9c5-4e6a-80a2-d76ba3661762/6.webp",
+   "thumb": "/thumbs/8ada0979-d9c5-4e6a-80a2-d76ba3661762/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

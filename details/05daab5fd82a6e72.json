@@ -1,0 +1,55 @@
+{
+ "id": "3886c938-1845-4d18-b2bd-33e4593ee883",
+ "detail_id": "05daab5fd82a6e72",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/3886c938-1845-4d18-b2bd-33e4593ee883/lanber-baron",
+ "title": "Lanber baron",
+ "price_dkk": 2000,
+ "weapon_type": "Haglgevær",
+ "brand": "Lanber",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-24",
+ "age_days": 0,
+ "postnummer": "9870",
+ "by": "Sindal",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/3886c938-1845-4d18-b2bd-33e4593ee883/0.webp",
+ "image_count": 5,
+ "lat": 57.4674892,
+ "lon": 10.24075136,
+ "description": "Flot lanber baron gevær fejler ikke noget godt til nybegynder \nRing på [tlf fjernet]",
+ "images": [
+  {
+   "full": "/images/3886c938-1845-4d18-b2bd-33e4593ee883/0.webp",
+   "thumb": "/thumbs/3886c938-1845-4d18-b2bd-33e4593ee883/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3886c938-1845-4d18-b2bd-33e4593ee883/1.webp",
+   "thumb": "/thumbs/3886c938-1845-4d18-b2bd-33e4593ee883/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3886c938-1845-4d18-b2bd-33e4593ee883/2.webp",
+   "thumb": "/thumbs/3886c938-1845-4d18-b2bd-33e4593ee883/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3886c938-1845-4d18-b2bd-33e4593ee883/3.webp",
+   "thumb": "/thumbs/3886c938-1845-4d18-b2bd-33e4593ee883/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/3886c938-1845-4d18-b2bd-33e4593ee883/4.webp",
+   "thumb": "/thumbs/3886c938-1845-4d18-b2bd-33e4593ee883/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
