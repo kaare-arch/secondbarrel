@@ -1,0 +1,45 @@
+{
+ "id": "a45c39e8-96a0-4c65-b18c-d824892012d5",
+ "detail_id": "5a9d9e2fda17829e",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a45c39e8-96a0-4c65-b18c-d824892012d5/ruger-22-mag-22-lr",
+ "title": "Ruger 22 Mag/22 LR",
+ "price_dkk": 2000,
+ "weapon_type": "Pistol",
+ "brand": "Ruger",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-25",
+ "age_days": 0,
+ "postnummer": "7441",
+ "by": "Bording",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/a45c39e8-96a0-4c65-b18c-d824892012d5/0.webp",
+ "image_count": 3,
+ "lat": 56.15035869,
+ "lon": 9.25469883,
+ "description": "Sælger denne Revolver fra Ruger i kaliber 22 Mag men kan også skyde med 22LR, skal søges på SKV",
+ "images": [
+  {
+   "full": "/images/a45c39e8-96a0-4c65-b18c-d824892012d5/0.webp",
+   "thumb": "/thumbs/a45c39e8-96a0-4c65-b18c-d824892012d5/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a45c39e8-96a0-4c65-b18c-d824892012d5/1.webp",
+   "thumb": "/thumbs/a45c39e8-96a0-4c65-b18c-d824892012d5/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/a45c39e8-96a0-4c65-b18c-d824892012d5/2.webp",
+   "thumb": "/thumbs/a45c39e8-96a0-4c65-b18c-d824892012d5/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

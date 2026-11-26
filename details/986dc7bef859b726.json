@@ -1,0 +1,51 @@
+{
+ "id": "7855592b-6d60-4f13-8e4d-2367ccbacb63",
+ "detail_id": "986dc7bef859b726",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/7855592b-6d60-4f13-8e4d-2367ccbacb63/salonriffel-cz-452",
+ "title": "Salonriffel CZ 452.",
+ "price_dkk": 4600,
+ "weapon_type": "Salonriffel",
+ "brand": "CZ",
+ "calibers": [
+  ".22 LR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-23",
+ "age_days": 2,
+ "postnummer": "5400",
+ "by": "Bogense",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/7855592b-6d60-4f13-8e4d-2367ccbacb63/0.webp",
+ "image_count": 4,
+ "lat": 55.54353326,
+ "lon": 10.10364478,
+ "description": "Velholdt salonriffel i kaliber 22LR.\nMærket er CZ 452, monteret med en Swarovski 4x32, og tiskuds magasin. \nLidt ammunition medfølger.",
+ "images": [
+  {
+   "full": "/images/7855592b-6d60-4f13-8e4d-2367ccbacb63/0.webp",
+   "thumb": "/thumbs/7855592b-6d60-4f13-8e4d-2367ccbacb63/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7855592b-6d60-4f13-8e4d-2367ccbacb63/1.webp",
+   "thumb": "/thumbs/7855592b-6d60-4f13-8e4d-2367ccbacb63/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7855592b-6d60-4f13-8e4d-2367ccbacb63/2.webp",
+   "thumb": "/thumbs/7855592b-6d60-4f13-8e4d-2367ccbacb63/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/7855592b-6d60-4f13-8e4d-2367ccbacb63/3.webp",
+   "thumb": "/thumbs/7855592b-6d60-4f13-8e4d-2367ccbacb63/3.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

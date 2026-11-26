@@ -1,0 +1,43 @@
+{
+ "id": "8cbbffd7-231a-4a0f-851a-7ddba2bf8db7",
+ "detail_id": "b42d5b7b58062bcc",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/diana-bandit",
+ "title": "Diana Bandit",
+ "price_dkk": 1250,
+ "weapon_type": "Pistol",
+ "brand": "Diana",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-25",
+ "age_days": 0,
+ "postnummer": "5970",
+ "by": "Ærøskøbing",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/0.webp",
+ "image_count": 3,
+ "lat": 54.85586468,
+ "lon": 10.39953328,
+ "description": "Stort set ubrugt\nMed pumpe 9 skuds magasin enkelt skudslader og manual.\nHagl kan tilkøbes har nogle forskellige type\nSendes ikke.",
+ "images": [
+  {
+   "full": "/images/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/0.webp",
+   "thumb": "/thumbs/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/1.webp",
+   "thumb": "/thumbs/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/2.webp",
+   "thumb": "/thumbs/8cbbffd7-231a-4a0f-851a-7ddba2bf8db7/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

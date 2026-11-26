@@ -1,0 +1,57 @@
+{
+ "id": "82c5ac7f-f2a1-4946-bfc7-009aac11419f",
+ "detail_id": "0deefb10009ce51d",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/82c5ac7f-f2a1-4946-bfc7-009aac11419f/mauser-m18-long-range-chassis-i-6-5-creedmoor",
+ "title": "Mauser M18 Long Range Chassis i 6,5 Creedmoor",
+ "price_dkk": 14000,
+ "weapon_type": "Jagtriffel",
+ "brand": "Mauser",
+ "calibers": [
+  "6,5 Creedmoor"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-18",
+ "age_days": 7,
+ "postnummer": "8464",
+ "by": "Galten",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/82c5ac7f-f2a1-4946-bfc7-009aac11419f/0.webp",
+ "image_count": 5,
+ "lat": 56.17800104,
+ "lon": 9.91179535,
+ "description": "Kommer med 22mm pibe. 18/1 gevind og 10 skuds magasin.\n\nDen har kun skudt 53 skud.\n\nDer er monteret et vertikalt MDT greb, mens det originale medfølger. Dertil er der monteret Arca-rail i fuld længde.\n\nDer medfølger alle spacere, Picatinny rail til buttstock og rembøjler.",
+ "images": [
+  {
+   "full": "/images/82c5ac7f-f2a1-4946-bfc7-009aac11419f/0.webp",
+   "thumb": "/thumbs/82c5ac7f-f2a1-4946-bfc7-009aac11419f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/82c5ac7f-f2a1-4946-bfc7-009aac11419f/1.webp",
+   "thumb": "/thumbs/82c5ac7f-f2a1-4946-bfc7-009aac11419f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/82c5ac7f-f2a1-4946-bfc7-009aac11419f/2.webp",
+   "thumb": "/thumbs/82c5ac7f-f2a1-4946-bfc7-009aac11419f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/82c5ac7f-f2a1-4946-bfc7-009aac11419f/3.webp",
+   "thumb": "/thumbs/82c5ac7f-f2a1-4946-bfc7-009aac11419f/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/82c5ac7f-f2a1-4946-bfc7-009aac11419f/4.webp",
+   "thumb": "/thumbs/82c5ac7f-f2a1-4946-bfc7-009aac11419f/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

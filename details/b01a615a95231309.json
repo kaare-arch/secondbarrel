@@ -1,0 +1,58 @@
+{
+ "id": "97ad683b-1de1-47f4-b0fc-dbf93e05450f",
+ "detail_id": "b01a615a95231309",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/97ad683b-1de1-47f4-b0fc-dbf93e05450f/merkel-drilling",
+ "title": "Merkel Drilling",
+ "price_dkk": 16000,
+ "weapon_type": "Kombinationsvåben",
+ "brand": "Merkel",
+ "calibers": [
+  "12/70",
+  "7x57R"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-25",
+ "age_days": 0,
+ "postnummer": "6830",
+ "by": "Nørre Nebel",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/97ad683b-1de1-47f4-b0fc-dbf93e05450f/0.webp",
+ "image_count": 5,
+ "lat": 55.78278429,
+ "lon": 8.23630263,
+ "description": "Jeg vil gerne sælge min Merkel drilling i kaliber 7x57R 12/70 Den er meget flot og den er lige gennemgået af en bøssemager.\nJeg er anden ejer af våbnet og jeg har aldrig fået den brug.",
+ "images": [
+  {
+   "full": "/images/97ad683b-1de1-47f4-b0fc-dbf93e05450f/0.webp",
+   "thumb": "/thumbs/97ad683b-1de1-47f4-b0fc-dbf93e05450f/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97ad683b-1de1-47f4-b0fc-dbf93e05450f/1.webp",
+   "thumb": "/thumbs/97ad683b-1de1-47f4-b0fc-dbf93e05450f/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97ad683b-1de1-47f4-b0fc-dbf93e05450f/2.webp",
+   "thumb": "/thumbs/97ad683b-1de1-47f4-b0fc-dbf93e05450f/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97ad683b-1de1-47f4-b0fc-dbf93e05450f/3.webp",
+   "thumb": "/thumbs/97ad683b-1de1-47f4-b0fc-dbf93e05450f/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/97ad683b-1de1-47f4-b0fc-dbf93e05450f/4.webp",
+   "thumb": "/thumbs/97ad683b-1de1-47f4-b0fc-dbf93e05450f/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

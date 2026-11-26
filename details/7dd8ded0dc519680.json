@@ -1,0 +1,33 @@
+{
+ "id": "a1613be5-830b-4916-9860-7dc21769e728",
+ "detail_id": "7dd8ded0dc519680",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/a1613be5-830b-4916-9860-7dc21769e728/salonriffel-17hmr",
+ "title": "Salonriffel 17HMR",
+ "price_dkk": 5000,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [
+  ".17 HMR"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-25",
+ "age_days": 0,
+ "postnummer": "6240",
+ "by": "Løgumkloster",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/a1613be5-830b-4916-9860-7dc21769e728/0.webp",
+ "image_count": 1,
+ "lat": 55.06237954,
+ "lon": 8.96415413,
+ "description": "Salonriffel 17HMR med lyddæmper sælges, står som ny med sigtekikkert 3-9x40 IR",
+ "images": [
+  {
+   "full": "/images/a1613be5-830b-4916-9860-7dc21769e728/0.webp",
+   "thumb": "/thumbs/a1613be5-830b-4916-9860-7dc21769e728/0.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
