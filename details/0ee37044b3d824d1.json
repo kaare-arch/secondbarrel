@@ -1,0 +1,43 @@
+{
+ "id": "6c8580be-3d2f-4903-adb6-a776d4919c82",
+ "detail_id": "0ee37044b3d824d1",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/6c8580be-3d2f-4903-adb6-a776d4919c82/salonriffel",
+ "title": "Salonriffel",
+ "price_dkk": 3500,
+ "weapon_type": "Salonriffel",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-26",
+ "age_days": 0,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/6c8580be-3d2f-4903-adb6-a776d4919c82/0.webp",
+ "image_count": 3,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Fin enkelskuds distance riffel \nVertical 3-18c50 kikkert\nAtlas kopi bipod\n14/1 gevind\nVildt præcis med rette ammunition \nHar skudt ud til 300m med den\nBud modtages",
+ "images": [
+  {
+   "full": "/images/6c8580be-3d2f-4903-adb6-a776d4919c82/0.webp",
+   "thumb": "/thumbs/6c8580be-3d2f-4903-adb6-a776d4919c82/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6c8580be-3d2f-4903-adb6-a776d4919c82/1.webp",
+   "thumb": "/thumbs/6c8580be-3d2f-4903-adb6-a776d4919c82/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/6c8580be-3d2f-4903-adb6-a776d4919c82/2.webp",
+   "thumb": "/thumbs/6c8580be-3d2f-4903-adb6-a776d4919c82/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

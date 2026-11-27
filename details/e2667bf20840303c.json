@@ -1,0 +1,45 @@
+{
+ "id": "15439448-2945-4292-abbd-bde67970f150",
+ "detail_id": "e2667bf20840303c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/15439448-2945-4292-abbd-bde67970f150/lincoln-premier",
+ "title": "Lincoln premier",
+ "price_dkk": 3000,
+ "weapon_type": "Haglgevær",
+ "brand": "FAIR",
+ "calibers": [
+  "12/76"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-26",
+ "age_days": 0,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/15439448-2945-4292-abbd-bde67970f150/0.webp",
+ "image_count": 3,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Fin Lincoln premier 12/76\nIkke skudt meget\nBud modtages",
+ "images": [
+  {
+   "full": "/images/15439448-2945-4292-abbd-bde67970f150/0.webp",
+   "thumb": "/thumbs/15439448-2945-4292-abbd-bde67970f150/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/15439448-2945-4292-abbd-bde67970f150/1.webp",
+   "thumb": "/thumbs/15439448-2945-4292-abbd-bde67970f150/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/15439448-2945-4292-abbd-bde67970f150/2.webp",
+   "thumb": "/thumbs/15439448-2945-4292-abbd-bde67970f150/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

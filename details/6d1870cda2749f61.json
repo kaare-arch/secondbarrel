@@ -1,0 +1,75 @@
+{
+ "id": "053d82a1-80f3-4889-b461-c3734bf3ad1a",
+ "detail_id": "6d1870cda2749f61",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/053d82a1-80f3-4889-b461-c3734bf3ad1a/tikka-t3-22-250",
+ "title": "Tikka T3 22-250",
+ "price_dkk": 7500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".22-250"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-26",
+ "age_days": 0,
+ "postnummer": "8850",
+ "by": "Bjerringbro",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/0.webp",
+ "image_count": 8,
+ "lat": 56.36051392,
+ "lon": 9.64257403,
+ "description": "Fin jagt riffel med kikkert, 3 skuds magasin og mundingsbremse (gevind til lyddæmper)\nForberedt til rem.",
+ "images": [
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/0.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/1.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/2.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/3.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/4.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/5.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/6.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/6.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/053d82a1-80f3-4889-b461-c3734bf3ad1a/7.webp",
+   "thumb": "/thumbs/053d82a1-80f3-4889-b461-c3734bf3ad1a/7.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

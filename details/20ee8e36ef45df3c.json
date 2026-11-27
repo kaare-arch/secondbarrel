@@ -1,0 +1,39 @@
+{
+ "id": "b062eb9c-91a3-41ec-893b-40cf3bebec63",
+ "detail_id": "20ee8e36ef45df3c",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/b062eb9c-91a3-41ec-893b-40cf3bebec63/tikka-t3x-rustfri",
+ "title": "Tikka t3x rustfri",
+ "price_dkk": 11500,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".223 Rem"
+ ],
+ "is_dealer": false,
+ "listed_date": "2026-11-26",
+ "age_days": 0,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/b062eb9c-91a3-41ec-893b-40cf3bebec63/0.webp",
+ "image_count": 2,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Super fin Tikka t3x 223 rem\nUPR skæfte og et 10 skuds magasin\nPicatinny rail\n14/1 gevind\nIkke skudt meget (ca 150)\nBud modtages",
+ "images": [
+  {
+   "full": "/images/b062eb9c-91a3-41ec-893b-40cf3bebec63/0.webp",
+   "thumb": "/thumbs/b062eb9c-91a3-41ec-893b-40cf3bebec63/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/b062eb9c-91a3-41ec-893b-40cf3bebec63/1.webp",
+   "thumb": "/thumbs/b062eb9c-91a3-41ec-893b-40cf3bebec63/1.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

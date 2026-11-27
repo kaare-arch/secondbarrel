@@ -1,0 +1,55 @@
+{
+ "id": "1186ca71-b612-44e1-82fe-bbbc6c6687a6",
+ "detail_id": "5e2f6ac7f857e98a",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/1186ca71-b612-44e1-82fe-bbbc6c6687a6/ruger-security-six",
+ "title": "Ruger Security six",
+ "price_dkk": 6000,
+ "weapon_type": "Pistol",
+ "brand": "Ruger",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-26",
+ "age_days": 0,
+ "postnummer": "8660",
+ "by": "Skanderborg",
+ "stand_gg": "God, men brugt",
+ "thumb": "/thumbs/1186ca71-b612-44e1-82fe-bbbc6c6687a6/0.webp",
+ "image_count": 5,
+ "lat": 56.02388208,
+ "lon": 9.89235588,
+ "description": "Ruger Security six 357 mag i 4” i rustfri\nDer medfølger 3 stk speedloader samt montage til vorter razer red dot\nBud modtages",
+ "images": [
+  {
+   "full": "/images/1186ca71-b612-44e1-82fe-bbbc6c6687a6/0.webp",
+   "thumb": "/thumbs/1186ca71-b612-44e1-82fe-bbbc6c6687a6/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1186ca71-b612-44e1-82fe-bbbc6c6687a6/1.webp",
+   "thumb": "/thumbs/1186ca71-b612-44e1-82fe-bbbc6c6687a6/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1186ca71-b612-44e1-82fe-bbbc6c6687a6/2.webp",
+   "thumb": "/thumbs/1186ca71-b612-44e1-82fe-bbbc6c6687a6/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1186ca71-b612-44e1-82fe-bbbc6c6687a6/3.webp",
+   "thumb": "/thumbs/1186ca71-b612-44e1-82fe-bbbc6c6687a6/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/1186ca71-b612-44e1-82fe-bbbc6c6687a6/4.webp",
+   "thumb": "/thumbs/1186ca71-b612-44e1-82fe-bbbc6c6687a6/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
