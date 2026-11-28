@@ -1,0 +1,69 @@
+{
+ "id": "d344eed9-b1ec-4831-be44-ba3ac3feb52b",
+ "detail_id": "200e47cf929ca5e9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/d344eed9-b1ec-4831-be44-ba3ac3feb52b/cz-600-ergo-saet",
+ "title": "CZ 600 Ergo sæt",
+ "price_dkk": 11999,
+ "weapon_type": "Jagtriffel",
+ "brand": "CZ",
+ "calibers": [
+  ".308 Win"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-27",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/0.webp",
+ "image_count": 7,
+ "lat": null,
+ "lon": null,
+ "description": "CZ 600 ERGO\n\nKaliber 308win.\n\nMed thumphole skæfte, aftageligt magasin & justerbart aftræk. \n\nInkl. Vertical T4 3-12x56 HD m. lys. \n\nInkl. RCC Hunter lyddæmper. \n\nMinimalt brugt. \nStadig med klistermærke på skæftet ! \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/d344eed9-b1ec-4831-be44-ba3ac3feb52b/0.webp",
+   "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d344eed9-b1ec-4831-be44-ba3ac3feb52b/1.webp",
+   "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d344eed9-b1ec-4831-be44-ba3ac3feb52b/2.webp",
+   "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d344eed9-b1ec-4831-be44-ba3ac3feb52b/3.webp",
+   "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d344eed9-b1ec-4831-be44-ba3ac3feb52b/4.webp",
+   "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/4.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d344eed9-b1ec-4831-be44-ba3ac3feb52b/5.webp",
+   "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/5.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/d344eed9-b1ec-4831-be44-ba3ac3feb52b/6.webp",
+   "thumb": "/thumbs/d344eed9-b1ec-4831-be44-ba3ac3feb52b/6.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

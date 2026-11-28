@@ -1,0 +1,57 @@
+{
+ "id": "c1be402b-d1e2-49b6-b73e-122faf8ae2be",
+ "detail_id": "e696fb6f92386155",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/c1be402b-d1e2-49b6-b73e-122faf8ae2be/bettinsoli-20-76",
+ "title": "Bettinsoli 20/76",
+ "price_dkk": 7199,
+ "weapon_type": "Haglgevær",
+ "brand": "Bettinsoli",
+ "calibers": [
+  "20/76"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-27",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/c1be402b-d1e2-49b6-b73e-122faf8ae2be/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Bettinsoli O/U\nModel Diamond X.\n\nKaliber 20/76.\n\nMed 70cm løb. \n\nMed udskiftelig chokes, ejektor, singletrigger, løbsvælger og automatsikring. \n\nOriginal kuffert medfølger. \n\nSkudt under 25 skud. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/c1be402b-d1e2-49b6-b73e-122faf8ae2be/0.webp",
+   "thumb": "/thumbs/c1be402b-d1e2-49b6-b73e-122faf8ae2be/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1be402b-d1e2-49b6-b73e-122faf8ae2be/1.webp",
+   "thumb": "/thumbs/c1be402b-d1e2-49b6-b73e-122faf8ae2be/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1be402b-d1e2-49b6-b73e-122faf8ae2be/2.webp",
+   "thumb": "/thumbs/c1be402b-d1e2-49b6-b73e-122faf8ae2be/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1be402b-d1e2-49b6-b73e-122faf8ae2be/3.webp",
+   "thumb": "/thumbs/c1be402b-d1e2-49b6-b73e-122faf8ae2be/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/c1be402b-d1e2-49b6-b73e-122faf8ae2be/4.webp",
+   "thumb": "/thumbs/c1be402b-d1e2-49b6-b73e-122faf8ae2be/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

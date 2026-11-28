@@ -1,0 +1,55 @@
+{
+ "id": "339b24dd-8e0c-41a8-9656-d049300ca851",
+ "detail_id": "8f37b6bf104ea074",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/339b24dd-8e0c-41a8-9656-d049300ca851/525-sporter-one",
+ "title": "525 sporter one",
+ "price_dkk": 10500,
+ "weapon_type": "Haglgevær",
+ "brand": null,
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-26",
+ "age_days": 1,
+ "postnummer": "6440",
+ "by": "Augustenborg",
+ "stand_gg": null,
+ "thumb": "/thumbs/339b24dd-8e0c-41a8-9656-d049300ca851/0.webp",
+ "image_count": 5,
+ "lat": 54.97430575,
+ "lon": 9.94867623,
+ "description": "Super fin, ventileret løb\nLange Chokes\nKun været med på due bane",
+ "images": [
+  {
+   "full": "/images/339b24dd-8e0c-41a8-9656-d049300ca851/0.webp",
+   "thumb": "/thumbs/339b24dd-8e0c-41a8-9656-d049300ca851/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/339b24dd-8e0c-41a8-9656-d049300ca851/1.webp",
+   "thumb": "/thumbs/339b24dd-8e0c-41a8-9656-d049300ca851/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/339b24dd-8e0c-41a8-9656-d049300ca851/2.webp",
+   "thumb": "/thumbs/339b24dd-8e0c-41a8-9656-d049300ca851/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/339b24dd-8e0c-41a8-9656-d049300ca851/3.webp",
+   "thumb": "/thumbs/339b24dd-8e0c-41a8-9656-d049300ca851/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/339b24dd-8e0c-41a8-9656-d049300ca851/4.webp",
+   "thumb": "/thumbs/339b24dd-8e0c-41a8-9656-d049300ca851/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

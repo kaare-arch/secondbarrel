@@ -1,0 +1,43 @@
+{
+ "id": "4a0231f9-967d-47ae-a902-36e565a1712c",
+ "detail_id": "229deec4de24f0b9",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/4a0231f9-967d-47ae-a902-36e565a1712c/winchester-diamond-trap",
+ "title": "Winchester Diamond trap",
+ "price_dkk": 12800,
+ "weapon_type": "Haglgevær",
+ "brand": "Winchester",
+ "calibers": [],
+ "is_dealer": false,
+ "listed_date": "2026-11-27",
+ "age_days": 0,
+ "postnummer": "7400",
+ "by": "Herning",
+ "stand_gg": "Næsten som ny",
+ "thumb": "/thumbs/4a0231f9-967d-47ae-a902-36e565a1712c/0.webp",
+ "image_count": 3,
+ "lat": 56.11911505,
+ "lon": 8.98775376,
+ "description": "81 cm løb, chokes i forløbet ,fast boret full i bagløbet, virkelig et lækker aftræk, flot gevær.High rib \nSjældent med 81 cm løb",
+ "images": [
+  {
+   "full": "/images/4a0231f9-967d-47ae-a902-36e565a1712c/0.webp",
+   "thumb": "/thumbs/4a0231f9-967d-47ae-a902-36e565a1712c/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4a0231f9-967d-47ae-a902-36e565a1712c/1.webp",
+   "thumb": "/thumbs/4a0231f9-967d-47ae-a902-36e565a1712c/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/4a0231f9-967d-47ae-a902-36e565a1712c/2.webp",
+   "thumb": "/thumbs/4a0231f9-967d-47ae-a902-36e565a1712c/2.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}

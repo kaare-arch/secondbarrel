@@ -1,6 +1,6 @@
 {
  "site": "https://secondbarrel.com",
- "updated": "27. nov. 2026 kl. 01:39",
+ "updated": "28. nov. 2026 kl. 01:44",
  "fields": {
   "title": "annoncens titel",
   "price_dkk": "udbudspris i kr. (sælgers egen pris)",
@@ -27,7 +27,7 @@
   },
   {
    "type": "Haglgevær",
-   "count": 658,
+   "count": 665,
    "feed": "https://secondbarrel.com/feed/haglgevaer.json",
    "page": "https://secondbarrel.com/haglgevaer/"
   },
@@ -39,7 +39,7 @@
   },
   {
    "type": "Salonriffel",
-   "count": 100,
+   "count": 101,
    "feed": "https://secondbarrel.com/feed/salonrifler.json",
    "page": "https://secondbarrel.com/salonrifler/"
   },

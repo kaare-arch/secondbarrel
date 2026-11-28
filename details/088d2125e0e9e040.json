@@ -1,0 +1,57 @@
+{
+ "id": "5e244527-c284-4335-87cd-0c5ade68e070",
+ "detail_id": "088d2125e0e9e040",
+ "source": "gg",
+ "source_label": "Gul og Gratis",
+ "url": "https://www.guloggratis.dk/annonce/5e244527-c284-4335-87cd-0c5ade68e070/tikka-t3-saet",
+ "title": "Tikka T3 Sæt",
+ "price_dkk": 5999,
+ "weapon_type": "Jagtriffel",
+ "brand": "Tikka",
+ "calibers": [
+  ".222 Rem"
+ ],
+ "is_dealer": true,
+ "listed_date": "2026-11-27",
+ "age_days": 0,
+ "postnummer": null,
+ "by": null,
+ "stand_gg": null,
+ "thumb": "/thumbs/5e244527-c284-4335-87cd-0c5ade68e070/0.webp",
+ "image_count": 5,
+ "lat": null,
+ "lon": null,
+ "description": "Tikka T3 sæt.\n\nKaliber 222Rem.\n\nInkl. Hawke Eclipse 3-12x56 optik. \n\nMed aftageligt magasin. \n\nSuper stand ! \nSkudt under 20 skud. \n\nSælges i kommission.",
+ "images": [
+  {
+   "full": "/images/5e244527-c284-4335-87cd-0c5ade68e070/0.webp",
+   "thumb": "/thumbs/5e244527-c284-4335-87cd-0c5ade68e070/0.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e244527-c284-4335-87cd-0c5ade68e070/1.webp",
+   "thumb": "/thumbs/5e244527-c284-4335-87cd-0c5ade68e070/1.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e244527-c284-4335-87cd-0c5ade68e070/2.webp",
+   "thumb": "/thumbs/5e244527-c284-4335-87cd-0c5ade68e070/2.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e244527-c284-4335-87cd-0c5ade68e070/3.webp",
+   "thumb": "/thumbs/5e244527-c284-4335-87cd-0c5ade68e070/3.webp",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "full": "/images/5e244527-c284-4335-87cd-0c5ade68e070/4.webp",
+   "thumb": "/thumbs/5e244527-c284-4335-87cd-0c5ade68e070/4.webp",
+   "width": 1280,
+   "height": 960
+  }
+ ]
+}
